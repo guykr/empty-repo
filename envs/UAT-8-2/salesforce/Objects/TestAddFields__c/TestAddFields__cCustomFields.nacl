@@ -1,0 +1,322 @@
+type salesforce.TestAddFields__c {
+  salesforce.Geolocation Golf__c {
+    apiName = "TestAddFields__c.Golf__c"
+    label = "Location label"
+    _required = false
+    displayLocationInDecimal = true
+    scale = 2
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist Uniform__c {
+    apiName = "TestAddFields__c.Uniform__c"
+    label = "Global Picklist label"
+    _required = false
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+    valueSetName = salesforce.GlobalValueSet.instance.TestGlobalValueSet
+  }
+  salesforce.Html Lima__c {
+    apiName = "TestAddFields__c.Lima__c"
+    label = "RichTextArea label"
+    _required = false
+    inlineHelpText = "RichTextArea help"
+    createable = true
+    updateable = true
+    length = 32600
+    queryable = true
+    description = "RichTextArea description"
+    visibleLines = 32
+  }
+  salesforce.Date Charlie__c {
+    apiName = "TestAddFields__c.Charlie__c"
+    label = "Date label"
+    _required = false
+    defaultValueFormula = "Today() + 7"
+    inlineHelpText = "Date help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Date description"
+  }
+  salesforce.Picklist Pickle__c {
+    apiName = "TestAddFields__c.Pickle__c"
+    label = "Picklist label"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Picklist description"
+    sorted = false
+  }
+  salesforce.LongTextArea Kilo__c {
+    apiName = "TestAddFields__c.Kilo__c"
+    label = "LongTextArea label"
+    _required = false
+    createable = true
+    updateable = true
+    length = 32700
+    queryable = true
+    visibleLines = 5
+  }
+  salesforce.DateTime Echo__c {
+    apiName = "TestAddFields__c.Echo__c"
+    label = "DateTime label"
+    _required = false
+    defaultValueFormula = "NOW() + 7"
+    inlineHelpText = "DateTime help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "DateTime description"
+  }
+  salesforce.EncryptedText November__c {
+    apiName = "TestAddFields__c.November__c"
+    label = "EncryptedText label"
+    _required = false
+    createable = true
+    updateable = true
+    maskType = "creditCard"
+    length = 35
+    queryable = true
+    maskChar = "asterisk"
+  }
+  salesforce.Email Foxtrot__c {
+    apiName = "TestAddFields__c.Foxtrot__c"
+    label = "Email label"
+    _required = false
+    createable = true
+    updateable = true
+    unique = true
+    externalId = true
+    queryable = true
+  }
+  salesforce.Lookup TestAddQuebec7306162__c {
+    apiName = "TestAddFields__c.TestAddQuebec7306162__c"
+    label = "Lookup label"
+    _required = false
+    allowLookupRecordDeletion = false
+    referenceTo = [
+      salesforce.Opportunity,
+    ]
+    createable = true
+    updateable = true
+    relationshipName = "TestAddQuebec7306162"
+    queryable = true
+    lookupFilter = {
+      active = true
+      booleanFilter = "1 OR 2"
+      errorMessage = "This is the Error message"
+      filterItems = [
+        {
+          field = "Opportunity.OwnerId"
+          operation = "equals"
+          valueField = "$User.Id"
+        },
+        {
+          field = "Opportunity.NextStep"
+          operation = "equals"
+          value = "NextStepValue"
+        },
+      ]
+      infoMessage = "This is the Info message"
+      isOptional = false
+    }
+  }
+  salesforce.Currency Alpha__c {
+    apiName = "TestAddFields__c.Alpha__c"
+    label = "Currency label"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Number Papa__c {
+    apiName = "TestAddFields__c.Papa__c"
+    label = "Number label"
+    _required = false
+    defaultValueFormula = "42"
+    precision = 15
+    scale = 3
+    createable = true
+    updateable = true
+    unique = true
+    queryable = true
+    externalId = false
+  }
+  salesforce.FormulaCheckbox Whiskey__c {
+    apiName = "TestAddFields__c.Whiskey__c"
+    label = "Formula Checkbox label"
+    formula = "5 > 4"
+    createable = false
+    updateable = false
+    queryable = true
+    businessStatus = "Hidden"
+    formulaTreatBlanksAs = "BlankAsZero"
+    securityClassification = "Restricted"
+  }
+  salesforce.Phone Juliett__c {
+    apiName = "TestAddFields__c.Juliett__c"
+    label = "Phone label"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.MasterDetail TestAddRomeo7306162__c {
+    apiName = "TestAddFields__c.TestAddRomeo7306162__c"
+    label = "MasterDetail label"
+    _required = false
+    writeRequiresMasterRead = true
+    reparentableMasterDetail = true
+    referenceTo = [
+      salesforce.Case,
+    ]
+    createable = true
+    updateable = true
+    relationshipOrder = 0
+    relationshipName = "TestAddRomeo7306162"
+    queryable = true
+  }
+  salesforce.Url Oscar__c {
+    apiName = "TestAddFields__c.Oscar__c"
+    label = "Url label"
+    _required = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Percent India__c {
+    apiName = "TestAddFields__c.India__c"
+    label = "Percent label"
+    _required = false
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 12
+    queryable = true
+    description = "Percent description"
+  }
+  salesforce.TextArea Mike__c {
+    apiName = "TestAddFields__c.Mike__c"
+    label = "TextArea label"
+    _required = false
+    inlineHelpText = "TextArea help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "TextArea description"
+  }
+  salesforce.Time Delta__c {
+    apiName = "TestAddFields__c.Delta__c"
+    label = "Time label"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Checkbox Tango__c {
+    apiName = "TestAddFields__c.Tango__c"
+    label = "Checkbox label"
+    defaultValue = true
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.MultiselectPicklist Hotel__c {
+    apiName = "TestAddFields__c.Hotel__c"
+    label = "Multipicklist label"
+    _required = false
+    valueSet = [
+      {
+        fullName = "DO"
+        default = true
+        label = "DO"
+      },
+      {
+        fullName = "RE"
+        default = false
+        label = "RE"
+      },
+    ]
+    restricted = false
+    visibleLines = 4
+    createable = true
+    updateable = true
+    queryable = true
+    sorted = false
+    fieldDependency = {
+      controllingField = "Pickle__c"
+      valueSettings = [
+        {
+          valueName = "DO"
+          controllingFieldValue = [
+            "NEW",
+            "OLD",
+          ]
+        },
+        {
+          valueName = "RE"
+          controllingFieldValue = [
+            "OLD",
+          ]
+        },
+      ]
+    }
+  }
+  salesforce.Text Sierra__c {
+    apiName = "TestAddFields__c.Sierra__c"
+    label = "Text label"
+    _required = false
+    createable = true
+    updateable = true
+    unique = true
+    externalId = true
+    caseSensitive = true
+    length = 100
+    queryable = true
+  }
+  salesforce.AutoNumber Bravo__c {
+    apiName = "TestAddFields__c.Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+}

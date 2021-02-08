@@ -1,0 +1,10 @@
+type salesforce.CustomTest2__c {
+  salesforce.Checkbox test_cb__c {
+    apiName = "CustomTest2__c.test_cb__c"
+    label = "test cb"
+    defaultValue = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

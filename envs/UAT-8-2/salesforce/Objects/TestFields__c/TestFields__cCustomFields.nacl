@@ -1,0 +1,323 @@
+type salesforce.TestFields__c {
+  salesforce.Percent India__c {
+    apiName = "TestFields__c.India__c"
+    label = "Percent label Updated"
+    _required = false
+    inlineHelpText = "Percent help updated"
+    createable = true
+    updateable = true
+    scale = 7
+    precision = 8
+    queryable = true
+    description = "Percent description Updated"
+  }
+  salesforce.Html Lima__c {
+    apiName = "TestFields__c.Lima__c"
+    label = "RichTextArea label Updated"
+    _required = false
+    inlineHelpText = "RichTextArea help updated"
+    createable = true
+    updateable = true
+    length = 32000
+    queryable = true
+    visibleLines = 10
+  }
+  salesforce.Url Oscar__c {
+    apiName = "TestFields__c.Oscar__c"
+    label = "Url label Updated"
+    _required = true
+    inlineHelpText = "Url help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Url description Updated"
+  }
+  salesforce.AutoNumber Bravo__c {
+    apiName = "TestFields__c.Bravo__c"
+    label = "AutoNumber label Updated"
+    _required = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+    description = "AutoNumber description Updated"
+    displayFormat = "QQQ-{0000}"
+    externalId = false
+  }
+  salesforce.Text Sierra__c {
+    apiName = "TestFields__c.Sierra__c"
+    label = "Text label Updated"
+    _required = false
+    createable = true
+    updateable = true
+    unique = true
+    caseSensitive = true
+    length = 99
+    queryable = true
+    externalId = false
+  }
+  salesforce.Checkbox Tango__c {
+    apiName = "TestFields__c.Tango__c"
+    label = "Checkbox label Updated"
+    defaultValue = false
+    inlineHelpText = "Checkbox help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Checkbox description Updated"
+  }
+  salesforce.EncryptedText November__c {
+    apiName = "TestFields__c.November__c"
+    label = "EncryptedText label Updated"
+    _required = true
+    inlineHelpText = "EncryptedText help updated"
+    createable = true
+    updateable = true
+    maskType = "ssn"
+    length = 100
+    queryable = true
+    description = "EncryptedText description Updated"
+    maskChar = "X"
+  }
+  salesforce.MasterDetail Romeo7306162__c {
+    apiName = "TestFields__c.Romeo7306162__c"
+    label = "MasterDetail label Updated"
+    _required = false
+    writeRequiresMasterRead = false
+    reparentableMasterDetail = false
+    referenceTo = [
+      salesforce.Case,
+    ]
+    inlineHelpText = "MasterDetail help updated"
+    createable = true
+    updateable = false
+    relationshipOrder = 0
+    relationshipName = "Romeo7306162"
+    queryable = true
+    description = "MasterDetail description Updated"
+  }
+  salesforce.Time Delta__c {
+    apiName = "TestFields__c.Delta__c"
+    label = "Time label Updated"
+    _required = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime Echo__c {
+    apiName = "TestFields__c.Echo__c"
+    label = "DateTime label Updated"
+    _required = false
+    inlineHelpText = "DateTime help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    businessStatus = "Hidden"
+    complianceGroup = "GDPR"
+    description = "DateTime description Updated"
+    securityClassification = "Restricted"
+  }
+  salesforce.Geolocation Golf__c {
+    apiName = "TestFields__c.Golf__c"
+    label = "Location label Updated"
+    _required = true
+    scale = 10
+    createable = false
+    updateable = false
+    queryable = true
+    businessStatus = "Active"
+    displayLocationInDecimal = false
+  }
+  salesforce.LongTextArea Kilo__c {
+    apiName = "TestFields__c.Kilo__c"
+    label = "LongTextArea label Updated"
+    _required = false
+    createable = true
+    updateable = true
+    length = 32000
+    queryable = true
+    description = "LongTextArea description Updated"
+    visibleLines = 4
+  }
+  salesforce.TextArea Mike__c {
+    apiName = "TestFields__c.Mike__c"
+    label = "TextArea label Updated"
+    _required = true
+    inlineHelpText = "TextArea help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "TextArea description Updated"
+  }
+  salesforce.Date Charlie__c {
+    apiName = "TestFields__c.Charlie__c"
+    label = "Date label Updated"
+    _required = true
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Date description Updated"
+  }
+  salesforce.Number Papa__c {
+    apiName = "TestFields__c.Papa__c"
+    label = "Number label Updated"
+    _required = true
+    precision = 9
+    scale = 6
+    inlineHelpText = "Number help updated"
+    createable = true
+    updateable = true
+    unique = false
+    externalId = true
+    queryable = true
+    description = "Number description Updated"
+  }
+  salesforce.Picklist Uniform__c {
+    apiName = "TestFields__c.Uniform__c"
+    label = "GlobalPicklist label Updated"
+    _required = true
+    restricted = true
+    inlineHelpText = "GlobalPicklist help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "GlobalPicklist description Updated"
+    valueSetName = salesforce.GlobalValueSet.instance.TestGlobalValueSet
+  }
+  salesforce.Lookup Quebec7306162__c {
+    apiName = "TestFields__c.Quebec7306162__c"
+    label = "Lookup label Updated"
+    _required = false
+    allowLookupRecordDeletion = true
+    referenceTo = [
+      salesforce.Opportunity,
+    ]
+    inlineHelpText = "Lookup help updated"
+    createable = true
+    updateable = true
+    relationshipName = "Quebec7306162"
+    queryable = true
+    description = "Lookup description Updated"
+    lookupFilter = {
+      active = false
+      booleanFilter = "1"
+      errorMessage = "Updated error message"
+      filterItems = [
+        {
+          field = "Opportunity.NextStep"
+          operation = "equals"
+          value = "NextStepValueUpdated"
+        },
+      ]
+      infoMessage = "Updated info message"
+      isOptional = false
+    }
+  }
+  salesforce.Email Foxtrot__c {
+    apiName = "TestFields__c.Foxtrot__c"
+    label = "Email label Updated"
+    _required = false
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+    externalId = false
+  }
+  salesforce.Phone Juliett__c {
+    apiName = "TestFields__c.Juliett__c"
+    label = "Phone label Updated"
+    _required = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.FormulaCheckbox Whiskey__c {
+    apiName = "TestFields__c.Whiskey__c"
+    label = "Formula label Updated"
+    formula = "3 > 9"
+    inlineHelpText = "Formula help updated"
+    createable = false
+    updateable = false
+    queryable = true
+    businessStatus = "Active"
+    description = "Formula description Updated"
+    securityClassification = "MissionCritical"
+  }
+  salesforce.Picklist Pickle__c {
+    apiName = "TestFields__c.Pickle__c"
+    label = "Picklist label Updated"
+    _required = true
+    valueSet = [
+      {
+        fullName = "NEWER"
+        color = "#FFFF00"
+        default = false
+        label = "NEWER"
+      },
+      {
+        fullName = "OLDER"
+        color = "#FFFFFF"
+        default = true
+        label = "OLDER"
+      },
+    ]
+    restricted = false
+    inlineHelpText = "Picklist help updated"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Picklist description Updated"
+    sorted = false
+  }
+  salesforce.Currency Alpha__c {
+    apiName = "TestFields__c.Alpha__c"
+    label = "Currency label Updated"
+    _required = true
+    defaultValueFormula = "24"
+    inlineHelpText = "Currency help updated"
+    createable = true
+    updateable = true
+    scale = 4
+    precision = 17
+    queryable = true
+    description = "Currency description Updated"
+  }
+  salesforce.MultiselectPicklist Hotel__c {
+    apiName = "TestFields__c.Hotel__c"
+    label = "Multipicklist label Updated"
+    _required = true
+    valueSet = [
+      {
+        fullName = "DO_UPDATED"
+        color = "#FFFFFF"
+        default = false
+        label = "DO_UPDATED"
+      },
+      {
+        fullName = "RE_UPDATED"
+        color = "#00000F"
+        default = true
+        label = "RE_UPDATED"
+      },
+      {
+        fullName = "DO"
+        default = false
+        isActive = false
+        label = "DO"
+      },
+      {
+        fullName = "RE"
+        default = false
+        isActive = false
+        label = "RE"
+      },
+    ]
+    restricted = true
+    visibleLines = 6
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Multipicklist description Updated"
+    sorted = false
+  }
+}

@@ -1,0 +1,6 @@
+salesforce.EmailFolder TestEmailFolder {
+  accessType = "Public"
+  name = "Test Email Folder Name"
+  publicFolderAccess = "ReadWrite"
+  fullName = "TestEmailFolder"
+}

@@ -1,0 +1,2826 @@
+type salesforce.Macro {
+  serviceid Id {
+    apiName = "Macro.Id"
+    label = "Macro ID"
+    _required = false
+    queryable = true
+    _hidden_value = true
+    updateable = false
+    createable = false
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "Macro.OwnerId"
+    label = "Owner ID"
+    _required = false
+    allowLookupRecordDeletion = true
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "Owner"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "Macro.IsDeleted"
+    label = "Deleted"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+    _required = false
+  }
+  salesforce.Text Name {
+    apiName = "Macro.Name"
+    label = "Macro Name"
+    _required = true
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 255
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "Macro.CreatedDate"
+    label = "Created Date"
+    _required = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "Macro.CreatedById"
+    label = "Created By ID"
+    _required = false
+    allowLookupRecordDeletion = true
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "CreatedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "Macro.LastModifiedDate"
+    label = "Last Modified Date"
+    _required = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "Macro.LastModifiedById"
+    label = "Last Modified By ID"
+    _required = false
+    allowLookupRecordDeletion = true
+    referenceTo = [
+      salesforce.User,
+    ]
+    createable = false
+    updateable = false
+    relationshipName = "LastModifiedBy"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "Macro.SystemModstamp"
+    label = "System Modstamp"
+    _required = false
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Html Description {
+    apiName = "Macro.Description"
+    label = "Description"
+    _required = false
+    createable = true
+    updateable = true
+    length = 4096
+    queryable = true
+  }
+  salesforce.Checkbox IsAlohaSupported {
+    apiName = "Macro.IsAlohaSupported"
+    label = "Supports Classic"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Checkbox IsLightningSupported {
+    apiName = "Macro.IsLightningSupported"
+    label = "Supports Lightning"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist StartingContext {
+    apiName = "Macro.StartingContext"
+    label = "Apply To"
+    _required = false
+    valueSet = [
+      {
+        fullName = "Account"
+        default = false
+        label = "Account"
+        isActive = true
+      },
+      {
+        fullName = "ApiAnomalyEventStore"
+        default = false
+        label = "API Anomaly Event Store"
+        isActive = true
+      },
+      {
+        fullName = "Asset"
+        default = false
+        label = "Asset"
+        isActive = true
+      },
+      {
+        fullName = "AssetRelationship"
+        default = false
+        label = "Asset Relationship"
+        isActive = true
+      },
+      {
+        fullName = "AssignedResource"
+        default = false
+        label = "Assigned Resource"
+        isActive = true
+      },
+      {
+        fullName = "Case"
+        default = false
+        label = "Case"
+        isActive = true
+      },
+      {
+        fullName = "CommSubscription"
+        default = false
+        label = "Communication Subscription"
+        isActive = true
+      },
+      {
+        fullName = "CommSubscriptionChannelType"
+        default = false
+        label = "Communication Subscription Channel Type"
+        isActive = true
+      },
+      {
+        fullName = "CommSubscriptionConsent"
+        default = false
+        label = "Communication Subscription Consent"
+        isActive = true
+      },
+      {
+        fullName = "CommSubscriptionTiming"
+        default = false
+        label = "Communication Subscription Timing"
+        isActive = true
+      },
+      {
+        fullName = "ConsumptionSchedule"
+        default = false
+        label = "Consumption Schedule"
+        isActive = true
+      },
+      {
+        fullName = "Contact"
+        default = false
+        label = "Contact"
+        isActive = true
+      },
+      {
+        fullName = "Contract"
+        default = false
+        label = "Contract"
+        isActive = true
+      },
+      {
+        fullName = "CredentialStuffingEventStore"
+        default = false
+        label = "Credential Stuffing Event Store"
+        isActive = true
+      },
+      {
+        fullName = "CreditMemo"
+        default = false
+        label = "Credit Memo"
+        isActive = true
+      },
+      {
+        fullName = "EngagementChannelType"
+        default = false
+        label = "Engagement Channel Type"
+        isActive = true
+      },
+      {
+        fullName = "Event"
+        default = false
+        label = "Event"
+        isActive = true
+      },
+      {
+        fullName = "FeedItem"
+        default = false
+        label = "Feed Item"
+        isActive = true
+      },
+      {
+        fullName = "CollaborationGroup"
+        default = false
+        label = "Group"
+        isActive = true
+      },
+      {
+        fullName = "Individual"
+        default = false
+        label = "Individual"
+        isActive = true
+      },
+      {
+        fullName = "Invoice"
+        default = false
+        label = "Invoice"
+        isActive = true
+      },
+      {
+        fullName = "Lead"
+        default = false
+        label = "Lead"
+        isActive = true
+      },
+      {
+        fullName = "Location"
+        default = false
+        label = "Location"
+        isActive = true
+      },
+      {
+        fullName = "MessagingSession"
+        default = false
+        label = "Messaging Session"
+        isActive = true
+      },
+      {
+        fullName = "MessagingEndUser"
+        default = false
+        label = "Messaging User"
+        isActive = true
+      },
+      {
+        fullName = "OperatingHours"
+        default = false
+        label = "Operating Hours"
+        isActive = true
+      },
+      {
+        fullName = "Opportunity"
+        default = false
+        label = "Opportunity"
+        isActive = true
+      },
+      {
+        fullName = "OpportunityContactRole"
+        default = false
+        label = "Opportunity Contact Role"
+        isActive = true
+      },
+      {
+        fullName = "Order"
+        default = false
+        label = "Order"
+        isActive = true
+      },
+      {
+        fullName = "PartyConsent"
+        default = false
+        label = "Party Consent"
+        isActive = true
+      },
+      {
+        fullName = "Product2"
+        default = false
+        label = "Product"
+        isActive = true
+      },
+      {
+        fullName = "LocationWaitlist"
+        default = false
+        label = "Queue"
+        isActive = true
+      },
+      {
+        fullName = "LocWaitlistMsgTemplate"
+        default = false
+        label = "Queue Messaging Template"
+        isActive = true
+      },
+      {
+        fullName = "ReportAnomalyEventStore"
+        default = false
+        label = "Report Anomaly Event Store"
+        isActive = true
+      },
+      {
+        fullName = "ResourceAbsence"
+        default = false
+        label = "Resource Absence"
+        isActive = true
+      },
+      {
+        fullName = "ReturnOrder"
+        default = false
+        label = "Return Order"
+        isActive = true
+      },
+      {
+        fullName = "ReturnOrderLineItem"
+        default = false
+        label = "Return Order Line Item"
+        isActive = true
+      },
+      {
+        fullName = "ServiceAppointment"
+        default = false
+        label = "Service Appointment"
+        isActive = true
+      },
+      {
+        fullName = "ServiceResource"
+        default = false
+        label = "Service Resource"
+        isActive = true
+      },
+      {
+        fullName = "ServiceTerritory"
+        default = false
+        label = "Service Territory"
+        isActive = true
+      },
+      {
+        fullName = "ServiceTerritoryWorkType"
+        default = false
+        label = "Service Territory Work Type"
+        isActive = true
+      },
+      {
+        fullName = "SessionHijackingEventStore"
+        default = false
+        label = "Session Hijacking Event Store"
+        isActive = true
+      },
+      {
+        fullName = "Task"
+        default = false
+        label = "Task"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj0__c"
+        default = false
+        label = "test object 0"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj1__c"
+        default = false
+        label = "test object 1"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj10__c"
+        default = false
+        label = "test object 10"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj100__c"
+        default = false
+        label = "test object 100"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj101__c"
+        default = false
+        label = "test object 101"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj102__c"
+        default = false
+        label = "test object 102"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj103__c"
+        default = false
+        label = "test object 103"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj104__c"
+        default = false
+        label = "test object 104"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj105__c"
+        default = false
+        label = "test object 105"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj106__c"
+        default = false
+        label = "test object 106"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj107__c"
+        default = false
+        label = "test object 107"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj108__c"
+        default = false
+        label = "test object 108"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj109__c"
+        default = false
+        label = "test object 109"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj11__c"
+        default = false
+        label = "test object 11"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj110__c"
+        default = false
+        label = "test object 110"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj111__c"
+        default = false
+        label = "test object 111"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj112__c"
+        default = false
+        label = "test object 112"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj113__c"
+        default = false
+        label = "test object 113"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj114__c"
+        default = false
+        label = "test object 114"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj115__c"
+        default = false
+        label = "test object 115"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj116__c"
+        default = false
+        label = "test object 116"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj117__c"
+        default = false
+        label = "test object 117"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj118__c"
+        default = false
+        label = "test object 118"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj119__c"
+        default = false
+        label = "test object 119"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj12__c"
+        default = false
+        label = "test object 12"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj120__c"
+        default = false
+        label = "test object 120"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj121__c"
+        default = false
+        label = "test object 121"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj122__c"
+        default = false
+        label = "test object 122"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj123__c"
+        default = false
+        label = "test object 123"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj124__c"
+        default = false
+        label = "test object 124"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj125__c"
+        default = false
+        label = "test object 125"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj126__c"
+        default = false
+        label = "test object 126"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj127__c"
+        default = false
+        label = "test object 127"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj128__c"
+        default = false
+        label = "test object 128"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj129__c"
+        default = false
+        label = "test object 129"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj13__c"
+        default = false
+        label = "test object 13"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj130__c"
+        default = false
+        label = "test object 130"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj131__c"
+        default = false
+        label = "test object 131"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj132__c"
+        default = false
+        label = "test object 132"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj133__c"
+        default = false
+        label = "test object 133"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj134__c"
+        default = false
+        label = "test object 134"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj135__c"
+        default = false
+        label = "test object 135"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj136__c"
+        default = false
+        label = "test object 136"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj137__c"
+        default = false
+        label = "test object 137"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj138__c"
+        default = false
+        label = "test object 138"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj139__c"
+        default = false
+        label = "test object 139"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj14__c"
+        default = false
+        label = "test object 14"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj140__c"
+        default = false
+        label = "test object 140"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj141__c"
+        default = false
+        label = "test object 141"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj142__c"
+        default = false
+        label = "test object 142"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj143__c"
+        default = false
+        label = "test object 143"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj144__c"
+        default = false
+        label = "test object 144"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj145__c"
+        default = false
+        label = "test object 145"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj146__c"
+        default = false
+        label = "test object 146"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj147__c"
+        default = false
+        label = "test object 147"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj148__c"
+        default = false
+        label = "test object 148"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj149__c"
+        default = false
+        label = "test object 149"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj15__c"
+        default = false
+        label = "test object 15"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj150__c"
+        default = false
+        label = "test object 150"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj151__c"
+        default = false
+        label = "test object 151"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj152__c"
+        default = false
+        label = "test object 152"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj153__c"
+        default = false
+        label = "test object 153"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj154__c"
+        default = false
+        label = "test object 154"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj155__c"
+        default = false
+        label = "test object 155"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj156__c"
+        default = false
+        label = "test object 156"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj157__c"
+        default = false
+        label = "test object 157"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj158__c"
+        default = false
+        label = "test object 158"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj159__c"
+        default = false
+        label = "test object 159"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj16__c"
+        default = false
+        label = "test object 16"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj160__c"
+        default = false
+        label = "test object 160"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj161__c"
+        default = false
+        label = "test object 161"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj162__c"
+        default = false
+        label = "test object 162"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj163__c"
+        default = false
+        label = "test object 163"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj164__c"
+        default = false
+        label = "test object 164"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj165__c"
+        default = false
+        label = "test object 165"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj166__c"
+        default = false
+        label = "test object 166"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj167__c"
+        default = false
+        label = "test object 167"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj168__c"
+        default = false
+        label = "test object 168"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj169__c"
+        default = false
+        label = "test object 169"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj17__c"
+        default = false
+        label = "test object 17"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj170__c"
+        default = false
+        label = "test object 170"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj171__c"
+        default = false
+        label = "test object 171"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj172__c"
+        default = false
+        label = "test object 172"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj173__c"
+        default = false
+        label = "test object 173"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj174__c"
+        default = false
+        label = "test object 174"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj175__c"
+        default = false
+        label = "test object 175"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj176__c"
+        default = false
+        label = "test object 176"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj177__c"
+        default = false
+        label = "test object 177"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj178__c"
+        default = false
+        label = "test object 178"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj179__c"
+        default = false
+        label = "test object 179"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj18__c"
+        default = false
+        label = "test object 18"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj180__c"
+        default = false
+        label = "test object 180"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj181__c"
+        default = false
+        label = "test object 181"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj182__c"
+        default = false
+        label = "test object 182"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj183__c"
+        default = false
+        label = "test object 183"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj184__c"
+        default = false
+        label = "test object 184"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj185__c"
+        default = false
+        label = "test object 185"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj186__c"
+        default = false
+        label = "test object 186"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj187__c"
+        default = false
+        label = "test object 187"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj188__c"
+        default = false
+        label = "test object 188"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj189__c"
+        default = false
+        label = "test object 189"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj19__c"
+        default = false
+        label = "test object 19"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj190__c"
+        default = false
+        label = "test object 190"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj191__c"
+        default = false
+        label = "test object 191"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj192__c"
+        default = false
+        label = "test object 192"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj193__c"
+        default = false
+        label = "test object 193"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj194__c"
+        default = false
+        label = "test object 194"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj195__c"
+        default = false
+        label = "test object 195"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj196__c"
+        default = false
+        label = "test object 196"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj197__c"
+        default = false
+        label = "test object 197"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj198__c"
+        default = false
+        label = "test object 198"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj199__c"
+        default = false
+        label = "test object 199"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj2__c"
+        default = false
+        label = "test object 2"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj20__c"
+        default = false
+        label = "test object 20"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj200__c"
+        default = false
+        label = "test object 200"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj201__c"
+        default = false
+        label = "test object 201"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj202__c"
+        default = false
+        label = "test object 202"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj203__c"
+        default = false
+        label = "test object 203"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj204__c"
+        default = false
+        label = "test object 204"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj205__c"
+        default = false
+        label = "test object 205"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj206__c"
+        default = false
+        label = "test object 206"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj207__c"
+        default = false
+        label = "test object 207"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj208__c"
+        default = false
+        label = "test object 208"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj209__c"
+        default = false
+        label = "test object 209"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj21__c"
+        default = false
+        label = "test object 21"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj210__c"
+        default = false
+        label = "test object 210"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj211__c"
+        default = false
+        label = "test object 211"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj212__c"
+        default = false
+        label = "test object 212"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj213__c"
+        default = false
+        label = "test object 213"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj214__c"
+        default = false
+        label = "test object 214"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj215__c"
+        default = false
+        label = "test object 215"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj216__c"
+        default = false
+        label = "test object 216"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj217__c"
+        default = false
+        label = "test object 217"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj218__c"
+        default = false
+        label = "test object 218"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj219__c"
+        default = false
+        label = "test object 219"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj22__c"
+        default = false
+        label = "test object 22"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj220__c"
+        default = false
+        label = "test object 220"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj221__c"
+        default = false
+        label = "test object 221"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj222__c"
+        default = false
+        label = "test object 222"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj223__c"
+        default = false
+        label = "test object 223"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj224__c"
+        default = false
+        label = "test object 224"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj225__c"
+        default = false
+        label = "test object 225"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj226__c"
+        default = false
+        label = "test object 226"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj227__c"
+        default = false
+        label = "test object 227"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj228__c"
+        default = false
+        label = "test object 228"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj229__c"
+        default = false
+        label = "test object 229"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj23__c"
+        default = false
+        label = "test object 23"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj230__c"
+        default = false
+        label = "test object 230"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj231__c"
+        default = false
+        label = "test object 231"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj232__c"
+        default = false
+        label = "test object 232"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj233__c"
+        default = false
+        label = "test object 233"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj234__c"
+        default = false
+        label = "test object 234"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj235__c"
+        default = false
+        label = "test object 235"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj236__c"
+        default = false
+        label = "test object 236"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj237__c"
+        default = false
+        label = "test object 237"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj238__c"
+        default = false
+        label = "test object 238"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj239__c"
+        default = false
+        label = "test object 239"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj24__c"
+        default = false
+        label = "test object 24"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj240__c"
+        default = false
+        label = "test object 240"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj241__c"
+        default = false
+        label = "test object 241"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj242__c"
+        default = false
+        label = "test object 242"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj243__c"
+        default = false
+        label = "test object 243"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj244__c"
+        default = false
+        label = "test object 244"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj245__c"
+        default = false
+        label = "test object 245"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj246__c"
+        default = false
+        label = "test object 246"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj247__c"
+        default = false
+        label = "test object 247"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj248__c"
+        default = false
+        label = "test object 248"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj249__c"
+        default = false
+        label = "test object 249"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj25__c"
+        default = false
+        label = "test object 25"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj250__c"
+        default = false
+        label = "test object 250"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj251__c"
+        default = false
+        label = "test object 251"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj252__c"
+        default = false
+        label = "test object 252"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj253__c"
+        default = false
+        label = "test object 253"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj254__c"
+        default = false
+        label = "test object 254"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj255__c"
+        default = false
+        label = "test object 255"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj256__c"
+        default = false
+        label = "test object 256"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj257__c"
+        default = false
+        label = "test object 257"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj258__c"
+        default = false
+        label = "test object 258"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj259__c"
+        default = false
+        label = "test object 259"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj26__c"
+        default = false
+        label = "test object 26"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj260__c"
+        default = false
+        label = "test object 260"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj261__c"
+        default = false
+        label = "test object 261"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj262__c"
+        default = false
+        label = "test object 262"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj263__c"
+        default = false
+        label = "test object 263"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj264__c"
+        default = false
+        label = "test object 264"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj265__c"
+        default = false
+        label = "test object 265"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj266__c"
+        default = false
+        label = "test object 266"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj267__c"
+        default = false
+        label = "test object 267"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj268__c"
+        default = false
+        label = "test object 268"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj269__c"
+        default = false
+        label = "test object 269"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj27__c"
+        default = false
+        label = "test object 27"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj270__c"
+        default = false
+        label = "test object 270"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj271__c"
+        default = false
+        label = "test object 271"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj272__c"
+        default = false
+        label = "test object 272"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj273__c"
+        default = false
+        label = "test object 273"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj274__c"
+        default = false
+        label = "test object 274"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj275__c"
+        default = false
+        label = "test object 275"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj276__c"
+        default = false
+        label = "test object 276"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj277__c"
+        default = false
+        label = "test object 277"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj278__c"
+        default = false
+        label = "test object 278"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj279__c"
+        default = false
+        label = "test object 279"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj28__c"
+        default = false
+        label = "test object 28"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj280__c"
+        default = false
+        label = "test object 280"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj281__c"
+        default = false
+        label = "test object 281"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj282__c"
+        default = false
+        label = "test object 282"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj283__c"
+        default = false
+        label = "test object 283"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj284__c"
+        default = false
+        label = "test object 284"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj285__c"
+        default = false
+        label = "test object 285"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj286__c"
+        default = false
+        label = "test object 286"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj287__c"
+        default = false
+        label = "test object 287"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj288__c"
+        default = false
+        label = "test object 288"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj289__c"
+        default = false
+        label = "test object 289"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj29__c"
+        default = false
+        label = "test object 29"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj290__c"
+        default = false
+        label = "test object 290"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj291__c"
+        default = false
+        label = "test object 291"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj292__c"
+        default = false
+        label = "test object 292"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj293__c"
+        default = false
+        label = "test object 293"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj294__c"
+        default = false
+        label = "test object 294"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj295__c"
+        default = false
+        label = "test object 295"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj296__c"
+        default = false
+        label = "test object 296"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj297__c"
+        default = false
+        label = "test object 297"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj298__c"
+        default = false
+        label = "test object 298"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj299__c"
+        default = false
+        label = "test object 299"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj3__c"
+        default = false
+        label = "test object 3"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj30__c"
+        default = false
+        label = "test object 30"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj300__c"
+        default = false
+        label = "test object 300"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj301__c"
+        default = false
+        label = "test object 301"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj302__c"
+        default = false
+        label = "test object 302"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj303__c"
+        default = false
+        label = "test object 303"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj304__c"
+        default = false
+        label = "test object 304"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj305__c"
+        default = false
+        label = "test object 305"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj306__c"
+        default = false
+        label = "test object 306"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj307__c"
+        default = false
+        label = "test object 307"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj308__c"
+        default = false
+        label = "test object 308"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj309__c"
+        default = false
+        label = "test object 309"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj31__c"
+        default = false
+        label = "test object 31"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj310__c"
+        default = false
+        label = "test object 310"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj311__c"
+        default = false
+        label = "test object 311"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj312__c"
+        default = false
+        label = "test object 312"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj313__c"
+        default = false
+        label = "test object 313"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj314__c"
+        default = false
+        label = "test object 314"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj315__c"
+        default = false
+        label = "test object 315"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj316__c"
+        default = false
+        label = "test object 316"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj317__c"
+        default = false
+        label = "test object 317"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj318__c"
+        default = false
+        label = "test object 318"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj319__c"
+        default = false
+        label = "test object 319"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj32__c"
+        default = false
+        label = "test object 32"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj320__c"
+        default = false
+        label = "test object 320"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj321__c"
+        default = false
+        label = "test object 321"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj322__c"
+        default = false
+        label = "test object 322"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj323__c"
+        default = false
+        label = "test object 323"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj324__c"
+        default = false
+        label = "test object 324"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj325__c"
+        default = false
+        label = "test object 325"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj326__c"
+        default = false
+        label = "test object 326"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj327__c"
+        default = false
+        label = "test object 327"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj328__c"
+        default = false
+        label = "test object 328"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj329__c"
+        default = false
+        label = "test object 329"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj33__c"
+        default = false
+        label = "test object 33"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj330__c"
+        default = false
+        label = "test object 330"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj331__c"
+        default = false
+        label = "test object 331"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj332__c"
+        default = false
+        label = "test object 332"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj333__c"
+        default = false
+        label = "test object 333"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj334__c"
+        default = false
+        label = "test object 334"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj335__c"
+        default = false
+        label = "test object 335"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj336__c"
+        default = false
+        label = "test object 336"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj337__c"
+        default = false
+        label = "test object 337"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj338__c"
+        default = false
+        label = "test object 338"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj339__c"
+        default = false
+        label = "test object 339"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj34__c"
+        default = false
+        label = "test object 34"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj340__c"
+        default = false
+        label = "test object 340"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj341__c"
+        default = false
+        label = "test object 341"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj342__c"
+        default = false
+        label = "test object 342"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj343__c"
+        default = false
+        label = "test object 343"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj344__c"
+        default = false
+        label = "test object 344"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj345__c"
+        default = false
+        label = "test object 345"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj346__c"
+        default = false
+        label = "test object 346"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj347__c"
+        default = false
+        label = "test object 347"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj348__c"
+        default = false
+        label = "test object 348"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj349__c"
+        default = false
+        label = "test object 349"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj35__c"
+        default = false
+        label = "test object 35"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj350__c"
+        default = false
+        label = "test object 350"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj351__c"
+        default = false
+        label = "test object 351"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj352__c"
+        default = false
+        label = "test object 352"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj353__c"
+        default = false
+        label = "test object 353"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj354__c"
+        default = false
+        label = "test object 354"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj355__c"
+        default = false
+        label = "test object 355"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj356__c"
+        default = false
+        label = "test object 356"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj357__c"
+        default = false
+        label = "test object 357"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj358__c"
+        default = false
+        label = "test object 358"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj359__c"
+        default = false
+        label = "test object 359"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj36__c"
+        default = false
+        label = "test object 36"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj360__c"
+        default = false
+        label = "test object 360"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj361__c"
+        default = false
+        label = "test object 361"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj362__c"
+        default = false
+        label = "test object 362"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj363__c"
+        default = false
+        label = "test object 363"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj364__c"
+        default = false
+        label = "test object 364"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj365__c"
+        default = false
+        label = "test object 365"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj366__c"
+        default = false
+        label = "test object 366"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj367__c"
+        default = false
+        label = "test object 367"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj368__c"
+        default = false
+        label = "test object 368"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj369__c"
+        default = false
+        label = "test object 369"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj37__c"
+        default = false
+        label = "test object 37"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj370__c"
+        default = false
+        label = "test object 370"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj371__c"
+        default = false
+        label = "test object 371"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj372__c"
+        default = false
+        label = "test object 372"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj373__c"
+        default = false
+        label = "test object 373"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj374__c"
+        default = false
+        label = "test object 374"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj375__c"
+        default = false
+        label = "test object 375"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj376__c"
+        default = false
+        label = "test object 376"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj377__c"
+        default = false
+        label = "test object 377"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj378__c"
+        default = false
+        label = "test object 378"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj379__c"
+        default = false
+        label = "test object 379"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj38__c"
+        default = false
+        label = "test object 38"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj380__c"
+        default = false
+        label = "test object 380"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj381__c"
+        default = false
+        label = "test object 381"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj382__c"
+        default = false
+        label = "test object 382"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj383__c"
+        default = false
+        label = "test object 383"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj384__c"
+        default = false
+        label = "test object 384"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj385__c"
+        default = false
+        label = "test object 385"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj386__c"
+        default = false
+        label = "test object 386"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj387__c"
+        default = false
+        label = "test object 387"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj388__c"
+        default = false
+        label = "test object 388"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj389__c"
+        default = false
+        label = "test object 389"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj39__c"
+        default = false
+        label = "test object 39"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj390__c"
+        default = false
+        label = "test object 390"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj391__c"
+        default = false
+        label = "test object 391"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj392__c"
+        default = false
+        label = "test object 392"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj393__c"
+        default = false
+        label = "test object 393"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj394__c"
+        default = false
+        label = "test object 394"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj395__c"
+        default = false
+        label = "test object 395"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj396__c"
+        default = false
+        label = "test object 396"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj397__c"
+        default = false
+        label = "test object 397"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj398__c"
+        default = false
+        label = "test object 398"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj399__c"
+        default = false
+        label = "test object 399"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj4__c"
+        default = false
+        label = "test object 4"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj40__c"
+        default = false
+        label = "test object 40"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj41__c"
+        default = false
+        label = "test object 41"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj42__c"
+        default = false
+        label = "test object 42"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj43__c"
+        default = false
+        label = "test object 43"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj44__c"
+        default = false
+        label = "test object 44"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj45__c"
+        default = false
+        label = "test object 45"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj46__c"
+        default = false
+        label = "test object 46"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj47__c"
+        default = false
+        label = "test object 47"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj48__c"
+        default = false
+        label = "test object 48"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj49__c"
+        default = false
+        label = "test object 49"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj5__c"
+        default = false
+        label = "test object 5"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj50__c"
+        default = false
+        label = "test object 50"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj51__c"
+        default = false
+        label = "test object 51"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj52__c"
+        default = false
+        label = "test object 52"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj53__c"
+        default = false
+        label = "test object 53"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj54__c"
+        default = false
+        label = "test object 54"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj55__c"
+        default = false
+        label = "test object 55"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj56__c"
+        default = false
+        label = "test object 56"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj57__c"
+        default = false
+        label = "test object 57"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj58__c"
+        default = false
+        label = "test object 58"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj59__c"
+        default = false
+        label = "test object 59"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj6__c"
+        default = false
+        label = "test object 6"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj60__c"
+        default = false
+        label = "test object 60"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj61__c"
+        default = false
+        label = "test object 61"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj62__c"
+        default = false
+        label = "test object 62"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj63__c"
+        default = false
+        label = "test object 63"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj64__c"
+        default = false
+        label = "test object 64"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj65__c"
+        default = false
+        label = "test object 65"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj66__c"
+        default = false
+        label = "test object 66"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj67__c"
+        default = false
+        label = "test object 67"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj68__c"
+        default = false
+        label = "test object 68"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj69__c"
+        default = false
+        label = "test object 69"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj7__c"
+        default = false
+        label = "test object 7"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj70__c"
+        default = false
+        label = "test object 70"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj71__c"
+        default = false
+        label = "test object 71"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj72__c"
+        default = false
+        label = "test object 72"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj73__c"
+        default = false
+        label = "test object 73"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj74__c"
+        default = false
+        label = "test object 74"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj75__c"
+        default = false
+        label = "test object 75"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj76__c"
+        default = false
+        label = "test object 76"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj77__c"
+        default = false
+        label = "test object 77"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj78__c"
+        default = false
+        label = "test object 78"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj79__c"
+        default = false
+        label = "test object 79"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj8__c"
+        default = false
+        label = "test object 8"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj80__c"
+        default = false
+        label = "test object 80"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj81__c"
+        default = false
+        label = "test object 81"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj82__c"
+        default = false
+        label = "test object 82"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj83__c"
+        default = false
+        label = "test object 83"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj84__c"
+        default = false
+        label = "test object 84"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj85__c"
+        default = false
+        label = "test object 85"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj86__c"
+        default = false
+        label = "test object 86"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj87__c"
+        default = false
+        label = "test object 87"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj88__c"
+        default = false
+        label = "test object 88"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj89__c"
+        default = false
+        label = "test object 89"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj9__c"
+        default = false
+        label = "test object 9"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj90__c"
+        default = false
+        label = "test object 90"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj91__c"
+        default = false
+        label = "test object 91"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj92__c"
+        default = false
+        label = "test object 92"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj93__c"
+        default = false
+        label = "test object 93"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj94__c"
+        default = false
+        label = "test object 94"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj95__c"
+        default = false
+        label = "test object 95"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj96__c"
+        default = false
+        label = "test object 96"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj97__c"
+        default = false
+        label = "test object 97"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj98__c"
+        default = false
+        label = "test object 98"
+        isActive = true
+      },
+      {
+        fullName = "TestCustomObj99__c"
+        default = false
+        label = "test object 99"
+        isActive = true
+      },
+      {
+        fullName = "ThreatDetectionFeedback"
+        default = false
+        label = "Threat Detection Feedback"
+        isActive = true
+      },
+      {
+        fullName = "User"
+        default = false
+        label = "User"
+        isActive = true
+      },
+      {
+        fullName = "WorkType"
+        default = false
+        label = "Work Type"
+        isActive = true
+      },
+      {
+        fullName = "WorkTypeGroup"
+        default = false
+        label = "Work Type Group"
+        isActive = true
+      },
+      {
+        fullName = "WorkTypeGroupMember"
+        default = false
+        label = "Work Type Group Member"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = true
+    updateable = false
+    queryable = true
+  }
+}

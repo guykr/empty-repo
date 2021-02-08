@@ -1,0 +1,237 @@
+type salesforce.TestCustomObj0__c {
+  salesforce.MasterDetail a0TestMasterDetail352233288154__c {
+    apiName = "TestCustomObj0__c.a0TestMasterDetail352233288154__c"
+    label = "MasterDetail label 0"
+    _required = false
+    writeRequiresMasterRead = true
+    reparentableMasterDetail = true
+    referenceTo = [
+      salesforce.Case,
+    ]
+    createable = true
+    updateable = true
+    relationshipOrder = 0
+    relationshipName = "TestMasterDetail352233288154"
+    queryable = true
+  }
+  salesforce.Currency a0_0Alpha__c {
+    apiName = "TestCustomObj0__c.a0_0Alpha__c"
+    label = "Currency label 0 0"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Time a0_0Delta__c {
+    apiName = "TestCustomObj0__c.a0_0Delta__c"
+    label = "Time label 0 0"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a0_0Juliett__c {
+    apiName = "TestCustomObj0__c.a0_0Juliett__c"
+    label = "Phone label 0 0"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.AutoNumber a0_0Bravo__c {
+    apiName = "TestCustomObj0__c.a0_0Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 0 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a0_0Charlie__c {
+    apiName = "TestCustomObj0__c.a0_0Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 0 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a0_0Echo__c {
+    apiName = "TestCustomObj0__c.a0_0Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 0 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a0_0Foxtrot__c {
+    apiName = "TestCustomObj0__c.a0_0Foxtrot__c"
+    externalId = true
+    label = "Email label 0 0"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a0_0Golf__c {
+    apiName = "TestCustomObj0__c.a0_0Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 0 0"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a0_0India__c {
+    apiName = "TestCustomObj0__c.a0_0India__c"
+    description = "Percent description"
+    label = "Percent label 0 0"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a0_0Kilo__c {
+    apiName = "TestCustomObj0__c.a0_0Kilo__c"
+    label = "LongTextArea label 0 0"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a0_0Lima__c {
+    apiName = "TestCustomObj0__c.a0_0Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 0 0"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a0_0Mike__c {
+    apiName = "TestCustomObj0__c.a0_0Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 0 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a0_0November__c {
+    apiName = "TestCustomObj0__c.a0_0November__c"
+    label = "EncryptedText label 0 0"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a0_0Oscar__c {
+    apiName = "TestCustomObj0__c.a0_0Oscar__c"
+    label = "Url label 0 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a0_0Papa__c {
+    apiName = "TestCustomObj0__c.a0_0Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 0 0"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a0_0Pickle__c {
+    apiName = "TestCustomObj0__c.a0_0Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 0 0"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a0_0Sierra__c {
+    apiName = "TestCustomObj0__c.a0_0Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 0 0"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a0_0Tango__c {
+    apiName = "TestCustomObj0__c.a0_0Tango__c"
+    defaultValue = true
+    label = "Checkbox label 0 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a0_0Whiskey__c {
+    apiName = "TestCustomObj0__c.a0_0Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 0 0"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+}

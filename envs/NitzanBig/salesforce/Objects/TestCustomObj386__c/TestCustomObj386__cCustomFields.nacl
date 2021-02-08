@@ -1,0 +1,1337 @@
+type salesforce.TestCustomObj386__c {
+  salesforce.MasterDetail a386TestMasterDetail155964321987__c {
+    apiName = "TestCustomObj386__c.a386TestMasterDetail155964321987__c"
+    label = "MasterDetail label 386"
+    _required = false
+    writeRequiresMasterRead = true
+    reparentableMasterDetail = true
+    referenceTo = [
+      salesforce.Case,
+    ]
+    createable = true
+    updateable = true
+    relationshipOrder = 0
+    relationshipName = "TestMasterDetail155964321987"
+    queryable = true
+  }
+  salesforce.Currency a386_0Alpha__c {
+    apiName = "TestCustomObj386__c.a386_0Alpha__c"
+    label = "Currency label 386 0"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Phone a386_0Juliett__c {
+    apiName = "TestCustomObj386__c.a386_0Juliett__c"
+    label = "Phone label 386 0"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Time a386_0Delta__c {
+    apiName = "TestCustomObj386__c.a386_0Delta__c"
+    label = "Time label 386 0"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Time a386_3Delta__c {
+    apiName = "TestCustomObj386__c.a386_3Delta__c"
+    label = "Time label 386 3"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a386_3Juliett__c {
+    apiName = "TestCustomObj386__c.a386_3Juliett__c"
+    label = "Phone label 386 3"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency a386_4Alpha__c {
+    apiName = "TestCustomObj386__c.a386_4Alpha__c"
+    label = "Currency label 386 4"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Phone a386_5Juliett__c {
+    apiName = "TestCustomObj386__c.a386_5Juliett__c"
+    label = "Phone label 386 5"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Time a386_5Delta__c {
+    apiName = "TestCustomObj386__c.a386_5Delta__c"
+    label = "Time label 386 5"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Currency a386_5Alpha__c {
+    apiName = "TestCustomObj386__c.a386_5Alpha__c"
+    label = "Currency label 386 5"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Phone a386_4Juliett__c {
+    apiName = "TestCustomObj386__c.a386_4Juliett__c"
+    label = "Phone label 386 4"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Time a386_4Delta__c {
+    apiName = "TestCustomObj386__c.a386_4Delta__c"
+    label = "Time label 386 4"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Time a386_2Delta__c {
+    apiName = "TestCustomObj386__c.a386_2Delta__c"
+    label = "Time label 386 2"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a386_2Juliett__c {
+    apiName = "TestCustomObj386__c.a386_2Juliett__c"
+    label = "Phone label 386 2"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency a386_2Alpha__c {
+    apiName = "TestCustomObj386__c.a386_2Alpha__c"
+    label = "Currency label 386 2"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Currency a386_1Alpha__c {
+    apiName = "TestCustomObj386__c.a386_1Alpha__c"
+    label = "Currency label 386 1"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Time a386_1Delta__c {
+    apiName = "TestCustomObj386__c.a386_1Delta__c"
+    label = "Time label 386 1"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a386_1Juliett__c {
+    apiName = "TestCustomObj386__c.a386_1Juliett__c"
+    label = "Phone label 386 1"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency a386_3Alpha__c {
+    apiName = "TestCustomObj386__c.a386_3Alpha__c"
+    label = "Currency label 386 3"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.AutoNumber a386_0Bravo__c {
+    apiName = "TestCustomObj386__c.a386_0Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_0Charlie__c {
+    apiName = "TestCustomObj386__c.a386_0Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_0Echo__c {
+    apiName = "TestCustomObj386__c.a386_0Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_0Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_0Foxtrot__c"
+    externalId = true
+    label = "Email label 386 0"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_0Golf__c {
+    apiName = "TestCustomObj386__c.a386_0Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 0"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_0India__c {
+    apiName = "TestCustomObj386__c.a386_0India__c"
+    description = "Percent description"
+    label = "Percent label 386 0"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_0Kilo__c {
+    apiName = "TestCustomObj386__c.a386_0Kilo__c"
+    label = "LongTextArea label 386 0"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_0Lima__c {
+    apiName = "TestCustomObj386__c.a386_0Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 0"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_0Mike__c {
+    apiName = "TestCustomObj386__c.a386_0Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_0November__c {
+    apiName = "TestCustomObj386__c.a386_0November__c"
+    label = "EncryptedText label 386 0"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_0Oscar__c {
+    apiName = "TestCustomObj386__c.a386_0Oscar__c"
+    label = "Url label 386 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_0Papa__c {
+    apiName = "TestCustomObj386__c.a386_0Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 0"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_0Pickle__c {
+    apiName = "TestCustomObj386__c.a386_0Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 0"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_0Sierra__c {
+    apiName = "TestCustomObj386__c.a386_0Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 0"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_0Tango__c {
+    apiName = "TestCustomObj386__c.a386_0Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_0Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_0Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 0"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a386_1Bravo__c {
+    apiName = "TestCustomObj386__c.a386_1Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 1"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_1Charlie__c {
+    apiName = "TestCustomObj386__c.a386_1Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_1Echo__c {
+    apiName = "TestCustomObj386__c.a386_1Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_1Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_1Foxtrot__c"
+    externalId = true
+    label = "Email label 386 1"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_1Golf__c {
+    apiName = "TestCustomObj386__c.a386_1Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 1"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_1India__c {
+    apiName = "TestCustomObj386__c.a386_1India__c"
+    description = "Percent description"
+    label = "Percent label 386 1"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_1Kilo__c {
+    apiName = "TestCustomObj386__c.a386_1Kilo__c"
+    label = "LongTextArea label 386 1"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_1Lima__c {
+    apiName = "TestCustomObj386__c.a386_1Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 1"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_1Mike__c {
+    apiName = "TestCustomObj386__c.a386_1Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_1November__c {
+    apiName = "TestCustomObj386__c.a386_1November__c"
+    label = "EncryptedText label 386 1"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_1Oscar__c {
+    apiName = "TestCustomObj386__c.a386_1Oscar__c"
+    label = "Url label 386 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_1Papa__c {
+    apiName = "TestCustomObj386__c.a386_1Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 1"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_1Pickle__c {
+    apiName = "TestCustomObj386__c.a386_1Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 1"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_1Sierra__c {
+    apiName = "TestCustomObj386__c.a386_1Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 1"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_1Tango__c {
+    apiName = "TestCustomObj386__c.a386_1Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 1"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_1Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_1Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 1"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a386_2Bravo__c {
+    apiName = "TestCustomObj386__c.a386_2Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 2"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_2Charlie__c {
+    apiName = "TestCustomObj386__c.a386_2Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_2Echo__c {
+    apiName = "TestCustomObj386__c.a386_2Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_2Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_2Foxtrot__c"
+    externalId = true
+    label = "Email label 386 2"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_2Golf__c {
+    apiName = "TestCustomObj386__c.a386_2Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 2"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_2India__c {
+    apiName = "TestCustomObj386__c.a386_2India__c"
+    description = "Percent description"
+    label = "Percent label 386 2"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_2Kilo__c {
+    apiName = "TestCustomObj386__c.a386_2Kilo__c"
+    label = "LongTextArea label 386 2"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_2Lima__c {
+    apiName = "TestCustomObj386__c.a386_2Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 2"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_2Mike__c {
+    apiName = "TestCustomObj386__c.a386_2Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_2November__c {
+    apiName = "TestCustomObj386__c.a386_2November__c"
+    label = "EncryptedText label 386 2"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_2Oscar__c {
+    apiName = "TestCustomObj386__c.a386_2Oscar__c"
+    label = "Url label 386 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_2Papa__c {
+    apiName = "TestCustomObj386__c.a386_2Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 2"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_2Pickle__c {
+    apiName = "TestCustomObj386__c.a386_2Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 2"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_2Sierra__c {
+    apiName = "TestCustomObj386__c.a386_2Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 2"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_2Tango__c {
+    apiName = "TestCustomObj386__c.a386_2Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 2"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_2Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_2Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 2"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a386_3Bravo__c {
+    apiName = "TestCustomObj386__c.a386_3Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 3"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_3Charlie__c {
+    apiName = "TestCustomObj386__c.a386_3Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_3Echo__c {
+    apiName = "TestCustomObj386__c.a386_3Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_3Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_3Foxtrot__c"
+    externalId = true
+    label = "Email label 386 3"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_3Golf__c {
+    apiName = "TestCustomObj386__c.a386_3Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 3"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_3India__c {
+    apiName = "TestCustomObj386__c.a386_3India__c"
+    description = "Percent description"
+    label = "Percent label 386 3"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_3Kilo__c {
+    apiName = "TestCustomObj386__c.a386_3Kilo__c"
+    label = "LongTextArea label 386 3"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_3Lima__c {
+    apiName = "TestCustomObj386__c.a386_3Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 3"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_3Mike__c {
+    apiName = "TestCustomObj386__c.a386_3Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_3November__c {
+    apiName = "TestCustomObj386__c.a386_3November__c"
+    label = "EncryptedText label 386 3"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_3Oscar__c {
+    apiName = "TestCustomObj386__c.a386_3Oscar__c"
+    label = "Url label 386 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_3Papa__c {
+    apiName = "TestCustomObj386__c.a386_3Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 3"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_3Pickle__c {
+    apiName = "TestCustomObj386__c.a386_3Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 3"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_3Sierra__c {
+    apiName = "TestCustomObj386__c.a386_3Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 3"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_3Tango__c {
+    apiName = "TestCustomObj386__c.a386_3Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 3"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_3Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_3Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 3"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a386_4Bravo__c {
+    apiName = "TestCustomObj386__c.a386_4Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 4"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_4Charlie__c {
+    apiName = "TestCustomObj386__c.a386_4Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_4Echo__c {
+    apiName = "TestCustomObj386__c.a386_4Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_4Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_4Foxtrot__c"
+    externalId = true
+    label = "Email label 386 4"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_4Golf__c {
+    apiName = "TestCustomObj386__c.a386_4Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 4"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_4India__c {
+    apiName = "TestCustomObj386__c.a386_4India__c"
+    description = "Percent description"
+    label = "Percent label 386 4"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_4Kilo__c {
+    apiName = "TestCustomObj386__c.a386_4Kilo__c"
+    label = "LongTextArea label 386 4"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_4Lima__c {
+    apiName = "TestCustomObj386__c.a386_4Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 4"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_4Mike__c {
+    apiName = "TestCustomObj386__c.a386_4Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_4November__c {
+    apiName = "TestCustomObj386__c.a386_4November__c"
+    label = "EncryptedText label 386 4"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_4Oscar__c {
+    apiName = "TestCustomObj386__c.a386_4Oscar__c"
+    label = "Url label 386 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_4Papa__c {
+    apiName = "TestCustomObj386__c.a386_4Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 4"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_4Pickle__c {
+    apiName = "TestCustomObj386__c.a386_4Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 4"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_4Sierra__c {
+    apiName = "TestCustomObj386__c.a386_4Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 4"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_4Tango__c {
+    apiName = "TestCustomObj386__c.a386_4Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 4"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_4Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_4Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 4"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a386_5Bravo__c {
+    apiName = "TestCustomObj386__c.a386_5Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 386 5"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a386_5Charlie__c {
+    apiName = "TestCustomObj386__c.a386_5Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 386 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a386_5Echo__c {
+    apiName = "TestCustomObj386__c.a386_5Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 386 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a386_5Foxtrot__c {
+    apiName = "TestCustomObj386__c.a386_5Foxtrot__c"
+    externalId = true
+    label = "Email label 386 5"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a386_5Golf__c {
+    apiName = "TestCustomObj386__c.a386_5Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 386 5"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a386_5India__c {
+    apiName = "TestCustomObj386__c.a386_5India__c"
+    description = "Percent description"
+    label = "Percent label 386 5"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a386_5Kilo__c {
+    apiName = "TestCustomObj386__c.a386_5Kilo__c"
+    label = "LongTextArea label 386 5"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a386_5Lima__c {
+    apiName = "TestCustomObj386__c.a386_5Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 386 5"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a386_5Mike__c {
+    apiName = "TestCustomObj386__c.a386_5Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 386 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a386_5November__c {
+    apiName = "TestCustomObj386__c.a386_5November__c"
+    label = "EncryptedText label 386 5"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a386_5Oscar__c {
+    apiName = "TestCustomObj386__c.a386_5Oscar__c"
+    label = "Url label 386 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a386_5Papa__c {
+    apiName = "TestCustomObj386__c.a386_5Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 386 5"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a386_5Pickle__c {
+    apiName = "TestCustomObj386__c.a386_5Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 386 5"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a386_5Sierra__c {
+    apiName = "TestCustomObj386__c.a386_5Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 386 5"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a386_5Tango__c {
+    apiName = "TestCustomObj386__c.a386_5Tango__c"
+    defaultValue = true
+    label = "Checkbox label 386 5"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a386_5Whiskey__c {
+    apiName = "TestCustomObj386__c.a386_5Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 386 5"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+}

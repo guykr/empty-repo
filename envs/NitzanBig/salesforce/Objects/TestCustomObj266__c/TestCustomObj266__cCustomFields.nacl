@@ -1,0 +1,1337 @@
+type salesforce.TestCustomObj266__c {
+  salesforce.MasterDetail a266TestMasterDetail928933529662__c {
+    apiName = "TestCustomObj266__c.a266TestMasterDetail928933529662__c"
+    label = "MasterDetail label 266"
+    _required = false
+    writeRequiresMasterRead = true
+    reparentableMasterDetail = true
+    referenceTo = [
+      salesforce.Case,
+    ]
+    createable = true
+    updateable = true
+    relationshipOrder = 0
+    relationshipName = "TestMasterDetail928933529662"
+    queryable = true
+  }
+  salesforce.Time a266_0Delta__c {
+    apiName = "TestCustomObj266__c.a266_0Delta__c"
+    label = "Time label 266 0"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a266_0Juliett__c {
+    apiName = "TestCustomObj266__c.a266_0Juliett__c"
+    label = "Phone label 266 0"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency a266_0Alpha__c {
+    apiName = "TestCustomObj266__c.a266_0Alpha__c"
+    label = "Currency label 266 0"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Currency a266_4Alpha__c {
+    apiName = "TestCustomObj266__c.a266_4Alpha__c"
+    label = "Currency label 266 4"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Currency a266_5Alpha__c {
+    apiName = "TestCustomObj266__c.a266_5Alpha__c"
+    label = "Currency label 266 5"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Phone a266_5Juliett__c {
+    apiName = "TestCustomObj266__c.a266_5Juliett__c"
+    label = "Phone label 266 5"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Time a266_5Delta__c {
+    apiName = "TestCustomObj266__c.a266_5Delta__c"
+    label = "Time label 266 5"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a266_2Juliett__c {
+    apiName = "TestCustomObj266__c.a266_2Juliett__c"
+    label = "Phone label 266 2"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Time a266_2Delta__c {
+    apiName = "TestCustomObj266__c.a266_2Delta__c"
+    label = "Time label 266 2"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Currency a266_2Alpha__c {
+    apiName = "TestCustomObj266__c.a266_2Alpha__c"
+    label = "Currency label 266 2"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Currency a266_3Alpha__c {
+    apiName = "TestCustomObj266__c.a266_3Alpha__c"
+    label = "Currency label 266 3"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Time a266_4Delta__c {
+    apiName = "TestCustomObj266__c.a266_4Delta__c"
+    label = "Time label 266 4"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a266_4Juliett__c {
+    apiName = "TestCustomObj266__c.a266_4Juliett__c"
+    label = "Phone label 266 4"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone a266_1Juliett__c {
+    apiName = "TestCustomObj266__c.a266_1Juliett__c"
+    label = "Phone label 266 1"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency a266_1Alpha__c {
+    apiName = "TestCustomObj266__c.a266_1Alpha__c"
+    label = "Currency label 266 1"
+    _required = true
+    defaultValueFormula = "25"
+    inlineHelpText = "Currency help"
+    createable = true
+    updateable = true
+    scale = 3
+    precision = 18
+    queryable = true
+    description = "Currency description"
+  }
+  salesforce.Time a266_1Delta__c {
+    apiName = "TestCustomObj266__c.a266_1Delta__c"
+    label = "Time label 266 1"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Time a266_3Delta__c {
+    apiName = "TestCustomObj266__c.a266_3Delta__c"
+    label = "Time label 266 3"
+    _required = true
+    defaultValueFormula = "TIMENOW() + 5"
+    inlineHelpText = "Time help"
+    createable = true
+    updateable = true
+    queryable = true
+    description = "Time description"
+  }
+  salesforce.Phone a266_3Juliett__c {
+    apiName = "TestCustomObj266__c.a266_3Juliett__c"
+    label = "Phone label 266 3"
+    _required = true
+    inlineHelpText = "Phone help"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.AutoNumber a266_0Bravo__c {
+    apiName = "TestCustomObj266__c.a266_0Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_0Charlie__c {
+    apiName = "TestCustomObj266__c.a266_0Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_0Echo__c {
+    apiName = "TestCustomObj266__c.a266_0Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_0Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_0Foxtrot__c"
+    externalId = true
+    label = "Email label 266 0"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_0Golf__c {
+    apiName = "TestCustomObj266__c.a266_0Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 0"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_0India__c {
+    apiName = "TestCustomObj266__c.a266_0India__c"
+    description = "Percent description"
+    label = "Percent label 266 0"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_0Kilo__c {
+    apiName = "TestCustomObj266__c.a266_0Kilo__c"
+    label = "LongTextArea label 266 0"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_0Lima__c {
+    apiName = "TestCustomObj266__c.a266_0Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 0"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_0Mike__c {
+    apiName = "TestCustomObj266__c.a266_0Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_0November__c {
+    apiName = "TestCustomObj266__c.a266_0November__c"
+    label = "EncryptedText label 266 0"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_0Oscar__c {
+    apiName = "TestCustomObj266__c.a266_0Oscar__c"
+    label = "Url label 266 0"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_0Papa__c {
+    apiName = "TestCustomObj266__c.a266_0Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 0"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_0Pickle__c {
+    apiName = "TestCustomObj266__c.a266_0Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 0"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_0Sierra__c {
+    apiName = "TestCustomObj266__c.a266_0Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 0"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_0Tango__c {
+    apiName = "TestCustomObj266__c.a266_0Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 0"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_0Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_0Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 0"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a266_1Bravo__c {
+    apiName = "TestCustomObj266__c.a266_1Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 1"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_1Charlie__c {
+    apiName = "TestCustomObj266__c.a266_1Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_1Echo__c {
+    apiName = "TestCustomObj266__c.a266_1Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_1Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_1Foxtrot__c"
+    externalId = true
+    label = "Email label 266 1"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_1Golf__c {
+    apiName = "TestCustomObj266__c.a266_1Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 1"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_1India__c {
+    apiName = "TestCustomObj266__c.a266_1India__c"
+    description = "Percent description"
+    label = "Percent label 266 1"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_1Kilo__c {
+    apiName = "TestCustomObj266__c.a266_1Kilo__c"
+    label = "LongTextArea label 266 1"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_1Lima__c {
+    apiName = "TestCustomObj266__c.a266_1Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 1"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_1Mike__c {
+    apiName = "TestCustomObj266__c.a266_1Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_1November__c {
+    apiName = "TestCustomObj266__c.a266_1November__c"
+    label = "EncryptedText label 266 1"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_1Oscar__c {
+    apiName = "TestCustomObj266__c.a266_1Oscar__c"
+    label = "Url label 266 1"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_1Papa__c {
+    apiName = "TestCustomObj266__c.a266_1Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 1"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_1Pickle__c {
+    apiName = "TestCustomObj266__c.a266_1Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 1"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_1Sierra__c {
+    apiName = "TestCustomObj266__c.a266_1Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 1"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_1Tango__c {
+    apiName = "TestCustomObj266__c.a266_1Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 1"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_1Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_1Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 1"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a266_2Bravo__c {
+    apiName = "TestCustomObj266__c.a266_2Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 2"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_2Charlie__c {
+    apiName = "TestCustomObj266__c.a266_2Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_2Echo__c {
+    apiName = "TestCustomObj266__c.a266_2Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_2Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_2Foxtrot__c"
+    externalId = true
+    label = "Email label 266 2"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_2Golf__c {
+    apiName = "TestCustomObj266__c.a266_2Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 2"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_2India__c {
+    apiName = "TestCustomObj266__c.a266_2India__c"
+    description = "Percent description"
+    label = "Percent label 266 2"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_2Kilo__c {
+    apiName = "TestCustomObj266__c.a266_2Kilo__c"
+    label = "LongTextArea label 266 2"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_2Lima__c {
+    apiName = "TestCustomObj266__c.a266_2Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 2"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_2Mike__c {
+    apiName = "TestCustomObj266__c.a266_2Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_2November__c {
+    apiName = "TestCustomObj266__c.a266_2November__c"
+    label = "EncryptedText label 266 2"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_2Oscar__c {
+    apiName = "TestCustomObj266__c.a266_2Oscar__c"
+    label = "Url label 266 2"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_2Papa__c {
+    apiName = "TestCustomObj266__c.a266_2Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 2"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_2Pickle__c {
+    apiName = "TestCustomObj266__c.a266_2Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 2"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_2Sierra__c {
+    apiName = "TestCustomObj266__c.a266_2Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 2"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_2Tango__c {
+    apiName = "TestCustomObj266__c.a266_2Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 2"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_2Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_2Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 2"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a266_3Bravo__c {
+    apiName = "TestCustomObj266__c.a266_3Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 3"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_3Charlie__c {
+    apiName = "TestCustomObj266__c.a266_3Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_3Echo__c {
+    apiName = "TestCustomObj266__c.a266_3Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_3Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_3Foxtrot__c"
+    externalId = true
+    label = "Email label 266 3"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_3Golf__c {
+    apiName = "TestCustomObj266__c.a266_3Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 3"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_3India__c {
+    apiName = "TestCustomObj266__c.a266_3India__c"
+    description = "Percent description"
+    label = "Percent label 266 3"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_3Kilo__c {
+    apiName = "TestCustomObj266__c.a266_3Kilo__c"
+    label = "LongTextArea label 266 3"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_3Lima__c {
+    apiName = "TestCustomObj266__c.a266_3Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 3"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_3Mike__c {
+    apiName = "TestCustomObj266__c.a266_3Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_3November__c {
+    apiName = "TestCustomObj266__c.a266_3November__c"
+    label = "EncryptedText label 266 3"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_3Oscar__c {
+    apiName = "TestCustomObj266__c.a266_3Oscar__c"
+    label = "Url label 266 3"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_3Papa__c {
+    apiName = "TestCustomObj266__c.a266_3Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 3"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_3Pickle__c {
+    apiName = "TestCustomObj266__c.a266_3Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 3"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_3Sierra__c {
+    apiName = "TestCustomObj266__c.a266_3Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 3"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_3Tango__c {
+    apiName = "TestCustomObj266__c.a266_3Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 3"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_3Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_3Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 3"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a266_4Bravo__c {
+    apiName = "TestCustomObj266__c.a266_4Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 4"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_4Charlie__c {
+    apiName = "TestCustomObj266__c.a266_4Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_4Echo__c {
+    apiName = "TestCustomObj266__c.a266_4Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_4Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_4Foxtrot__c"
+    externalId = true
+    label = "Email label 266 4"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_4Golf__c {
+    apiName = "TestCustomObj266__c.a266_4Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 4"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_4India__c {
+    apiName = "TestCustomObj266__c.a266_4India__c"
+    description = "Percent description"
+    label = "Percent label 266 4"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_4Kilo__c {
+    apiName = "TestCustomObj266__c.a266_4Kilo__c"
+    label = "LongTextArea label 266 4"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_4Lima__c {
+    apiName = "TestCustomObj266__c.a266_4Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 4"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_4Mike__c {
+    apiName = "TestCustomObj266__c.a266_4Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_4November__c {
+    apiName = "TestCustomObj266__c.a266_4November__c"
+    label = "EncryptedText label 266 4"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_4Oscar__c {
+    apiName = "TestCustomObj266__c.a266_4Oscar__c"
+    label = "Url label 266 4"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_4Papa__c {
+    apiName = "TestCustomObj266__c.a266_4Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 4"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_4Pickle__c {
+    apiName = "TestCustomObj266__c.a266_4Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 4"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_4Sierra__c {
+    apiName = "TestCustomObj266__c.a266_4Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 4"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_4Tango__c {
+    apiName = "TestCustomObj266__c.a266_4Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 4"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_4Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_4Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 4"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.AutoNumber a266_5Bravo__c {
+    apiName = "TestCustomObj266__c.a266_5Bravo__c"
+    description = "Autonumber description"
+    displayFormat = "ZZZ-{0000}"
+    externalId = true
+    inlineHelpText = "Autonumber help"
+    label = "Autonumber label 266 5"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Date a266_5Charlie__c {
+    apiName = "TestCustomObj266__c.a266_5Charlie__c"
+    defaultValueFormula = "Today() + 7"
+    description = "Date description"
+    inlineHelpText = "Date help"
+    label = "Date label 266 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.DateTime a266_5Echo__c {
+    apiName = "TestCustomObj266__c.a266_5Echo__c"
+    defaultValueFormula = "NOW() + 7"
+    description = "DateTime description"
+    inlineHelpText = "DateTime help"
+    label = "DateTime label 266 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Email a266_5Foxtrot__c {
+    apiName = "TestCustomObj266__c.a266_5Foxtrot__c"
+    externalId = true
+    label = "Email label 266 5"
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Geolocation a266_5Golf__c {
+    apiName = "TestCustomObj266__c.a266_5Golf__c"
+    displayLocationInDecimal = true
+    label = "Location label 266 5"
+    _required = false
+    scale = 2
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Percent a266_5India__c {
+    apiName = "TestCustomObj266__c.a266_5India__c"
+    description = "Percent description"
+    label = "Percent label 266 5"
+    precision = 12
+    _required = false
+    scale = 3
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.LongTextArea a266_5Kilo__c {
+    apiName = "TestCustomObj266__c.a266_5Kilo__c"
+    label = "LongTextArea label 266 5"
+    length = 32700
+    visibleLines = 5
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Html a266_5Lima__c {
+    apiName = "TestCustomObj266__c.a266_5Lima__c"
+    description = "RichTextArea description"
+    inlineHelpText = "RichTextArea help"
+    label = "RichTextArea label 266 5"
+    length = 32600
+    visibleLines = 32
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.TextArea a266_5Mike__c {
+    apiName = "TestCustomObj266__c.a266_5Mike__c"
+    description = "TextArea description"
+    inlineHelpText = "TextArea help"
+    label = "TextArea label 266 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.EncryptedText a266_5November__c {
+    apiName = "TestCustomObj266__c.a266_5November__c"
+    label = "EncryptedText label 266 5"
+    length = 35
+    maskChar = "asterisk"
+    maskType = "creditCard"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Url a266_5Oscar__c {
+    apiName = "TestCustomObj266__c.a266_5Oscar__c"
+    label = "Url label 266 5"
+    _required = false
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Number a266_5Papa__c {
+    apiName = "TestCustomObj266__c.a266_5Papa__c"
+    defaultValueFormula = "42"
+    externalId = false
+    label = "Number label 266 5"
+    precision = 15
+    _required = false
+    scale = 3
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Picklist a266_5Pickle__c {
+    apiName = "TestCustomObj266__c.a266_5Pickle__c"
+    description = "Picklist description"
+    label = "Picklist label 266 5"
+    _required = false
+    valueSet = [
+      {
+        fullName = "NEW"
+        color = "#FF0000"
+        default = true
+        label = "NEW"
+      },
+      {
+        fullName = "OLD"
+        default = false
+        label = "OLD"
+      },
+      {
+        fullName = "OLDEST"
+        default = false
+        isActive = false
+        label = "OLDEST"
+      },
+    ]
+    sorted = false
+    restricted = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Text a266_5Sierra__c {
+    apiName = "TestCustomObj266__c.a266_5Sierra__c"
+    caseSensitive = true
+    externalId = true
+    label = "Text label 266 5"
+    length = 100
+    _required = false
+    unique = true
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Checkbox a266_5Tango__c {
+    apiName = "TestCustomObj266__c.a266_5Tango__c"
+    defaultValue = true
+    label = "Checkbox label 266 5"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.FormulaCheckbox a266_5Whiskey__c {
+    apiName = "TestCustomObj266__c.a266_5Whiskey__c"
+    businessStatus = "Hidden"
+    formula = "5 > 4"
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "Formula Checkbox label 266 5"
+    securityClassification = "Restricted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+}

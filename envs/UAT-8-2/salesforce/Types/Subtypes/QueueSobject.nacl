@@ -1,0 +1,76 @@
+type salesforce.QueueSobject {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string sobjectType {
+    _required = false
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AuthorizationForm",
+        "AuthorizationFormConsent",
+        "AuthorizationFormDataUse",
+        "Case",
+        "CommSubscription",
+        "CommSubscriptionChannelType",
+        "CommSubscriptionConsent",
+        "ConsumptionSchedule",
+        "ContactPointAddress",
+        "ContactPointConsent",
+        "ContactPointEmail",
+        "ContactPointPhone",
+        "ContactPointTypeConsent",
+        "ContactRequest",
+        "CustomTest2__c",
+        "CustomTest5__c",
+        "CustomTest6__c",
+        "DataUseLegalBasis",
+        "DataUsePurpose",
+        "E2etest__c",
+        "EngagementChannelType",
+        "Goal",
+        "Image",
+        "Lead",
+        "Macro",
+        "MessagingEndUser",
+        "MessagingSession",
+        "Metric",
+        "New2__c",
+        "NewCustom__c",
+        "Order",
+        "PartyConsent",
+        "ProcessException",
+        "QuickText",
+        "Scorecard",
+        "Task",
+        "TestAddDefaultTopicsForObjects__c",
+        "TestAddElementTopicsForObjects__c",
+        "TestModifyCustomAnnotations__c",
+        "TestModifyCustom__c",
+        "TestModifyFieldAndAnnotation__c",
+        "TestModifyObjectPermissions__c",
+        "UserProvisioningRequest",
+        "WorkCoaching",
+        "WorkFeedback",
+        "WorkFeedbackQuestion",
+        "WorkFeedbackQuestionSet",
+        "WorkFeedbackRequest",
+        "WorkFeedbackTemplate",
+        "WorkPerformanceCycle",
+        "new__c",
+      ]
+    }
+  }
+  metadataType = "QueueSobject"
+}
