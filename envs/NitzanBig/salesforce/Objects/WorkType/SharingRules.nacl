@@ -1,6 +1,0 @@
-salesforce.SharingRules WorkType {
-  fullName = "WorkType"
-  _parent = [
-    salesforce.WorkType,
-  ]
-}

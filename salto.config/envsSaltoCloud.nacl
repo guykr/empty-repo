@@ -1,12 +1,4 @@
 envs {
   envs = [
-    {
-      uuid = "65d62511-207e-4347-9bd1-b855eeda9486"
-      folderName = "NitzanBig"
-    },
-    {
-      uuid = "202a24ea-ca5e-4799-bcc2-86e6e12ea53f"
-      folderName = "UAT-8-2"
-    },
   ]
 }
