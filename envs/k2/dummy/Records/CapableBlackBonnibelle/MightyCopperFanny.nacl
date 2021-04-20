@@ -1,0 +1,11 @@
+dummy.CapableBlackBonnibelle MightyCopperFanny {
+  PetiteEmeraldMira = true
+  UnexpectedScarletCornelia = 825
+  SpecialSilverBarbabra = "Did you know that protons have mass? I didn't even know they were catholic."
+  ZanyMaroonAlysa = "Why didnt the skeleton cross the road? Because he had no guts."
+  RareTealDi = {
+    WildBrownPrudi = file("MinorPeachAlverta.txt")
+    FashionableLavenderStephi = file("ParentalPlumMerl.txt")
+  }
+  _parent = dummy.AliveBlueJaneen
+}

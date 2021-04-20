@@ -1,0 +1,35 @@
+dummy.CrudePurpleJeannette CharmingYellowAnnmarie {
+  FunnyPlumNetta = "Im only familiar with 25 letters in the English language. I dont know why."
+  UltimateBrownMelisandra = "Dad Im hungry  Hi hungry Im dad"
+  CalmJadeHelge = false
+  ConcernedSalmonHetty = "Why do birds fly south for the winter? Because it's too far to walk."
+  ControversialLimeMarcelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HomelessMagentaMisty = 922
+  AnnualMaroonDre = true
+  HelpfulCyanNeely = true
+  AboveOrangeMerrile = false
+  BrokenRedFiann = true
+  ComfortableOliveZabrina = "Why do birds fly south for the winter? Because it's too far to walk."
+  DefiantIvoryCarola = "Why didnt the skeleton cross the road? Because he had no guts."
+  UsedAquaEssa = true
+  CreepyBlueBenedicta = [
+    file("DistinctIvoryIlse.txt"),
+    file("MolecularLimeKrista.txt"),
+    file("RemainingAquamarineLarina.txt"),
+    file("LowGoldRuth.txt"),
+    file("SelectedAmethystElsey.txt"),
+    file("ConfidentialBlushLind.txt"),
+    file("CoolBronzePhyllis.txt"),
+    file("DarkCopperAddia.txt"),
+    file("MissingGoldStephi.txt"),
+    file("AmericanCopperConstancy.txt"),
+    file("FuturePlumKissiah.txt"),
+    file("CloseAquaDalila.txt"),
+    file("StrangeGoldJanna.txt"),
+    file("IncreasingTanVi.txt"),
+  ]
+  EasyTurquoiseFlorella = false
+  GuiltyTanCarma = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FarTanGrayce = file("IntegratedSapphireJanela.txt")
+  _parent = dummy.InterestedScarletCherise
+}

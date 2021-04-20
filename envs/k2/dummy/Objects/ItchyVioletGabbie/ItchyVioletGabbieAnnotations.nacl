@@ -1,0 +1,56 @@
+type dummy.ItchyVioletGabbie {
+  annotations {
+    number FavourableBlueRoseanna {
+    }
+    dummy.RadicalOrangeSeline DevotedMaroonEvy {
+    }
+    serviceid EagerSapphireAindrea {
+    }
+    number ComfortableVioletSophia {
+    }
+    dummy.DepressedCyanLisette EmptyApricotChrissy {
+    }
+    dummy.YellowAquamarineJanka GrumpyMaroonPansy {
+    }
+    boolean LazyFuchsiaNicoli {
+    }
+    dummy.FlatBronzeTobe ZealousAmberJaneta {
+    }
+    dummy.KindBlueKayley LiquidGrayMarjy {
+    }
+    dummy.LexicalLavenderAlthea WholeMagentaEmyle {
+    }
+    dummy.OrdinaryIvoryCharleen ProfoundFuchsiaPetunia {
+    }
+    dummy.KindBlueKayley InvisibleSapphireJordanna {
+    }
+    json RoughTanVivia {
+    }
+    dummy.BlueCoffeeDelphinia OrdinaryMoccasinRoze {
+    }
+    dummy.FederalWhiteCordey DoubtfulPurpleBlinni {
+    }
+    serviceid BadOliveMolli {
+    }
+    hidden_string VariableGrayKristen {
+    }
+    dummy.AbsoluteCrimsonMeghan HomelessIvoryCrista {
+    }
+    boolean EvolutionaryMaroonCordi {
+    }
+    dummy.PanickyAzureMaryl VocationalGrayLorette {
+    }
+    serviceid InquisitiveTurquoiseAdrienne {
+    }
+    hidden_string OrganicRedAshley {
+    }
+  }
+  FavourableBlueRoseanna = 968
+  EagerSapphireAindrea = "Why is Peter Pan always flying? Because he Neverlands."
+  ComfortableVioletSophia = 20
+  LazyFuchsiaNicoli = true
+  RoughTanVivia = "Why did the tomato blush? Because it saw the salad dressing."
+  BadOliveMolli = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EvolutionaryMaroonCordi = false
+  InquisitiveTurquoiseAdrienne = "Dad Im hungry  Hi hungry Im dad"
+}

@@ -1,0 +1,11 @@
+dummy.CapableBlackBonnibelle MagentaCyanMaggy {
+  PetiteEmeraldMira = true
+  UnexpectedScarletCornelia = 616
+  SpecialSilverBarbabra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ZanyMaroonAlysa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RareTealDi = {
+    WildBrownPrudi = file("ForwardIndigoAdrianna.txt")
+    FashionableLavenderStephi = file("CleanTurquoiseNariko.txt")
+  }
+  _parent = dummy.AdditionalIvoryLynda
+}

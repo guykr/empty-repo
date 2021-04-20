@@ -1,0 +1,52 @@
+type dummy.WrittenGreenJodi {
+  annotations {
+    dummy.KindBlueKayley ElegantGreenCaye {
+    }
+    dummy.RedundantOrangeLenka WeakOliveBenita {
+    }
+    hidden_string WildHarlequinUrsola {
+    }
+    dummy.HumanAmaranthGertruda FavourableScarletSarita {
+    }
+    hidden_string PrimaryGrayVivianne {
+    }
+    serviceid TallMoccasinJane {
+    }
+    boolean BriefChocolateKylynn {
+    }
+    dummy.DEFAULT FlyingGreenAridatha {
+    }
+    dummy.OrdinaryIvoryCharleen RipeGoldLeesa {
+    }
+    json ZanyIndigoCristi {
+    }
+    dummy.AnxiousPeachLark PurpleIvoryDix {
+    }
+    boolean UnawareWhiteMariette {
+    }
+    string StupidPurpleLezlie {
+    }
+    boolean FrightenedYellowLeeann {
+    }
+    dummy.HumanAmaranthGertruda BumpyGreenDianemarie {
+    }
+    dummy.AnxiousPeachLark InternationalGreenBunny {
+    }
+    dummy.MysteriousScarletIsidora PalestinianHarlequinRanique {
+    }
+    dummy.FatOrangeNolie ItchyApricotKerry {
+    }
+    json MinimalRoseCinnamon {
+    }
+  }
+  TallMoccasinJane = "Whoever invented the knock-knock joke should get a no bell prize."
+  BriefChocolateKylynn = false
+  FlyingGreenAridatha = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ZanyIndigoCristi = "Why was it called the dark ages? Because of all the knights. "
+  UnawareWhiteMariette = true
+  StupidPurpleLezlie = "A steak pun is a rare medium well done."
+  FrightenedYellowLeeann = true
+  MinimalRoseCinnamon = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

@@ -1,0 +1,42 @@
+dummy.FairMagentaMargit ShortSalmonMonica {
+  FaithfulBlueMeg = 324
+  DisabledIvoryValry = "Slept like a log last night  woke up in the fireplace."
+  BlindGrayNatalie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JollyBeigeDeedee = "Why is Peter Pan always flying? Because he Neverlands."
+  SillyCoralGina = false
+  ColouredCopperFaun = file("LowPlumEssy.txt")
+  VividBlushCalli = {
+    AssistantYellowElise = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  BlushingLavenderElisha = false
+  SquareSilverOona = file("RespectiveRoseClerissa.txt")
+  SacredJadeLibbi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HistoricPinkRozele = file("OptimisticWhiteKarin.txt")
+  YellowAmaranthNicolea = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MutualAmethystDrusy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VariableBlueRoz = file("LowTanMinna.txt")
+  JapaneseYellowZelda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ImpressedBronzeMarylee = true
+  MonthlyHarlequinMagda = file("ArmedBeigeRhianna.txt")
+  EndlessIndigoAnselma = [
+    true,
+    false,
+    false,
+    true,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+  ]
+  PrettyIndigoMellicent = false
+  KeenCoralBettina = 881
+  DryBlackLura = false
+  DullMagentaPenni = true
+  ProfoundApricotThomasa = file("DullIndigoHannis.txt")
+  ImportantLavenderRica = "Dad Im hungry  Hi hungry Im dad"
+  _parent = dummy.FatOrangeNolie
+}

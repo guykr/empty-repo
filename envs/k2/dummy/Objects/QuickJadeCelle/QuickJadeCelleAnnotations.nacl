@@ -1,0 +1,47 @@
+type dummy.QuickJadeCelle {
+  annotations {
+    dummy.YellowAquamarineJanka JapaneseBluePerri {
+    }
+    serviceid HelplessLavenderMadonna {
+    }
+    dummy.SpecialBeigeKaralynn LowRedMaisey {
+    }
+    hidden_string PurpleFuchsiaAimee {
+    }
+    dummy.OrdinaryIvoryCharleen RevolutionarySalmonDanita {
+    }
+    dummy.DepressedCyanLisette ChubbyTurquoiseTami {
+    }
+    boolean WeirdSalmonBasia {
+    }
+    dummy.YellowAquamarineJanka CheapAquamarineConstantine {
+    }
+    hidden_string DelightfulAzurePhil {
+    }
+    hidden_string BoredAzureShirlene {
+    }
+    serviceid SoftTealMarje {
+    }
+    boolean DisciplinaryIndigoDollie {
+    }
+    dummy.LexicalLavenderAlthea SuspiciousPlumGratiana {
+    }
+    dummy.SpecialBeigeKaralynn VisibleCoralKitty {
+    }
+    serviceid JollyCoralMilli {
+    }
+    serviceid NativeIndigoSusanne {
+    }
+    dummy.NakedRedArden EstablishedFuchsiaArdenia {
+    }
+    number GorgeousBlueJamie {
+    }
+  }
+  HelplessLavenderMadonna = "Why did the tomato blush? Because it saw the salad dressing."
+  WeirdSalmonBasia = true
+  SoftTealMarje = "Slept like a log last night  woke up in the fireplace."
+  DisciplinaryIndigoDollie = true
+  JollyCoralMilli = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NativeIndigoSusanne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GorgeousBlueJamie = 743
+}

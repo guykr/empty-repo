@@ -1,0 +1,65 @@
+type dummy.QuickestAmberCarmina {
+  annotations {
+    dummy.RightLavenderElka SwiftBlushMandy {
+    }
+    serviceid GrumpyScarletJocelyne {
+    }
+    dummy.BrilliantOliveAngil WesternIndigoLeese {
+    }
+    dummy.RadicalOrangeSeline RevolutionaryTealMorganica {
+    }
+    dummy.RadicalOrangeSeline SureAmaranthShena {
+    }
+    dummy.AfricanHarlequinMillisent DutchPlumZora {
+    }
+    json TerritorialCrimsonShelagh {
+    }
+    json SweetAmberAnnadiana {
+    }
+    dummy.SoftMagentaKris WhisperingWhiteCami {
+    }
+    json FatBrownCharline {
+    }
+    dummy.KindBlueKayley ZanyTealZora {
+    }
+    serviceid VerbalOliveTamarra {
+    }
+    serviceid NastyYellowIna {
+    }
+    dummy.LexicalLavenderAlthea HorizontalGreenMirna {
+    }
+    dummy.HeadAmaranthVirginie StableAmberRosalia {
+    }
+    dummy.DepressedCyanLisette RealisticOrangeVanessa {
+    }
+    dummy.KindBlueKayley EnglishIndigoCatha {
+    }
+    boolean JealousSalmonJoly {
+    }
+    serviceid BrilliantScarletLexie {
+    }
+    dummy.AnxiousPeachLark RareRoseCorie {
+    }
+    hidden_string NorthernChocolateFayina {
+    }
+    boolean EverydayMagentaMag {
+    }
+    json FatAmethystAdria {
+    }
+    dummy.KindBlueKayley PayableIndigoDasi {
+    }
+    boolean MajorScarletShina {
+    }
+  }
+  GrumpyScarletJocelyne = "What do you call two barracuda fish?  A Pairacuda!"
+  TerritorialCrimsonShelagh = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SweetAmberAnnadiana = "Why do birds fly south for the winter? Because it's too far to walk."
+  FatBrownCharline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  VerbalOliveTamarra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NastyYellowIna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JealousSalmonJoly = false
+  BrilliantScarletLexie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EverydayMagentaMag = false
+  FatAmethystAdria = "What creature is smarter than a talking parrot? A spelling bee."
+  MajorScarletShina = true
+}

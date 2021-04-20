@@ -1,0 +1,54 @@
+type dummy.IntelligentBeigeNannie {
+  annotations {
+    serviceid WeeklyAquaNanine {
+    }
+    dummy.YellowAquamarineJanka VividTurquoiseMaryanne {
+    }
+    dummy.PowerfulTealFara LikelyEmeraldTammara {
+    }
+    dummy.KindBlueKayley DyingAzureRonna {
+    }
+    serviceid BroadLavenderMyrilla {
+    }
+    json StripedAmethystAllis {
+    }
+    dummy.AbsoluteCrimsonMeghan KeyTurquoiseHelaine {
+    }
+    dummy.YellowAquamarineJanka DutchPlumTarra {
+    }
+    dummy.AdditionalIvoryLynda VocationalFuchsiaCaritta {
+    }
+    boolean MilitaryBlueTomasine {
+    }
+    serviceid ConservativeGreenMeredith {
+    }
+    boolean GreatRoseCassandra {
+    }
+    number ConcreteWhiteMalinda {
+    }
+    number MedicalSapphireEada {
+    }
+    dummy.DepressedCyanLisette LonelyCyanLetizia {
+    }
+    dummy.AvailableBlackAnnabella ScientificLavenderWaly {
+    }
+    number FatTanNina {
+    }
+    boolean BreezyIvoryMaud {
+    }
+    dummy.UpsetOliveYnes BareChocolateDannye {
+    }
+    dummy.AfricanHarlequinMillisent PhysicalPinkBerenice {
+    }
+  }
+  WeeklyAquaNanine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BroadLavenderMyrilla = "Slept like a log last night  woke up in the fireplace."
+  StripedAmethystAllis = "Did you know that protons have mass? I didn't even know they were catholic."
+  MilitaryBlueTomasine = true
+  ConservativeGreenMeredith = "Why is Peter Pan always flying? Because he Neverlands."
+  GreatRoseCassandra = true
+  ConcreteWhiteMalinda = 543
+  MedicalSapphireEada = 894
+  FatTanNina = 308
+  BreezyIvoryMaud = false
+}

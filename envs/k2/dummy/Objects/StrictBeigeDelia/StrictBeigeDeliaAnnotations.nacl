@@ -1,0 +1,53 @@
+type dummy.StrictBeigeDelia {
+  annotations {
+    dummy.CivicTanKarylin CausalMaroonLilian {
+    }
+    dummy.RadicalOrangeSeline CrucialCyanLolita {
+    }
+    boolean SharpScarletHenryetta {
+    }
+    boolean ImpressiveEmeraldIrita {
+    }
+    hidden_string InteriorVioletCarlene {
+    }
+    string WrongSapphireChris {
+    }
+    hidden_string DirtyEmeraldMargaret {
+    }
+    serviceid ConservationCoffeeJannelle {
+    }
+    json WrongPurpleMelesa {
+    }
+    serviceid SharedAmberKaleena {
+    }
+    dummy.AfricanHarlequinMillisent EthnicBronzeNorry {
+    }
+    dummy.LexicalLavenderAlthea OpenAquaRachel {
+    }
+    dummy.KindBlueKayley YellowIvoryYasmeen {
+    }
+    dummy.AvailableBlackAnnabella EncouragingAquaRoze {
+    }
+    hidden_string PoliticalPlumSela {
+    }
+    dummy.PanickyAzureMaryl RespectablePinkDalia {
+    }
+    dummy.AfricanHarlequinMillisent PreparedCrimsonAgata {
+    }
+    dummy.AngryOrangeNorry AwkwardTurquoiseGinnifer {
+    }
+    dummy.YellowAquamarineJanka UnhappyScarletKarla {
+    }
+    dummy.KindBlueKayley RadicalBlushDorthy {
+    }
+    number NoisySalmonJunette {
+    }
+  }
+  SharpScarletHenryetta = true
+  ImpressiveEmeraldIrita = true
+  WrongSapphireChris = "A steak pun is a rare medium well done."
+  ConservationCoffeeJannelle = "How come the stadium got hot after the game? Because all of the fans left."
+  WrongPurpleMelesa = "Why didnt the skeleton cross the road? Because he had no guts."
+  SharedAmberKaleena = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NoisySalmonJunette = 210
+}

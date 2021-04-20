@@ -1,0 +1,49 @@
+type dummy.RadicalAmaranthCrista {
+  annotations {
+    boolean SocialistBeigeUlrica {
+    }
+    number AverageAquaBrigitta {
+    }
+    dummy.FeministChocolateAugusta InfluentialHarlequinCelie {
+    }
+    dummy.HeadAmaranthVirginie PoorChocolateMella {
+    }
+    number StupidBronzeHelyn {
+    }
+    dummy.YellowAquamarineJanka AvailableVioletCamellia {
+    }
+    hidden_string GeographicalPeachCecilia {
+    }
+    number CivilianBlueDanna {
+    }
+    dummy.CoherentOliveTracy IntermediateMagentaRomola {
+    }
+    dummy.CoherentOliveTracy GastricSilverSybil {
+    }
+    dummy.AnxiousPeachLark IntactScarletBlakelee {
+    }
+    serviceid VaryingEmeraldHalette {
+    }
+    dummy.WorryingRedBrigitta CrazyCrimsonShayla {
+    }
+    json FaintTealGlynis {
+    }
+    hidden_string EfficientCopperKathy {
+    }
+    json EndlessCoffeeLoreen {
+    }
+    json FreshHarlequinJoane {
+    }
+    serviceid StaticApricotNicoline {
+    }
+  }
+  SocialistBeigeUlrica = true
+  AverageAquaBrigitta = 657
+  StupidBronzeHelyn = 71
+  CivilianBlueDanna = 73
+  VaryingEmeraldHalette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FaintTealGlynis = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EndlessCoffeeLoreen = "Why did the kid cross the playground? To get to the other slide."
+  FreshHarlequinJoane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StaticApricotNicoline = "Dad Im hungry  Hi hungry Im dad"
+}

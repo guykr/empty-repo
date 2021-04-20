@@ -1,0 +1,50 @@
+type dummy.FinalBlackDarsey {
+  annotations {
+    boolean RuralSalmonMarna {
+    }
+    hidden_string LexicalMoccasinImogen {
+    }
+    dummy.AfricanHarlequinMillisent TropicalCrimsonLeshia {
+    }
+    dummy.LexicalLavenderAlthea PoliteHarlequinAngelia {
+    }
+    dummy.MixedBeigeChere MidBlueRoselin {
+    }
+    dummy.LazyWhiteAmata UnlikelyCrimsonTori {
+    }
+    hidden_string ThoughtlessAquaClarisse {
+    }
+    dummy.DepressedCyanLisette ExtraJadeYetty {
+    }
+    dummy.FederalWhiteCordey EconomicCoralShirleen {
+    }
+    string UnevenChocolateStephana {
+    }
+    dummy.DefeatedGreenJenny BeautifulEmeraldJosi {
+    }
+    dummy.AvailableBlackAnnabella TragicCoffeeMarianne {
+    }
+    json HandsomeVioletAlvinia {
+    }
+    string BlackEmeraldAlthea {
+    }
+    boolean AnxiousBlueWilly {
+    }
+    boolean SmilingEmeraldKatalin {
+    }
+    serviceid MidScarletCarlynn {
+    }
+    dummy.SpecialBeigeKaralynn ParallelCoffeeIra {
+    }
+    number SuitableYellowNanci {
+    }
+  }
+  RuralSalmonMarna = true
+  UnevenChocolateStephana = "Slept like a log last night  woke up in the fireplace."
+  HandsomeVioletAlvinia = "Why was it called the dark ages? Because of all the knights. "
+  BlackEmeraldAlthea = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AnxiousBlueWilly = false
+  SmilingEmeraldKatalin = false
+  MidScarletCarlynn = "I'll tell you what often gets over looked... garden fences."
+  SuitableYellowNanci = 884
+}

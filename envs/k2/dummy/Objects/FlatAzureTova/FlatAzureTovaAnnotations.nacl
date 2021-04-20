@@ -1,0 +1,50 @@
+type dummy.FlatAzureTova {
+  annotations {
+    dummy.SpecialBeigeKaralynn SurprisedPurpleKatharina {
+    }
+    dummy.OrdinaryIvoryCharleen YoungGoldGilli {
+    }
+    string HardWhiteGaylene {
+    }
+    json FlatChocolateOlenka {
+    }
+    json GratefulSapphireSibylla {
+    }
+    dummy.MonthlyTomatoElka ThoroughAmaranthAnstice {
+    }
+    dummy.MeaningfulRoseDulciana StructuralPinkSaba {
+    }
+    json NearbyRedEilis {
+    }
+    json IdealYellowMarline {
+    }
+    dummy.RadicalOrangeSeline UsualCopperDulsea {
+    }
+    serviceid DistantCyanBarbaraanne {
+    }
+    boolean TastelessBlackRozelle {
+    }
+    dummy.PureBlushTeddie SpotlessBlackHana {
+    }
+    dummy.SafeLavenderInge AdditionalPeachLorie {
+    }
+    json UnchangedBlushJessi {
+    }
+    serviceid EligibleLavenderGerti {
+    }
+    dummy.PanickyAzureMaryl IndustrialIvoryEllissa {
+    }
+    serviceid UncertainWhiteSonni {
+    }
+  }
+  HardWhiteGaylene = "Slept like a log last night  woke up in the fireplace."
+  FlatChocolateOlenka = "A steak pun is a rare medium well done."
+  GratefulSapphireSibylla = "I'll tell you what often gets over looked... garden fences."
+  NearbyRedEilis = "What do you call two barracuda fish?  A Pairacuda!"
+  IdealYellowMarline = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DistantCyanBarbaraanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TastelessBlackRozelle = true
+  UnchangedBlushJessi = "Did you know that protons have mass? I didn't even know they were catholic."
+  EligibleLavenderGerti = "To be Frank, I'd have to change my name."
+  UncertainWhiteSonni = "Dad Im hungry  Hi hungry Im dad"
+}

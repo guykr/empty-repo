@@ -1,0 +1,55 @@
+type dummy.CulturalWhiteSheila {
+  annotations {
+    boolean MinimumPeachNara {
+    }
+    serviceid BoldGoldEvvy {
+    }
+    serviceid NativeBeigeAddi {
+    }
+    json MinorGrayTyne {
+    }
+    number UnacceptableCoralAlejandrina {
+    }
+    dummy.MidJadeLanita SteadyBrownKai {
+    }
+    number RichAmberTessy {
+    }
+    dummy.HardMaroonMadalyn EthnicLimeRhea {
+    }
+    dummy.AfraidPinkYovonnda ToughPlumMarsha {
+    }
+    serviceid RottenMoccasinBriana {
+    }
+    number VaryingLavenderBryna {
+    }
+    boolean ImpressedCyanDanny {
+    }
+    json CreepyBlushMeggy {
+    }
+    dummy.NakedRedArden WildCoralEmilia {
+    }
+    number PeacefulOliveCatherine {
+    }
+    dummy.HappySilverLesly UncertainJadeTani {
+    }
+    hidden_string UnhappyPurpleAra {
+    }
+    json PrivateCopperBessie {
+    }
+    serviceid EarlyAmethystEvangeline {
+    }
+  }
+  MinimumPeachNara = false
+  BoldGoldEvvy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NativeBeigeAddi = "Why was it called the dark ages? Because of all the knights. "
+  MinorGrayTyne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UnacceptableCoralAlejandrina = 150
+  RichAmberTessy = 803
+  RottenMoccasinBriana = "Did you know that protons have mass? I didn't even know they were catholic."
+  VaryingLavenderBryna = 582
+  ImpressedCyanDanny = false
+  CreepyBlushMeggy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PeacefulOliveCatherine = 469
+  PrivateCopperBessie = "Im only familiar with 25 letters in the English language. I dont know why."
+  EarlyAmethystEvangeline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

@@ -1,0 +1,53 @@
+type dummy.MainOrangeCoralie {
+  annotations {
+    dummy.MysteriousScarletIsidora PrimitiveBrownKatharyn {
+    }
+    boolean UnknownCopperHenrieta {
+    }
+    hidden_string LabourCoralAmy {
+    }
+    string EnchantingOrangeEnrichetta {
+    }
+    serviceid DistantAmethystCecile {
+    }
+    hidden_string AbleGreenEloise {
+    }
+    string PlannedBrownKarrie {
+    }
+    hidden_string ObjectiveBeigeSheena {
+    }
+    dummy.FederalWhiteCordey PreciousPurpleLaural {
+    }
+    dummy.FederalWhiteCordey WittyTealRoselin {
+    }
+    json MightyLavenderCordie {
+    }
+    hidden_string WateryWhiteKimberly {
+    }
+    hidden_string HeadMoccasinPrue {
+    }
+    dummy.LexicalLavenderAlthea ImprovedSapphireArdyth {
+    }
+    boolean JoyousCrimsonPris {
+    }
+    boolean SkilledBronzeThelma {
+    }
+    hidden_string SubsequentSapphireMyriam {
+    }
+    dummy.CuddlySapphireMarketa PanickyTanMalanie {
+    }
+    string StingyMagentaValerie {
+    }
+    serviceid SillyGrayQuerida {
+    }
+  }
+  UnknownCopperHenrieta = false
+  EnchantingOrangeEnrichetta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DistantAmethystCecile = "How come the stadium got hot after the game? Because all of the fans left."
+  PlannedBrownKarrie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MightyLavenderCordie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JoyousCrimsonPris = false
+  SkilledBronzeThelma = true
+  StingyMagentaValerie = "To be Frank, I'd have to change my name."
+  SillyGrayQuerida = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

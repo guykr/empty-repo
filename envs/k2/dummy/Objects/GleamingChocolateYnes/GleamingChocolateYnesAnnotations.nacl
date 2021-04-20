@@ -1,0 +1,52 @@
+type dummy.GleamingChocolateYnes {
+  annotations {
+    dummy.PanickyAzureMaryl SelectedCopperHatty {
+    }
+    dummy.AnxiousPeachLark EfficientOrangeJeannie {
+    }
+    number AwakeTanRozalin {
+    }
+    dummy.CuriousRedMureil AfraidMaroonJesse {
+    }
+    dummy.MonthlyTomatoElka MassWhiteViole {
+    }
+    dummy.HumanAmaranthGertruda FancyTealMarcia {
+    }
+    dummy.RelevantYellowKathi WetCoffeeBryna {
+    }
+    dummy.RadicalOrangeSeline JoyousIvoryGusty {
+    }
+    boolean DependentPeachAnnecorinne {
+    }
+    dummy.KindBlueKayley BlushingSalmonJere {
+    }
+    dummy.BloodyPeachJanis AdvisoryScarletHedvig {
+    }
+    number InitialBeigeUrsulina {
+    }
+    string PremierCoralFlossy {
+    }
+    string AshamedCoralFaith {
+    }
+    json CuriousMaroonNonah {
+    }
+    dummy.RadicalOrangeSeline HappyAquaDelinda {
+    }
+    dummy.RadicalOrangeSeline JuniorCopperFayre {
+    }
+    boolean SacredLavenderHarriott {
+    }
+    number DryCoffeeRenae {
+    }
+    dummy.FederalWhiteCordey SoleCyanVeriee {
+    }
+  }
+  AwakeTanRozalin = 98
+  DependentPeachAnnecorinne = true
+  InitialBeigeUrsulina = 937
+  PremierCoralFlossy = "To be Frank, I'd have to change my name."
+  AshamedCoralFaith = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CuriousMaroonNonah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SacredLavenderHarriott = true
+  DryCoffeeRenae = 182
+}

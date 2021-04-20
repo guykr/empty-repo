@@ -1,0 +1,61 @@
+type dummy.MushyIvoryMargaretta {
+  annotations {
+    string GoodJadeTiffy {
+    }
+    dummy.RepresentativeHarlequinMaxy GreasyMaroonMead {
+    }
+    dummy.EfficientSilverAllys WetIvoryKali {
+    }
+    number ParallelVioletElsa {
+    }
+    number InformalAquamarineYsabel {
+    }
+    json ThoroughEmeraldCharlot {
+    }
+    json PuzzledBlackCarola {
+    }
+    boolean MixedLimeElfie {
+    }
+    dummy.UpsetOliveYnes MadSalmonTera {
+    }
+    serviceid AccusedScarletElvira {
+    }
+    json WonderfulIvoryZaria {
+    }
+    dummy.AfricanHarlequinMillisent StraightAmberCathyleen {
+    }
+    string ThoughtfulSalmonArline {
+    }
+    string CleanGoldLucine {
+    }
+    json BindingApricotBarbette {
+    }
+    dummy.KindBlueKayley IntelligentTanFayette {
+    }
+    serviceid LongHarlequinDayna {
+    }
+    serviceid GrumpyTomatoKandace {
+    }
+    hidden_string LateGreenMignon {
+    }
+    hidden_string DivineAmaranthSerena {
+    }
+    dummy.SpecialBeigeKaralynn NearbySapphireFredi {
+    }
+    dummy.KindBlueKayley NursingPurpleChandal {
+    }
+  }
+  GoodJadeTiffy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ParallelVioletElsa = 254
+  InformalAquamarineYsabel = 255
+  ThoroughEmeraldCharlot = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PuzzledBlackCarola = "Did you know that protons have mass? I didn't even know they were catholic."
+  MixedLimeElfie = true
+  AccusedScarletElvira = "Why do birds fly south for the winter? Because it's too far to walk."
+  WonderfulIvoryZaria = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ThoughtfulSalmonArline = "How come the stadium got hot after the game? Because all of the fans left."
+  CleanGoldLucine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BindingApricotBarbette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LongHarlequinDayna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GrumpyTomatoKandace = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

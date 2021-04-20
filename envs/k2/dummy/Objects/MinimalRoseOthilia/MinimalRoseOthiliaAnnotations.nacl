@@ -1,0 +1,42 @@
+type dummy.MinimalRoseOthilia {
+  annotations {
+    dummy.RadicalOrangeSeline FatRoseJemima {
+    }
+    serviceid HomelyBeigeMyrle {
+    }
+    dummy.OrdinaryIvoryCharleen PassiveSalmonAurora {
+    }
+    hidden_string ConcernedGoldIrina {
+    }
+    dummy.OrdinaryIvoryCharleen PleasantWhiteMarci {
+    }
+    json ColouredOrangeMaurene {
+    }
+    dummy.HungryPlumArdelia InvolvedIvoryMeg {
+    }
+    json FinancialCyanMellie {
+    }
+    dummy.FoolishHarlequinNickie PricklyBronzeRoselia {
+    }
+    dummy.AvailableBlackAnnabella UglyPlumJerry {
+    }
+    string ExcellentOliveDoloritas {
+    }
+    dummy.YellowAquamarineJanka RudeBlueIsabelita {
+    }
+    string FreshApricotCelle {
+    }
+    dummy.DefiantIndigoRenie AfraidTealLeann {
+    }
+    dummy.MysteriousScarletIsidora AfraidAmberRoselia {
+    }
+    number PassiveGoldHyacinthie {
+    }
+  }
+  HomelyBeigeMyrle = "How come the stadium got hot after the game? Because all of the fans left."
+  ColouredOrangeMaurene = "A steak pun is a rare medium well done."
+  FinancialCyanMellie = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExcellentOliveDoloritas = "Why is Peter Pan always flying? Because he Neverlands."
+  FreshApricotCelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PassiveGoldHyacinthie = 758
+}

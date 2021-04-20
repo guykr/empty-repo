@@ -1,0 +1,52 @@
+type dummy.ColonialCrimsonMaurise {
+  annotations {
+    json SpanishIvoryBarbaraanne {
+    }
+    hidden_string TropicalSapphireNathalie {
+    }
+    dummy.OrdinaryIvoryCharleen BlackPinkElly {
+    }
+    dummy.MysteriousScarletIsidora ProtectiveAzureElizabeth {
+    }
+    string BrightEmeraldLenora {
+    }
+    json StrikingBrownCarie {
+    }
+    number AmateurAquaMame {
+    }
+    string PerfectEmeraldBlinnie {
+    }
+    dummy.PowerfulTealFara SmallOrangeBarby {
+    }
+    dummy.KindBlueKayley KindRoseJuliette {
+    }
+    dummy.DefeatedGreenJenny PowerfulEmeraldJillene {
+    }
+    hidden_string StrongBeigeMelantha {
+    }
+    boolean ImportantVioletCandace {
+    }
+    hidden_string DistinctiveCopperDari {
+    }
+    dummy.FederalWhiteCordey VerticalRoseViole {
+    }
+    serviceid ScaredLavenderCinnamon {
+    }
+    dummy.FoolishHarlequinNickie UnablePlumEmmye {
+    }
+    dummy.HumanAmaranthGertruda RattyAmberDiahann {
+    }
+    boolean StraightAquaReina {
+    }
+    hidden_string HappyCoffeeJuditha {
+    }
+  }
+  SpanishIvoryBarbaraanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BrightEmeraldLenora = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StrikingBrownCarie = "Why did the kid cross the playground? To get to the other slide."
+  AmateurAquaMame = 574
+  PerfectEmeraldBlinnie = "Why did the tomato blush? Because it saw the salad dressing."
+  ImportantVioletCandace = false
+  ScaredLavenderCinnamon = "What do you call two barracuda fish?  A Pairacuda!"
+  StraightAquaReina = false
+}
