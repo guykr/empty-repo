@@ -23,7 +23,7 @@ salesforce.AnalyticsSettings {
   enableQueryLiveConnectors = false
   enableRemoveFooterForRepDisplay = false
   enableRemoveFooterFromRepExp = false
-  enableReportCrtAutoAddPref = "false"
+  
   enableReportNotificationsEnable = true
   enableRequestPrioritySchdl = "false"
   enableS1AnalyticsEclairEnable = true

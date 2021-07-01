@@ -179,6 +179,12 @@ type salesforce.MessagingEndUser {
         label = "Embedded Messaging"
         isActive = true
       },
+      {
+        fullName = "Voice"
+        default = false
+        label = "Voice"
+        isActive = true
+      },
     ]
     restricted = true
     createable = true

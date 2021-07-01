@@ -10,6 +10,10 @@ salesforce.Layout AssetAction_Asset_Action_Layout@bss {
         {
           layoutItems = [
             {
+              behavior = "Required"
+              field = salesforce.AssetAction.field.CategoryEnum
+            },
+            {
               behavior = "Readonly"
               field = salesforce.AssetAction.field.AssetActionNumber
             },
@@ -116,4 +120,9 @@ salesforce.Layout AssetAction_Asset_Action_Layout@bss {
   _parent = [
     salesforce.AssetAction,
   ]
+  miniLayout = {
+    fields = [
+      "CategoryEnum",
+    ]
+  }
 }

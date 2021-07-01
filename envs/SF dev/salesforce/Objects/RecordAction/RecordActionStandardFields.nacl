@@ -130,6 +130,12 @@ type salesforce.RecordAction {
     label = "Interaction Definition ID"
     valueSet = [
       {
+        fullName = "runtime_commerce_adj__Discount_Item"
+        default = false
+        label = "runtime_commerce_adj__Discount_Item"
+        isActive = true
+      },
+      {
         fullName = "runtime_commerce_oms__Cancel_Item"
         default = false
         label = "runtime_commerce_oms__Cancel_Item"
@@ -148,15 +154,21 @@ type salesforce.RecordAction {
         isActive = true
       },
       {
-        fullName = "runtime_commerce_oms__Discount_Item"
-        default = false
-        label = "runtime_commerce_oms__Discount_Item"
-        isActive = true
-      },
-      {
         fullName = "runtime_commerce_oms__Return_Item"
         default = false
         label = "runtime_commerce_oms__Return_Item"
+        isActive = true
+      },
+      {
+        fullName = "runtime_commerce_rma__Create_CO"
+        default = false
+        label = "runtime_commerce_rma__Create_CO"
+        isActive = true
+      },
+      {
+        fullName = "runtime_commerce_rma__Return_Item_RMA"
+        default = false
+        label = "runtime_commerce_rma__Return_Item_RMA"
         isActive = true
       },
       {
@@ -462,6 +474,12 @@ type salesforce.RecordAction {
         isActive = true
       },
       {
+        fullName = "runtime_commerce_adj__Discount_Item"
+        default = false
+        label = "runtime_commerce_adj__Discount_Item"
+        isActive = true
+      },
+      {
         fullName = "runtime_commerce_oms__Cancel_Item"
         default = false
         label = "runtime_commerce_oms__Cancel_Item"
@@ -480,15 +498,21 @@ type salesforce.RecordAction {
         isActive = true
       },
       {
-        fullName = "runtime_commerce_oms__Discount_Item"
-        default = false
-        label = "runtime_commerce_oms__Discount_Item"
-        isActive = true
-      },
-      {
         fullName = "runtime_commerce_oms__Return_Item"
         default = false
         label = "runtime_commerce_oms__Return_Item"
+        isActive = true
+      },
+      {
+        fullName = "runtime_commerce_rma__Create_CO"
+        default = false
+        label = "runtime_commerce_rma__Create_CO"
+        isActive = true
+      },
+      {
+        fullName = "runtime_commerce_rma__Return_Item_RMA"
+        default = false
+        label = "runtime_commerce_rma__Return_Item_RMA"
         isActive = true
       },
       {

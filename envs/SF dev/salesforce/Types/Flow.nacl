@@ -55,7 +55,6 @@ type salesforce.Flow {
       values = [
         "ActionCadenceFlow",
         "ActionPlan",
-        "AppProcess",
         "Appointments",
         "AutoLaunchedFlow",
         "CartAsyncFlow",
@@ -75,6 +74,7 @@ type salesforce.Flow {
         "ManagedContentFlow",
         "OfflineFlow",
         "OrchestrationFlow",
+        "Orchestrator",
         "RecommendationStrategy",
         "RoutingFlow",
         "SalesEntryExperienceFlow",
@@ -123,8 +123,7 @@ type salesforce.Flow {
       ]
     }
   }
-  salesforce.FlowSteppedStage steppedStages {
-  }
+  
   salesforce.FlowStep steps {
   }
   salesforce.FlowSubflow subflows {
@@ -142,4 +141,6 @@ type salesforce.Flow {
   suffix = "flow"
   dirName = "flows"
   metadataType = "Flow"
+  salesforce.FlowOrchestratedStage orchestratedStages {
+  }
 }

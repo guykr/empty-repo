@@ -124,9 +124,21 @@ type salesforce.Macro {
         isActive = true
       },
       {
+        fullName = "AlternativePaymentMethod"
+        default = false
+        label = "Alternative Payment Method"
+        isActive = true
+      },
+      {
         fullName = "ApiAnomalyEventStore"
         default = false
         label = "API Anomaly Event Store"
+        isActive = true
+      },
+      {
+        fullName = "AppointmentTopicTimeSlot"
+        default = false
+        label = "Appointment Topic Time Slot"
         isActive = true
       },
       {
@@ -145,6 +157,18 @@ type salesforce.Macro {
         fullName = "AssignedResource"
         default = false
         label = "Assigned Resource"
+        isActive = true
+      },
+      {
+        fullName = "AuthorizationFormText"
+        default = false
+        label = "Authorization Form Text"
+        isActive = true
+      },
+      {
+        fullName = "CardPaymentMethod"
+        default = false
+        label = "Card Payment Method"
         isActive = true
       },
       {
@@ -190,6 +214,24 @@ type salesforce.Macro {
         isActive = true
       },
       {
+        fullName = "ContactPointAddress"
+        default = false
+        label = "Contact Point Address"
+        isActive = true
+      },
+      {
+        fullName = "ContactPointEmail"
+        default = false
+        label = "Contact Point Email"
+        isActive = true
+      },
+      {
+        fullName = "ContactPointPhone"
+        default = false
+        label = "Contact Point Phone"
+        isActive = true
+      },
+      {
         fullName = "Contract"
         default = false
         label = "Contract"
@@ -205,6 +247,12 @@ type salesforce.Macro {
         fullName = "CreditMemo"
         default = false
         label = "Credit Memo"
+        isActive = true
+      },
+      {
+        fullName = "DigitalWallet"
+        default = false
+        label = "Digital Wallet"
         isActive = true
       },
       {
@@ -328,6 +376,42 @@ type salesforce.Macro {
         isActive = true
       },
       {
+        fullName = "Payment"
+        default = false
+        label = "Payment"
+        isActive = true
+      },
+      {
+        fullName = "PaymentAuthorization"
+        default = false
+        label = "Payment Authorization"
+        isActive = true
+      },
+      {
+        fullName = "PaymentAuthAdjustment"
+        default = false
+        label = "Payment Authorization Adjustment"
+        isActive = true
+      },
+      {
+        fullName = "PaymentGateway"
+        default = false
+        label = "Payment Gateway"
+        isActive = true
+      },
+      {
+        fullName = "PaymentGatewayLog"
+        default = false
+        label = "Payment Gateway Log"
+        isActive = true
+      },
+      {
+        fullName = "PaymentLineInvoice"
+        default = false
+        label = "Payment Line Invoice"
+        isActive = true
+      },
+      {
         fullName = "Product2"
         default = false
         label = "Product"
@@ -349,6 +433,18 @@ type salesforce.Macro {
         fullName = "ContentDocumentListViewMapping"
         default = false
         label = "Quip Document from List View"
+        isActive = true
+      },
+      {
+        fullName = "Refund"
+        default = false
+        label = "Refund"
+        isActive = true
+      },
+      {
+        fullName = "RefundLinePayment"
+        default = false
+        label = "Refund Line Payment"
         isActive = true
       },
       {

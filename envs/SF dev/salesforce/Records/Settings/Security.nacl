@@ -18,7 +18,7 @@ salesforce.SecuritySettings {
   }
   sessionSettings = {
     allowUserAuthenticationByCertificate = false
-    canConfirmEmailChangeInLightningCommunities = false
+    canConfirmEmailChangeInLightningCommunities = true
     canConfirmIdentityBySmsOnly = true
     disableTimeoutWarning = false
     enableCSPOnEmail = true
@@ -36,7 +36,7 @@ salesforce.SecuritySettings {
     enablePostForSessions = false
     enableSMSIdentity = true
     enableU2F = false
-    enableUpgradeInsecureRequests = true
+    
     enableXssProtection = true
     enforceIpRangesEveryRequest = false
     enforceUserDeviceRevoked = false
@@ -44,7 +44,7 @@ salesforce.SecuritySettings {
     forceRelogin = true
     hasRetainedLoginHints = false
     hasUserSwitching = true
-    hstsOnForcecomSites = true
+    
     identityConfirmationOnEmailChange = false
     identityConfirmationOnTwoFactorRegistrationEnabled = true
     lockSessionsToDomain = true
@@ -53,7 +53,7 @@ salesforce.SecuritySettings {
     redirectionWarning = true
     referrerPolicy = true
     requireHttpOnly = false
-    requireHttps = true
+    
     sessionTimeout = "TwoHours"
   }
   singleSignOnSettings = {

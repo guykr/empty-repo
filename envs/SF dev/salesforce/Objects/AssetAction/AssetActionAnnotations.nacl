@@ -180,11 +180,13 @@ type salesforce.AssetAction {
       "Asset",
       "Type",
       "Category",
+      "CategoryEnum",
     ]
     searchResultsAdditionalFields = [
       "Asset",
       "Type",
       "Category",
+      "CategoryEnum",
     ]
   }
 }

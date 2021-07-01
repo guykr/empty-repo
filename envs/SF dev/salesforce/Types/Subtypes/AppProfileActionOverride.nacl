@@ -36,6 +36,7 @@ type salesforce.AppProfileActionOverride {
       values = [
         "Account",
         "AlternativePaymentMethod",
+        "AppointmentTopicTimeSlot",
         "Asset",
         "AssetAction",
         "AssetActionSource",

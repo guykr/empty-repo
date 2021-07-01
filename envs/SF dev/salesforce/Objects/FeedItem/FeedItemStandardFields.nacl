@@ -17,6 +17,7 @@ type salesforce.FeedItem {
       salesforce.Asset,
       salesforce.AssetRelationship,
       salesforce.AssignedResource,
+      salesforce.AuthorizationFormText,
       salesforce.Campaign,
       salesforce.Case,
       salesforce.CollaborationGroup,

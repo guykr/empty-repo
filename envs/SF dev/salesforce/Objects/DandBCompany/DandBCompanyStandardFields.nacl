@@ -4729,6 +4729,12 @@ type salesforce.DandBCompany {
         label = "New Zealand Business Number"
         isActive = true
       },
+      {
+        fullName = "00772"
+        default = false
+        label = "Philippines Tax Identification Number"
+        isActive = true
+      },
     ]
     restricted = true
     createable = true

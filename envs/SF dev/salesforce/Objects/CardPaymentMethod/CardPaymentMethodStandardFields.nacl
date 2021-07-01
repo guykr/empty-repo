@@ -555,4 +555,10 @@ type salesforce.CardPaymentMethod {
     updateable = true
     queryable = true
   }
+  salesforce.Unknown GatewayTokenEncrypted {
+    apiName = "CardPaymentMethod.GatewayTokenEncrypted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
 }

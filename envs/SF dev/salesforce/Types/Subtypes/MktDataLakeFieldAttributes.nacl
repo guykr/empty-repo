@@ -20,6 +20,7 @@ type salesforce.MktDataLakeFieldAttributes {
       enforce_value = false
       values = [
         "Bridge",
+        "Curated",
         "Custom",
         "Derived",
         "Standard",

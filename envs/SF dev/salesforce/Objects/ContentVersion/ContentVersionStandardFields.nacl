@@ -361,6 +361,7 @@ type salesforce.ContentVersion {
       salesforce.Asset,
       salesforce.AssetRelationship,
       salesforce.AssignedResource,
+      salesforce.AuthorizationFormText,
       salesforce.Campaign,
       salesforce.Case,
       salesforce.CollaborationGroup,

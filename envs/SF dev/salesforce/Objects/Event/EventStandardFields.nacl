@@ -397,7 +397,7 @@ type salesforce.Event {
       {
         fullName = "Pacific/Norfolk"
         default = false
-        label = "(GMT+11:00) Norfolk Island Time (Pacific/Norfolk)"
+        label = "(GMT+11:00) Norfolk Island Standard Time (Pacific/Norfolk)"
         isActive = true
       },
       {
@@ -1192,7 +1192,7 @@ type salesforce.Event {
   salesforce.LongTextArea Recurrence2PatternText {
     apiName = "Event.Recurrence2PatternText"
     label = "Recurrence Pattern"
-    createable = false
+    createable = true
     updateable = false
     length = 512
     queryable = true

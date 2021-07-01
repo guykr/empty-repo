@@ -191,6 +191,12 @@ type salesforce.Invoice {
         label = "Error Posting"
         isActive = true
       },
+      {
+        fullName = "Error"
+        default = false
+        label = "Error"
+        isActive = true
+      },
     ]
     restricted = true
     createable = false

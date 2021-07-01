@@ -34,4 +34,6 @@ type salesforce.SharingGuestRule {
     localOnly = true
   }
   metadataType = "SharingGuestRule"
+  boolean includeHVUOwnedRecords {
+  }
 }

@@ -252,4 +252,10 @@ type salesforce.DigitalWallet {
     unique = false
     queryable = true
   }
+  salesforce.Unknown GatewayTokenEncrypted {
+    apiName = "DigitalWallet.GatewayTokenEncrypted"
+    queryable = false
+    updateable = false
+    createable = false
+  }
 }

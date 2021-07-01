@@ -141,6 +141,12 @@ type salesforce.MessagingSession {
         label = "New"
         isActive = true
       },
+      {
+        fullName = "Consent"
+        default = false
+        label = "Consent"
+        isActive = true
+      },
     ]
     restricted = true
     createable = true
@@ -408,6 +414,12 @@ type salesforce.MessagingSession {
         fullName = "EmbeddedMessaging"
         default = false
         label = "Embedded Messaging"
+        isActive = true
+      },
+      {
+        fullName = "Voice"
+        default = false
+        label = "Voice"
         isActive = true
       },
     ]

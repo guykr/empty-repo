@@ -1120,9 +1120,21 @@ type salesforce.MacroInstruction {
         isActive = true
       },
       {
+        fullName = "Tab.AlternativePaymentMethod"
+        default = false
+        label = "Active Alternative Payment Method Tab"
+        isActive = true
+      },
+      {
         fullName = "Tab.ApiAnomalyEventStore"
         default = false
         label = "Active API Anomaly Event Store Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.AppointmentTopicTimeSlot"
+        default = false
+        label = "Active Appointment Topic Time Slot Tab"
         isActive = true
       },
       {
@@ -1141,6 +1153,18 @@ type salesforce.MacroInstruction {
         fullName = "Tab.AssignedResource"
         default = false
         label = "Active Assigned Resource Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.AuthorizationFormText"
+        default = false
+        label = "Active Authorization Form Text Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.CardPaymentMethod"
+        default = false
+        label = "Active Card Payment Method Tab"
         isActive = true
       },
       {
@@ -1192,6 +1216,24 @@ type salesforce.MacroInstruction {
         isActive = true
       },
       {
+        fullName = "Tab.ContactPointAddress"
+        default = false
+        label = "Active Contact Point Address Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.ContactPointEmail"
+        default = false
+        label = "Active Contact Point Email Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.ContactPointPhone"
+        default = false
+        label = "Active Contact Point Phone Tab"
+        isActive = true
+      },
+      {
         fullName = "Tab.Contract"
         default = false
         label = "Active Contract Tab"
@@ -1207,6 +1249,12 @@ type salesforce.MacroInstruction {
         fullName = "Tab.CreditMemo"
         default = false
         label = "Active Credit Memo Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.DigitalWallet"
+        default = false
+        label = "Active Digital Wallet Tab"
         isActive = true
       },
       {
@@ -1318,9 +1366,57 @@ type salesforce.MacroInstruction {
         isActive = true
       },
       {
+        fullName = "Tab.Payment"
+        default = false
+        label = "Active Payment Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.PaymentAuthAdjustment"
+        default = false
+        label = "Active Payment Authorization Adjustment Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.PaymentAuthorization"
+        default = false
+        label = "Active Payment Authorization Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.PaymentGateway"
+        default = false
+        label = "Active Payment Gateway Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.PaymentGatewayLog"
+        default = false
+        label = "Active Payment Gateway Log Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.PaymentLineInvoice"
+        default = false
+        label = "Active Payment Line Invoice Tab"
+        isActive = true
+      },
+      {
         fullName = "Tab.Product2"
         default = false
         label = "Active Product Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.Refund"
+        default = false
+        label = "Active Refund Tab"
+        isActive = true
+      },
+      {
+        fullName = "Tab.RefundLinePayment"
+        default = false
+        label = "Active Refund Line Payment Tab"
         isActive = true
       },
       {

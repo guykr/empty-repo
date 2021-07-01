@@ -1,4 +1,4 @@
-type salesforce.FlowSteppedStageItem {
+type salesforce.FlowOrchestratedStage {
   annotations {
     serviceid metadataType {
     }
@@ -19,9 +19,29 @@ type salesforce.FlowSteppedStageItem {
   }
   string name {
   }
-  string actionName {
+  string elementSubtype {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "SortCollectionProcessor",
+      ]
+    }
   }
-  string actionType {
+  string label {
+  }
+  number locationX {
+  }
+  number locationY {
+  }
+  salesforce.FlowConnector connector {
+  }
+  salesforce.FlowStageStepExitActionInputParameter exitActionInputParameters {
+  }
+  string exitActionName {
+  }
+  salesforce.FlowStageStepExitActionOutputParameter exitActionOutputParameters {
+  }
+  string exitActionType {
     _restriction = {
       enforce_value = false
       values = [
@@ -50,8 +70,10 @@ type salesforce.FlowSteppedStageItem {
         "assignTrailheadBadge",
         "attachQuipDocumentToRecord",
         "batchJobAction",
+        "calcCartPromotionsAction",
         "calcCartShipmentAction",
         "calcCartTaxesAction",
+        "calculateAdvancedAccountForecast",
         "calculateRebateAmountAndUpsertPayout",
         "cancelAccrual",
         "cancelAppointment",
@@ -65,6 +87,7 @@ type salesforce.FlowSteppedStageItem {
         "cartInitiateAsyncStep",
         "cartToOrderAction",
         "changeAllTierOrNone",
+        "changeFinancePeriodStatus",
         "changeSalesCadenceTargetAssignee",
         "changeTier",
         "chat",
@@ -77,6 +100,7 @@ type salesforce.FlowSteppedStageItem {
         "contentWorkspaceEnableFolders",
         "copyQuipContent",
         "copyQuipDocument",
+        "createBillingScheduleFromOrderItem",
         "createCreditMemoOrderSummary",
         "createCustomField",
         "createDraftFromOnlineKnowledgeArticle",
@@ -84,6 +108,7 @@ type salesforce.FlowSteppedStageItem {
         "createFulfillmentOrder",
         "createFulfillmentOrders",
         "createInvoiceFromFulfillmentOrder",
+        "createOrUpdateAssetFromOrder",
         "createOrderFromQuote",
         "createOrderPaymentSummary",
         "createOrderSummary",
@@ -91,6 +116,7 @@ type salesforce.FlowSteppedStageItem {
         "createQuipDocument",
         "createQuipFolder",
         "createResponseEventAction",
+        "createReturnOrder",
         "createServiceReport",
         "createWorkItem",
         "creditPoints",
@@ -120,6 +146,7 @@ type salesforce.FlowSteppedStageItem {
         "generateWorkPlans",
         "getBenefitAndCalculateRebateAmount",
         "getDialerSoftphonePathSuffix",
+        "getEligibleProgramRebateTypes",
         "getIntelligentAccountSettingsToken",
         "getPointsBalance",
         "getTier",
@@ -153,6 +180,7 @@ type salesforce.FlowSteppedStageItem {
         "pardotGetListx",
         "pauseSalesCadenceTracker",
         "performMultiLevelRollups",
+        "placeOrder",
         "priceCart",
         "print",
         "printServiceDocument",
@@ -178,20 +206,31 @@ type salesforce.FlowSteppedStageItem {
         "resumeSalesCadenceTracker",
         "returnOrderItemSummariesPreview",
         "returnOrderItemSummariesSubmit",
+        "returnReturnOrderItems",
         "routeWork",
         "routingAddressVerification",
         "salesCadenceListenerBranchStepTranslator",
         "saveAppointment",
         "saveRecommendationDecision",
         "scaleCacheAsyncRefresh",
+        "screenPop",
         "sendAlert",
+        "sendSalesCadenceEvent",
         "sendSurveyInvitation",
         "setCheckoutDeliveryMethod",
         "sfdcOutputAction",
         "skillsBasedRouting",
+        "slackArchiveChannel",
+        "slackCreateChannel",
+        "slackInviteUserToWorkspace",
+        "slackInviteUsersToChannel",
+        "slackPostMessage",
+        "slackUserInChannel",
+        "slackUserInWorkspace",
         "storeReplyRecommendationsFeedback",
         "submit",
         "submitDigitalFormResponse",
+        "submitFailedRecordsBatchJob",
         "submitKnowledgeArticleForTranslation",
         "thanks",
         "thunderResponse",
@@ -201,13 +240,11 @@ type salesforce.FlowSteppedStageItem {
       ]
     }
   }
-  salesforce.FlowCondition entryCriteria {
+  string exitConditionLogic {
   }
-  string entryCriteriaLogic {
+  salesforce.FlowCondition exitConditions {
   }
-  salesforce.FlowSteppedStageItemInputParameter inputParameters {
+  salesforce.FlowStageStep stageSteps {
   }
-  string label {
-  }
-  metadataType = "FlowSteppedStageItem"
+  metadataType = "FlowOrchestratedStage"
 }

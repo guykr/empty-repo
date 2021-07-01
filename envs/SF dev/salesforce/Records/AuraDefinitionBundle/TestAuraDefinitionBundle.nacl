@@ -11,4 +11,7 @@ salesforce.AuraDefinitionBundle TestAuraDefinitionBundle {
   rendererContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundleRenderer.js")
   markup = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundle.cmp")
   controllerContent = file("salesforce/Records/AuraDefinitionBundle/TestAuraDefinitionBundle/TestAuraDefinitionBundleController.js")
+  _generated_dependencies = [
+    salesforce.AuraDefinitionBundle.instance.TestAuraDefinitionBundle,
+  ]
 }

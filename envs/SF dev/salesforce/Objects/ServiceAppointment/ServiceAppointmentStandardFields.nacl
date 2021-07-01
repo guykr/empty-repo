@@ -527,4 +527,19 @@ type salesforce.ServiceAppointment {
     updateable = true
     queryable = true
   }
+  salesforce.Unknown ApptBookingInfoUrl {
+    apiName = "ServiceAppointment.ApptBookingInfoUrl"
+    trackHistory = "false"
+    queryable = false
+    updateable = false
+    createable = false
+  }
+  salesforce.Unknown IsOffsiteAppointment {
+    apiName = "ServiceAppointment.IsOffsiteAppointment"
+    inlineHelpText = "Any type of work that can be done remotely."
+    trackHistory = "false"
+    queryable = false
+    updateable = false
+    createable = false
+  }
 }

@@ -34,6 +34,7 @@ type salesforce.PlatformEventChannelMember {
         "GlobalIdentityStandard",
         "IsotopeStandardChangeEvents",
         "PardotSyncStdChannel",
+        "SlackAlertsEventChannel",
         "VideoCall",
         "WorkPlansCDCEventChannel",
       ]

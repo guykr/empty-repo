@@ -70,4 +70,9 @@ type salesforce.AppointmentSchedulingPolicy {
   suffix = "policy"
   dirName = "appointmentSchedulingPolicies"
   metadataType = "AppointmentSchedulingPolicy"
+  string appointmentAssignmentPolicy {
+    foreignKeyDomain = [
+      "AppointmentAssignmentPolicy",
+    ]
+  }
 }
