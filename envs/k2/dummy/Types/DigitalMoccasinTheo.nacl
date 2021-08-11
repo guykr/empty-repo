@@ -1,0 +1,32 @@
+type dummy.DigitalMoccasinTheo {
+  annotations {
+    string RepresentativeScarletMaud {
+    }
+    serviceid WildGreenSibyl {
+    }
+    serviceid SlimyBeigeSiouxie {
+    }
+    serviceid GrubbyCyanBettina {
+    }
+  }
+  dummy.DEFAULT LazyScarletBettina {
+    _hidden_value = true
+  }
+  "Map<boolean>" ThunderingCopperTherine {
+    _hidden_value = true
+  }
+  json LikelyChocolateElke {
+    _hidden_value = true
+  }
+  string UnacceptableMagentaLizette {
+    _hidden_value = true
+  }
+  boolean HandsomeAzureHarrie {
+    _hidden_value = true
+  }
+  RepresentativeScarletMaud = "Why didnt the skeleton cross the road? Because he had no guts."
+  WildGreenSibyl = "To be Frank, I'd have to change my name."
+  SlimyBeigeSiouxie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GrubbyCyanBettina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

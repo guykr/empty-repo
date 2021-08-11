@@ -1,0 +1,46 @@
+type dummy.WildPurpleLettie {
+  annotations {
+    serviceid RacialJadeTove {
+    }
+    dummy.SparklingAmaranthLeone DueGrayWini {
+    }
+    json GoverningRoseMelonie {
+    }
+    dummy.EntireBrownJacki ElectoralAquaCaron {
+    }
+    number ColonialBrownMarthe {
+    }
+    serviceid PoorRedElberta {
+    }
+    dummy.DEFAULT LongAmberElicia {
+    }
+  }
+  json BeautifulMaroonShanie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DependentTealTine {
+    _hidden_value = true
+  }
+  string EthnicAmethystPaula {
+    _hidden_value = true
+  }
+  json ProvincialLimeJunette {
+    _hidden_value = true
+  }
+  json ProfitableTomatoGenovera {
+    _hidden_value = true
+  }
+  string VisualMoccasinKira {
+    _hidden_value = true
+  }
+  RacialJadeTove = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DueGrayWini = true
+  GoverningRoseMelonie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ElectoralAquaCaron = 145
+  ColonialBrownMarthe = 50
+  PoorRedElberta = "Why didnt the skeleton cross the road? Because he had no guts."
+  LongAmberElicia = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  _hidden_value = true
+}

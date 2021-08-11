@@ -1,0 +1,56 @@
+type dummy.ArabWhiteEalasaid {
+  annotations {
+    serviceid ChronicSilverFerne {
+    }
+    string BlackLimeDeeann {
+    }
+    boolean OlympicFuchsiaMaire {
+    }
+    boolean YellowOliveRona {
+    }
+    dummy.LightAmethystFrank FragileCoralDanice {
+    }
+  }
+  serviceid BoilingLavenderCynde {
+    _hidden_value = true
+  }
+  string KoreanRoseOrelle {
+    _hidden_value = true
+  }
+  serviceid NumerousRedMargarita {
+    _hidden_value = true
+  }
+  number KindGrayJohnette {
+    _hidden_value = true
+  }
+  number IndividualGrayFred {
+    _hidden_value = true
+  }
+  boolean ZanyGraySelena {
+    _hidden_value = true
+  }
+  json SelfishChocolateTedi {
+    _hidden_value = true
+  }
+  number OddFuchsiaLoralyn {
+    _hidden_value = true
+  }
+  boolean FamousIvoryEvanne {
+    _hidden_value = true
+  }
+  string InstantChocolateNancee {
+    _hidden_value = true
+  }
+  json ExtremeAquaKaril {
+    _hidden_value = true
+  }
+  json RoughOrangeTwyla {
+    _hidden_value = true
+  }
+  ChronicSilverFerne = "What do you call two barracuda fish?  A Pairacuda!"
+  BlackLimeDeeann = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OlympicFuchsiaMaire = true
+  YellowOliveRona = true
+  FragileCoralDanice = false
+  _hidden_value = true
+}

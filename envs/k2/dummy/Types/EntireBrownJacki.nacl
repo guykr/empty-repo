@@ -1,0 +1,64 @@
+type dummy.EntireBrownJacki is number {
+  annotations {
+    serviceid GoldenWhiteKarin {
+    }
+    number UgliestPeachMerla {
+    }
+    serviceid CoolCoralAtlante {
+    }
+    string LiteraryPeachMilzie {
+    }
+    string PregnantPinkRobbie {
+    }
+    string AcuteBrownMaryellen {
+    }
+    string MisleadingCoffeeHarriette {
+    }
+    number ModernBronzeGilli {
+    }
+    serviceid ElaborateMoccasinArdis {
+    }
+    boolean ComprehensiveSilverDanette {
+    }
+    boolean JustMagentaDevina {
+    }
+    number UnexpectedMoccasinRene {
+    }
+    json FunnyGrayDarryl {
+    }
+    serviceid CulturalRoseElora {
+    }
+    string CanadianAmberDoe {
+    }
+    json ProgressivePlumMarrissa {
+    }
+    string IntelligentTomatoConstancy {
+    }
+    serviceid InappropriateGrayCourtney {
+    }
+    string RivalAquamarineGerda {
+    }
+    number PatientFuchsiaMatelda {
+    }
+  }
+  GoldenWhiteKarin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UgliestPeachMerla = 404
+  CoolCoralAtlante = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LiteraryPeachMilzie = "Why didnt the skeleton cross the road? Because he had no guts."
+  PregnantPinkRobbie = "I'll tell you what often gets over looked... garden fences."
+  AcuteBrownMaryellen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MisleadingCoffeeHarriette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ModernBronzeGilli = 402
+  ElaborateMoccasinArdis = "What do you call two barracuda fish?  A Pairacuda!"
+  ComprehensiveSilverDanette = false
+  JustMagentaDevina = false
+  UnexpectedMoccasinRene = 51
+  FunnyGrayDarryl = "Why did the tomato blush? Because it saw the salad dressing."
+  CulturalRoseElora = "Why was it called the dark ages? Because of all the knights. "
+  CanadianAmberDoe = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ProgressivePlumMarrissa = "Why did the tomato blush? Because it saw the salad dressing."
+  IntelligentTomatoConstancy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InappropriateGrayCourtney = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RivalAquamarineGerda = "I'll tell you what often gets over looked... garden fences."
+  PatientFuchsiaMatelda = 114
+}

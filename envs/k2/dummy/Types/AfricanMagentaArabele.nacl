@@ -1,0 +1,26 @@
+type dummy.AfricanMagentaArabele {
+  annotations {
+    json YummyEmeraldMarlyn {
+    }
+    json FriendlySilverDinah {
+    }
+    number DrabVioletGunilla {
+    }
+    boolean PunyVioletMyrtice {
+    }
+    number RelativeBlushMehetabel {
+    }
+  }
+  json ConsistentAmaranthFlo {
+    _hidden_value = true
+  }
+  serviceid DoubtfulBeigeJada {
+    _hidden_value = true
+  }
+  YummyEmeraldMarlyn = "Why did the kid cross the playground? To get to the other slide."
+  FriendlySilverDinah = "A steak pun is a rare medium well done."
+  DrabVioletGunilla = 549
+  PunyVioletMyrtice = true
+  RelativeBlushMehetabel = 97
+  _hidden_value = true
+}

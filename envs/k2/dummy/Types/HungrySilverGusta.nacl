@@ -1,0 +1,22 @@
+type dummy.HungrySilverGusta {
+  annotations {
+    string StrongTealMatti {
+    }
+    dummy.DEFAULT BalancedAquamarineAfton {
+    }
+    json HeavySilverShena {
+    }
+    json InternalHarlequinArliene {
+    }
+  }
+  number RelievedAquamarineSena {
+    _hidden_value = true
+  }
+  StrongTealMatti = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BalancedAquamarineAfton = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  HeavySilverShena = "Im only familiar with 25 letters in the English language. I dont know why."
+  InternalHarlequinArliene = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,35 @@
+type dummy.MysteriousMaroonDaloris {
+  annotations {
+    serviceid OverwhelmingGoldGiulietta {
+    }
+    serviceid FunnyAquaBeverlee {
+    }
+    boolean RivalBronzeKarina {
+    }
+    string GladBrownTamiko {
+    }
+    string HistoricPinkRozele {
+    }
+  }
+  boolean EfficientCrimsonMeghan {
+    _hidden_value = true
+  }
+  serviceid RoughCoffeeCelisse {
+    _hidden_value = true
+  }
+  string SharedIndigoCarissa {
+    _hidden_value = true
+  }
+  number WeeklyBeigeJoela {
+    _hidden_value = true
+  }
+  number PsychiatricRedRorie {
+    _hidden_value = true
+  }
+  OverwhelmingGoldGiulietta = "To be Frank, I'd have to change my name."
+  FunnyAquaBeverlee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RivalBronzeKarina = true
+  GladBrownTamiko = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HistoricPinkRozele = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

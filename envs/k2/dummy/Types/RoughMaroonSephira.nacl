@@ -1,0 +1,71 @@
+type dummy.RoughMaroonSephira {
+  annotations {
+    string WorkingFuchsiaColly {
+    }
+    dummy.NuclearBlueCorinna RichPurpleDoris {
+    }
+    string LevelTomatoAurlie {
+    }
+    boolean ToughTomatoMathilda {
+    }
+    dummy.EquivalentJadeCaria JudicialAmethystSonja {
+    }
+    json VariableCopperMaggy {
+    }
+    boolean EssentialBlushJeri {
+    }
+    serviceid UgliestHarlequinDesirae {
+    }
+  }
+  boolean HollowTealJaynell {
+    _hidden_value = true
+  }
+  boolean AdequateAzureFernanda {
+    _hidden_value = true
+  }
+  number AttractivePlumJo {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnawareGoldBelicia {
+    _hidden_value = true
+  }
+  boolean QuickOrangeMellisa {
+    _hidden_value = true
+  }
+  string FascinatingPlumMala {
+    _hidden_value = true
+  }
+  string ConfidentIvoryNiki {
+    _hidden_value = true
+  }
+  string GlobalPurpleAudie {
+    _hidden_value = true
+  }
+  boolean BoldGoldMaggy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ClassicalLimeAggie {
+    _hidden_value = true
+  }
+  serviceid VerbalCyanDorie {
+    _hidden_value = true
+  }
+  json ArbitraryRedHali {
+    _hidden_value = true
+  }
+  number MeaningfulOliveMeade {
+    _hidden_value = true
+  }
+  string ConsciousLimeRonny {
+    _hidden_value = true
+  }
+  WorkingFuchsiaColly = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RichPurpleDoris = 114
+  LevelTomatoAurlie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ToughTomatoMathilda = true
+  JudicialAmethystSonja = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VariableCopperMaggy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EssentialBlushJeri = false
+  UgliestHarlequinDesirae = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

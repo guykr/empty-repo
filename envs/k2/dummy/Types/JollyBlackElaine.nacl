@@ -1,0 +1,26 @@
+type dummy.JollyBlackElaine {
+  annotations {
+    dummy.SmallPlumLiana CurlyLavenderBritte {
+    }
+    string WealthyWhiteRafaelia {
+    }
+    string AdvancedMoccasinBecky {
+    }
+    number StuckHarlequinConni {
+    }
+    json InvolvedAmaranthJoelynn {
+    }
+    dummy.AppropriateChocolateLadonna RawPlumAllsun {
+    }
+  }
+  json SpontaneousMaroonIormina {
+    _hidden_value = true
+  }
+  CurlyLavenderBritte = false
+  WealthyWhiteRafaelia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AdvancedMoccasinBecky = "Im only familiar with 25 letters in the English language. I dont know why."
+  StuckHarlequinConni = 266
+  InvolvedAmaranthJoelynn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RawPlumAllsun = 589
+  _hidden_value = true
+}

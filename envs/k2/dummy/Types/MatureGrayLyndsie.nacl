@@ -1,0 +1,40 @@
+type dummy.MatureGrayLyndsie {
+  annotations {
+    boolean TenderIvoryWenona {
+    }
+    json WittyPeachJacquette {
+    }
+    dummy.DEFAULT DangerousBrownDixie {
+    }
+    string CivilianAquamarineKaren {
+    }
+  }
+  serviceid VeryCopperAnia {
+    _hidden_value = true
+  }
+  "List<number>" StraightAzureBlancha {
+    _hidden_value = true
+  }
+  json KoreanBeigeDenny {
+    _hidden_value = true
+  }
+  json AcademicChocolateEdy {
+    _hidden_value = true
+  }
+  string SoftLimeLorraine {
+    _hidden_value = true
+  }
+  number FastTurquoiseGusta {
+    _hidden_value = true
+  }
+  string VictoriousAquamarineSandi {
+    _hidden_value = true
+  }
+  TenderIvoryWenona = false
+  WittyPeachJacquette = "Why was it called the dark ages? Because of all the knights. "
+  DangerousBrownDixie = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  CivilianAquamarineKaren = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

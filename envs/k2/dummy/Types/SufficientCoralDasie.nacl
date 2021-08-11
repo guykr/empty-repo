@@ -1,0 +1,85 @@
+type dummy.SufficientCoralDasie {
+  annotations {
+    boolean IntellectualPurpleKelci {
+    }
+    string MagnificentPinkAlicea {
+    }
+    serviceid UsedGoldSteffane {
+    }
+    dummy.DEFAULT NegativeEmeraldWandie {
+    }
+  }
+  serviceid DizzyBronzeChickie {
+    _hidden_value = true
+  }
+  json OutstandingAzureJosephina {
+    _hidden_value = true
+  }
+  string AfricanIvoryDierdre {
+    _hidden_value = true
+  }
+  boolean LevelTanJaneva {
+    _hidden_value = true
+  }
+  "List<string>" PurringAmaranthSavina {
+    _hidden_value = true
+  }
+  string WillingTealWinne {
+    _hidden_value = true
+  }
+  boolean VerticalGrayTyne {
+    _hidden_value = true
+  }
+  number DesirableBlueRobby {
+    _hidden_value = true
+  }
+  boolean WearyBlackEmlynne {
+    _hidden_value = true
+  }
+  boolean SuperCrimsonCherish {
+    _hidden_value = true
+  }
+  boolean ConfusedCoralMarna {
+    _hidden_value = true
+  }
+  serviceid EnvironmentalGreenErina {
+    _hidden_value = true
+  }
+  number GivenGraySosanna {
+    _hidden_value = true
+  }
+  number ProgressiveChocolateTony {
+    _hidden_value = true
+  }
+  boolean FaithfulJadeFlorenza {
+    _hidden_value = true
+  }
+  "List<string>" SorryCyanWendeline {
+    _hidden_value = true
+  }
+  string TallAzureMerl {
+    _hidden_value = true
+  }
+  json FragileSalmonArlena {
+    _hidden_value = true
+  }
+  boolean EstablishedAmberCorissa {
+    _hidden_value = true
+  }
+  number MeaningfulRedMignon {
+    _hidden_value = true
+  }
+  number SupportingBlueCelka {
+    _hidden_value = true
+  }
+  serviceid AfraidAmaranthDelila {
+    _hidden_value = true
+  }
+  IntellectualPurpleKelci = false
+  MagnificentPinkAlicea = "A steak pun is a rare medium well done."
+  UsedGoldSteffane = "Whoever invented the knock-knock joke should get a no bell prize."
+  NegativeEmeraldWandie = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  _hidden_value = true
+}

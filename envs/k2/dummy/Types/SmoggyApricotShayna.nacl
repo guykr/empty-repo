@@ -1,0 +1,41 @@
+type dummy.SmoggyApricotShayna is number {
+  annotations {
+    dummy.DEFAULT CondemnedTealMorna {
+    }
+    dummy.DEFAULT ExcitingRedEdith {
+    }
+    json PublicLavenderAlvera {
+    }
+    string InnovativeAquaMurial {
+    }
+    json CoolEmeraldLeela {
+    }
+    serviceid AnnoyedYellowAlaine {
+    }
+    boolean ScrawnyLavenderEveline {
+    }
+    serviceid EuropeanOliveKalie {
+    }
+    serviceid BeautifulCoffeeArleta {
+    }
+    boolean SuperCrimsonYalonda {
+    }
+    number UncertainOliveMaridel {
+    }
+  }
+  CondemnedTealMorna = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ExcitingRedEdith = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  PublicLavenderAlvera = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InnovativeAquaMurial = "What creature is smarter than a talking parrot? A spelling bee."
+  CoolEmeraldLeela = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AnnoyedYellowAlaine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ScrawnyLavenderEveline = true
+  EuropeanOliveKalie = "Dad Im hungry  Hi hungry Im dad"
+  BeautifulCoffeeArleta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SuperCrimsonYalonda = true
+  UncertainOliveMaridel = 743
+}

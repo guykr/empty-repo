@@ -1,0 +1,23 @@
+type dummy.LoudTurquoiseDominique {
+  annotations {
+    json RearBlueTessi {
+    }
+    serviceid ManyRoseSisile {
+    }
+    number FinalTanJosephina {
+    }
+    boolean DisabledHarlequinBambi {
+    }
+    string WealthyPlumKristel {
+    }
+  }
+  number ScatteredGoldYoshiko {
+    _hidden_value = true
+  }
+  RearBlueTessi = "I'll tell you what often gets over looked... garden fences."
+  ManyRoseSisile = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FinalTanJosephina = 667
+  DisabledHarlequinBambi = false
+  WealthyPlumKristel = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

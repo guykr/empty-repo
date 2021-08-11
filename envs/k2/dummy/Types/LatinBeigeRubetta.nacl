@@ -1,0 +1,83 @@
+type dummy.LatinBeigeRubetta {
+  annotations {
+    serviceid ConcernedJadeRandene {
+    }
+    string ConsistentRedAnestassia {
+    }
+    string GrossAquamarineDeina {
+    }
+    json DepressedSilverDonny {
+    }
+    number PurpleJadeRaine {
+    }
+    json UnwillingPinkZarah {
+    }
+    json ChosenCopperWrennie {
+    }
+  }
+  boolean ConvincingGoldNanci {
+    _hidden_value = true
+  }
+  number InitialAmaranthSaraann {
+    _hidden_value = true
+  }
+  string ProvincialSilverRay {
+    _hidden_value = true
+  }
+  boolean JoyousBlueMelamie {
+    _hidden_value = true
+  }
+  serviceid DrivingRedBlinny {
+    _hidden_value = true
+  }
+  number BizarrePeachDoralynn {
+    _hidden_value = true
+  }
+  string GuiltySalmonNoellyn {
+    _hidden_value = true
+  }
+  number DomesticOrangeDale {
+    _hidden_value = true
+  }
+  serviceid HandsomeRoseSharity {
+    _hidden_value = true
+  }
+  json NearbyChocolateIlene {
+    _hidden_value = true
+  }
+  number PerfectCopperChryste {
+    _hidden_value = true
+  }
+  boolean FellowRedCandice {
+    _hidden_value = true
+  }
+  boolean InsufficientBrownXena {
+    _hidden_value = true
+  }
+  boolean ApplicableTealOrelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChosenPlumGilemette {
+    _hidden_value = true
+  }
+  number DependentOrangeElsinore {
+    _hidden_value = true
+  }
+  string InternationalApricotStacy {
+    _hidden_value = true
+  }
+  boolean MathematicalRedLisabeth {
+    _hidden_value = true
+  }
+  string WanderingSapphireLuce {
+    _hidden_value = true
+  }
+  ConcernedJadeRandene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConsistentRedAnestassia = "Did you know that protons have mass? I didn't even know they were catholic."
+  GrossAquamarineDeina = "Why didnt the skeleton cross the road? Because he had no guts."
+  DepressedSilverDonny = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PurpleJadeRaine = 131
+  UnwillingPinkZarah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ChosenCopperWrennie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

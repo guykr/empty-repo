@@ -1,0 +1,59 @@
+type dummy.HumanMoccasinAllyce {
+  annotations {
+    json ProfoundOliveDotti {
+    }
+    boolean TypicalPinkEmmye {
+    }
+    serviceid MadAmethystEden {
+    }
+    boolean LittleJadePamella {
+    }
+    dummy.MinimumIvoryFrankie FlyingAzureZara {
+    }
+  }
+  json ArmedAmethystAubrie {
+    _hidden_value = true
+  }
+  string BalancedRedAlessandra {
+    _hidden_value = true
+  }
+  string UnconsciousScarletCammi {
+    _hidden_value = true
+  }
+  string DoubtfulWhiteDedie {
+    _hidden_value = true
+  }
+  number FlutteringApricotBenni {
+    _hidden_value = true
+  }
+  serviceid AnonymousBronzeKaralee {
+    _hidden_value = true
+  }
+  number ProudAmberBernadette {
+    _hidden_value = true
+  }
+  boolean VitalCrimsonLouise {
+    _hidden_value = true
+  }
+  boolean FilthyMoccasinMargo {
+    _hidden_value = true
+  }
+  string MinimumIndigoKylynn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HelpfulIvoryTilly {
+    _hidden_value = true
+  }
+  serviceid RepulsiveBlackRosemarie {
+    _hidden_value = true
+  }
+  number PleasantEmeraldEvangelia {
+    _hidden_value = true
+  }
+  ProfoundOliveDotti = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TypicalPinkEmmye = true
+  MadAmethystEden = "Why do birds fly south for the winter? Because it's too far to walk."
+  LittleJadePamella = false
+  FlyingAzureZara = false
+  _hidden_value = true
+}

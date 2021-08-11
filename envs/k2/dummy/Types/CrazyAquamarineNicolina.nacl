@@ -1,0 +1,41 @@
+type dummy.CrazyAquamarineNicolina {
+  annotations {
+    boolean WorryingCoffeeCarlee {
+    }
+    json PurpleCoralJewelle {
+    }
+    json CalmFuchsiaToinette {
+    }
+    json HealthyAquamarineMelanie {
+    }
+    json SocialistBronzeAna {
+    }
+    serviceid QuietCoffeeCathyleen {
+    }
+    number NosyOliveLea {
+    }
+    number UninterestedSilverEvangelia {
+    }
+  }
+  boolean HelpfulPlumShae {
+    _hidden_value = true
+  }
+  serviceid ProminentBlushVivienne {
+    _hidden_value = true
+  }
+  serviceid ModernYellowEmmalyn {
+    _hidden_value = true
+  }
+  number FortunateBlushJolyn {
+    _hidden_value = true
+  }
+  WorryingCoffeeCarlee = false
+  PurpleCoralJewelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CalmFuchsiaToinette = "To be Frank, I'd have to change my name."
+  HealthyAquamarineMelanie = "Im only familiar with 25 letters in the English language. I dont know why."
+  SocialistBronzeAna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  QuietCoffeeCathyleen = "Whoever invented the knock-knock joke should get a no bell prize."
+  NosyOliveLea = 7
+  UninterestedSilverEvangelia = 149
+  _hidden_value = true
+}

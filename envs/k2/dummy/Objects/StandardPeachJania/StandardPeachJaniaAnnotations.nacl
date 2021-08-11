@@ -1,0 +1,52 @@
+type dummy.StandardPeachJania {
+  annotations {
+    number PassingSalmonEkaterina {
+    }
+    string FarBlackMerci {
+    }
+    boolean WorriedGrayReine {
+    }
+    boolean LiableBrownBertina {
+    }
+    serviceid BlushingFuchsiaChiquia {
+    }
+    string IrrelevantPurpleMartelle {
+    }
+    string YellowAmethystVicki {
+    }
+    number ComfortableGoldValma {
+    }
+    serviceid TerritorialBlueNathalie {
+    }
+    string ShallowSilverNichol {
+    }
+    boolean FundamentalPeachBarbaraanne {
+    }
+    json UglyPurpleAurelea {
+    }
+    dummy.ShallowSalmonAdelaide SecretSilverJoline {
+    }
+    number UniquePurpleRhianon {
+    }
+    serviceid ExcessiveYellowVilhelmina {
+    }
+    number OkScarletJulietta {
+    }
+  }
+  PassingSalmonEkaterina = 790
+  FarBlackMerci = "Why didnt the skeleton cross the road? Because he had no guts."
+  WorriedGrayReine = false
+  LiableBrownBertina = false
+  BlushingFuchsiaChiquia = "I'll tell you what often gets over looked... garden fences."
+  IrrelevantPurpleMartelle = "Why do birds fly south for the winter? Because it's too far to walk."
+  YellowAmethystVicki = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ComfortableGoldValma = 824
+  TerritorialBlueNathalie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ShallowSilverNichol = "I'll tell you what often gets over looked... garden fences."
+  FundamentalPeachBarbaraanne = true
+  UglyPurpleAurelea = "What do you call two barracuda fish?  A Pairacuda!"
+  SecretSilverJoline = file("VisualBronzeWandie.txt")
+  UniquePurpleRhianon = 219
+  ExcessiveYellowVilhelmina = "Dad Im hungry  Hi hungry Im dad"
+  OkScarletJulietta = 721
+}

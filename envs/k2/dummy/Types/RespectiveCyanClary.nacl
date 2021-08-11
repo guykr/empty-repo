@@ -1,0 +1,32 @@
+type dummy.RespectiveCyanClary {
+  annotations {
+    number JollyMagentaJillian {
+    }
+    string UnawareCopperElsa {
+    }
+    string AngryOliveNancie {
+    }
+    string ObligedAmaranthAleta {
+    }
+    number VivaciousScarletCoreen {
+    }
+    json MysteriousAquaBellanca {
+    }
+  }
+  serviceid DullEmeraldAgnella {
+    _hidden_value = true
+  }
+  number ControversialCoralSelena {
+    _hidden_value = true
+  }
+  "List<boolean>" SelfishMoccasinDodi {
+    _hidden_value = true
+  }
+  JollyMagentaJillian = 175
+  UnawareCopperElsa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AngryOliveNancie = "To be Frank, I'd have to change my name."
+  ObligedAmaranthAleta = "Why didnt the skeleton cross the road? Because he had no guts."
+  VivaciousScarletCoreen = 131
+  MysteriousAquaBellanca = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

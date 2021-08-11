@@ -1,0 +1,43 @@
+type dummy.HotCoralMaurene {
+  annotations {
+    boolean BoldJadeNada {
+    }
+    number GratefulChocolateLorine {
+    }
+    boolean DryWhiteJanis {
+    }
+    dummy.DEFAULT HelpfulOliveChad {
+    }
+  }
+  number MildPlumNani {
+    _hidden_value = true
+  }
+  number CivilAquamarineEmiline {
+    _hidden_value = true
+  }
+  serviceid SmoggyJadeAlidia {
+    _hidden_value = true
+  }
+  json CooperativeLavenderMallory {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AutomaticTurquoiseMargaretha {
+    _hidden_value = true
+  }
+  serviceid EstimatedChocolateJaney {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GermanWhiteDion {
+    _hidden_value = true
+  }
+  serviceid NotableTealFerdinanda {
+    _hidden_value = true
+  }
+  BoldJadeNada = false
+  GratefulChocolateLorine = 641
+  DryWhiteJanis = true
+  HelpfulOliveChad = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

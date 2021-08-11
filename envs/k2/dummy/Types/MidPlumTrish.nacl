@@ -1,0 +1,74 @@
+type dummy.MidPlumTrish {
+  annotations {
+    serviceid DrabBlackLanie {
+    }
+    number EmbarrassedTomatoArlene {
+    }
+    serviceid WillingAzureKissiah {
+    }
+    number RigidScarletCam {
+    }
+  }
+  string HealthyIndigoJoly {
+    _hidden_value = true
+  }
+  boolean SuccessfulBlushPerle {
+    _hidden_value = true
+  }
+  string MildAquamarineMelisandra {
+    _hidden_value = true
+  }
+  json ProperPlumSabrina {
+    _hidden_value = true
+  }
+  json WesternVioletOnida {
+    _hidden_value = true
+  }
+  "List<number>" SimilarTealCloe {
+    _hidden_value = true
+  }
+  json JewishApricotTrudi {
+    _hidden_value = true
+  }
+  json EquivalentBeigeFrancesca {
+    _hidden_value = true
+  }
+  number NewBrownGusella {
+    _hidden_value = true
+  }
+  string CrazyLavenderFrederique {
+    _hidden_value = true
+  }
+  json AwareBrownSuzy {
+    _hidden_value = true
+  }
+  json BrainyBlackKarena {
+    _hidden_value = true
+  }
+  string SlimOrangeFallon {
+    _hidden_value = true
+  }
+  boolean GentleTomatoBrynna {
+    _hidden_value = true
+  }
+  json LuckyGreenLatashia {
+    _hidden_value = true
+  }
+  boolean RunningAzureCyndie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SorryCoffeeJolynn {
+    _hidden_value = true
+  }
+  boolean GleamingAquaInga {
+    _hidden_value = true
+  }
+  json AloneGoldAllyce {
+    _hidden_value = true
+  }
+  DrabBlackLanie = "I'll tell you what often gets over looked... garden fences."
+  EmbarrassedTomatoArlene = 10
+  WillingAzureKissiah = "What do you call two barracuda fish?  A Pairacuda!"
+  RigidScarletCam = 456
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.TrickyLimeLinda {
+  annotations {
+    json WideEmeraldRuthe {
+    }
+    dummy.DEFAULT HomelyRedBlondy {
+    }
+    number ShyAmaranthSydel {
+    }
+    boolean SweetAquamarineMarilyn {
+    }
+    boolean NuclearGrayBriny {
+    }
+  }
+  boolean GuiltyTealLetta {
+    _hidden_value = true
+  }
+  number SelectedSalmonStaci {
+    _hidden_value = true
+  }
+  WideEmeraldRuthe = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HomelyRedBlondy = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  ShyAmaranthSydel = 772
+  SweetAquamarineMarilyn = false
+  NuclearGrayBriny = true
+  _hidden_value = true
+}

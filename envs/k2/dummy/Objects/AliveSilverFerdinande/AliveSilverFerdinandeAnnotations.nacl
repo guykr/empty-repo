@@ -1,0 +1,54 @@
+type dummy.AliveSilverFerdinande {
+  annotations {
+    string HarshTealElianora {
+    }
+    serviceid CrookedChocolateJacinthe {
+    }
+    string AnxiousAmberLilith {
+    }
+    string StingyCoffeeFarra {
+    }
+    number AncientCopperCorrianne {
+    }
+    string StrongBlackPippy {
+    }
+    dummy.IndianVioletDdene ReasonableMagentaPrue {
+    }
+    boolean WeirdCrimsonMiranda {
+    }
+    serviceid CleverGreenNellie {
+    }
+    string QuietSalmonIsabelita {
+    }
+    serviceid NewBeigeMaisie {
+    }
+    json RealYellowMattie {
+    }
+    dummy.NuclearBlueCorinna LeftLavenderValera {
+    }
+    json GratefulEmeraldSerena {
+    }
+    dummy.ConfidentialScarletAntonie UpsetBlueSigrid {
+    }
+    string BloodyRoseSayre {
+    }
+    boolean GrotesquePlumTobe {
+    }
+  }
+  HarshTealElianora = "To be Frank, I'd have to change my name."
+  CrookedChocolateJacinthe = "Why didnt the skeleton cross the road? Because he had no guts."
+  AnxiousAmberLilith = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  StingyCoffeeFarra = "Why was it called the dark ages? Because of all the knights. "
+  AncientCopperCorrianne = 428
+  StrongBlackPippy = "What do you call two barracuda fish?  A Pairacuda!"
+  WeirdCrimsonMiranda = true
+  CleverGreenNellie = "Slept like a log last night  woke up in the fireplace."
+  QuietSalmonIsabelita = "Slept like a log last night  woke up in the fireplace."
+  NewBeigeMaisie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RealYellowMattie = "I'll tell you what often gets over looked... garden fences."
+  LeftLavenderValera = 125
+  GratefulEmeraldSerena = "What creature is smarter than a talking parrot? A spelling bee."
+  UpsetBlueSigrid = 338
+  BloodyRoseSayre = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrotesquePlumTobe = false
+}

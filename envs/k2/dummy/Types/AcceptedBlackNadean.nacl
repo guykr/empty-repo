@@ -1,0 +1,23 @@
+type dummy.AcceptedBlackNadean {
+  annotations {
+    dummy.SparklingAmaranthLeone UncertainCoffeePaulina {
+    }
+    string DrivingTealVernice {
+    }
+    json WeakBronzeSarine {
+    }
+    dummy.ExclusiveEmeraldCorrine UnfortunateJadeConchita {
+    }
+    number CombinedSapphireNonah {
+    }
+  }
+  boolean GuiltyGrayKaycee {
+    _hidden_value = true
+  }
+  UncertainCoffeePaulina = false
+  DrivingTealVernice = "Im only familiar with 25 letters in the English language. I dont know why."
+  WeakBronzeSarine = "Slept like a log last night  woke up in the fireplace."
+  UnfortunateJadeConchita = 201
+  CombinedSapphireNonah = 914
+  _hidden_value = true
+}

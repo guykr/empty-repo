@@ -1,0 +1,25 @@
+dummy.HotAmethystTeodora UnacceptableRedCatha {
+  DailyBrownAveryl = true
+  EvolutionaryJadeAdelaida = "To be Frank, I'd have to change my name."
+  TypicalOliveDaffie = file("CharmingCoralElfreda.txt")
+  StrangeRedCristen = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VoicelessAquaSarajane = [
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+    true,
+    true,
+    false,
+    false,
+  ]
+  ProposedBrownElsbeth = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  QuietApricotMadelaine = "How come the stadium got hot after the game? Because all of the fans left."
+  DelicateBrownConny = "Why was it called the dark ages? Because of all the knights. "
+  BreezyTomatoVelvet = true
+  _parent = dummy.DryGreenHalley
+}

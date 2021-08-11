@@ -1,0 +1,44 @@
+type dummy.MysteriousIndigoAurlie {
+  annotations {
+    boolean DirectCrimsonJobey {
+    }
+    json WetAmaranthKrystalle {
+    }
+    string MysteriousAmaranthJeni {
+    }
+    dummy.BewilderedGreenRosemarie SuccessfulCopperLilian {
+    }
+  }
+  serviceid WickedAzureFredi {
+    _hidden_value = true
+  }
+  serviceid LargeBlueClemmie {
+    _hidden_value = true
+  }
+  json AwareSalmonSherri {
+    _hidden_value = true
+  }
+  json EnchantingBronzeStarr {
+    _hidden_value = true
+  }
+  string LexicalGreenAndrei {
+    _hidden_value = true
+  }
+  serviceid BrightTomatoGalina {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" IdealAmaranthHailee {
+    _hidden_value = true
+  }
+  serviceid ContinentalAquaAlika {
+    _hidden_value = true
+  }
+  boolean QuaintBronzeDarsie {
+    _hidden_value = true
+  }
+  DirectCrimsonJobey = false
+  WetAmaranthKrystalle = "What creature is smarter than a talking parrot? A spelling bee."
+  MysteriousAmaranthJeni = "What creature is smarter than a talking parrot? A spelling bee."
+  SuccessfulCopperLilian = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

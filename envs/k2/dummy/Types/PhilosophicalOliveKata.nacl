@@ -1,0 +1,35 @@
+type dummy.PhilosophicalOliveKata {
+  annotations {
+    dummy.ConfidentialScarletAntonie SuccessfulBronzeJosie {
+    }
+    boolean MaleYellowAli {
+    }
+    serviceid GreasySapphireJaclyn {
+    }
+    number BritishPurpleAmberly {
+    }
+    string LiquidRoseJean {
+    }
+    number ImpressiveAquamarineCarmelle {
+    }
+  }
+  boolean TraditionalAquaAdelice {
+    _hidden_value = true
+  }
+  boolean NegativeMoccasinMelloney {
+    _hidden_value = true
+  }
+  number NeighbouringAzureGabbey {
+    _hidden_value = true
+  }
+  json FitBronzeKylynn {
+    _hidden_value = true
+  }
+  SuccessfulBronzeJosie = 851
+  MaleYellowAli = false
+  GreasySapphireJaclyn = "Why did the tomato blush? Because it saw the salad dressing."
+  BritishPurpleAmberly = 966
+  LiquidRoseJean = "Why do birds fly south for the winter? Because it's too far to walk."
+  ImpressiveAquamarineCarmelle = 314
+  _hidden_value = true
+}

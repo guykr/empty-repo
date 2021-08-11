@@ -1,0 +1,39 @@
+type dummy.AmateurAzureCallida {
+  annotations {
+    string CalmBronzeHalie {
+    }
+    json SafeApricotEmelia {
+    }
+    number NavalAquaClaudelle {
+    }
+  }
+  serviceid LazyPurpleAdrienne {
+    _hidden_value = true
+  }
+  serviceid ThenGreenZorine {
+    _hidden_value = true
+  }
+  number VisualRoseLu {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen VividAzureJoela {
+    IndianOrangeFilippa = true
+    QuietLimeCristen = 166
+    GrievingLavenderTera = 806
+    PatientApricotMidge = 292
+    CertainScarletClarine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AccurateYellowElfrida = true
+    SlowCrimsonIvett = false
+    RigidBrownAllene = "Why do birds fly south for the winter? Because it's too far to walk."
+    NegativeScarletWilly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PossibleAquaRanda = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  json BetterGrayBirgitta {
+    _hidden_value = true
+  }
+  CalmBronzeHalie = "A steak pun is a rare medium well done."
+  SafeApricotEmelia = "Slept like a log last night  woke up in the fireplace."
+  NavalAquaClaudelle = 552
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.DoubtfulAmaranthFrancoise {
+  annotations {
+    dummy.DEFAULT ElectricalPeachTimmi {
+    }
+    number DevelopedAquaBerget {
+    }
+    boolean GrotesqueTanJerrie {
+    }
+    number RespectableRoseRosita {
+    }
+    boolean WesternIvoryJulissa {
+    }
+    string LexicalAquamarineRobbin {
+    }
+  }
+  string PetiteBlackCelina {
+    _hidden_value = true
+  }
+  ElectricalPeachTimmi = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  DevelopedAquaBerget = 809
+  GrotesqueTanJerrie = false
+  RespectableRoseRosita = 981
+  WesternIvoryJulissa = true
+  LexicalAquamarineRobbin = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

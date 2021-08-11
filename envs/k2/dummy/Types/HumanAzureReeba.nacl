@@ -1,0 +1,81 @@
+type dummy.HumanAzureReeba is boolean {
+  annotations {
+    dummy.DEFAULT FairMagentaEilis {
+    }
+    serviceid GeneticPinkKania {
+    }
+    boolean ExcitedSalmonBabbie {
+    }
+    boolean LiquidBlackSandy {
+    }
+    json QuickestApricotDanny {
+    }
+    serviceid DefeatedPurpleDevan {
+    }
+    string SlimHarlequinAdria {
+    }
+    serviceid ExcitingYellowKristel {
+    }
+    boolean LowSalmonKoressa {
+    }
+    string NastyCyanMarnia {
+    }
+    number EthnicLavenderBinni {
+    }
+    json DefeatedPurpleStorm {
+    }
+    boolean MassOrangeEadie {
+    }
+    serviceid IdenticalOrangeGiovanna {
+    }
+    string EnglishGoldErmina {
+    }
+    string ImaginativeJadeSapphire {
+    }
+    boolean DustySalmonEmma {
+    }
+    string LikeOlivePatience {
+    }
+    json RevolutionaryPurpleBobbie {
+    }
+    number HumanAmaranthGertruda {
+    }
+    serviceid FriendlyTealIngaberg {
+    }
+    serviceid InteriorAzureSofie {
+    }
+    serviceid LiveCyanBabbie {
+    }
+    json FlatGreenBree {
+    }
+    serviceid LovelyOliveLoree {
+    }
+  }
+  FairMagentaEilis = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  GeneticPinkKania = "Slept like a log last night  woke up in the fireplace."
+  ExcitedSalmonBabbie = true
+  LiquidBlackSandy = true
+  QuickestApricotDanny = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DefeatedPurpleDevan = "Why did the kid cross the playground? To get to the other slide."
+  SlimHarlequinAdria = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ExcitingYellowKristel = "A steak pun is a rare medium well done."
+  LowSalmonKoressa = true
+  NastyCyanMarnia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EthnicLavenderBinni = 70
+  DefeatedPurpleStorm = "Whoever invented the knock-knock joke should get a no bell prize."
+  MassOrangeEadie = false
+  IdenticalOrangeGiovanna = "Why was it called the dark ages? Because of all the knights. "
+  EnglishGoldErmina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImaginativeJadeSapphire = "Why is Peter Pan always flying? Because he Neverlands."
+  DustySalmonEmma = true
+  LikeOlivePatience = "Why did the tomato blush? Because it saw the salad dressing."
+  RevolutionaryPurpleBobbie = "Why was it called the dark ages? Because of all the knights. "
+  HumanAmaranthGertruda = 698
+  FriendlyTealIngaberg = "I'll tell you what often gets over looked... garden fences."
+  InteriorAzureSofie = "What do you call two barracuda fish?  A Pairacuda!"
+  LiveCyanBabbie = "Why did the kid cross the playground? To get to the other slide."
+  FlatGreenBree = "Why do birds fly south for the winter? Because it's too far to walk."
+  LovelyOliveLoree = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

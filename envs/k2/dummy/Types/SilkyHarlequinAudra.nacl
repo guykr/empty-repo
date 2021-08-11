@@ -1,0 +1,62 @@
+type dummy.SilkyHarlequinAudra {
+  annotations {
+    json NakedTomatoSusanetta {
+    }
+    number DistinctGoldGiovanna {
+    }
+    string JealousBlackAmalea {
+    }
+    json CloudyWhitePammie {
+    }
+    serviceid WideMoccasinMisti {
+    }
+  }
+  number SorryAquamarineAddi {
+    _hidden_value = true
+  }
+  json ShockedBeigeRobinia {
+    _hidden_value = true
+  }
+  json GothicBlackFrankie {
+    _hidden_value = true
+  }
+  json StrangeWhiteLilias {
+    _hidden_value = true
+  }
+  number RetiredGreenPaolina {
+    _hidden_value = true
+  }
+  number RapidBlueRayna {
+    _hidden_value = true
+  }
+  number PrivateMoccasinDody {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmptyBlackRora {
+    _hidden_value = true
+  }
+  string CatholicPinkLetisha {
+    _hidden_value = true
+  }
+  serviceid FreeGreenTine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlertAzureOriana {
+    _hidden_value = true
+  }
+  serviceid LinguisticCoralBobbye {
+    _hidden_value = true
+  }
+  number KeyCrimsonKathrine {
+    _hidden_value = true
+  }
+  json ParallelPinkMarni {
+    _hidden_value = true
+  }
+  NakedTomatoSusanetta = "Why is Peter Pan always flying? Because he Neverlands."
+  DistinctGoldGiovanna = 742
+  JealousBlackAmalea = "Why did the tomato blush? Because it saw the salad dressing."
+  CloudyWhitePammie = "Why was it called the dark ages? Because of all the knights. "
+  WideMoccasinMisti = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

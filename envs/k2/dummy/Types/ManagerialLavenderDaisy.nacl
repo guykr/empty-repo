@@ -1,0 +1,130 @@
+type dummy.ManagerialLavenderDaisy {
+  annotations {
+    string FatalSalmonBuffy {
+    }
+    serviceid NiceChocolateLuciana {
+    }
+    serviceid UnsightlyCoffeeMartie {
+    }
+    string OrangeChocolateRivi {
+    }
+    json AngryAmberVivyanne {
+    }
+    dummy.DEFAULT FaintBronzeAurie {
+    }
+  }
+  dummy.SorryPlumLottie HungryCyanDiannne {
+    VaryingTealDyanne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HandicappedBrownMartita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CoolTurquoiseCaryl = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WonderfulSilverOralle = 268
+    MagicSapphireAllison = "To be Frank, I'd have to change my name."
+    RapidAmethystTerza = 218
+    TightCoralAbagael = 475
+    YummyAmethystLenore = 214
+    ManyAquaEdi = true
+    HarshCrimsonValry = 41
+    PleasantScarletMia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CulturalPurpleWenonah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AfraidTanRozanna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BrainyOlivePerle = "Did you know that protons have mass? I didn't even know they were catholic."
+    DoublePinkEkaterina = "What creature is smarter than a talking parrot? A spelling bee."
+    BeautifulYellowStacy = 446
+    ImmenseSalmonBatsheva = "How come the stadium got hot after the game? Because all of the fans left."
+    ManagerialTurquoiseBelva = "Slept like a log last night  woke up in the fireplace."
+    LeadingGoldHarriot = false
+    _hidden_value = true
+  }
+  serviceid FoolishAmaranthLaural {
+    _hidden_value = true
+  }
+  dummy.ContemporaryPurpleZabrina NeighbouringOrangeWilhelmina {
+    SecureGrayMerralee = "How come the stadium got hot after the game? Because all of the fans left."
+    RobustAquaAlly = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SwiftAmaranthGlyn = "Why do birds fly south for the winter? Because it's too far to walk."
+    StickyEmeraldLenette = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DullPurpleKora = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ShrillYellowConni = "A steak pun is a rare medium well done."
+    PartialAmberKellsie = "A steak pun is a rare medium well done."
+    OddScarletCaralie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ExtremeTanArielle = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    YellowBronzeNessi = true
+    FlakyTanJeniffer = false
+    UnnecessarySapphireKathrine = true
+    FullTurquoiseCorabella = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  dummy.InlandLimeRubi BumpyPinkBriana {
+    FaithfulWhitePaulita = "Why do birds fly south for the winter? Because it's too far to walk."
+    EnviousPinkLyn = true
+    OkJadeCarmela = 261
+    LooseAmberLynett = true
+    IndependentPlumJelene = false
+    ValidAmaranthVivie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    GrossAmberBrear = true
+    AverageChocolateCacilia = "Why do birds fly south for the winter? Because it's too far to walk."
+    PreferredCyanTamra = "Why was it called the dark ages? Because of all the knights. "
+    GoodTomatoTeri = 194
+    SafeCopperAbbe = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MusicalPurpleNana = 988
+    UpperBronzeMyrilla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ReliableGrayRosette = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string AggressiveBeigeRebekkah {
+    _hidden_value = true
+  }
+  string LongCyanJuliana {
+    _hidden_value = true
+  }
+  serviceid RareMoccasinGrayce {
+    _hidden_value = true
+  }
+  boolean AdvancedAmberKim {
+    _hidden_value = true
+  }
+  serviceid InvisibleCopperWendye {
+    _hidden_value = true
+  }
+  json IncreasingScarletEda {
+    _hidden_value = true
+  }
+  serviceid TenderCoffeeClari {
+    _hidden_value = true
+  }
+  serviceid UselessSilverEba {
+    _hidden_value = true
+  }
+  string RoundAmberDedra {
+    _hidden_value = true
+  }
+  serviceid DevotedPlumDebee {
+    _hidden_value = true
+  }
+  string DoubtfulGoldNorri {
+    _hidden_value = true
+  }
+  serviceid GleamingBronzeRobinia {
+    _hidden_value = true
+  }
+  json AgriculturalGreenConni {
+    _hidden_value = true
+  }
+  "List<boolean>" LogicalCyanGerrie {
+    _hidden_value = true
+  }
+  number GrowingCyanRycca {
+    _hidden_value = true
+  }
+  FatalSalmonBuffy = "What do you call two barracuda fish?  A Pairacuda!"
+  NiceChocolateLuciana = "Why was it called the dark ages? Because of all the knights. "
+  UnsightlyCoffeeMartie = "What creature is smarter than a talking parrot? A spelling bee."
+  OrangeChocolateRivi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AngryAmberVivyanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FaintBronzeAurie = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,59 @@
+type dummy.DeliciousYellowAnn {
+  annotations {
+    serviceid BroadGoldCaroline {
+    }
+    number VoluntaryBlueYoko {
+    }
+    number SemanticScarletBelita {
+    }
+    serviceid CalmIndigoBrittaney {
+    }
+    boolean SacredGoldAshien {
+    }
+    boolean AnnoyedMoccasinAgna {
+    }
+  }
+  number DullRoseSalli {
+    _hidden_value = true
+  }
+  boolean ProspectiveWhiteMaxy {
+    _hidden_value = true
+  }
+  "List<json>" MuddyGrayTabbitha {
+    _hidden_value = true
+  }
+  "Map<number>" SignificantWhiteDee {
+    _hidden_value = true
+  }
+  number ImmenseTanFrancesca {
+    _hidden_value = true
+  }
+  json VagueMagentaAmity {
+    _hidden_value = true
+  }
+  boolean FixedFuchsiaGayle {
+    _hidden_value = true
+  }
+  json FrequentRoseMarijo {
+    _hidden_value = true
+  }
+  number MagentaOrangeCarree {
+    _hidden_value = true
+  }
+  string ScottishIvoryArielle {
+    _hidden_value = true
+  }
+  boolean PopularAquaBria {
+    _hidden_value = true
+  }
+  serviceid DueBrownEmelyne {
+    _hidden_value = true
+  }
+  BroadGoldCaroline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VoluntaryBlueYoko = 208
+  SemanticScarletBelita = 124
+  CalmIndigoBrittaney = "Why was it called the dark ages? Because of all the knights. "
+  SacredGoldAshien = false
+  AnnoyedMoccasinAgna = true
+  _hidden_value = true
+}

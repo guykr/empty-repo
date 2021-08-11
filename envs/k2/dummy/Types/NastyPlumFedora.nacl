@@ -1,0 +1,56 @@
+type dummy.NastyPlumFedora {
+  annotations {
+    string OpenEmeraldCollete {
+    }
+    number DistinguishedMoccasinLeeann {
+    }
+    number PrettyAzureTate {
+    }
+    string EnviousAquaBella {
+    }
+    serviceid JustRoseMildred {
+    }
+    serviceid ProbableCopperYovonnda {
+    }
+  }
+  number SuccessfulSilverKarine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BizarreTanMellisent {
+    _hidden_value = true
+  }
+  number ProudEmeraldDarcy {
+    _hidden_value = true
+  }
+  boolean VariablePlumSherill {
+    _hidden_value = true
+  }
+  string ProudAmberJuline {
+    _hidden_value = true
+  }
+  boolean CircularSalmonDevon {
+    _hidden_value = true
+  }
+  "List<boolean>" AmusedAquaBinny {
+    _hidden_value = true
+  }
+  number ElatedAzureCamellia {
+    _hidden_value = true
+  }
+  string SadYellowShelbi {
+    _hidden_value = true
+  }
+  string TemporaryAmethystKristen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UptightRedDeva {
+    _hidden_value = true
+  }
+  OpenEmeraldCollete = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DistinguishedMoccasinLeeann = 179
+  PrettyAzureTate = 873
+  EnviousAquaBella = "What did one nut say as he chased another nut?  I'm a cashew!"
+  JustRoseMildred = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProbableCopperYovonnda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type dummy.TechnologicalApricotPennie {
+  annotations {
+    dummy.DEFAULT CharacteristicScarletAdelaida {
+    }
+    dummy.DEFAULT AbsentCoralDynah {
+    }
+    serviceid LoudRoseSalli {
+    }
+    serviceid NearbyLimeAilee {
+    }
+    json ExtremeCopperIda {
+    }
+  }
+  serviceid OverseasBrownArdis {
+    _hidden_value = true
+  }
+  boolean CognitiveRedMarlo {
+    _hidden_value = true
+  }
+  serviceid CalmJadeMyrtie {
+    _hidden_value = true
+  }
+  boolean VisibleCyanNady {
+    _hidden_value = true
+  }
+  number InterimMoccasinMathilda {
+    _hidden_value = true
+  }
+  string GothicPlumFidela {
+    _hidden_value = true
+  }
+  CharacteristicScarletAdelaida = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  AbsentCoralDynah = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  LoudRoseSalli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NearbyLimeAilee = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExtremeCopperIda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

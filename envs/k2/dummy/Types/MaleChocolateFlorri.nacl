@@ -1,0 +1,41 @@
+type dummy.MaleChocolateFlorri {
+  annotations {
+    serviceid SolidMagentaRora {
+    }
+    number PremierBlackBibbye {
+    }
+    number ImpressedAzureRosella {
+    }
+    dummy.BizarreScarletKarrie BoredFuchsiaRasia {
+    }
+  }
+  boolean ReducedCyanInge {
+    _hidden_value = true
+  }
+  json OralBrownShauna {
+    _hidden_value = true
+  }
+  json WittyChocolateErminie {
+    _hidden_value = true
+  }
+  "List<json>" CuriousLavenderLeta {
+    _hidden_value = true
+  }
+  serviceid ArtificialCrimsonJohnna {
+    _hidden_value = true
+  }
+  string SoundTurquoiseFlora {
+    _hidden_value = true
+  }
+  number SubstantialAmberSarine {
+    _hidden_value = true
+  }
+  boolean AdverseOliveBilli {
+    _hidden_value = true
+  }
+  SolidMagentaRora = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PremierBlackBibbye = 164
+  ImpressedAzureRosella = 181
+  BoredFuchsiaRasia = 511
+  _hidden_value = true
+}

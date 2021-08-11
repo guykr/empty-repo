@@ -1,0 +1,56 @@
+type dummy.CircularBronzeBeverie {
+  annotations {
+    boolean LateYellowFaustina {
+    }
+    json CharmingCoffeeLetitia {
+    }
+    serviceid ProperPlumCarolee {
+    }
+    number MeaningfulAzureAshlie {
+    }
+  }
+  number GrossAquaMargarethe {
+    _hidden_value = true
+  }
+  serviceid FilthyAquamarinePeria {
+    _hidden_value = true
+  }
+  serviceid HomelyAmethystAggi {
+    _hidden_value = true
+  }
+  json FineGrayChelsea {
+    _hidden_value = true
+  }
+  serviceid EverydayTealTracey {
+    _hidden_value = true
+  }
+  boolean QualifiedAzureKorrie {
+    _hidden_value = true
+  }
+  number PremierLavenderJoela {
+    _hidden_value = true
+  }
+  string ComplexGrayWandie {
+    _hidden_value = true
+  }
+  json DeadSapphireMartica {
+    _hidden_value = true
+  }
+  boolean PreferredPlumCaroljean {
+    _hidden_value = true
+  }
+  boolean ThickSapphireRetha {
+    _hidden_value = true
+  }
+  number SubsequentSapphireCariotta {
+    _hidden_value = true
+  }
+  serviceid StupidPeachMilka {
+    _hidden_value = true
+  }
+  LateYellowFaustina = true
+  CharmingCoffeeLetitia = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProperPlumCarolee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MeaningfulAzureAshlie = 76
+  _hidden_value = true
+}

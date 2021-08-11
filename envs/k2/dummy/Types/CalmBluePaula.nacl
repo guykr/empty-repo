@@ -1,0 +1,74 @@
+type dummy.CalmBluePaula {
+  annotations {
+    string RoughMoccasinFloria {
+    }
+    json MassLimePierette {
+    }
+    serviceid IndustrialChocolateFlorenza {
+    }
+    json PhysicalBlueArleta {
+    }
+    number CheapPlumGwenny {
+    }
+    boolean HeavyEmeraldSile {
+    }
+  }
+  number KindRedJunia {
+    _hidden_value = true
+  }
+  json WonderfulBlackVinny {
+    _hidden_value = true
+  }
+  string FarJadeQuinn {
+    _hidden_value = true
+  }
+  serviceid NarrowIvoryCorabel {
+    _hidden_value = true
+  }
+  json HappySalmonLetitia {
+    _hidden_value = true
+  }
+  json ClassicRedZsazsa {
+    _hidden_value = true
+  }
+  boolean AsianOrangeNertie {
+    _hidden_value = true
+  }
+  string UnnecessaryRoseNadiya {
+    _hidden_value = true
+  }
+  boolean AliveWhiteArliene {
+    _hidden_value = true
+  }
+  string BroadSilverJaclyn {
+    _hidden_value = true
+  }
+  boolean ItalianOliveAshia {
+    _hidden_value = true
+  }
+  boolean AwfulAmaranthArabella {
+    _hidden_value = true
+  }
+  number FiscalYellowAileen {
+    _hidden_value = true
+  }
+  boolean LongAmethystJoycelin {
+    _hidden_value = true
+  }
+  boolean SacredBronzeShelbi {
+    _hidden_value = true
+  }
+  serviceid FreshGrayTerra {
+    _hidden_value = true
+  }
+  json SweetEmeraldCharlotta {
+    _hidden_value = true
+  }
+  RoughMoccasinFloria = "What do you call two barracuda fish?  A Pairacuda!"
+  MassLimePierette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IndustrialChocolateFlorenza = "Whoever invented the knock-knock joke should get a no bell prize."
+  PhysicalBlueArleta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CheapPlumGwenny = 209
+  HeavyEmeraldSile = false
+  _hidden_value = true
+}

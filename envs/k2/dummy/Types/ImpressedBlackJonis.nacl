@@ -1,0 +1,49 @@
+type dummy.ImpressedBlackJonis {
+  annotations {
+    json ThenCyanTherese {
+    }
+    number CloudyLavenderRozele {
+    }
+    string LeadingCrimsonGayel {
+    }
+    dummy.DEFAULT PoorWhiteGiulietta {
+    }
+    json StripedCopperMyrah {
+    }
+    string ScornfulYellowKrissie {
+    }
+  }
+  serviceid QuietScarletFidela {
+    _hidden_value = true
+  }
+  serviceid RudeIvoryKellyann {
+    _hidden_value = true
+  }
+  serviceid ConventionalTurquoiseAnnabella {
+    _hidden_value = true
+  }
+  number UsualWhiteEdin {
+    _hidden_value = true
+  }
+  number BrightGreenCherri {
+    _hidden_value = true
+  }
+  serviceid DarkSapphireEdith {
+    _hidden_value = true
+  }
+  number SquareSilverFelice {
+    _hidden_value = true
+  }
+  json UndergroundRoseConstantia {
+    _hidden_value = true
+  }
+  ThenCyanTherese = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CloudyLavenderRozele = 745
+  LeadingCrimsonGayel = "Why did the tomato blush? Because it saw the salad dressing."
+  PoorWhiteGiulietta = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  StripedCopperMyrah = "Why is Peter Pan always flying? Because he Neverlands."
+  ScornfulYellowKrissie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

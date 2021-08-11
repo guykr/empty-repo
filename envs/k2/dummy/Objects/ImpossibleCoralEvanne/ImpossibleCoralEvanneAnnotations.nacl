@@ -1,0 +1,57 @@
+type dummy.ImpossibleCoralEvanne {
+  annotations {
+    string PeacefulTomatoElfrieda {
+    }
+    string BindingChocolateGerrilee {
+    }
+    dummy.SeparateCrimsonLeese SmallRoseHappy {
+    }
+    serviceid CarefulSalmonHyacinth {
+    }
+    boolean NobleCopperCamella {
+    }
+    boolean DifficultAmethystCarly {
+    }
+    boolean ParentalCopperGrete {
+    }
+    string KeyBronzeMiquela {
+    }
+    serviceid FeministCoffeeDagmar {
+    }
+    dummy.HurtJadeVevay LoosePinkJanelle {
+    }
+    string HardSalmonCyndi {
+    }
+    boolean StrangeOrangeZenia {
+    }
+    json BindingLimeElset {
+    }
+    number HotJadeLatia {
+    }
+    json UndergroundHarlequinNanni {
+    }
+    number BeautifulRoseAura {
+    }
+    json FarCoralCharlotte {
+    }
+    string ParliamentaryBlushJewel {
+    }
+  }
+  PeacefulTomatoElfrieda = "Dad Im hungry  Hi hungry Im dad"
+  BindingChocolateGerrilee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CarefulSalmonHyacinth = "Why do birds fly south for the winter? Because it's too far to walk."
+  NobleCopperCamella = true
+  DifficultAmethystCarly = true
+  ParentalCopperGrete = false
+  KeyBronzeMiquela = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FeministCoffeeDagmar = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LoosePinkJanelle = false
+  HardSalmonCyndi = "Why do birds fly south for the winter? Because it's too far to walk."
+  StrangeOrangeZenia = false
+  BindingLimeElset = "Dad Im hungry  Hi hungry Im dad"
+  HotJadeLatia = 849
+  UndergroundHarlequinNanni = "To be Frank, I'd have to change my name."
+  BeautifulRoseAura = 500
+  FarCoralCharlotte = "Why was it called the dark ages? Because of all the knights. "
+  ParliamentaryBlushJewel = "Dad Im hungry  Hi hungry Im dad"
+}

@@ -1,0 +1,36 @@
+type dummy.BizarreScarletKarrie is number {
+  annotations {
+    number BrightFuchsiaVivianne {
+    }
+    serviceid HonWhiteCorrina {
+    }
+    number IntegratedFuchsiaNell {
+    }
+    json DramaticCoralVelma {
+    }
+    dummy.DEFAULT VariousBlackOdilia {
+    }
+    serviceid ManyApricotPierette {
+    }
+    serviceid CloudySilverLara {
+    }
+    json IcyCoralSofia {
+    }
+    serviceid ItchyJadeMelina {
+    }
+    number HumanAquamarineAnnabella {
+    }
+  }
+  BrightFuchsiaVivianne = 304
+  HonWhiteCorrina = "Why did the tomato blush? Because it saw the salad dressing."
+  IntegratedFuchsiaNell = 384
+  DramaticCoralVelma = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VariousBlackOdilia = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  ManyApricotPierette = "Why didnt the skeleton cross the road? Because he had no guts."
+  CloudySilverLara = "What did one nut say as he chased another nut?  I'm a cashew!"
+  IcyCoralSofia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ItchyJadeMelina = "What creature is smarter than a talking parrot? A spelling bee."
+  HumanAquamarineAnnabella = 20
+}

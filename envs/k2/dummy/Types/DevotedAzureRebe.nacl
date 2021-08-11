@@ -1,0 +1,32 @@
+type dummy.DevotedAzureRebe {
+  annotations {
+    string TiredMoccasinJaquelin {
+    }
+    json ToryBlueSella {
+    }
+    serviceid SquealingApricotBerenice {
+    }
+    boolean AlertVioletArabela {
+    }
+  }
+  json ElectoralAquaAmargo {
+    _hidden_value = true
+  }
+  boolean DangerousCoffeeCharlotta {
+    _hidden_value = true
+  }
+  serviceid ThunderingCoralNessa {
+    _hidden_value = true
+  }
+  "List<json>" AngryHarlequinLarissa {
+    _hidden_value = true
+  }
+  serviceid MassRedBerny {
+    _hidden_value = true
+  }
+  TiredMoccasinJaquelin = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ToryBlueSella = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SquealingApricotBerenice = "To be Frank, I'd have to change my name."
+  AlertVioletArabela = false
+  _hidden_value = true
+}

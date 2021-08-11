@@ -1,0 +1,47 @@
+type dummy.ProgressivePinkMarne {
+  annotations {
+    json MetropolitanMagentaMichel {
+    }
+    json SmoothSalmonDaisy {
+    }
+    dummy.RunningAquaRoshelle RegionalGreenCorina {
+    }
+    serviceid HighHarlequinRoana {
+    }
+    number HorribleAquaGusty {
+    }
+  }
+  number AfraidAmethystJackquelin {
+    _hidden_value = true
+  }
+  json AwkwardCrimsonManon {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WanderingChocolateBarbabra {
+    _hidden_value = true
+  }
+  string SteadySalmonMelodie {
+    _hidden_value = true
+  }
+  string NegativeLimeSheelagh {
+    _hidden_value = true
+  }
+  "List<json>" StormySilverOrel {
+    _hidden_value = true
+  }
+  boolean DefensiveBlushCaye {
+    _hidden_value = true
+  }
+  number MushyPurpleGiacinta {
+    _hidden_value = true
+  }
+  number NeutralFuchsiaOpalina {
+    _hidden_value = true
+  }
+  MetropolitanMagentaMichel = "A steak pun is a rare medium well done."
+  SmoothSalmonDaisy = "I'll tell you what often gets over looked... garden fences."
+  RegionalGreenCorina = 392
+  HighHarlequinRoana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HorribleAquaGusty = 600
+  _hidden_value = true
+}

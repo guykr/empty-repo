@@ -1,0 +1,29 @@
+type dummy.CreepySapphireMireille {
+  annotations {
+    string InadequateChocolateAlena {
+    }
+    boolean AdorableAzureCarol {
+    }
+    boolean RespectiveAzureMara {
+    }
+    number FaithfulBlueMeg {
+    }
+    json LowAmaranthTeressa {
+    }
+  }
+  string DifficultBronzeJudie {
+    _hidden_value = true
+  }
+  string RemarkableIndigoAile {
+    _hidden_value = true
+  }
+  serviceid FragilePeachDorolisa {
+    _hidden_value = true
+  }
+  InadequateChocolateAlena = "A steak pun is a rare medium well done."
+  AdorableAzureCarol = false
+  RespectiveAzureMara = false
+  FaithfulBlueMeg = 228
+  LowAmaranthTeressa = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

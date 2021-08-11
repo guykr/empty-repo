@@ -1,0 +1,20 @@
+type dummy.WrittenTomatoArliene {
+  annotations {
+    serviceid RudeHarlequinBethanne {
+    }
+    dummy.BizarreScarletKarrie SuccessfulTurquoiseKali {
+    }
+    serviceid LevelBronzeAlissa {
+    }
+    serviceid GleamingPinkBenedicta {
+    }
+  }
+  serviceid WeakCoffeeIdalina {
+    _hidden_value = true
+  }
+  RudeHarlequinBethanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SuccessfulTurquoiseKali = 28
+  LevelBronzeAlissa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GleamingPinkBenedicta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

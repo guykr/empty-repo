@@ -1,0 +1,62 @@
+type dummy.PastLimeMaia {
+  annotations {
+    string PlannedWhiteKrystalle {
+    }
+    serviceid AmusedFuchsiaRoxanna {
+    }
+    string EnviousLimeBetteann {
+    }
+    serviceid LongPurpleGeorge {
+    }
+    boolean AnnoyedFuchsiaMagdaia {
+    }
+    serviceid SacredCoralEugenie {
+    }
+  }
+  boolean OrdinaryBlackEthelyn {
+    _hidden_value = true
+  }
+  string MissingSapphireStacie {
+    _hidden_value = true
+  }
+  number ResidentialLimeTrista {
+    _hidden_value = true
+  }
+  string TemporaryBeigeCherrita {
+    _hidden_value = true
+  }
+  string QuickEmeraldTim {
+    _hidden_value = true
+  }
+  serviceid ReadyTurquoiseDayle {
+    _hidden_value = true
+  }
+  json NeighbouringIndigoYasmin {
+    _hidden_value = true
+  }
+  json ClassicTurquoiseEvita {
+    _hidden_value = true
+  }
+  json WorthyGoldFredericka {
+    _hidden_value = true
+  }
+  string NeatCrimsonCairistiona {
+    _hidden_value = true
+  }
+  json ElatedAmethystReyna {
+    _hidden_value = true
+  }
+  boolean SophisticatedIndigoHalley {
+    _hidden_value = true
+  }
+  "List<boolean>" SmallAmethystJudie {
+    _hidden_value = true
+  }
+  PlannedWhiteKrystalle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AmusedFuchsiaRoxanna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EnviousLimeBetteann = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LongPurpleGeorge = "What creature is smarter than a talking parrot? A spelling bee."
+  AnnoyedFuchsiaMagdaia = true
+  SacredCoralEugenie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

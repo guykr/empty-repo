@@ -1,0 +1,32 @@
+type dummy.NuttyBronzeLeisha {
+  annotations {
+    number EarlyGoldKimmie {
+    }
+    number AnnualAquaCharissa {
+    }
+    json ObedientRedBabette {
+    }
+    serviceid NativeBlackRozalin {
+    }
+    boolean DivineAzureSheelagh {
+    }
+  }
+  json AdvancedSilverCarole {
+    _hidden_value = true
+  }
+  serviceid ClumsyGrayMagdalena {
+    _hidden_value = true
+  }
+  json PersistentLimeMiranda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VerticalCrimsonAlta {
+    _hidden_value = true
+  }
+  EarlyGoldKimmie = 841
+  AnnualAquaCharissa = 818
+  ObedientRedBabette = "Why did the tomato blush? Because it saw the salad dressing."
+  NativeBlackRozalin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DivineAzureSheelagh = false
+  _hidden_value = true
+}

@@ -1,0 +1,29 @@
+type dummy.WorriedEmeraldKacy {
+  annotations {
+    string MinorIvoryMatti {
+    }
+    boolean SuitableAquaAtlante {
+    }
+    string PersistentCoffeeSharl {
+    }
+    json OverseasOliveDenise {
+    }
+    dummy.JewishCoralJannel CrudeTurquoiseAugusta {
+    }
+    dummy.DifficultBlackDeanne VocationalLimeAlejandra {
+    }
+    string BeneficialMoccasinCristine {
+    }
+  }
+  "List<number>" JuicyCopperAustin {
+    _hidden_value = true
+  }
+  MinorIvoryMatti = "How come the stadium got hot after the game? Because all of the fans left."
+  SuitableAquaAtlante = true
+  PersistentCoffeeSharl = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OverseasOliveDenise = "Whoever invented the knock-knock joke should get a no bell prize."
+  CrudeTurquoiseAugusta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VocationalLimeAlejandra = "Why did the tomato blush? Because it saw the salad dressing."
+  BeneficialMoccasinCristine = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

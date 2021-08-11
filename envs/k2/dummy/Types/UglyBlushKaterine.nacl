@@ -1,0 +1,79 @@
+type dummy.UglyBlushKaterine {
+  annotations {
+    boolean StaleLavenderBobine {
+    }
+    serviceid ProductivePlumJsandye {
+    }
+    number DirtyEmeraldBinni {
+    }
+    boolean OpenTurquoiseGreer {
+    }
+    boolean HilariousAzureAnnamarie {
+    }
+    json EthicalAmethystLilith {
+    }
+    boolean CasualIndigoGiana {
+    }
+    dummy.DEFAULT InvisibleTomatoDeanna {
+    }
+  }
+  number ManagerialChocolateEvaleen {
+    _hidden_value = true
+  }
+  serviceid DetailedPinkLoralee {
+    _hidden_value = true
+  }
+  boolean CombativeCoffeeHildagard {
+    _hidden_value = true
+  }
+  string ComparableAmethystStarr {
+    _hidden_value = true
+  }
+  json TallCopperZola {
+    _hidden_value = true
+  }
+  string IraqiLavenderRonica {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyBronzeMaia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AloneCoralHilliary {
+    _hidden_value = true
+  }
+  serviceid ScaredAmberPearline {
+    _hidden_value = true
+  }
+  "List<serviceid>" FashionableLimeFawnia {
+    _hidden_value = true
+  }
+  json StrongCrimsonRosanne {
+    _hidden_value = true
+  }
+  number GreenPlumLisette {
+    _hidden_value = true
+  }
+  json WhisperingAzureCinderella {
+    _hidden_value = true
+  }
+  boolean RegionalAmaranthOlga {
+    _hidden_value = true
+  }
+  boolean DyingPurpleJenni {
+    _hidden_value = true
+  }
+  string FemaleLimeEllissa {
+    _hidden_value = true
+  }
+  StaleLavenderBobine = true
+  ProductivePlumJsandye = "Why did the tomato blush? Because it saw the salad dressing."
+  DirtyEmeraldBinni = 970
+  OpenTurquoiseGreer = false
+  HilariousAzureAnnamarie = true
+  EthicalAmethystLilith = "I'll tell you what often gets over looked... garden fences."
+  CasualIndigoGiana = false
+  InvisibleTomatoDeanna = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  _hidden_value = true
+}

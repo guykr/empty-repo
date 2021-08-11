@@ -1,0 +1,50 @@
+type dummy.DifficultPurpleCynthia {
+  annotations {
+    json HilariousCopperJacenta {
+    }
+    dummy.RationalSapphireLianna MoralSapphireHermina {
+    }
+    number DearBlueWynn {
+    }
+    string PresentFuchsiaLatrina {
+    }
+    dummy.AnxiousMagentaNinetta BadLavenderEmiline {
+    }
+    dummy.NearLimeKimberlyn SmilingOrangeRetha {
+    }
+    dummy.AgreedAmberFredra WastefulPeachKalli {
+    }
+    json ThoughtfulOliveJuliana {
+    }
+    string JointBrownAmelia {
+    }
+    serviceid SemanticMaroonLauren {
+    }
+    boolean SevereMaroonEmalia {
+    }
+    string ManyAmaranthEma {
+    }
+    boolean SuddenGrayWhitney {
+    }
+    dummy.ShyAzureGwenora GeneralRedMargit {
+    }
+    string VariousScarletMatilda {
+    }
+    boolean UnwillingApricotGinny {
+    }
+    number UncomfortableAmberHedwig {
+    }
+  }
+  HilariousCopperJacenta = "Im only familiar with 25 letters in the English language. I dont know why."
+  DearBlueWynn = 322
+  PresentFuchsiaLatrina = "Why did the kid cross the playground? To get to the other slide."
+  ThoughtfulOliveJuliana = "Why is Peter Pan always flying? Because he Neverlands."
+  JointBrownAmelia = "What creature is smarter than a talking parrot? A spelling bee."
+  SemanticMaroonLauren = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SevereMaroonEmalia = false
+  ManyAmaranthEma = "Why was it called the dark ages? Because of all the knights. "
+  SuddenGrayWhitney = true
+  VariousScarletMatilda = "What creature is smarter than a talking parrot? A spelling bee."
+  UnwillingApricotGinny = false
+  UncomfortableAmberHedwig = 101
+}

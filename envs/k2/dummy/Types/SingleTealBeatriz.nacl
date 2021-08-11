@@ -1,0 +1,68 @@
+type dummy.SingleTealBeatriz {
+  annotations {
+    dummy.ProspectiveAmberDevin VitalOrangeMargaretta {
+    }
+    number FlatSalmonViviana {
+    }
+    string TameApricotMelva {
+    }
+    string ElatedAmberUlrike {
+    }
+    dummy.LightAmethystFrank StrongAmethystGinelle {
+    }
+  }
+  boolean SubstantialBeigeShirline {
+    _hidden_value = true
+  }
+  boolean DeterminedBeigeLilian {
+    _hidden_value = true
+  }
+  boolean BadMagentaNadia {
+    _hidden_value = true
+  }
+  boolean ColonialTealCheslie {
+    _hidden_value = true
+  }
+  number SecureMagentaSean {
+    _hidden_value = true
+  }
+  boolean PricklyMaroonOlenka {
+    _hidden_value = true
+  }
+  string DailyAmberSuzette {
+    _hidden_value = true
+  }
+  string ContinuingCrimsonDody {
+    _hidden_value = true
+  }
+  number BrownAmethystBinni {
+    _hidden_value = true
+  }
+  number SolarHarlequinAthene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GloriousGreenCatriona {
+    _hidden_value = true
+  }
+  string WorthwhileVioletLoise {
+    _hidden_value = true
+  }
+  number QuaintCrimsonQuintana {
+    _hidden_value = true
+  }
+  json FutureLimeCristine {
+    _hidden_value = true
+  }
+  boolean RoughYellowHilary {
+    _hidden_value = true
+  }
+  json SafeTanErina {
+    _hidden_value = true
+  }
+  VitalOrangeMargaretta = 640
+  FlatSalmonViviana = 873
+  TameApricotMelva = "Why was it called the dark ages? Because of all the knights. "
+  ElatedAmberUlrike = "What creature is smarter than a talking parrot? A spelling bee."
+  StrongAmethystGinelle = true
+  _hidden_value = true
+}

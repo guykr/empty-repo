@@ -1,0 +1,44 @@
+type dummy.InherentGreenShoshanna {
+  annotations {
+    number SupremeBeigeGinevra {
+    }
+    serviceid TechnicalWhiteKristy {
+    }
+    boolean AwfulHarlequinBethina {
+    }
+    serviceid EnthusiasticRedEimile {
+    }
+    number BriefCoralDelly {
+    }
+  }
+  serviceid QuietJadeCarmita {
+    _hidden_value = true
+  }
+  "Map<serviceid>" StrictCoffeeCamel {
+    _hidden_value = true
+  }
+  json BlondeIvoryAdriane {
+    _hidden_value = true
+  }
+  serviceid CautiousOliveMarcelle {
+    _hidden_value = true
+  }
+  boolean AgriculturalRoseFrances {
+    _hidden_value = true
+  }
+  json NecessaryChocolateShay {
+    _hidden_value = true
+  }
+  number CivilBrownRaine {
+    _hidden_value = true
+  }
+  boolean EvilPurpleMarleah {
+    _hidden_value = true
+  }
+  SupremeBeigeGinevra = 555
+  TechnicalWhiteKristy = "Whoever invented the knock-knock joke should get a no bell prize."
+  AwfulHarlequinBethina = false
+  EnthusiasticRedEimile = "Why is Peter Pan always flying? Because he Neverlands."
+  BriefCoralDelly = 606
+  _hidden_value = true
+}

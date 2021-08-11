@@ -1,0 +1,51 @@
+type dummy.LightAmethystFrank is boolean {
+  annotations {
+    number HonCrimsonGwen {
+    }
+    json RoundPurplePaulie {
+    }
+    number ProposedBrownDominique {
+    }
+    serviceid ScaryMagentaJoby {
+    }
+    number ObligedAquamarineLise {
+    }
+    number IraqiCoffeeKaree {
+    }
+    number BurningGoldSybille {
+    }
+    dummy.DEFAULT SubsequentGrayKania {
+    }
+    string RespectableAmberCassy {
+    }
+    json DiversePinkJoanne {
+    }
+    serviceid FrontPlumCamila {
+    }
+    string DelightfulAmberFrieda {
+    }
+    serviceid DeafCoffeeCookie {
+    }
+    string TastyFuchsiaCarol {
+    }
+    json GastricIndigoCris {
+    }
+  }
+  HonCrimsonGwen = 224
+  RoundPurplePaulie = "Slept like a log last night  woke up in the fireplace."
+  ProposedBrownDominique = 475
+  ScaryMagentaJoby = "Why did the tomato blush? Because it saw the salad dressing."
+  ObligedAquamarineLise = 88
+  IraqiCoffeeKaree = 801
+  BurningGoldSybille = 573
+  SubsequentGrayKania = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  RespectableAmberCassy = "Dad Im hungry  Hi hungry Im dad"
+  DiversePinkJoanne = "What creature is smarter than a talking parrot? A spelling bee."
+  FrontPlumCamila = "How come the stadium got hot after the game? Because all of the fans left."
+  DelightfulAmberFrieda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DeafCoffeeCookie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TastyFuchsiaCarol = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GastricIndigoCris = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

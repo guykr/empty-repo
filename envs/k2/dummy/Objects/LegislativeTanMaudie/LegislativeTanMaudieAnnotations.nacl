@@ -1,0 +1,60 @@
+type dummy.LegislativeTanMaudie {
+  annotations {
+    json HotSapphireSalli {
+    }
+    dummy.SorryScarletJeanette NarrowLavenderJerrilyn {
+    }
+    string LatinAzureBlithe {
+    }
+    json BetterBronzeAlthea {
+    }
+    number AccurateMaroonPeggie {
+    }
+    string PoorYellowNessa {
+    }
+    json EstablishedLimeTrudy {
+    }
+    serviceid ImmediateTealGui {
+    }
+    boolean FeministCopperRobinia {
+    }
+    boolean ConvincingAmaranthDela {
+    }
+    number DepressedVioletEmmey {
+    }
+    string SpecificAquaVanny {
+    }
+    string SecureTomatoDarby {
+    }
+    string DelightedPlumRosalie {
+    }
+    boolean HomelyLimeSuzanne {
+    }
+    json ContinuingApricotMandi {
+    }
+    number UnexpectedCoffeeBenedicta {
+    }
+    json BoredRoseAllys {
+    }
+    number ObnoxiousChocolateFayette {
+    }
+  }
+  HotSapphireSalli = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LatinAzureBlithe = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BetterBronzeAlthea = "What do you call two barracuda fish?  A Pairacuda!"
+  AccurateMaroonPeggie = 337
+  PoorYellowNessa = "Why did the kid cross the playground? To get to the other slide."
+  EstablishedLimeTrudy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ImmediateTealGui = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FeministCopperRobinia = true
+  ConvincingAmaranthDela = false
+  DepressedVioletEmmey = 144
+  SpecificAquaVanny = "What creature is smarter than a talking parrot? A spelling bee."
+  SecureTomatoDarby = "What do you call two barracuda fish?  A Pairacuda!"
+  DelightedPlumRosalie = "What creature is smarter than a talking parrot? A spelling bee."
+  HomelyLimeSuzanne = false
+  ContinuingApricotMandi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnexpectedCoffeeBenedicta = 310
+  BoredRoseAllys = "What do you call two barracuda fish?  A Pairacuda!"
+  ObnoxiousChocolateFayette = 306
+}

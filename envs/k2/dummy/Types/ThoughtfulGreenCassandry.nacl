@@ -1,0 +1,26 @@
+type dummy.ThoughtfulGreenCassandry {
+  annotations {
+    json ConventionalIndigoCherice {
+    }
+    serviceid InevitableGreenKari {
+    }
+    number AsianAmaranthFlorie {
+    }
+    boolean BeautifulMaroonLanni {
+    }
+    number WickedCopperTracee {
+    }
+    dummy.SoundAmaranthImelda RareApricotTrudy {
+    }
+  }
+  serviceid SemanticGrayVivianna {
+    _hidden_value = true
+  }
+  ConventionalIndigoCherice = "Dad Im hungry  Hi hungry Im dad"
+  InevitableGreenKari = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AsianAmaranthFlorie = 56
+  BeautifulMaroonLanni = true
+  WickedCopperTracee = 190
+  RareApricotTrudy = 69
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type dummy.ImaginativeGreenPamella {
+  annotations {
+    string JapaneseJadeLurline {
+    }
+    dummy.DEFAULT SoftBronzeSal {
+    }
+    boolean NarrowTanPaulita {
+    }
+    boolean VastGoldRoanne {
+    }
+    boolean IntellectualHarlequinJaynell {
+    }
+    json PreciousFuchsiaCrissy {
+    }
+  }
+  string WillingIndigoErminia {
+    _hidden_value = true
+  }
+  number ChosenTanNydia {
+    _hidden_value = true
+  }
+  json FaithfulLavenderDidi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ActiveAmaranthWallis {
+    _hidden_value = true
+  }
+  string ProminentIndigoJoceline {
+    _hidden_value = true
+  }
+  json NuttyCoralChrystal {
+    _hidden_value = true
+  }
+  json QuickPinkDorena {
+    _hidden_value = true
+  }
+  "List<string>" FaithfulRedTheadora {
+    _hidden_value = true
+  }
+  string UnemployedTomatoKimbra {
+    _hidden_value = true
+  }
+  number FranticAmberAdina {
+    _hidden_value = true
+  }
+  serviceid DynamicPurpleDyana {
+    _hidden_value = true
+  }
+  json CorporateSalmonErica {
+    _hidden_value = true
+  }
+  string WideLavenderNert {
+    _hidden_value = true
+  }
+  string DeafeningMoccasinMarthena {
+    _hidden_value = true
+  }
+  boolean TypicalCopperMagdalene {
+    _hidden_value = true
+  }
+  JapaneseJadeLurline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SoftBronzeSal = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  NarrowTanPaulita = false
+  VastGoldRoanne = false
+  IntellectualHarlequinJaynell = false
+  PreciousFuchsiaCrissy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

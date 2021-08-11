@@ -1,0 +1,29 @@
+type dummy.CommunistLimeIlka {
+  annotations {
+    number NuclearChocolateIvory {
+    }
+    string InadequateAquamarineKatine {
+    }
+    json DistinguishedCoralCorette {
+    }
+  }
+  serviceid EmptyTurquoiseKelila {
+    _hidden_value = true
+  }
+  serviceid DoubtfulPlumLaney {
+    _hidden_value = true
+  }
+  boolean NaturalAquaWren {
+    _hidden_value = true
+  }
+  string ObedientVioletLacey {
+    _hidden_value = true
+  }
+  boolean HugeBlackJanna {
+    _hidden_value = true
+  }
+  NuclearChocolateIvory = 891
+  InadequateAquamarineKatine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DistinguishedCoralCorette = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

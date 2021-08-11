@@ -1,0 +1,26 @@
+type dummy.StiffFuchsiaTarah {
+  annotations {
+    number CrowdedPeachAnastasia {
+    }
+    boolean OrthodoxIndigoLaure {
+    }
+    serviceid ElatedBeigeRoanna {
+    }
+    number ModestSapphireOrelle {
+    }
+    serviceid BurningAquamarineJenny {
+    }
+    json InnerLimePhillida {
+    }
+  }
+  dummy.DEFAULT AcceptedCopperAddia {
+    _hidden_value = true
+  }
+  CrowdedPeachAnastasia = 674
+  OrthodoxIndigoLaure = true
+  ElatedBeigeRoanna = "Dad Im hungry  Hi hungry Im dad"
+  ModestSapphireOrelle = 167
+  BurningAquamarineJenny = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InnerLimePhillida = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

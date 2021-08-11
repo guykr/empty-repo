@@ -1,0 +1,31 @@
+type dummy.SleepyGrayOfelia {
+  annotations {
+    serviceid AbleCyanStefa {
+    }
+    boolean HelplessCyanBlondelle {
+    }
+    string HelplessHarlequinFelecia {
+    }
+    dummy.DEFAULT DreadfulPurpleBrigitte {
+    }
+    boolean StuckPlumRica {
+    }
+  }
+  boolean EducationalBlushRuthy {
+    _hidden_value = true
+  }
+  string SurroundingApricotKarissa {
+    _hidden_value = true
+  }
+  serviceid SquealingYellowJanene {
+    _hidden_value = true
+  }
+  AbleCyanStefa = "I'll tell you what often gets over looked... garden fences."
+  HelplessCyanBlondelle = false
+  HelplessHarlequinFelecia = "Why was it called the dark ages? Because of all the knights. "
+  DreadfulPurpleBrigitte = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  StuckPlumRica = false
+  _hidden_value = true
+}

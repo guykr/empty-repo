@@ -1,0 +1,26 @@
+type dummy.DevotedTurquoiseVitoria {
+  annotations {
+    string ProfoundBeigeShelagh {
+    }
+    number SymbolicCrimsonLori {
+    }
+    json TallAmethystStephenie {
+    }
+    serviceid HonestTealDarlene {
+    }
+    string CompatibleChocolateWinne {
+    }
+    number OrdinaryMaroonArdyce {
+    }
+  }
+  serviceid SoleCyanGui {
+    _hidden_value = true
+  }
+  ProfoundBeigeShelagh = "Im only familiar with 25 letters in the English language. I dont know why."
+  SymbolicCrimsonLori = 87
+  TallAmethystStephenie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HonestTealDarlene = "Did you know that protons have mass? I didn't even know they were catholic."
+  CompatibleChocolateWinne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OrdinaryMaroonArdyce = 135
+  _hidden_value = true
+}

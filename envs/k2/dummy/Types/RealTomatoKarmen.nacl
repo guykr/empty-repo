@@ -1,0 +1,53 @@
+type dummy.RealTomatoKarmen {
+  annotations {
+    number DramaticPurpleBrit {
+    }
+    string DangerousBeigeRosalinda {
+    }
+    string UptightGreenNanny {
+    }
+    string TropicalJadeJordanna {
+    }
+    number SupremeOrangeEmlynn {
+    }
+    json IntellectualYellowMathilda {
+    }
+  }
+  json OkIvoryTeddy {
+    _hidden_value = true
+  }
+  "List<json>" ChillyBronzeMarnia {
+    _hidden_value = true
+  }
+  boolean PregnantVioletTarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AloneMagentaMartina {
+    _hidden_value = true
+  }
+  string LatePeachWinnah {
+    _hidden_value = true
+  }
+  number EquivalentCopperVenus {
+    _hidden_value = true
+  }
+  number LesserBronzeRosalyn {
+    _hidden_value = true
+  }
+  string IndirectTurquoiseSondra {
+    _hidden_value = true
+  }
+  number RealAmethystFawne {
+    _hidden_value = true
+  }
+  boolean ElectricTomatoKirstin {
+    _hidden_value = true
+  }
+  DramaticPurpleBrit = 522
+  DangerousBeigeRosalinda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UptightGreenNanny = "Im only familiar with 25 letters in the English language. I dont know why."
+  TropicalJadeJordanna = "Did you know that protons have mass? I didn't even know they were catholic."
+  SupremeOrangeEmlynn = 590
+  IntellectualYellowMathilda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

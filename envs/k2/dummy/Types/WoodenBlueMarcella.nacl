@@ -1,0 +1,56 @@
+type dummy.WoodenBlueMarcella {
+  annotations {
+    string BlueApricotFernande {
+    }
+    number LegitimateLavenderSeline {
+    }
+    serviceid AssistantCyanTyne {
+    }
+  }
+  number DepressedChocolateCordula {
+    _hidden_value = true
+  }
+  boolean ColonialCrimsonMillicent {
+    _hidden_value = true
+  }
+  string DifficultGrayMerissa {
+    _hidden_value = true
+  }
+  boolean MiddleCopperLotty {
+    _hidden_value = true
+  }
+  json FlatBlueMechelle {
+    _hidden_value = true
+  }
+  boolean InvolvedApricotBrena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AliveAquaJoly {
+    _hidden_value = true
+  }
+  serviceid BloodyLavenderSamaria {
+    _hidden_value = true
+  }
+  number AdverseTanLorry {
+    _hidden_value = true
+  }
+  boolean ShakyAmethystAriadne {
+    _hidden_value = true
+  }
+  number ConfidentAquaMarlie {
+    _hidden_value = true
+  }
+  serviceid WildOliveAngelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CombativeSilverUlrica {
+    _hidden_value = true
+  }
+  string IrrelevantBronzeTrude {
+    _hidden_value = true
+  }
+  BlueApricotFernande = "Why did the kid cross the playground? To get to the other slide."
+  LegitimateLavenderSeline = 73
+  AssistantCyanTyne = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

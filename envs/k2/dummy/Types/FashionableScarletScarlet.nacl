@@ -1,0 +1,130 @@
+type dummy.FashionableScarletScarlet {
+  annotations {
+    string LiveLavenderFerdinande {
+    }
+    string BrightAquamarineGusty {
+    }
+    serviceid BlushingJadeDodie {
+    }
+    json CheapBeigeKristan {
+    }
+    json QuickScarletSue {
+    }
+    boolean UglyIndigoNiki {
+    }
+    json DeepCopperNixie {
+    }
+  }
+  boolean FinalRedShari {
+    _hidden_value = true
+  }
+  serviceid StickyAquamarineBeatrice {
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle RottenCoffeeKay {
+    _hidden_value = true
+  }
+  json LtdTurquoiseReiko {
+    _hidden_value = true
+  }
+  string AnonymousLimeMagdaia {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa FarPurpleLelah {
+    _hidden_value = true
+  }
+  number UnwillingPurpleElvina {
+    _hidden_value = true
+  }
+  number CompetitiveMaroonMyrtle {
+    _hidden_value = true
+  }
+  string LegitimateLavenderJehanna {
+    _hidden_value = true
+  }
+  boolean CalmMagentaSarita {
+    _hidden_value = true
+  }
+  serviceid ProgressiveTanDaryl {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TartAquaLeanna {
+    _hidden_value = true
+  }
+  boolean DisabledBrownRochette {
+    _hidden_value = true
+  }
+  dummy.CurvedIvoryQueenie UpsetAquamarineLynn {
+    GreasyJadeHynda = true
+    AcceptableAmaranthFreddi = "Why was it called the dark ages? Because of all the knights. "
+    SquareMaroonFaun = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    AmbitiousBronzeLeanora = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UndergroundRedAudrey = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    EconomicGoldJohnath = "Why was it called the dark ages? Because of all the knights. "
+    ExcitingVioletLelah = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  serviceid RigidPurpleVeronika {
+    _hidden_value = true
+  }
+  boolean CarefulRoseFranni {
+    _hidden_value = true
+  }
+  string SweetOliveHarriette {
+    _hidden_value = true
+  }
+  number GradualCoralLindi {
+    _hidden_value = true
+  }
+  number UglyOrangeHattie {
+    _hidden_value = true
+  }
+  boolean AggregateTurquoiseRosabella {
+    _hidden_value = true
+  }
+  json LengthyCyanMarla {
+    _hidden_value = true
+  }
+  string ThinScarletEryn {
+    _hidden_value = true
+  }
+  string CleverOrangeVivianne {
+    _hidden_value = true
+  }
+  serviceid LittleOliveIleana {
+    _hidden_value = true
+  }
+  json StingyRoseLauryn {
+    _hidden_value = true
+  }
+  serviceid MysteriousGrayCollette {
+    _hidden_value = true
+  }
+  json BriefAquamarineAdi {
+    _hidden_value = true
+  }
+  boolean AmericanCyanMorgen {
+    _hidden_value = true
+  }
+  serviceid SubstantialBronzeJennette {
+    _hidden_value = true
+  }
+  boolean AsleepBrownRozelle {
+    _hidden_value = true
+  }
+  string AlrightPlumGabbi {
+    _hidden_value = true
+  }
+  LiveLavenderFerdinande = "Why did the kid cross the playground? To get to the other slide."
+  BrightAquamarineGusty = "Did you know that protons have mass? I didn't even know they were catholic."
+  BlushingJadeDodie = "To be Frank, I'd have to change my name."
+  CheapBeigeKristan = "A steak pun is a rare medium well done."
+  QuickScarletSue = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UglyIndigoNiki = false
+  DeepCopperNixie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

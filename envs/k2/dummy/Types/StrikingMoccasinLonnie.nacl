@@ -1,0 +1,34 @@
+type dummy.StrikingMoccasinLonnie is string {
+  annotations {
+    string TastelessYellowTheodora {
+    }
+    boolean UnableCrimsonSydel {
+    }
+    json DistinguishedBeigeBonni {
+    }
+    number AfraidLavenderAbagail {
+    }
+    serviceid CarefulRoseMichell {
+    }
+    json SpanishIvoryCordey {
+    }
+    boolean SmoothAmberKatharyn {
+    }
+    json CentralTomatoBobina {
+    }
+    json AsianCoralRosamond {
+    }
+    serviceid WoodenGrayKaitlin {
+    }
+  }
+  TastelessYellowTheodora = "Why was it called the dark ages? Because of all the knights. "
+  UnableCrimsonSydel = true
+  DistinguishedBeigeBonni = "Why do birds fly south for the winter? Because it's too far to walk."
+  AfraidLavenderAbagail = 320
+  CarefulRoseMichell = "Why did the kid cross the playground? To get to the other slide."
+  SpanishIvoryCordey = "Whoever invented the knock-knock joke should get a no bell prize."
+  SmoothAmberKatharyn = true
+  CentralTomatoBobina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AsianCoralRosamond = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WoodenGrayKaitlin = "Why did the tomato blush? Because it saw the salad dressing."
+}

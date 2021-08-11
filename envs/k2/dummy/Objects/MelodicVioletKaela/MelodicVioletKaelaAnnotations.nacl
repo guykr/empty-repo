@@ -1,0 +1,57 @@
+type dummy.MelodicVioletKaela {
+  annotations {
+    string ThinAzureHoney {
+    }
+    serviceid MonetaryScarletCelene {
+    }
+    serviceid SharpGreenBunnie {
+    }
+    serviceid LightPlumAva {
+    }
+    number FatScarletHelena {
+    }
+    number HugeBrownHarrie {
+    }
+    json EnvironmentalBronzeJessi {
+    }
+    number OpenHarlequinHeda {
+    }
+    dummy.CoolTanRanda HungryOliveHallie {
+    }
+    string CivilPlumShawn {
+    }
+    dummy.InlandLimeRubi SeniorGreenShea {
+    }
+    number GentleMaroonLian {
+    }
+    json VariousTanRegan {
+    }
+    string FavouriteSalmonJacki {
+    }
+    number DisastrousRedEdythe {
+    }
+    boolean ContinuousOrangeChelsea {
+    }
+    string BadAmaranthLiuka {
+    }
+    number TeenageApricotSibelle {
+    }
+  }
+  ThinAzureHoney = "Slept like a log last night  woke up in the fireplace."
+  MonetaryScarletCelene = "Slept like a log last night  woke up in the fireplace."
+  SharpGreenBunnie = "What do you call two barracuda fish?  A Pairacuda!"
+  LightPlumAva = "Dad Im hungry  Hi hungry Im dad"
+  FatScarletHelena = 292
+  HugeBrownHarrie = 714
+  EnvironmentalBronzeJessi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  OpenHarlequinHeda = 672
+  CivilPlumShawn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SeniorGreenShea = 888
+  GentleMaroonLian = 817
+  VariousTanRegan = "To be Frank, I'd have to change my name."
+  FavouriteSalmonJacki = "Im only familiar with 25 letters in the English language. I dont know why."
+  DisastrousRedEdythe = 732
+  ContinuousOrangeChelsea = false
+  BadAmaranthLiuka = "Why didnt the skeleton cross the road? Because he had no guts."
+  TeenageApricotSibelle = 840
+}

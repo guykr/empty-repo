@@ -1,0 +1,77 @@
+type dummy.JewishCoffeeRoobbie {
+  annotations {
+    number BadSilverCasandra {
+    }
+    serviceid EmptySapphireNolie {
+    }
+    number ElectricPinkMarketa {
+    }
+    serviceid ProductiveTurquoiseVonni {
+    }
+    serviceid LengthyAzureJoni {
+    }
+    number InterestedCoralMarguerite {
+    }
+  }
+  number UgliestApricotSheryl {
+    _hidden_value = true
+  }
+  number PlainSalmonGoldie {
+    _hidden_value = true
+  }
+  number StupidAquamarineOdele {
+    _hidden_value = true
+  }
+  serviceid ThunderingIndigoPamella {
+    _hidden_value = true
+  }
+  string EncouragingLimeGerianna {
+    _hidden_value = true
+  }
+  number AwfulMoccasinConsuela {
+    _hidden_value = true
+  }
+  json DevelopedTealMelonie {
+    _hidden_value = true
+  }
+  json BoredJadeFlorence {
+    _hidden_value = true
+  }
+  number IndirectMaroonDelcina {
+    _hidden_value = true
+  }
+  string RipePlumDorelle {
+    _hidden_value = true
+  }
+  serviceid WetLimeInes {
+    _hidden_value = true
+  }
+  json DeterminedHarlequinTierney {
+    _hidden_value = true
+  }
+  string TroubledBlackBenni {
+    _hidden_value = true
+  }
+  serviceid JitteryBeigeAnnabelle {
+    _hidden_value = true
+  }
+  string ProfoundCopperPattie {
+    _hidden_value = true
+  }
+  number ScaryBlackCarmel {
+    _hidden_value = true
+  }
+  json UsefulGoldValeria {
+    _hidden_value = true
+  }
+  boolean ShortPinkBrunhilde {
+    _hidden_value = true
+  }
+  BadSilverCasandra = 802
+  EmptySapphireNolie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ElectricPinkMarketa = 761
+  ProductiveTurquoiseVonni = "Slept like a log last night  woke up in the fireplace."
+  LengthyAzureJoni = "Slept like a log last night  woke up in the fireplace."
+  InterestedCoralMarguerite = 890
+  _hidden_value = true
+}

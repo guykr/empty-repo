@@ -1,0 +1,19 @@
+type dummy.FilthyLimeFaye is boolean {
+  annotations {
+    json HistoricalTurquoiseCandie {
+    }
+    json BlueBlueDarleen {
+    }
+    number DomesticIvoryVanny {
+    }
+    serviceid SupremeEmeraldTraci {
+    }
+    boolean RomanticAmberYalonda {
+    }
+  }
+  HistoricalTurquoiseCandie = "Dad Im hungry  Hi hungry Im dad"
+  BlueBlueDarleen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DomesticIvoryVanny = 914
+  SupremeEmeraldTraci = "How come the stadium got hot after the game? Because all of the fans left."
+  RomanticAmberYalonda = false
+}

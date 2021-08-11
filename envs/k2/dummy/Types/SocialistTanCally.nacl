@@ -1,0 +1,89 @@
+type dummy.SocialistTanCally {
+  annotations {
+    string SunnyAquamarineJeane {
+    }
+    serviceid GreekMagentaKaren {
+    }
+    string AllegedAmaranthAlyce {
+    }
+    boolean BlindFuchsiaBrittani {
+    }
+    json RigidPurpleOlenka {
+    }
+  }
+  number InlandOrangeIngunna {
+    _hidden_value = true
+  }
+  json AggressiveBronzeLilla {
+    _hidden_value = true
+  }
+  boolean ProspectiveFuchsiaSarene {
+    _hidden_value = true
+  }
+  serviceid DeliciousIvoryLorrin {
+    _hidden_value = true
+  }
+  string PleasantSapphireRafaela {
+    _hidden_value = true
+  }
+  string VastAzureAmalie {
+    _hidden_value = true
+  }
+  serviceid HungryMoccasinLynna {
+    _hidden_value = true
+  }
+  number WearyCrimsonGalina {
+    _hidden_value = true
+  }
+  string ProfessionalAmaranthCarma {
+    _hidden_value = true
+  }
+  json TinyCopperMichelina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SafeRedLari {
+    _hidden_value = true
+  }
+  string EligibleTanSamara {
+    _hidden_value = true
+  }
+  string GloriousMoccasinBeverley {
+    _hidden_value = true
+  }
+  boolean BusySilverZea {
+    _hidden_value = true
+  }
+  number NervousTealConstanta {
+    _hidden_value = true
+  }
+  "List<number>" IncreasingSalmonArabella {
+    _hidden_value = true
+  }
+  serviceid CanadianAmaranthDana {
+    _hidden_value = true
+  }
+  string CrazyHarlequinGelya {
+    _hidden_value = true
+  }
+  string PrintedAmberNana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RedundantLimeDaisie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InquisitiveCoffeeNada {
+    _hidden_value = true
+  }
+  number InnocentCoralGwendolen {
+    _hidden_value = true
+  }
+  json FaithfulApricotArabela {
+    _hidden_value = true
+  }
+  SunnyAquamarineJeane = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GreekMagentaKaren = "Dad Im hungry  Hi hungry Im dad"
+  AllegedAmaranthAlyce = "Why did the kid cross the playground? To get to the other slide."
+  BlindFuchsiaBrittani = false
+  RigidPurpleOlenka = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

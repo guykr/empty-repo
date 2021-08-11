@@ -1,0 +1,58 @@
+type dummy.FirmAquaNicolea is boolean {
+  annotations {
+    serviceid MinorPinkAriadne {
+    }
+    string ChubbyRoseConstancia {
+    }
+    serviceid ImmenseTurquoiseNita {
+    }
+    number FluffyYellowMarybelle {
+    }
+    number PainfulPlumRomy {
+    }
+    boolean CompleteSapphireTeressa {
+    }
+    serviceid HungryTomatoCarmelita {
+    }
+    serviceid FluffyPurpleRoselin {
+    }
+    boolean IdealVioletKania {
+    }
+    json EasyChocolateHesther {
+    }
+    boolean HomelessPurpleJane {
+    }
+    string SkilledAquaTammara {
+    }
+    number PeculiarAmethystBethanne {
+    }
+    boolean UndergroundTurquoiseLynn {
+    }
+    serviceid HotPurpleCourtney {
+    }
+    boolean LinearBlueGilli {
+    }
+    serviceid AssociatedCrimsonDreddy {
+    }
+    json ScornfulGreenSilvie {
+    }
+  }
+  MinorPinkAriadne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ChubbyRoseConstancia = "A steak pun is a rare medium well done."
+  ImmenseTurquoiseNita = "Why didnt the skeleton cross the road? Because he had no guts."
+  FluffyYellowMarybelle = 15
+  PainfulPlumRomy = 284
+  CompleteSapphireTeressa = true
+  HungryTomatoCarmelita = "Whoever invented the knock-knock joke should get a no bell prize."
+  FluffyPurpleRoselin = "Im only familiar with 25 letters in the English language. I dont know why."
+  IdealVioletKania = false
+  EasyChocolateHesther = "Why was it called the dark ages? Because of all the knights. "
+  HomelessPurpleJane = true
+  SkilledAquaTammara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PeculiarAmethystBethanne = 922
+  UndergroundTurquoiseLynn = false
+  HotPurpleCourtney = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LinearBlueGilli = false
+  AssociatedCrimsonDreddy = "What creature is smarter than a talking parrot? A spelling bee."
+  ScornfulGreenSilvie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

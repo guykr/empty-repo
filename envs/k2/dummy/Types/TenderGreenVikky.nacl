@@ -1,0 +1,50 @@
+type dummy.TenderGreenVikky {
+  annotations {
+    boolean IntegralGrayCristi {
+    }
+    number InsufficientCyanBlythe {
+    }
+    boolean FrightenedSalmonLydia {
+    }
+    boolean EmotionalPinkRaven {
+    }
+  }
+  serviceid ConfusedPeachYovonnda {
+    _hidden_value = true
+  }
+  serviceid SolarMagentaAgnese {
+    _hidden_value = true
+  }
+  number OldGrayCatha {
+    _hidden_value = true
+  }
+  number DeterminedMoccasinShandeigh {
+    _hidden_value = true
+  }
+  serviceid DisturbedIndigoLacey {
+    _hidden_value = true
+  }
+  boolean AllegedMoccasinCynthia {
+    _hidden_value = true
+  }
+  number ExcitingSapphireGrissel {
+    _hidden_value = true
+  }
+  boolean SmallLavenderArdyce {
+    _hidden_value = true
+  }
+  boolean SmartScarletRene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InappropriateMagentaDorise {
+    _hidden_value = true
+  }
+  boolean FutureFuchsiaEssa {
+    _hidden_value = true
+  }
+  IntegralGrayCristi = false
+  InsufficientCyanBlythe = 665
+  FrightenedSalmonLydia = false
+  EmotionalPinkRaven = true
+  _hidden_value = true
+}

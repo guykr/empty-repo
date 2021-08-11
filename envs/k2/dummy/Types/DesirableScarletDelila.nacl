@@ -1,0 +1,35 @@
+type dummy.DesirableScarletDelila {
+  annotations {
+    dummy.StrikingMoccasinLonnie PuzzledAzureShirlee {
+    }
+    serviceid InformalCyanLaryssa {
+    }
+    boolean TroubledTanFifi {
+    }
+    boolean AmusedRoseMargarette {
+    }
+  }
+  number DeafBronzeBenetta {
+    _hidden_value = true
+  }
+  json EasyBronzeAda {
+    _hidden_value = true
+  }
+  "List<json>" SeniorLavenderLebbie {
+    _hidden_value = true
+  }
+  string SurvivingGrayMarcia {
+    _hidden_value = true
+  }
+  boolean RaspyAmethystMinna {
+    _hidden_value = true
+  }
+  string ExtremeHarlequinMelisandra {
+    _hidden_value = true
+  }
+  PuzzledAzureShirlee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  InformalCyanLaryssa = "Did you know that protons have mass? I didn't even know they were catholic."
+  TroubledTanFifi = true
+  AmusedRoseMargarette = false
+  _hidden_value = true
+}

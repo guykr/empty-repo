@@ -1,0 +1,63 @@
+type dummy.HurtJadeVevay is boolean {
+  annotations {
+    number DeliberateBlueDeirdre {
+    }
+    number MinimumApricotEdee {
+    }
+    serviceid BewilderedCopperDorotea {
+    }
+    boolean VulnerableMagentaInga {
+    }
+    serviceid HighLavenderLucretia {
+    }
+    number ScrawnyBeigeNoni {
+    }
+    json LevelBlueAdelind {
+    }
+    string ChristianFuchsiaRobenia {
+    }
+    serviceid OutrageousAquaDina {
+    }
+    number EvolutionaryTurquoiseKristen {
+    }
+    string DryOliveDoralia {
+    }
+    json RichRedMadeleine {
+    }
+    json HappyOrangeEdin {
+    }
+    number BrownSalmonGrier {
+    }
+    dummy.DEFAULT CarefulHarlequinPhaidra {
+    }
+    json OkBlushScarlet {
+    }
+    boolean CombativeTanDarline {
+    }
+    string ChillyAzureElaina {
+    }
+    json RoundGrayJuana {
+    }
+  }
+  DeliberateBlueDeirdre = 450
+  MinimumApricotEdee = 956
+  BewilderedCopperDorotea = "What do you call two barracuda fish?  A Pairacuda!"
+  VulnerableMagentaInga = true
+  HighLavenderLucretia = "Why was it called the dark ages? Because of all the knights. "
+  ScrawnyBeigeNoni = 601
+  LevelBlueAdelind = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChristianFuchsiaRobenia = "Did you know that protons have mass? I didn't even know they were catholic."
+  OutrageousAquaDina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EvolutionaryTurquoiseKristen = 353
+  DryOliveDoralia = "Why didnt the skeleton cross the road? Because he had no guts."
+  RichRedMadeleine = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HappyOrangeEdin = "Why was it called the dark ages? Because of all the knights. "
+  BrownSalmonGrier = 473
+  CarefulHarlequinPhaidra = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  OkBlushScarlet = "What do you call two barracuda fish?  A Pairacuda!"
+  CombativeTanDarline = false
+  ChillyAzureElaina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RoundGrayJuana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

@@ -1,0 +1,23 @@
+type dummy.ConvincedGoldCori {
+  annotations {
+    number KindIvorySarine {
+    }
+    boolean CombativeGrayKori {
+    }
+    number ThirstyCopperInessa {
+    }
+    boolean HissingAquaJacquette {
+    }
+    serviceid PowerfulLimeCal {
+    }
+  }
+  serviceid UnlikelyTanCarmencita {
+    _hidden_value = true
+  }
+  KindIvorySarine = 892
+  CombativeGrayKori = false
+  ThirstyCopperInessa = 380
+  HissingAquaJacquette = true
+  PowerfulLimeCal = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

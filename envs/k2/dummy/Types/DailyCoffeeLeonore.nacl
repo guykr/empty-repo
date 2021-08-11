@@ -1,0 +1,59 @@
+type dummy.DailyCoffeeLeonore {
+  annotations {
+    dummy.EquivalentJadeCaria RenewedPurpleSianna {
+    }
+    serviceid NervousFuchsiaLee {
+    }
+    serviceid AwkwardRoseDorthy {
+    }
+    boolean AnnualTanLeonie {
+    }
+  }
+  string OverwhelmingBeigeJunette {
+    _hidden_value = true
+  }
+  serviceid DarkYellowJemie {
+    _hidden_value = true
+  }
+  "List<serviceid>" WhisperingChocolateMaridel {
+    _hidden_value = true
+  }
+  boolean AutonomousJadeZena {
+    _hidden_value = true
+  }
+  string ChiefMaroonSuzanna {
+    _hidden_value = true
+  }
+  boolean ImperialAquamarineBrianna {
+    _hidden_value = true
+  }
+  json ChristianLimePhylys {
+    _hidden_value = true
+  }
+  string PalestinianPlumTheresina {
+    _hidden_value = true
+  }
+  string SafeLimeMarje {
+    _hidden_value = true
+  }
+  string BetterJadeJosi {
+    _hidden_value = true
+  }
+  boolean UncomfortableChocolateAnnadiane {
+    _hidden_value = true
+  }
+  serviceid TemporaryOrangeCortney {
+    _hidden_value = true
+  }
+  number AddedIndigoRobena {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa DisgustedTealAlbertina {
+    _hidden_value = true
+  }
+  RenewedPurpleSianna = "I'll tell you what often gets over looked... garden fences."
+  NervousFuchsiaLee = "Why was it called the dark ages? Because of all the knights. "
+  AwkwardRoseDorthy = "Why was it called the dark ages? Because of all the knights. "
+  AnnualTanLeonie = true
+  _hidden_value = true
+}

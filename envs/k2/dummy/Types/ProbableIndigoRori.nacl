@@ -1,0 +1,32 @@
+type dummy.ProbableIndigoRori {
+  annotations {
+    boolean GiganticOrangeDeeyn {
+    }
+    serviceid PsychologicalCoralMarlane {
+    }
+    boolean DisappointedBlushBelle {
+    }
+    string PersonalTomatoLorelei {
+    }
+    serviceid PureCoralDebora {
+    }
+    json FemaleEmeraldSeka {
+    }
+  }
+  dummy.DEFAULT UsedCoffeeFidela {
+    _hidden_value = true
+  }
+  string WorriedWhiteMarisa {
+    _hidden_value = true
+  }
+  string CooperativeMoccasinJanifer {
+    _hidden_value = true
+  }
+  GiganticOrangeDeeyn = true
+  PsychologicalCoralMarlane = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DisappointedBlushBelle = false
+  PersonalTomatoLorelei = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PureCoralDebora = "Why is Peter Pan always flying? Because he Neverlands."
+  FemaleEmeraldSeka = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

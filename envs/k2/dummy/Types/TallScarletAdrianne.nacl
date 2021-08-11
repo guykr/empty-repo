@@ -1,0 +1,41 @@
+type dummy.TallScarletAdrianne {
+  annotations {
+    string FashionableMagentaCharil {
+    }
+    serviceid AmateurOliveLaurie {
+    }
+    number ManagingWhiteCate {
+    }
+    boolean UglyIvorySilvie {
+    }
+    boolean LateGreenMireielle {
+    }
+  }
+  serviceid HarshAmberDdene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DrabYellowDianne {
+    _hidden_value = true
+  }
+  serviceid CoherentOrangeTeirtza {
+    _hidden_value = true
+  }
+  serviceid ClearBlushDayle {
+    _hidden_value = true
+  }
+  string AcceptableTealJaneczka {
+    _hidden_value = true
+  }
+  json MisleadingOrangeAgnese {
+    _hidden_value = true
+  }
+  boolean CommunistSilverMeade {
+    _hidden_value = true
+  }
+  FashionableMagentaCharil = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AmateurOliveLaurie = "To be Frank, I'd have to change my name."
+  ManagingWhiteCate = 461
+  UglyIvorySilvie = false
+  LateGreenMireielle = true
+  _hidden_value = true
+}

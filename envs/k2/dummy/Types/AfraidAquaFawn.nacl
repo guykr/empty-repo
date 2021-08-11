@@ -1,0 +1,42 @@
+type dummy.AfraidAquaFawn is string {
+  annotations {
+    number WideJadeWynny {
+    }
+    serviceid ColdOrangeCamel {
+    }
+    string DesperateAquamarineBrandea {
+    }
+    boolean DecentCoralAnthia {
+    }
+    json HelplessAquaSharline {
+    }
+    number DyingTurquoisePage {
+    }
+    string AfraidBrownFawnia {
+    }
+    number PositivePinkFerdinande {
+    }
+    serviceid IncredibleOliveLeila {
+    }
+    number FlutteringPlumLydia {
+    }
+    dummy.DEFAULT ArrogantBlueMilena {
+    }
+    serviceid ElegantBeigeFran {
+    }
+  }
+  WideJadeWynny = 48
+  ColdOrangeCamel = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DesperateAquamarineBrandea = "Why is Peter Pan always flying? Because he Neverlands."
+  DecentCoralAnthia = true
+  HelplessAquaSharline = "Why was it called the dark ages? Because of all the knights. "
+  DyingTurquoisePage = 634
+  AfraidBrownFawnia = "Im only familiar with 25 letters in the English language. I dont know why."
+  PositivePinkFerdinande = 10
+  IncredibleOliveLeila = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FlutteringPlumLydia = 770
+  ArrogantBlueMilena = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  ElegantBeigeFran = "What do you call two barracuda fish?  A Pairacuda!"
+}

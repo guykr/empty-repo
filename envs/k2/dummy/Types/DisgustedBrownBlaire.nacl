@@ -1,0 +1,41 @@
+type dummy.DisgustedBrownBlaire {
+  annotations {
+    boolean UnconsciousCoralMilly {
+    }
+    serviceid ModerateMaroonJordana {
+    }
+    string DuePeachShel {
+    }
+    json ToxicLavenderMelony {
+    }
+    json SourOliveLeone {
+    }
+    boolean EnchantingPinkNorry {
+    }
+    json ExplicitMaroonKristen {
+    }
+  }
+  number SocialMoccasinAnnadiana {
+    _hidden_value = true
+  }
+  serviceid GreatAmethystPaolina {
+    _hidden_value = true
+  }
+  serviceid GoldenCyanMeg {
+    _hidden_value = true
+  }
+  string TremendousBrownRaf {
+    _hidden_value = true
+  }
+  json PowerfulAmaranthJobey {
+    _hidden_value = true
+  }
+  UnconsciousCoralMilly = true
+  ModerateMaroonJordana = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DuePeachShel = "Why did the kid cross the playground? To get to the other slide."
+  ToxicLavenderMelony = "To be Frank, I'd have to change my name."
+  SourOliveLeone = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EnchantingPinkNorry = true
+  ExplicitMaroonKristen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

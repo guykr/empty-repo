@@ -1,0 +1,56 @@
+type dummy.BritishMagentaLulu {
+  annotations {
+    json CrudeTealLorianne {
+    }
+    serviceid DisastrousHarlequinTiffanie {
+    }
+    json FrequentGreenSaba {
+    }
+    serviceid RespectableMaroonMoselle {
+    }
+    serviceid HiddenSapphireDrusilla {
+    }
+  }
+  string VerticalPeachAlexandrina {
+    _hidden_value = true
+  }
+  serviceid PainfulBrownSisely {
+    _hidden_value = true
+  }
+  json LightVioletCrissy {
+    _hidden_value = true
+  }
+  string InappropriateBlushSharity {
+    _hidden_value = true
+  }
+  json PsychiatricAmethystClari {
+    _hidden_value = true
+  }
+  json PricklyCoffeeRoselle {
+    _hidden_value = true
+  }
+  serviceid ProductiveApricotPeggie {
+    _hidden_value = true
+  }
+  serviceid StraightWhiteRosalinda {
+    _hidden_value = true
+  }
+  serviceid ConservationLimeKarole {
+    _hidden_value = true
+  }
+  number SoreSapphirePavia {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDelinda {
+    _hidden_value = true
+  }
+  number HotSilverSophi {
+    _hidden_value = true
+  }
+  CrudeTealLorianne = "How come the stadium got hot after the game? Because all of the fans left."
+  DisastrousHarlequinTiffanie = "What creature is smarter than a talking parrot? A spelling bee."
+  FrequentGreenSaba = "A steak pun is a rare medium well done."
+  RespectableMaroonMoselle = "Slept like a log last night  woke up in the fireplace."
+  HiddenSapphireDrusilla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

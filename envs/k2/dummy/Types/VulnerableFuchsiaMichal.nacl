@@ -1,0 +1,41 @@
+type dummy.VulnerableFuchsiaMichal {
+  annotations {
+    string WrittenCoffeeGoldarina {
+    }
+    json GloriousCoffeeVenus {
+    }
+    boolean FrailAzureJoann {
+    }
+  }
+  string ConfidentialGoldCelina {
+    _hidden_value = true
+  }
+  number FlyingEmeraldPetronella {
+    _hidden_value = true
+  }
+  number ResonantCopperShawn {
+    _hidden_value = true
+  }
+  number SoleHarlequinKarie {
+    _hidden_value = true
+  }
+  json FaithfulIvoryHarri {
+    _hidden_value = true
+  }
+  number DistinctiveSapphireDalia {
+    _hidden_value = true
+  }
+  boolean LuckyApricotRubie {
+    _hidden_value = true
+  }
+  json AggressiveLavenderDevondra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyEmeraldPhillis {
+    _hidden_value = true
+  }
+  WrittenCoffeeGoldarina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GloriousCoffeeVenus = "Im only familiar with 25 letters in the English language. I dont know why."
+  FrailAzureJoann = false
+  _hidden_value = true
+}

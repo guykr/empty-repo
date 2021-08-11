@@ -1,0 +1,17 @@
+type dummy.SureYellowVonni {
+  annotations {
+    serviceid EvolutionaryHarlequinLuisa {
+    }
+    serviceid AppropriateTomatoJunina {
+    }
+    json CapitalistFuchsiaAvis {
+    }
+  }
+  boolean FilthyRedSileas {
+    _hidden_value = true
+  }
+  EvolutionaryHarlequinLuisa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AppropriateTomatoJunina = "What do you call two barracuda fish?  A Pairacuda!"
+  CapitalistFuchsiaAvis = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

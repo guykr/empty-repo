@@ -1,0 +1,25 @@
+type dummy.RisingOliveCaressa {
+  annotations {
+    dummy.DEFAULT WhiteCopperDoralynne {
+    }
+    boolean AppropriateBeigeMelinda {
+    }
+    number GrubbyVioletKorie {
+    }
+    boolean CurvedCrimsonAlex {
+    }
+    number OldCoffeeManon {
+    }
+  }
+  boolean WelcomeTanRivi {
+    _hidden_value = true
+  }
+  WhiteCopperDoralynne = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  AppropriateBeigeMelinda = true
+  GrubbyVioletKorie = 13
+  CurvedCrimsonAlex = false
+  OldCoffeeManon = 8
+  _hidden_value = true
+}

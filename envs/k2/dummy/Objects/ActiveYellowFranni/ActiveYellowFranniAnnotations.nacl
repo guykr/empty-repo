@@ -1,0 +1,48 @@
+type dummy.ActiveYellowFranni {
+  annotations {
+    dummy.SmallPlumLiana LeadingAzureJuli {
+    }
+    json ProfoundTanMercedes {
+    }
+    string TechnologicalCyanCeleste {
+    }
+    serviceid ImportantPurpleFayina {
+    }
+    string DisabledPlumJewel {
+    }
+    boolean InformalMaroonJoly {
+    }
+    string LovelyRedAntonella {
+    }
+    serviceid WetBeigeMarci {
+    }
+    number ConvincedGreenMaddi {
+    }
+    number AddedHarlequinBerte {
+    }
+    dummy.RearCoralGennie SteadyEmeraldHarrie {
+    }
+    string MedicalSapphireDulcia {
+    }
+    boolean FormalAmberFederica {
+    }
+    boolean LevelTurquoiseMarjy {
+    }
+    serviceid InclinedGoldBenedikta {
+    }
+  }
+  LeadingAzureJuli = false
+  ProfoundTanMercedes = "A steak pun is a rare medium well done."
+  TechnologicalCyanCeleste = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImportantPurpleFayina = "A steak pun is a rare medium well done."
+  DisabledPlumJewel = "To be Frank, I'd have to change my name."
+  InformalMaroonJoly = false
+  LovelyRedAntonella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WetBeigeMarci = "Why did the tomato blush? Because it saw the salad dressing."
+  ConvincedGreenMaddi = 15
+  AddedHarlequinBerte = 602
+  MedicalSapphireDulcia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FormalAmberFederica = false
+  LevelTurquoiseMarjy = false
+  InclinedGoldBenedikta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

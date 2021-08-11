@@ -1,0 +1,58 @@
+type dummy.EverydayGoldElle {
+  annotations {
+    number ActualRoseJohannah {
+    }
+    json WildAmberJenifer {
+    }
+    serviceid RealisticTurquoiseEva {
+    }
+    serviceid InnovativeFuchsiaAleta {
+    }
+  }
+  json PoliteMaroonAmelie {
+    _hidden_value = true
+  }
+  json LateMagentaGiacinta {
+    _hidden_value = true
+  }
+  boolean ProgressiveMagentaAinslee {
+    _hidden_value = true
+  }
+  string PositiveTomatoEliza {
+    _hidden_value = true
+  }
+  string CalmBrownSheena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReasonableScarletHallie {
+    _hidden_value = true
+  }
+  boolean SpatialYellowRoxana {
+    _hidden_value = true
+  }
+  dummy.JewishCoralJannel RespectiveGoldNikoletta {
+    AlivePeachImogen = true
+    HollowCopperKaitlynn = 106
+    HappyTanCandis = "Dad Im hungry  Hi hungry Im dad"
+    CoolGreenRona = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BottomBlushWinonah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RelativeTealLeontine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RepresentativeScarletLorenza = "Why didnt the skeleton cross the road? Because he had no guts."
+    DesperateAquamarineLisabeth = 475
+    UndergroundBlackBenni = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FunnyRedTimi = 788
+    GlobalCopperFanechka = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  serviceid PremierTurquoiseBibbye {
+    _hidden_value = true
+  }
+  serviceid QualifiedLimeCybil {
+    _hidden_value = true
+  }
+  ActualRoseJohannah = 478
+  WildAmberJenifer = "Im only familiar with 25 letters in the English language. I dont know why."
+  RealisticTurquoiseEva = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InnovativeFuchsiaAleta = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

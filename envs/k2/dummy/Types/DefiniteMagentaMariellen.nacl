@@ -1,0 +1,38 @@
+type dummy.DefiniteMagentaMariellen {
+  annotations {
+    string SpontaneousBlueCarmella {
+    }
+    boolean EqualAmethystKarena {
+    }
+    json ChangingYellowPhilly {
+    }
+    serviceid ResidentSalmonMadlin {
+    }
+  }
+  number LatinCrimsonGusty {
+    _hidden_value = true
+  }
+  json MaximumAmberRycca {
+    _hidden_value = true
+  }
+  json SillyPinkHayley {
+    _hidden_value = true
+  }
+  serviceid PrimitiveAmberSuzy {
+    _hidden_value = true
+  }
+  boolean ExcessApricotKrystalle {
+    _hidden_value = true
+  }
+  json SeparatePurpleEveline {
+    _hidden_value = true
+  }
+  number EfficientChocolateHildy {
+    _hidden_value = true
+  }
+  SpontaneousBlueCarmella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EqualAmethystKarena = false
+  ChangingYellowPhilly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResidentSalmonMadlin = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type dummy.NaughtyCyanRenee {
+  annotations {
+    boolean ScrawnyAmaranthMuire {
+    }
+    json OppositePlumTiphany {
+    }
+    string NuclearGreenOdessa {
+    }
+    number EnthusiasticBronzeMasha {
+    }
+  }
+  number FavouriteIndigoAndie {
+    _hidden_value = true
+  }
+  serviceid CruelPurpleLurette {
+    _hidden_value = true
+  }
+  string OccasionalAzureMonika {
+    _hidden_value = true
+  }
+  serviceid ControversialScarletMoll {
+    _hidden_value = true
+  }
+  string NorthernFuchsiaTheadora {
+    _hidden_value = true
+  }
+  serviceid BroadMoccasinDrusy {
+    _hidden_value = true
+  }
+  json CloudyBeigeTallie {
+    _hidden_value = true
+  }
+  ScrawnyAmaranthMuire = false
+  OppositePlumTiphany = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NuclearGreenOdessa = "Why didnt the skeleton cross the road? Because he had no guts."
+  EnthusiasticBronzeMasha = 319
+  _hidden_value = true
+}

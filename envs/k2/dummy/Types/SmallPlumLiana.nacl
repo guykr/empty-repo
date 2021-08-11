@@ -1,0 +1,19 @@
+type dummy.SmallPlumLiana is boolean {
+  annotations {
+    string DecentAquamarineTabina {
+    }
+    json VagueAmaranthEsmaria {
+    }
+    serviceid EssentialLavenderFlor {
+    }
+    boolean GenerousBlueKiele {
+    }
+    serviceid SensitiveTurquoiseClaresta {
+    }
+  }
+  DecentAquamarineTabina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VagueAmaranthEsmaria = "Why did the kid cross the playground? To get to the other slide."
+  EssentialLavenderFlor = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GenerousBlueKiele = true
+  SensitiveTurquoiseClaresta = "I'll tell you what often gets over looked... garden fences."
+}

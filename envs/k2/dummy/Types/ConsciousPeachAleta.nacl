@@ -1,0 +1,62 @@
+type dummy.ConsciousPeachAleta {
+  annotations {
+    json CriminalCoralCarita {
+    }
+    string StraightforwardMoccasinLonna {
+    }
+    string DomesticJadeMalissia {
+    }
+    number CapableWhiteSibbie {
+    }
+    boolean MissingTealLilly {
+    }
+    serviceid FunctionalBeigeDido {
+    }
+    serviceid BreakablePinkEstelle {
+    }
+  }
+  boolean ParliamentaryOrangeMiriam {
+    _hidden_value = true
+  }
+  boolean IndependentMaroonWillie {
+    _hidden_value = true
+  }
+  serviceid SteepTealBrett {
+    _hidden_value = true
+  }
+  json HonestOliveRozanne {
+    _hidden_value = true
+  }
+  boolean InstantLimeBlondie {
+    _hidden_value = true
+  }
+  boolean OldCyanBernetta {
+    _hidden_value = true
+  }
+  boolean AfraidMaroonSuzy {
+    _hidden_value = true
+  }
+  string ObviousCopperAdi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RelevantSilverSelie {
+    _hidden_value = true
+  }
+  string DustyMoccasinLyndsie {
+    _hidden_value = true
+  }
+  boolean MiniatureBrownJanessa {
+    _hidden_value = true
+  }
+  serviceid WorriedWhiteJeanna {
+    _hidden_value = true
+  }
+  CriminalCoralCarita = "Why didnt the skeleton cross the road? Because he had no guts."
+  StraightforwardMoccasinLonna = "To be Frank, I'd have to change my name."
+  DomesticJadeMalissia = "Why did the tomato blush? Because it saw the salad dressing."
+  CapableWhiteSibbie = 245
+  MissingTealLilly = true
+  FunctionalBeigeDido = "I'll tell you what often gets over looked... garden fences."
+  BreakablePinkEstelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type dummy.AppropriateChocolateLadonna is number {
+  annotations {
+    boolean SilentLavenderMidge {
+    }
+    boolean PotentialBronzeManya {
+    }
+    string FirmTurquoiseMagdalena {
+    }
+    serviceid DirectIndigoNannie {
+    }
+    string EthicalHarlequinCarmon {
+    }
+    number KindIndigoHelen {
+    }
+    string PlannedOrangeWynn {
+    }
+  }
+  SilentLavenderMidge = false
+  PotentialBronzeManya = true
+  FirmTurquoiseMagdalena = "Why was it called the dark ages? Because of all the knights. "
+  DirectIndigoNannie = "Why did the tomato blush? Because it saw the salad dressing."
+  EthicalHarlequinCarmon = "What did one nut say as he chased another nut?  I'm a cashew!"
+  KindIndigoHelen = 210
+  PlannedOrangeWynn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

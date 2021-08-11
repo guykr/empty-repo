@@ -1,0 +1,29 @@
+type dummy.SelectLimeAngelia {
+  annotations {
+    number SureJadeSybila {
+    }
+    boolean DistinctiveSapphireMaia {
+    }
+    boolean MarriedPinkMariel {
+    }
+    boolean HungryTealRennie {
+    }
+    serviceid PermanentPlumCornela {
+    }
+  }
+  json GloriousEmeraldAdelaide {
+    _hidden_value = true
+  }
+  serviceid ElaborateAmaranthDottie {
+    _hidden_value = true
+  }
+  string AmazingWhiteKary {
+    _hidden_value = true
+  }
+  SureJadeSybila = 600
+  DistinctiveSapphireMaia = true
+  MarriedPinkMariel = false
+  HungryTealRennie = false
+  PermanentPlumCornela = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

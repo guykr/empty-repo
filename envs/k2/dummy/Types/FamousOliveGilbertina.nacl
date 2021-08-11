@@ -1,0 +1,38 @@
+type dummy.FamousOliveGilbertina {
+  annotations {
+    dummy.SoundAmaranthImelda CurvedSalmonMil {
+    }
+    boolean LateBronzeMerci {
+    }
+    string InlandLimeElita {
+    }
+    string LegalSilverSayre {
+    }
+  }
+  number LargeFuchsiaKarmen {
+    _hidden_value = true
+  }
+  string ContinentalAmethystJeanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessRoseAlyda {
+    _hidden_value = true
+  }
+  number RoastedGoldFarand {
+    _hidden_value = true
+  }
+  number TiredTealSharia {
+    _hidden_value = true
+  }
+  number ProfoundBlueJustina {
+    _hidden_value = true
+  }
+  string ImportantTealLora {
+    _hidden_value = true
+  }
+  CurvedSalmonMil = 566
+  LateBronzeMerci = true
+  InlandLimeElita = "Did you know that protons have mass? I didn't even know they were catholic."
+  LegalSilverSayre = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

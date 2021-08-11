@@ -1,0 +1,44 @@
+type dummy.ObligedApricotMarleen {
+  annotations {
+    string AsleepApricotOdelinda {
+    }
+    number SillyRedNicoline {
+    }
+    boolean NaturalCyanFederica {
+    }
+    json RipeAmaranthGenny {
+    }
+  }
+  string EffectiveBrownKirstin {
+    _hidden_value = true
+  }
+  json ShallowOliveKrystal {
+    _hidden_value = true
+  }
+  number BetterSalmonTarra {
+    _hidden_value = true
+  }
+  boolean MereIvoryWynny {
+    _hidden_value = true
+  }
+  json LuckyAmberMyriam {
+    _hidden_value = true
+  }
+  boolean CertainWhiteNatty {
+    _hidden_value = true
+  }
+  serviceid EntireTomatoEnrichetta {
+    _hidden_value = true
+  }
+  json FunnySilverGlenna {
+    _hidden_value = true
+  }
+  number AddedOliveMerrie {
+    _hidden_value = true
+  }
+  AsleepApricotOdelinda = "Why didnt the skeleton cross the road? Because he had no guts."
+  SillyRedNicoline = 316
+  NaturalCyanFederica = true
+  RipeAmaranthGenny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,56 @@
+type dummy.ProfitablePinkSiusan {
+  annotations {
+    boolean AwfulAzureMechelle {
+    }
+    serviceid BrownHarlequinLisette {
+    }
+    number DeafeningAmethystAriela {
+    }
+    json DisgustedBlushMichelle {
+    }
+    json FunWhiteLois {
+    }
+    json StrikingSapphireMadel {
+    }
+    dummy.DualAmethystMarney StingyYellowCristy {
+    }
+    string InterestingJadeMargaret {
+    }
+    serviceid HomelessPlumMarilin {
+    }
+    json PrincipalAzureMelisandra {
+    }
+    dummy.BewilderedGreenRosemarie InappropriateAquaSheilakathryn {
+    }
+    serviceid HandicappedChocolateBliss {
+    }
+    number ThirstyCoffeeCatlaina {
+    }
+    dummy.PositiveBronzeElvera CorporatePurpleCarolyne {
+    }
+    json OtherBlushHarriette {
+    }
+    string WeirdScarletJuliann {
+    }
+    json BroadTanDelilah {
+    }
+    boolean EvilTomatoTherese {
+    }
+  }
+  AwfulAzureMechelle = true
+  BrownHarlequinLisette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DeafeningAmethystAriela = 497
+  DisgustedBlushMichelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FunWhiteLois = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StrikingSapphireMadel = "Slept like a log last night  woke up in the fireplace."
+  InterestingJadeMargaret = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HomelessPlumMarilin = "To be Frank, I'd have to change my name."
+  PrincipalAzureMelisandra = "Dad Im hungry  Hi hungry Im dad"
+  InappropriateAquaSheilakathryn = file("DeepMagentaSuzy.txt")
+  HandicappedChocolateBliss = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ThirstyCoffeeCatlaina = 874
+  OtherBlushHarriette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WeirdScarletJuliann = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BroadTanDelilah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EvilTomatoTherese = false
+}

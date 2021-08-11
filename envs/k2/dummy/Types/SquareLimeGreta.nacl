@@ -1,0 +1,20 @@
+type dummy.SquareLimeGreta {
+  annotations {
+    string GermanGrayAngelique {
+    }
+    json AppallingAmberWilow {
+    }
+    string HilariousAquamarineTeresina {
+    }
+    number WetCyanMadeleine {
+    }
+  }
+  string CorrectCyanJillie {
+    _hidden_value = true
+  }
+  GermanGrayAngelique = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AppallingAmberWilow = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HilariousAquamarineTeresina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WetCyanMadeleine = 916
+  _hidden_value = true
+}

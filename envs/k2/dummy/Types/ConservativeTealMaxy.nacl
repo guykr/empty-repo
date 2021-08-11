@@ -1,0 +1,47 @@
+type dummy.ConservativeTealMaxy {
+  annotations {
+    number SimilarScarletIlyssa {
+    }
+    number MarineAzureKrissie {
+    }
+    boolean EuropeanBlueFlorenza {
+    }
+    serviceid AcademicCopperLissie {
+    }
+  }
+  json OldBronzeAveril {
+    _hidden_value = true
+  }
+  json EnormousHarlequinShir {
+    _hidden_value = true
+  }
+  json BloodyBlushMable {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PayableCyanRoxanna {
+    _hidden_value = true
+  }
+  boolean PremierMaroonGalina {
+    _hidden_value = true
+  }
+  json GreatGreenLonnie {
+    _hidden_value = true
+  }
+  string WiseSalmonKelcy {
+    _hidden_value = true
+  }
+  json WidePlumJunette {
+    _hidden_value = true
+  }
+  serviceid OverwhelmingAquamarineCarree {
+    _hidden_value = true
+  }
+  serviceid GratefulBlushKaralynn {
+    _hidden_value = true
+  }
+  SimilarScarletIlyssa = 882
+  MarineAzureKrissie = 726
+  EuropeanBlueFlorenza = false
+  AcademicCopperLissie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

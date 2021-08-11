@@ -1,0 +1,23 @@
+type dummy.GreenGoldLib {
+  annotations {
+    number IntenseHarlequinLynette {
+    }
+    string DominantMagentaDaria {
+    }
+    boolean ProductiveBeigeAlexa {
+    }
+    boolean HappyGoldAnnalise {
+    }
+    json ForthcomingSilverBritni {
+    }
+  }
+  number ConstantAzureAngelle {
+    _hidden_value = true
+  }
+  IntenseHarlequinLynette = 236
+  DominantMagentaDaria = "Why was it called the dark ages? Because of all the knights. "
+  ProductiveBeigeAlexa = false
+  HappyGoldAnnalise = true
+  ForthcomingSilverBritni = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

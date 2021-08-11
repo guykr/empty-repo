@@ -1,0 +1,23 @@
+type dummy.BadBronzeDione {
+  annotations {
+    number DryBeigeMadelin {
+    }
+    number WidespreadPeachMarlee {
+    }
+    boolean UnusualWhiteNike {
+    }
+    serviceid VaryingFuchsiaShawnee {
+    }
+    serviceid RelaxedJadeBeitris {
+    }
+  }
+  serviceid ScrawnyFuchsiaLotta {
+    _hidden_value = true
+  }
+  DryBeigeMadelin = 449
+  WidespreadPeachMarlee = 908
+  UnusualWhiteNike = false
+  VaryingFuchsiaShawnee = "Dad Im hungry  Hi hungry Im dad"
+  RelaxedJadeBeitris = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

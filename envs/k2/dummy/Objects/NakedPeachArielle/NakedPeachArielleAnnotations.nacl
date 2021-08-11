@@ -1,0 +1,75 @@
+type dummy.NakedPeachArielle {
+  annotations {
+    string OccasionalVioletLanny {
+    }
+    json MuteLavenderEvaleen {
+    }
+    string AshamedWhiteCelinka {
+    }
+    json WelshTomatoValli {
+    }
+    serviceid ImprovedMagentaBobbie {
+    }
+    json ObviousTomatoSadella {
+    }
+    number KeenChocolateUrsula {
+    }
+    number SickScarletBobbette {
+    }
+    boolean DefinitePurpleDannie {
+    }
+    dummy.ContemporaryBlushArleyne InstitutionalCyanDruci {
+    }
+    json LikelyAmberDelphine {
+    }
+    number SadSapphireCherianne {
+    }
+    boolean FrightenedApricotMona {
+    }
+    string DominantAmethystEmmey {
+    }
+    json FriendlyBlueLeola {
+    }
+    serviceid CommunistAmethystSheela {
+    }
+    string PleasantMaroonSusanne {
+    }
+    serviceid InappropriateLimeDulcea {
+    }
+    string ObligedVioletMorganne {
+    }
+    dummy.SparklingAmaranthLeone SlowAquaGwyn {
+    }
+    boolean VaryingGreenClementina {
+    }
+    string OfficialAquaViole {
+    }
+    serviceid FrailEmeraldSophia {
+    }
+    serviceid ExcessSalmonPandora {
+    }
+  }
+  OccasionalVioletLanny = "Why is Peter Pan always flying? Because he Neverlands."
+  MuteLavenderEvaleen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AshamedWhiteCelinka = "What do you call two barracuda fish?  A Pairacuda!"
+  WelshTomatoValli = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImprovedMagentaBobbie = "What creature is smarter than a talking parrot? A spelling bee."
+  ObviousTomatoSadella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  KeenChocolateUrsula = 556
+  SickScarletBobbette = 566
+  DefinitePurpleDannie = true
+  LikelyAmberDelphine = "Why was it called the dark ages? Because of all the knights. "
+  SadSapphireCherianne = 159
+  FrightenedApricotMona = true
+  DominantAmethystEmmey = "Why was it called the dark ages? Because of all the knights. "
+  FriendlyBlueLeola = "I'll tell you what often gets over looked... garden fences."
+  CommunistAmethystSheela = "Why do birds fly south for the winter? Because it's too far to walk."
+  PleasantMaroonSusanne = "Why didnt the skeleton cross the road? Because he had no guts."
+  InappropriateLimeDulcea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ObligedVioletMorganne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SlowAquaGwyn = true
+  VaryingGreenClementina = false
+  OfficialAquaViole = "Why do birds fly south for the winter? Because it's too far to walk."
+  FrailEmeraldSophia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExcessSalmonPandora = "How come the stadium got hot after the game? Because all of the fans left."
+}

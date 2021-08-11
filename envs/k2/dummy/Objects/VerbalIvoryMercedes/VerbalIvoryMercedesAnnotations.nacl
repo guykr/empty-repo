@@ -1,0 +1,61 @@
+type dummy.VerbalIvoryMercedes {
+  annotations {
+    number ShaggyYellowBlondy {
+    }
+    json MarvellousIndigoKeelia {
+    }
+    boolean GrumpyOrangeBarbabra {
+    }
+    boolean RoughChocolateBabbette {
+    }
+    json ToughPeachLynne {
+    }
+    string CuriousIvoryJanet {
+    }
+    json GrowingBlushLauryn {
+    }
+    json AbundantOliveCaterina {
+    }
+    number LtdSilverRubie {
+    }
+    boolean GloriousAmaranthAgretha {
+    }
+    string SaltyAmberSeka {
+    }
+    number WoodenChocolateWallie {
+    }
+    number ScatteredOliveElbertina {
+    }
+    dummy.SparklingAmaranthLeone FuriousAmaranthWilly {
+    }
+    serviceid CivilAmethystPaulita {
+    }
+    string LargeRedKaja {
+    }
+    serviceid ExtraOliveIngaborg {
+    }
+    serviceid RichCrimsonHermia {
+    }
+    number CapableLimeLucille {
+    }
+  }
+  ShaggyYellowBlondy = 534
+  MarvellousIndigoKeelia = "What creature is smarter than a talking parrot? A spelling bee."
+  GrumpyOrangeBarbabra = false
+  RoughChocolateBabbette = false
+  ToughPeachLynne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CuriousIvoryJanet = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GrowingBlushLauryn = "Why is Peter Pan always flying? Because he Neverlands."
+  AbundantOliveCaterina = "What do you call two barracuda fish?  A Pairacuda!"
+  LtdSilverRubie = 165
+  GloriousAmaranthAgretha = false
+  SaltyAmberSeka = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WoodenChocolateWallie = 135
+  ScatteredOliveElbertina = 580
+  FuriousAmaranthWilly = false
+  CivilAmethystPaulita = "How come the stadium got hot after the game? Because all of the fans left."
+  LargeRedKaja = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ExtraOliveIngaborg = "What do you call two barracuda fish?  A Pairacuda!"
+  RichCrimsonHermia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CapableLimeLucille = 376
+}

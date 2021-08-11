@@ -1,0 +1,29 @@
+type dummy.UsefulTomatoClara {
+  annotations {
+    json WorriedGoldMaritsa {
+    }
+    string ExtraordinaryCrimsonMargy {
+    }
+    serviceid StuckBlushGaynor {
+    }
+    serviceid UnconsciousOliveKimberley {
+    }
+    boolean CivicJadeValentine {
+    }
+    boolean StrongAzureCrystal {
+    }
+    boolean CurvedLavenderBethany {
+    }
+  }
+  string OlympicJadeMaisie {
+    _hidden_value = true
+  }
+  WorriedGoldMaritsa = "Why did the tomato blush? Because it saw the salad dressing."
+  ExtraordinaryCrimsonMargy = "Why didnt the skeleton cross the road? Because he had no guts."
+  StuckBlushGaynor = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UnconsciousOliveKimberley = "Why is Peter Pan always flying? Because he Neverlands."
+  CivicJadeValentine = false
+  StrongAzureCrystal = false
+  CurvedLavenderBethany = false
+  _hidden_value = true
+}

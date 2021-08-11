@@ -1,0 +1,44 @@
+type dummy.RawTurquoiseCynthie {
+  annotations {
+    serviceid UnchangedOrangeJosie {
+    }
+    string SportingAmethystConstantine {
+    }
+    boolean SurroundingPurpleKessiah {
+    }
+    json IncredibleAquamarineGwendolin {
+    }
+    json DamagedLavenderGussie {
+    }
+    number ExtremeMoccasinGlynis {
+    }
+  }
+  boolean FilthyBeigeColleen {
+    _hidden_value = true
+  }
+  boolean CreepyBeigeFiann {
+    _hidden_value = true
+  }
+  boolean RearOliveLoreen {
+    _hidden_value = true
+  }
+  json FoolishYellowLatrena {
+    _hidden_value = true
+  }
+  boolean ShallowBlackMeryl {
+    _hidden_value = true
+  }
+  serviceid LiveBlueJada {
+    _hidden_value = true
+  }
+  string RegisteredMaroonJaclyn {
+    _hidden_value = true
+  }
+  UnchangedOrangeJosie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SportingAmethystConstantine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SurroundingPurpleKessiah = false
+  IncredibleAquamarineGwendolin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DamagedLavenderGussie = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExtremeMoccasinGlynis = 86
+  _hidden_value = true
+}

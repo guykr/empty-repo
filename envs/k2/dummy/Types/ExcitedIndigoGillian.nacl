@@ -1,0 +1,28 @@
+type dummy.ExcitedIndigoGillian {
+  annotations {
+    serviceid HurtTanAlex {
+    }
+    dummy.EntireBrownJacki CostlyTomatoCorrey {
+    }
+    boolean CuteCyanKristi {
+    }
+    number InadequateBronzeStephine {
+    }
+    dummy.DEFAULT IncreasingAmaranthLeodora {
+    }
+    boolean UnusualPinkLexi {
+    }
+  }
+  string ParallelSilverRozella {
+    _hidden_value = true
+  }
+  HurtTanAlex = "I'll tell you what often gets over looked... garden fences."
+  CostlyTomatoCorrey = 110
+  CuteCyanKristi = true
+  InadequateBronzeStephine = 652
+  IncreasingAmaranthLeodora = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  UnusualPinkLexi = true
+  _hidden_value = true
+}

@@ -1,0 +1,41 @@
+type dummy.SteepCoralChelsie {
+  annotations {
+    string DarkMagentaZsazsa {
+    }
+    string CorrectCopperMarina {
+    }
+    serviceid QuietPlumJoann {
+    }
+    json BritishAmberLibbie {
+    }
+    boolean IdealOliveRoberta {
+    }
+    json OfficialTomatoBlake {
+    }
+  }
+  serviceid LivingAmaranthGabey {
+    _hidden_value = true
+  }
+  number PremierAzureMerna {
+    _hidden_value = true
+  }
+  string DivineOrangeArdyce {
+    _hidden_value = true
+  }
+  boolean ColossalFuchsiaBevvy {
+    _hidden_value = true
+  }
+  number PastApricotGene {
+    _hidden_value = true
+  }
+  serviceid BeneficialRedMirelle {
+    _hidden_value = true
+  }
+  DarkMagentaZsazsa = "Whoever invented the knock-knock joke should get a no bell prize."
+  CorrectCopperMarina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  QuietPlumJoann = "What creature is smarter than a talking parrot? A spelling bee."
+  BritishAmberLibbie = "A steak pun is a rare medium well done."
+  IdealOliveRoberta = true
+  OfficialTomatoBlake = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

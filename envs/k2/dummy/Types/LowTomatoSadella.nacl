@@ -1,0 +1,26 @@
+type dummy.LowTomatoSadella {
+  annotations {
+    serviceid IndianBronzeAiley {
+    }
+    boolean AvailableTanAlica {
+    }
+    serviceid ExcessGreenKirbee {
+    }
+    number OverwhelmingBrownTheresita {
+    }
+    string ElectricScarletJillayne {
+    }
+    dummy.PrintedGoldLauralee OpenEmeraldNanni {
+    }
+  }
+  serviceid MidOrangeChristina {
+    _hidden_value = true
+  }
+  IndianBronzeAiley = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AvailableTanAlica = true
+  ExcessGreenKirbee = "Why did the tomato blush? Because it saw the salad dressing."
+  OverwhelmingBrownTheresita = 361
+  ElectricScarletJillayne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OpenEmeraldNanni = false
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type dummy.FavouriteAzureJanetta {
+  annotations {
+    number LightTomatoCarlen {
+    }
+    boolean ConservativeAzureGracia {
+    }
+    json AcuteBeigeGray {
+    }
+    number HolyPlumVivia {
+    }
+    serviceid HappySapphireKirstin {
+    }
+  }
+  dummy.DEFAULT CoastalAmberElysee {
+    _hidden_value = true
+  }
+  json MeltedTanKori {
+    _hidden_value = true
+  }
+  string SportingLimeClara {
+    _hidden_value = true
+  }
+  serviceid SkilledPurpleLulu {
+    _hidden_value = true
+  }
+  number WeakSilverCelestine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StuckLavenderBenetta {
+    _hidden_value = true
+  }
+  LightTomatoCarlen = 646
+  ConservativeAzureGracia = false
+  AcuteBeigeGray = "Why do birds fly south for the winter? Because it's too far to walk."
+  HolyPlumVivia = 470
+  HappySapphireKirstin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,50 @@
+type dummy.DullGrayCecile {
+  annotations {
+    string HelplessBeigeGrazia {
+    }
+    json SteepRoseAudy {
+    }
+    json MechanicalIvoryVerla {
+    }
+    string HiddenBlueIvory {
+    }
+  }
+  boolean GentleTomatoLana {
+    _hidden_value = true
+  }
+  json EnergeticAquamarineConcettina {
+    _hidden_value = true
+  }
+  number FrightenedBeigeAuguste {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AutomaticAmberAllina {
+    _hidden_value = true
+  }
+  serviceid FreshBlushMalinda {
+    _hidden_value = true
+  }
+  number AttractiveWhiteLenka {
+    _hidden_value = true
+  }
+  number LightTurquoiseDaffy {
+    _hidden_value = true
+  }
+  string SadAmberIdalia {
+    _hidden_value = true
+  }
+  string StrongBlueMandi {
+    _hidden_value = true
+  }
+  number SystematicGrayTobe {
+    _hidden_value = true
+  }
+  serviceid IdealVioletGayle {
+    _hidden_value = true
+  }
+  HelplessBeigeGrazia = "Why do birds fly south for the winter? Because it's too far to walk."
+  SteepRoseAudy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MechanicalIvoryVerla = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HiddenBlueIvory = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

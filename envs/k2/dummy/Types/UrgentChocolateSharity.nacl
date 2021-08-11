@@ -1,0 +1,29 @@
+type dummy.UrgentChocolateSharity {
+  annotations {
+    json ConvincingRoseLiesa {
+    }
+    string PlainEmeraldJillian {
+    }
+    serviceid UrgentGrayKristi {
+    }
+    boolean VulnerableAquamarineMirna {
+    }
+  }
+  serviceid VisualAmaranthEddy {
+    _hidden_value = true
+  }
+  string EthicalCopperNicola {
+    _hidden_value = true
+  }
+  boolean PerfectBeigeDona {
+    _hidden_value = true
+  }
+  number FinancialBrownCarlynne {
+    _hidden_value = true
+  }
+  ConvincingRoseLiesa = "I'll tell you what often gets over looked... garden fences."
+  PlainEmeraldJillian = "Why did the tomato blush? Because it saw the salad dressing."
+  UrgentGrayKristi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  VulnerableAquamarineMirna = true
+  _hidden_value = true
+}

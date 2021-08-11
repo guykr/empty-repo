@@ -1,0 +1,63 @@
+type dummy.LimitedBronzeNollie {
+  annotations {
+    json WetPlumShayna {
+    }
+    serviceid ShallowScarletDawn {
+    }
+    json PolishHarlequinCasi {
+    }
+    number ElectricalMaroonRozina {
+    }
+    number SubsequentAmaranthDianna {
+    }
+    json PerfectAmethystMichaela {
+    }
+    number WorriedBeigeRozalin {
+    }
+    serviceid FranticCrimsonBiddy {
+    }
+    number RealisticLimeEmlyn {
+    }
+    dummy.NuclearBlueCorinna HolyGreenNannette {
+    }
+    serviceid FineCoralKandace {
+    }
+    serviceid BeautifulBronzeUrsola {
+    }
+    string ThenRedMari {
+    }
+    json MinimumChocolateFlorrie {
+    }
+    dummy.AfraidAquaFawn MagicScarletAnnamaria {
+    }
+    number DependentIndigoJacquelynn {
+    }
+    json ParticularSilverTatum {
+    }
+    dummy.AnxiousMagentaNinetta HomelyOrangeBerrie {
+    }
+    number VisibleCoralSibylle {
+    }
+    string FamousEmeraldPerla {
+    }
+  }
+  WetPlumShayna = "Why was it called the dark ages? Because of all the knights. "
+  ShallowScarletDawn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PolishHarlequinCasi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ElectricalMaroonRozina = 79
+  SubsequentAmaranthDianna = 725
+  PerfectAmethystMichaela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WorriedBeigeRozalin = 265
+  FranticCrimsonBiddy = "What do you call two barracuda fish?  A Pairacuda!"
+  RealisticLimeEmlyn = 203
+  HolyGreenNannette = 141
+  FineCoralKandace = "Why do birds fly south for the winter? Because it's too far to walk."
+  BeautifulBronzeUrsola = "Why is Peter Pan always flying? Because he Neverlands."
+  ThenRedMari = "Im only familiar with 25 letters in the English language. I dont know why."
+  MinimumChocolateFlorrie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MagicScarletAnnamaria = file("RattyAzureAlla.txt")
+  DependentIndigoJacquelynn = 460
+  ParticularSilverTatum = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VisibleCoralSibylle = 571
+  FamousEmeraldPerla = "To be Frank, I'd have to change my name."
+}

@@ -1,0 +1,32 @@
+type dummy.UpperAzureEsma {
+  annotations {
+    number UnableCoralTomasina {
+    }
+    boolean DreadfulAquamarineNady {
+    }
+    string AttractiveSilverFanya {
+    }
+    boolean ContinentalCyanAmalee {
+    }
+  }
+  string ComplexRoseVale {
+    _hidden_value = true
+  }
+  string GoldenGrayMaure {
+    _hidden_value = true
+  }
+  serviceid HardHarlequinCrissie {
+    _hidden_value = true
+  }
+  boolean UniqueTurquoiseCynthea {
+    _hidden_value = true
+  }
+  json ParallelLavenderCrissie {
+    _hidden_value = true
+  }
+  UnableCoralTomasina = 571
+  DreadfulAquamarineNady = false
+  AttractiveSilverFanya = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ContinentalCyanAmalee = false
+  _hidden_value = true
+}

@@ -1,0 +1,79 @@
+type dummy.SadIndigoDesiri {
+  annotations {
+    json RenewedCyanRemy {
+    }
+    json EthnicRoseKissie {
+    }
+    boolean GayOrangeRoana {
+    }
+    json HandsomeBlackCynthea {
+    }
+    string ProminentPinkTamara {
+    }
+  }
+  "List<string>" SpanishFuchsiaJanifer {
+    _hidden_value = true
+  }
+  boolean WonderfulAmberCheri {
+    _hidden_value = true
+  }
+  json AtomicWhiteJodie {
+    _hidden_value = true
+  }
+  boolean SolidLimePhil {
+    _hidden_value = true
+  }
+  boolean ProfoundHarlequinSharlene {
+    _hidden_value = true
+  }
+  number CrazyCrimsonLola {
+    _hidden_value = true
+  }
+  boolean BreakableAquaToinette {
+    _hidden_value = true
+  }
+  "Map<json>" TroubledGrayEmelita {
+    _hidden_value = true
+  }
+  serviceid LiableAzureRasia {
+    _hidden_value = true
+  }
+  number TameTomatoShaylynn {
+    _hidden_value = true
+  }
+  boolean ExcitingMoccasinDori {
+    _hidden_value = true
+  }
+  json UpsetTomatoPetrina {
+    _hidden_value = true
+  }
+  dummy.AbundantCoralBelva MuteScarletBunny {
+    NarrowLavenderWren = true
+    JustAquaTobi = "To be Frank, I'd have to change my name."
+    NutritiousApricotKarly = "Dad Im hungry  Hi hungry Im dad"
+    ScreechingJadeRennie = false
+    SharedHarlequinMarnie = false
+    ImmenseBlushJyoti = "I'll tell you what often gets over looked... garden fences."
+    VagueBronzeChiquita = "What do you call two barracuda fish?  A Pairacuda!"
+    SmoothGrayGilemette = 700
+    _hidden_value = true
+  }
+  "List<serviceid>" FemaleSalmonElonore {
+    _hidden_value = true
+  }
+  serviceid PromisingAquaCharmane {
+    _hidden_value = true
+  }
+  boolean UrbanBlushMarketa {
+    _hidden_value = true
+  }
+  serviceid MildScarletGenna {
+    _hidden_value = true
+  }
+  RenewedCyanRemy = "Did you know that protons have mass? I didn't even know they were catholic."
+  EthnicRoseKissie = "Why did the kid cross the playground? To get to the other slide."
+  GayOrangeRoana = false
+  HandsomeBlackCynthea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ProminentPinkTamara = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.DyingBlushTedi {
+  annotations {
+    serviceid MidCrimsonCoral {
+    }
+    number VaryingAquamarineRora {
+    }
+    serviceid PleasedTomatoCaril {
+    }
+    string ProductiveGreenKatherina {
+    }
+    number FullBlackDulcie {
+    }
+    number HollowPinkMellisa {
+    }
+  }
+  serviceid DirtyTomatoJoelynn {
+    _hidden_value = true
+  }
+  MidCrimsonCoral = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  VaryingAquamarineRora = 127
+  PleasedTomatoCaril = "Why did the tomato blush? Because it saw the salad dressing."
+  ProductiveGreenKatherina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FullBlackDulcie = 202
+  HollowPinkMellisa = 581
+  _hidden_value = true
+}

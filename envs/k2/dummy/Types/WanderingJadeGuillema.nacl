@@ -1,0 +1,53 @@
+type dummy.WanderingJadeGuillema {
+  annotations {
+    string ParentalSalmonKit {
+    }
+    boolean HilariousOliveJanka {
+    }
+    string VerbalSilverCoriss {
+    }
+    serviceid MissingCyanJennee {
+    }
+    boolean JuicyAzureTherine {
+    }
+    number AbsoluteEmeraldWallie {
+    }
+    string CognitiveBrownGinelle {
+    }
+  }
+  string HurtCopperAngelita {
+    _hidden_value = true
+  }
+  json WeakVioletKeelia {
+    _hidden_value = true
+  }
+  boolean ColouredBlushJacquenetta {
+    _hidden_value = true
+  }
+  number CheerfulTanAeriela {
+    _hidden_value = true
+  }
+  json SoundBlackDix {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SignificantApricotChristian {
+    _hidden_value = true
+  }
+  number RattySilverAleen {
+    _hidden_value = true
+  }
+  boolean CurlyBeigeMarti {
+    _hidden_value = true
+  }
+  number WeeTurquoiseDrusy {
+    _hidden_value = true
+  }
+  ParentalSalmonKit = "Why didnt the skeleton cross the road? Because he had no guts."
+  HilariousOliveJanka = true
+  VerbalSilverCoriss = "Im only familiar with 25 letters in the English language. I dont know why."
+  MissingCyanJennee = "Whoever invented the knock-knock joke should get a no bell prize."
+  JuicyAzureTherine = false
+  AbsoluteEmeraldWallie = 679
+  CognitiveBrownGinelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

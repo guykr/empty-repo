@@ -1,0 +1,28 @@
+type dummy.RandomBronzeAliza {
+  annotations {
+    json RaspySilverNeile {
+    }
+    string BindingBlushStevena {
+    }
+    number ComprehensiveSapphireCayla {
+    }
+    dummy.DEFAULT FancyRoseCharis {
+    }
+    dummy.PinkBlushAinslie ColdMaroonValma {
+    }
+    string TopIvoryTessi {
+    }
+  }
+  json WearyBlushAnnecorinne {
+    _hidden_value = true
+  }
+  RaspySilverNeile = "Did you know that protons have mass? I didn't even know they were catholic."
+  BindingBlushStevena = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ComprehensiveSapphireCayla = 543
+  FancyRoseCharis = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ColdMaroonValma = "Why was it called the dark ages? Because of all the knights. "
+  TopIvoryTessi = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

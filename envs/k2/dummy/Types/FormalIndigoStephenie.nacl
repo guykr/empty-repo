@@ -1,0 +1,83 @@
+type dummy.FormalIndigoStephenie {
+  annotations {
+    string EnthusiasticIvoryRaquel {
+    }
+    json FemaleAmberNinetta {
+    }
+    boolean SuperiorRoseKittie {
+    }
+    string TechnologicalWhiteGusta {
+    }
+  }
+  string ReligiousPlumGrethel {
+    _hidden_value = true
+  }
+  boolean MidFuchsiaDorolisa {
+    _hidden_value = true
+  }
+  string AdverseCyanOrelle {
+    _hidden_value = true
+  }
+  serviceid IndianCoralFlorie {
+    _hidden_value = true
+  }
+  number DeliciousPlumEllissa {
+    _hidden_value = true
+  }
+  boolean PriorGoldTammara {
+    _hidden_value = true
+  }
+  boolean FrightenedBronzeZoe {
+    _hidden_value = true
+  }
+  string NervousIndigoTomasina {
+    _hidden_value = true
+  }
+  number GrubbyMaroonBettye {
+    _hidden_value = true
+  }
+  json ExplicitChocolateGuillemette {
+    _hidden_value = true
+  }
+  json SpiritualWhiteJerrine {
+    _hidden_value = true
+  }
+  number FatTomatoLaurette {
+    _hidden_value = true
+  }
+  boolean NiceCyanMalvina {
+    _hidden_value = true
+  }
+  boolean RoastedTurquoisePhillida {
+    _hidden_value = true
+  }
+  "List<number>" RemainingTanLindy {
+    _hidden_value = true
+  }
+  number BreezyBlueLori {
+    _hidden_value = true
+  }
+  string AbstractIndigoTrudi {
+    _hidden_value = true
+  }
+  json BitterTealDavina {
+    _hidden_value = true
+  }
+  boolean SuccessfulSilverUmeko {
+    _hidden_value = true
+  }
+  number PerfectBeigeAigneis {
+    _hidden_value = true
+  }
+  serviceid ControversialTanMaryjo {
+    _hidden_value = true
+  }
+  boolean SuitableSapphireDanica {
+    _hidden_value = true
+  }
+  EnthusiasticIvoryRaquel = "Why do birds fly south for the winter? Because it's too far to walk."
+  FemaleAmberNinetta = "Why was it called the dark ages? Because of all the knights. "
+  SuperiorRoseKittie = false
+  TechnologicalWhiteGusta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

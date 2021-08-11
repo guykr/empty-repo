@@ -1,0 +1,29 @@
+type dummy.FunFuchsiaPatty {
+  annotations {
+    json ImperialWhiteMorgen {
+    }
+    boolean WeeklyCoralMilka {
+    }
+    serviceid EstablishedGrayLegra {
+    }
+    boolean UncomfortableYellowJeannine {
+    }
+    string ClassicalMoccasinRenelle {
+    }
+    string ConvincingRoseMadalena {
+    }
+    dummy.RunningAquaRoshelle UrbanCyanSusette {
+    }
+  }
+  json SmoothSalmonGabbey {
+    _hidden_value = true
+  }
+  ImperialWhiteMorgen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WeeklyCoralMilka = false
+  EstablishedGrayLegra = "Why was it called the dark ages? Because of all the knights. "
+  UncomfortableYellowJeannine = true
+  ClassicalMoccasinRenelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConvincingRoseMadalena = "Did you know that protons have mass? I didn't even know they were catholic."
+  UrbanCyanSusette = 258
+  _hidden_value = true
+}

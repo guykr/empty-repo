@@ -1,0 +1,28 @@
+type dummy.OverseasPeachAnnmarie {
+  annotations {
+    dummy.BizarreScarletKarrie CrookedBrownLeila {
+    }
+    string UglyBeigeGussi {
+    }
+    dummy.DEFAULT SupportingGoldFredrika {
+    }
+    serviceid ExactCopperNessa {
+    }
+    json HolyJadeCam {
+    }
+    boolean CooingPurpleGennie {
+    }
+  }
+  boolean LiquidFuchsiaDevinne {
+    _hidden_value = true
+  }
+  CrookedBrownLeila = 848
+  UglyBeigeGussi = "To be Frank, I'd have to change my name."
+  SupportingGoldFredrika = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ExactCopperNessa = "Im only familiar with 25 letters in the English language. I dont know why."
+  HolyJadeCam = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CooingPurpleGennie = true
+  _hidden_value = true
+}

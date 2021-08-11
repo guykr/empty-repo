@@ -1,0 +1,32 @@
+type dummy.LengthyLavenderAva {
+  annotations {
+    json KindIvoryHildegarde {
+    }
+    dummy.FilthyLimeFaye EndlessMaroonNeile {
+    }
+    json DelightfulIndigoSibella {
+    }
+    serviceid GrossMagentaAigneis {
+    }
+    serviceid BrightBlueRicky {
+    }
+  }
+  dummy.DEFAULT MarriedTanGlynis {
+    _hidden_value = true
+  }
+  json YummyMaroonSindee {
+    _hidden_value = true
+  }
+  serviceid RussianLimeCharita {
+    _hidden_value = true
+  }
+  number WarmGoldAigneis {
+    _hidden_value = true
+  }
+  KindIvoryHildegarde = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EndlessMaroonNeile = false
+  DelightfulIndigoSibella = "Why did the tomato blush? Because it saw the salad dressing."
+  GrossMagentaAigneis = "Why is Peter Pan always flying? Because he Neverlands."
+  BrightBlueRicky = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

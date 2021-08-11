@@ -1,0 +1,61 @@
+type dummy.SorryPlumLottie is boolean {
+  annotations {
+    string VaryingTealDyanne {
+    }
+    serviceid HandicappedBrownMartita {
+    }
+    string CoolTurquoiseCaryl {
+    }
+    number WonderfulSilverOralle {
+    }
+    json MagicSapphireAllison {
+    }
+    number RapidAmethystTerza {
+    }
+    number TightCoralAbagael {
+    }
+    number YummyAmethystLenore {
+    }
+    boolean ManyAquaEdi {
+    }
+    number HarshCrimsonValry {
+    }
+    json PleasantScarletMia {
+    }
+    serviceid CulturalPurpleWenonah {
+    }
+    string AfraidTanRozanna {
+    }
+    json BrainyOlivePerle {
+    }
+    json DoublePinkEkaterina {
+    }
+    number BeautifulYellowStacy {
+    }
+    string ImmenseSalmonBatsheva {
+    }
+    string ManagerialTurquoiseBelva {
+    }
+    boolean LeadingGoldHarriot {
+    }
+  }
+  VaryingTealDyanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HandicappedBrownMartita = "Why was it called the dark ages? Because of all the knights. "
+  CoolTurquoiseCaryl = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WonderfulSilverOralle = 750
+  MagicSapphireAllison = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RapidAmethystTerza = 91
+  TightCoralAbagael = 502
+  YummyAmethystLenore = 136
+  ManyAquaEdi = false
+  HarshCrimsonValry = 702
+  PleasantScarletMia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CulturalPurpleWenonah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AfraidTanRozanna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BrainyOlivePerle = "To be Frank, I'd have to change my name."
+  DoublePinkEkaterina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BeautifulYellowStacy = 697
+  ImmenseSalmonBatsheva = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ManagerialTurquoiseBelva = "Dad Im hungry  Hi hungry Im dad"
+  LeadingGoldHarriot = false
+}

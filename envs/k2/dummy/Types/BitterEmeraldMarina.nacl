@@ -1,0 +1,23 @@
+type dummy.BitterEmeraldMarina {
+  annotations {
+    json CatholicSapphireMarje {
+    }
+    boolean SouthernBlueMerla {
+    }
+    number MilitaryPeachAnet {
+    }
+    boolean IndianYellowDawn {
+    }
+    dummy.JewishCoralJannel PartialCrimsonJemimah {
+    }
+  }
+  number DarkSilverMarlyn {
+    _hidden_value = true
+  }
+  CatholicSapphireMarje = "Slept like a log last night  woke up in the fireplace."
+  SouthernBlueMerla = false
+  MilitaryPeachAnet = 517
+  IndianYellowDawn = true
+  PartialCrimsonJemimah = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

@@ -1,0 +1,29 @@
+type dummy.DryBeigeWinni {
+  annotations {
+    string TechnicalRedDorris {
+    }
+    number ExcessPeachRaf {
+    }
+    serviceid UnawareBlushTheo {
+    }
+    dummy.DeliberateMaroonGabbey EventualLavenderClementina {
+    }
+    number SatisfactoryTanTamiko {
+    }
+    json AnnoyedOrangeUlrica {
+    }
+    string TemporaryIndigoRenee {
+    }
+  }
+  string GenerousGreenDeonne {
+    _hidden_value = true
+  }
+  TechnicalRedDorris = "To be Frank, I'd have to change my name."
+  ExcessPeachRaf = 698
+  UnawareBlushTheo = "Why was it called the dark ages? Because of all the knights. "
+  EventualLavenderClementina = 974
+  SatisfactoryTanTamiko = 412
+  AnnoyedOrangeUlrica = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TemporaryIndigoRenee = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

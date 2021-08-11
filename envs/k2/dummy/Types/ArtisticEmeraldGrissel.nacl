@@ -1,0 +1,28 @@
+type dummy.ArtisticEmeraldGrissel {
+  annotations {
+    number TastyEmeraldAngelica {
+    }
+    number ZanyMaroonAyn {
+    }
+    string DeepAzureBella {
+    }
+    string AngryRedHeddi {
+    }
+    dummy.DEFAULT NationalAmaranthCecelia {
+    }
+    string SillySapphireCristie {
+    }
+  }
+  string BiologicalIndigoNicoli {
+    _hidden_value = true
+  }
+  TastyEmeraldAngelica = 292
+  ZanyMaroonAyn = 501
+  DeepAzureBella = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AngryRedHeddi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NationalAmaranthCecelia = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  SillySapphireCristie = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

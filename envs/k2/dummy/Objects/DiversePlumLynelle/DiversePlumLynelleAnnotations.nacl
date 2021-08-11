@@ -1,0 +1,76 @@
+type dummy.DiversePlumLynelle {
+  annotations {
+    string ColouredVioletMargy {
+    }
+    number FrequentFuchsiaMarigold {
+    }
+    json BrilliantLavenderMelantha {
+    }
+    serviceid WearyVioletGlenn {
+    }
+    boolean AmateurAmaranthDedie {
+    }
+    serviceid PinkIvoryFelecia {
+    }
+    number UndergroundBlueMarilee {
+    }
+    string MilitaryMagentaTalyah {
+    }
+    number ScaryGoldNorine {
+    }
+    json WoodenAmaranthPapagena {
+    }
+    dummy.EquivalentJadeCaria GrotesqueAzureMarnia {
+    }
+    number CommercialBeigeJoice {
+    }
+    serviceid ColorfulLimeNanete {
+    }
+    boolean AvailableFuchsiaPerrine {
+    }
+    boolean RelevantTealEvelina {
+    }
+    number SupposedSapphireDonna {
+    }
+    string BrokenMoccasinCookie {
+    }
+    boolean YellowTanDorelle {
+    }
+    string EvolutionaryAmberElladine {
+    }
+    string GiganticBlackGlenda {
+    }
+    serviceid KindPinkElysia {
+    }
+    json SecretIvoryHermia {
+    }
+    serviceid ProvincialEmeraldAubrey {
+    }
+    json PassivePinkAnjela {
+    }
+  }
+  ColouredVioletMargy = "Why did the tomato blush? Because it saw the salad dressing."
+  FrequentFuchsiaMarigold = 659
+  BrilliantLavenderMelantha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WearyVioletGlenn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AmateurAmaranthDedie = true
+  PinkIvoryFelecia = "Im only familiar with 25 letters in the English language. I dont know why."
+  UndergroundBlueMarilee = 740
+  MilitaryMagentaTalyah = "Why was it called the dark ages? Because of all the knights. "
+  ScaryGoldNorine = 422
+  WoodenAmaranthPapagena = "To be Frank, I'd have to change my name."
+  GrotesqueAzureMarnia = file("YoungCyanMeggie.txt")
+  CommercialBeigeJoice = 366
+  ColorfulLimeNanete = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AvailableFuchsiaPerrine = true
+  RelevantTealEvelina = true
+  SupposedSapphireDonna = 509
+  BrokenMoccasinCookie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  YellowTanDorelle = false
+  EvolutionaryAmberElladine = "Slept like a log last night  woke up in the fireplace."
+  GiganticBlackGlenda = "Why didnt the skeleton cross the road? Because he had no guts."
+  KindPinkElysia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SecretIvoryHermia = "Why did the tomato blush? Because it saw the salad dressing."
+  ProvincialEmeraldAubrey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PassivePinkAnjela = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

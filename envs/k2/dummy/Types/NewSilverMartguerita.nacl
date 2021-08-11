@@ -1,0 +1,48 @@
+type dummy.NewSilverMartguerita {
+  annotations {
+    dummy.DEFAULT DangerousPeachMarga {
+    }
+    serviceid VariedRedDulcy {
+    }
+    string ExistingTealWilli {
+    }
+    string SwissPlumNana {
+    }
+    dummy.HumanAzureReeba IntermediateGrayThomasin {
+    }
+  }
+  dummy.ProspectiveAmberDevin SouthernBronzeLindsey {
+    MagentaAzureDelia = true
+    OverallApricotEmalee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LightVioletSelma = "Im only familiar with 25 letters in the English language. I dont know why."
+    InnovativeGoldDrusilla = 879
+    FollowingLimeHenka = "I'll tell you what often gets over looked... garden fences."
+    DoubtfulBlushAlisun = "How come the stadium got hot after the game? Because all of the fans left."
+    VerticalTomatoCosetta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MysteriousBeigeDaisey = 900
+    _hidden_value = true
+  }
+  "List<boolean>" OddMagentaTheresina {
+    _hidden_value = true
+  }
+  serviceid HorribleApricotRaphaela {
+    _hidden_value = true
+  }
+  json PriorGreenCinda {
+    _hidden_value = true
+  }
+  string UptightPeachMartica {
+    _hidden_value = true
+  }
+  "List<serviceid>" CapableRoseTerese {
+    _hidden_value = true
+  }
+  DangerousPeachMarga = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  VariedRedDulcy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExistingTealWilli = "Did you know that protons have mass? I didn't even know they were catholic."
+  SwissPlumNana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IntermediateGrayThomasin = true
+  _hidden_value = true
+}

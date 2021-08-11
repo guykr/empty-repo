@@ -1,0 +1,67 @@
+type dummy.DeterminedChocolateSonia {
+  annotations {
+    boolean SymbolicPurplePatti {
+    }
+    boolean LowScarletJanie {
+    }
+    number BrokenMaroonIngrid {
+    }
+    string PlannedBeigeJennifer {
+    }
+    serviceid WholeBlackJennee {
+    }
+    serviceid SheerBronzeFlore {
+    }
+  }
+  string GrumpySalmonMora {
+    _hidden_value = true
+  }
+  string DryRoseRenee {
+    _hidden_value = true
+  }
+  number FrenchLimeCharyl {
+    _hidden_value = true
+  }
+  boolean SuperbSalmonSilva {
+    _hidden_value = true
+  }
+  number NativeVioletAllix {
+    _hidden_value = true
+  }
+  number TerribleAquaCindi {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna DecentHarlequinIdelle {
+    GermanCrimsonRobbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MiddleAmaranthCherlyn = "Why didnt the skeleton cross the road? Because he had no guts."
+    WrongVioletDaloris = "A steak pun is a rare medium well done."
+    ColonialCoralKat = 891
+    MushyBlushEirena = "I'll tell you what often gets over looked... garden fences."
+    HotCopperBertina = "Why was it called the dark ages? Because of all the knights. "
+    TenderAzureDoreen = "Im only familiar with 25 letters in the English language. I dont know why."
+    PerfectOliveGabie = "Why did the kid cross the playground? To get to the other slide."
+    FullMaroonLissi = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SorryCrimsonAudi = 519
+    AssociatedBronzeArlen = true
+    GivenWhiteJan = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InstantMaroonGabi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CondemnedLimeIanthe = true
+    VerbalOrangeUlrika = "Why did the kid cross the playground? To get to the other slide."
+    ShallowApricotMarylin = "Slept like a log last night  woke up in the fireplace."
+    HomelyBrownRochette = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ExpectedWhiteJeanie = "Why did the tomato blush? Because it saw the salad dressing."
+    PracticalSalmonCarmela = "A steak pun is a rare medium well done."
+    NativeCoffeeKlara = 103
+    _hidden_value = true
+  }
+  json CooingMagentaNatalya {
+    _hidden_value = true
+  }
+  SymbolicPurplePatti = false
+  LowScarletJanie = false
+  BrokenMaroonIngrid = 143
+  PlannedBeigeJennifer = "A steak pun is a rare medium well done."
+  WholeBlackJennee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SheerBronzeFlore = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

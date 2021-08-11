@@ -1,0 +1,51 @@
+type dummy.SecondaryApricotRochella {
+  annotations {
+    json OrdinaryLimeCarly {
+    }
+    dummy.DifficultBlackDeanne InnocentCrimsonCelisse {
+    }
+    string FriendlyBrownRosmunda {
+    }
+    dummy.DEFAULT PopularYellowCarena {
+    }
+    boolean EntireCoffeeJesse {
+    }
+    dummy.DEFAULT FlatOrangeVittoria {
+    }
+  }
+  serviceid CalmCrimsonClem {
+    _hidden_value = true
+  }
+  json CorporateTomatoHollyanne {
+    _hidden_value = true
+  }
+  serviceid GlobalSilverJennette {
+    _hidden_value = true
+  }
+  string LowApricotRuby {
+    _hidden_value = true
+  }
+  number JitteryCoffeeBunny {
+    _hidden_value = true
+  }
+  boolean LiteraryPinkLusa {
+    _hidden_value = true
+  }
+  string RevolutionaryOrangeSherye {
+    _hidden_value = true
+  }
+  number SpareMaroonRevkah {
+    _hidden_value = true
+  }
+  OrdinaryLimeCarly = "Dad Im hungry  Hi hungry Im dad"
+  InnocentCrimsonCelisse = "Im only familiar with 25 letters in the English language. I dont know why."
+  FriendlyBrownRosmunda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PopularYellowCarena = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  EntireCoffeeJesse = false
+  FlatOrangeVittoria = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  _hidden_value = true
+}

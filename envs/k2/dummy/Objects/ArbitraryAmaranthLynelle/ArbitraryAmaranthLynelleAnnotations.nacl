@@ -1,0 +1,58 @@
+type dummy.ArbitraryAmaranthLynelle {
+  annotations {
+    string VariousBlushAuroora {
+    }
+    dummy.JewishCoralJannel NoisyRoseArden {
+    }
+    string UnusualBlueJoli {
+    }
+    boolean AcademicPurpleSibel {
+    }
+    string PerfectTomatoCynthy {
+    }
+    serviceid FunnyBeigeVinni {
+    }
+    json CuddlyPeachNariko {
+    }
+    json FunnyCrimsonBecky {
+    }
+    boolean LostSalmonCristal {
+    }
+    boolean BlindPinkMitzi {
+    }
+    serviceid IrrelevantVioletCasey {
+    }
+    number ContinuingIndigoMarthe {
+    }
+    boolean MonthlyLimeGilligan {
+    }
+    json AfraidPinkRobinia {
+    }
+    string AlrightBrownMelinde {
+    }
+    boolean FreshScarletGwyn {
+    }
+    json SatisfactoryRedTiertza {
+    }
+    boolean AbleWhiteAveryl {
+    }
+  }
+  VariousBlushAuroora = "A steak pun is a rare medium well done."
+  NoisyRoseArden = file("StickyRedDamaris.txt")
+  UnusualBlueJoli = "Im only familiar with 25 letters in the English language. I dont know why."
+  AcademicPurpleSibel = false
+  PerfectTomatoCynthy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FunnyBeigeVinni = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CuddlyPeachNariko = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FunnyCrimsonBecky = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LostSalmonCristal = true
+  BlindPinkMitzi = true
+  IrrelevantVioletCasey = "Did you know that protons have mass? I didn't even know they were catholic."
+  ContinuingIndigoMarthe = 591
+  MonthlyLimeGilligan = false
+  AfraidPinkRobinia = "What do you call two barracuda fish?  A Pairacuda!"
+  AlrightBrownMelinde = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FreshScarletGwyn = true
+  SatisfactoryRedTiertza = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AbleWhiteAveryl = false
+}

@@ -1,0 +1,74 @@
+type dummy.OrthodoxEmeraldFelicity is string {
+  annotations {
+    dummy.DEFAULT SpanishSalmonCaterina {
+    }
+    number CharmingGoldJessy {
+    }
+    json RedBronzeTrista {
+    }
+    number UnlikelyGreenBarb {
+    }
+    serviceid PreferredBlushClaudette {
+    }
+    dummy.DEFAULT CrookedAmberCelinka {
+    }
+    serviceid BiologicalSapphireElnora {
+    }
+    string VividTomatoTessy {
+    }
+    string QualifiedPurpleKevina {
+    }
+    json TremendousAzureMaria {
+    }
+    json FluffyAmaranthPearla {
+    }
+    serviceid AllegedEmeraldJobie {
+    }
+    boolean BritishGrayDasi {
+    }
+    serviceid EldestPinkEkaterina {
+    }
+    serviceid CrazyBlackGoldina {
+    }
+    boolean HighPinkEvvy {
+    }
+    number SwiftAmaranthCostanza {
+    }
+    json CuteCoralAdara {
+    }
+    serviceid LiberalMaroonMady {
+    }
+    json StormyTealCharleen {
+    }
+    string FierceBlueFannie {
+    }
+    json PleasantApricotKassie {
+    }
+  }
+  SpanishSalmonCaterina = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  CharmingGoldJessy = 856
+  RedBronzeTrista = "What do you call two barracuda fish?  A Pairacuda!"
+  UnlikelyGreenBarb = 133
+  PreferredBlushClaudette = "Im only familiar with 25 letters in the English language. I dont know why."
+  CrookedAmberCelinka = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  BiologicalSapphireElnora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  VividTomatoTessy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  QualifiedPurpleKevina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TremendousAzureMaria = "What do you call two barracuda fish?  A Pairacuda!"
+  FluffyAmaranthPearla = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AllegedEmeraldJobie = "Did you know that protons have mass? I didn't even know they were catholic."
+  BritishGrayDasi = true
+  EldestPinkEkaterina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CrazyBlackGoldina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HighPinkEvvy = false
+  SwiftAmaranthCostanza = 881
+  CuteCoralAdara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LiberalMaroonMady = "A steak pun is a rare medium well done."
+  StormyTealCharleen = "Why do birds fly south for the winter? Because it's too far to walk."
+  FierceBlueFannie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PleasantApricotKassie = "What do you call two barracuda fish?  A Pairacuda!"
+}

@@ -1,0 +1,28 @@
+type dummy.ElectricalPinkBiddie {
+  annotations {
+    serviceid AboveBlackPatricia {
+    }
+    string SplendidBlackCecilia {
+    }
+    dummy.DEFAULT AwfulIvoryKath {
+    }
+    json PreliminaryAquamarineKata {
+    }
+  }
+  boolean ExistingAmberAtlante {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UncertainPlumLynea {
+    _hidden_value = true
+  }
+  json SlipperyCopperLiliane {
+    _hidden_value = true
+  }
+  AboveBlackPatricia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SplendidBlackCecilia = "Why did the tomato blush? Because it saw the salad dressing."
+  AwfulIvoryKath = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  PreliminaryAquamarineKata = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

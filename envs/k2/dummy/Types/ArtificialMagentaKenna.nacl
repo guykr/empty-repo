@@ -1,0 +1,23 @@
+type dummy.ArtificialMagentaKenna {
+  annotations {
+    string ExpectedIndigoKiersten {
+    }
+    json DelightfulCoffeeMinnaminnie {
+    }
+    json ClumsyEmeraldHaleigh {
+    }
+    number OrganisationalMoccasinHilda {
+    }
+    boolean InnocentYellowTansy {
+    }
+  }
+  string HungryFuchsiaGenna {
+    _hidden_value = true
+  }
+  ExpectedIndigoKiersten = "Did you know that protons have mass? I didn't even know they were catholic."
+  DelightfulCoffeeMinnaminnie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ClumsyEmeraldHaleigh = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OrganisationalMoccasinHilda = 212
+  InnocentYellowTansy = false
+  _hidden_value = true
+}

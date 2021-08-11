@@ -1,0 +1,26 @@
+type dummy.FastEmeraldSallie {
+  annotations {
+    number SurvivingBrownGabbey {
+    }
+    string PreciousAmethystEalasaid {
+    }
+    serviceid MinisterialGrayCorene {
+    }
+    number DepressedPlumTalya {
+    }
+    json QuietCoffeeRozamond {
+    }
+    json DelightedIvoryCoralie {
+    }
+  }
+  json VaryingBeigeRickie {
+    _hidden_value = true
+  }
+  SurvivingBrownGabbey = 92
+  PreciousAmethystEalasaid = "A steak pun is a rare medium well done."
+  MinisterialGrayCorene = "Why did the kid cross the playground? To get to the other slide."
+  DepressedPlumTalya = 858
+  QuietCoffeeRozamond = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DelightedIvoryCoralie = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

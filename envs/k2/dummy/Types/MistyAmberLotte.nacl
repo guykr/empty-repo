@@ -1,0 +1,78 @@
+type dummy.MistyAmberLotte {
+  annotations {
+    serviceid UnknownBrownAlmira {
+    }
+    string AdministrativeIndigoCaritta {
+    }
+    serviceid PrettyYellowFaythe {
+    }
+    boolean EventualAmaranthMommy {
+    }
+    boolean InstitutionalEmeraldMira {
+    }
+  }
+  boolean SuccessfulMaroonTobye {
+    _hidden_value = true
+  }
+  serviceid InvisibleBlackBerna {
+    _hidden_value = true
+  }
+  json RoughAmaranthShandie {
+    _hidden_value = true
+  }
+  boolean HelpfulYellowTherese {
+    _hidden_value = true
+  }
+  boolean ChosenPurpleLiz {
+    _hidden_value = true
+  }
+  number ProvincialAmberBrett {
+    _hidden_value = true
+  }
+  "List<dummy.AppropriateChocolateLadonna>" DefiniteWhiteSondra {
+    SilentLavenderMidge = true
+    PotentialBronzeManya = false
+    FirmTurquoiseMagdalena = "Why do birds fly south for the winter? Because it's too far to walk."
+    DirectIndigoNannie = "What creature is smarter than a talking parrot? A spelling bee."
+    EthicalHarlequinCarmon = "How come the stadium got hot after the game? Because all of the fans left."
+    KindIndigoHelen = 252
+    PlannedOrangeWynn = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  string RubberAmberLatia {
+    _hidden_value = true
+  }
+  serviceid HilariousScarletLia {
+    _hidden_value = true
+  }
+  string InterestedIvoryAbigale {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea TurkishWhiteNancie {
+    MinorPinkAriadne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ChubbyRoseConstancia = "Why do birds fly south for the winter? Because it's too far to walk."
+    ImmenseTurquoiseNita = "Slept like a log last night  woke up in the fireplace."
+    FluffyYellowMarybelle = 173
+    PainfulPlumRomy = 347
+    CompleteSapphireTeressa = false
+    HungryTomatoCarmelita = "What do you call two barracuda fish?  A Pairacuda!"
+    FluffyPurpleRoselin = "Why did the tomato blush? Because it saw the salad dressing."
+    IdealVioletKania = false
+    EasyChocolateHesther = "Why is Peter Pan always flying? Because he Neverlands."
+    HomelessPurpleJane = true
+    SkilledAquaTammara = "To be Frank, I'd have to change my name."
+    PeculiarAmethystBethanne = 755
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    LinearBlueGilli = true
+    AssociatedCrimsonDreddy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScornfulGreenSilvie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  UnknownBrownAlmira = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AdministrativeIndigoCaritta = "To be Frank, I'd have to change my name."
+  PrettyYellowFaythe = "Why was it called the dark ages? Because of all the knights. "
+  EventualAmaranthMommy = false
+  InstitutionalEmeraldMira = false
+  _hidden_value = true
+}

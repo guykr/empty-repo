@@ -1,0 +1,64 @@
+type dummy.RepulsiveFuchsiaStephie {
+  annotations {
+    dummy.DEFAULT CuriousMaroonArlette {
+    }
+    serviceid NervousPurpleJacquelyn {
+    }
+    serviceid StickyBlushSiouxie {
+    }
+    json FamousCrimsonMartina {
+    }
+    boolean EqualCoffeeEmmalynn {
+    }
+  }
+  "List<string>" WonderfulBlueCorabelle {
+    _hidden_value = true
+  }
+  boolean DependentIndigoCyndi {
+    _hidden_value = true
+  }
+  number PlainMaroonMarrissa {
+    _hidden_value = true
+  }
+  string FaithfulScarletNorene {
+    _hidden_value = true
+  }
+  serviceid HelplessAmethystVina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcitingAmaranthBenedicta {
+    _hidden_value = true
+  }
+  string AveragePinkMadlin {
+    _hidden_value = true
+  }
+  boolean AnnualVioletCindelyn {
+    _hidden_value = true
+  }
+  json PreparedJadeChristel {
+    _hidden_value = true
+  }
+  serviceid VisibleScarletBillie {
+    _hidden_value = true
+  }
+  string RareRedAna {
+    _hidden_value = true
+  }
+  serviceid AwarePinkCathrin {
+    _hidden_value = true
+  }
+  string UniversalApricotAntonietta {
+    _hidden_value = true
+  }
+  "List<number>" HeadSalmonArlina {
+    _hidden_value = true
+  }
+  CuriousMaroonArlette = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  NervousPurpleJacquelyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  StickyBlushSiouxie = "I'll tell you what often gets over looked... garden fences."
+  FamousCrimsonMartina = "A steak pun is a rare medium well done."
+  EqualCoffeeEmmalynn = true
+  _hidden_value = true
+}

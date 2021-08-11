@@ -1,0 +1,66 @@
+type dummy.ExcessIndigoBeverly {
+  annotations {
+    serviceid ControlledBlushAaren {
+    }
+    boolean MajorRoseFlorella {
+    }
+    serviceid OpenIndigoBibbye {
+    }
+    boolean RegionalAmaranthRoxanne {
+    }
+    boolean CuddlyYellowFredrika {
+    }
+    string HumanGrayArlyne {
+    }
+    number StraightPurpleCarolee {
+    }
+    serviceid AwfulPeachAdelheid {
+    }
+    number CheerfulCrimsonIrina {
+    }
+    dummy.CurvedIvoryQueenie NursingScarletSibley {
+    }
+    number IndustrialMoccasinValencia {
+    }
+    json GloriousFuchsiaRobinette {
+    }
+    string PleasedSalmonRamonda {
+    }
+    serviceid PleasantPurpleDoretta {
+    }
+    string DisgustedHarlequinMaiga {
+    }
+    dummy.WickedYellowBertine AcceptedCopperRachel {
+    }
+    number UnableRedSybille {
+    }
+    dummy.KeyMaroonBunny SurroundingMoccasinRozalin {
+    }
+    string DelightfulCopperRaquel {
+    }
+    boolean SuperLavenderRoselin {
+    }
+    boolean MagicAmethystAlmeda {
+    }
+  }
+  ControlledBlushAaren = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MajorRoseFlorella = true
+  OpenIndigoBibbye = "I'll tell you what often gets over looked... garden fences."
+  RegionalAmaranthRoxanne = true
+  CuddlyYellowFredrika = true
+  HumanGrayArlyne = "What do you call two barracuda fish?  A Pairacuda!"
+  StraightPurpleCarolee = 555
+  AwfulPeachAdelheid = "Why didnt the skeleton cross the road? Because he had no guts."
+  CheerfulCrimsonIrina = 63
+  NursingScarletSibley = false
+  IndustrialMoccasinValencia = 144
+  GloriousFuchsiaRobinette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PleasedSalmonRamonda = "To be Frank, I'd have to change my name."
+  PleasantPurpleDoretta = "A steak pun is a rare medium well done."
+  DisgustedHarlequinMaiga = "A steak pun is a rare medium well done."
+  UnableRedSybille = 327
+  SurroundingMoccasinRozalin = file("DeafeningBrownTwyla.txt")
+  DelightfulCopperRaquel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SuperLavenderRoselin = false
+  MagicAmethystAlmeda = false
+}

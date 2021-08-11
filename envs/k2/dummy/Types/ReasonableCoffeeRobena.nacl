@@ -1,0 +1,62 @@
+type dummy.ReasonableCoffeeRobena {
+  annotations {
+    number JitteryMoccasinMaurita {
+    }
+    dummy.KeyMaroonBunny ExcellentLavenderAudre {
+    }
+    serviceid LiveRoseShandie {
+    }
+    dummy.SlimyOrangeVickie StupidFuchsiaJorie {
+    }
+  }
+  string UnwillingOrangeLilias {
+    _hidden_value = true
+  }
+  serviceid DifferentBlueElisabetta {
+    _hidden_value = true
+  }
+  serviceid TartAzureKathryne {
+    _hidden_value = true
+  }
+  json InnocentRedTerese {
+    _hidden_value = true
+  }
+  json GenuineCyanCandice {
+    _hidden_value = true
+  }
+  json AccusedCoralWenda {
+    _hidden_value = true
+  }
+  string LoyalJadeKassey {
+    _hidden_value = true
+  }
+  number MagnificentAquamarineDasie {
+    _hidden_value = true
+  }
+  dummy.FirmAquaNicolea CuteGrayTine {
+    MinorPinkAriadne = "Did you know that protons have mass? I didn't even know they were catholic."
+    ChubbyRoseConstancia = "Whoever invented the knock-knock joke should get a no bell prize."
+    ImmenseTurquoiseNita = "Why do birds fly south for the winter? Because it's too far to walk."
+    FluffyYellowMarybelle = 319
+    PainfulPlumRomy = 914
+    CompleteSapphireTeressa = true
+    HungryTomatoCarmelita = "What creature is smarter than a talking parrot? A spelling bee."
+    FluffyPurpleRoselin = "What did one nut say as he chased another nut?  I'm a cashew!"
+    IdealVioletKania = false
+    EasyChocolateHesther = "Whoever invented the knock-knock joke should get a no bell prize."
+    HomelessPurpleJane = true
+    SkilledAquaTammara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PeculiarAmethystBethanne = 578
+    UndergroundTurquoiseLynn = true
+    HotPurpleCourtney = "Did you know that protons have mass? I didn't even know they were catholic."
+    LinearBlueGilli = true
+    AssociatedCrimsonDreddy = "A steak pun is a rare medium well done."
+    ScornfulGreenSilvie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  JitteryMoccasinMaurita = 134
+  ExcellentLavenderAudre = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LiveRoseShandie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  StupidFuchsiaJorie = 790
+  _hidden_value = true
+}

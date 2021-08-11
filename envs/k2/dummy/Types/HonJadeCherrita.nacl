@@ -1,0 +1,49 @@
+type dummy.HonJadeCherrita {
+  annotations {
+    boolean AlrightPlumVerina {
+    }
+    string ConsiderableMaroonGeorgine {
+    }
+    serviceid ExplicitTurquoiseKarin {
+    }
+    boolean ProgressivePlumLeandra {
+    }
+    dummy.VoluntaryBlushSonja EeriePeachAdella {
+    }
+    boolean MistyBlackCamille {
+    }
+    dummy.DEFAULT LimitedPurpleDeidre {
+    }
+  }
+  serviceid TanMaroonGui {
+    _hidden_value = true
+  }
+  json RespectiveJadeFrederica {
+    _hidden_value = true
+  }
+  number GeneralCrimsonYettie {
+    _hidden_value = true
+  }
+  serviceid SpecialSilverGui {
+    _hidden_value = true
+  }
+  boolean ConsiderableAmaranthTilda {
+    _hidden_value = true
+  }
+  boolean MuteTurquoiseArdyce {
+    _hidden_value = true
+  }
+  json PhysicalCopperTorrie {
+    _hidden_value = true
+  }
+  AlrightPlumVerina = false
+  ConsiderableMaroonGeorgine = "Why did the kid cross the playground? To get to the other slide."
+  ExplicitTurquoiseKarin = "To be Frank, I'd have to change my name."
+  ProgressivePlumLeandra = false
+  EeriePeachAdella = true
+  MistyBlackCamille = true
+  LimitedPurpleDeidre = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+}

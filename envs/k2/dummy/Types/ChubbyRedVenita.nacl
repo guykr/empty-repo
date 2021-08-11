@@ -1,0 +1,38 @@
+type dummy.ChubbyRedVenita {
+  annotations {
+    json JuniorEmeraldKatie {
+    }
+    number HorriblePinkRanique {
+    }
+    string ImportantChocolateStacy {
+    }
+    number SlimHarlequinFionnula {
+    }
+    boolean ProbableHarlequinCristy {
+    }
+  }
+  number FuzzySapphireBliss {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcuteAquaAdorne {
+    _hidden_value = true
+  }
+  string HurtRoseJolie {
+    _hidden_value = true
+  }
+  json GenerousMoccasinLaurette {
+    _hidden_value = true
+  }
+  serviceid DevelopedRedDallas {
+    _hidden_value = true
+  }
+  serviceid RelatedGrayMerissa {
+    _hidden_value = true
+  }
+  JuniorEmeraldKatie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HorriblePinkRanique = 59
+  ImportantChocolateStacy = "Dad Im hungry  Hi hungry Im dad"
+  SlimHarlequinFionnula = 81
+  ProbableHarlequinCristy = true
+  _hidden_value = true
+}

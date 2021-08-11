@@ -1,0 +1,23 @@
+type dummy.SteepRedDrusi {
+  annotations {
+    serviceid DisgustedAmaranthSuzanna {
+    }
+    number DrySalmonRonalda {
+    }
+    boolean DelightfulAmaranthJunette {
+    }
+    number NoisyBlueClarette {
+    }
+    serviceid GradualBlueMartita {
+    }
+  }
+  number GoldenBeigeZandra {
+    _hidden_value = true
+  }
+  DisgustedAmaranthSuzanna = "What do you call two barracuda fish?  A Pairacuda!"
+  DrySalmonRonalda = 182
+  DelightfulAmaranthJunette = true
+  NoisyBlueClarette = 646
+  GradualBlueMartita = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

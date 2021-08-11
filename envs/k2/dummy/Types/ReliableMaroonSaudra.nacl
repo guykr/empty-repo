@@ -1,0 +1,26 @@
+type dummy.ReliableMaroonSaudra {
+  annotations {
+    boolean RedAquaCaro {
+    }
+    string LongBrownVerene {
+    }
+    serviceid WateryAzureEmera {
+    }
+    number GoldenAquamarineAurel {
+    }
+    dummy.SorryPlumLottie SuccessfulBlushFaye {
+    }
+    serviceid NursingBeigeJudy {
+    }
+  }
+  json InstantAmethystCarin {
+    _hidden_value = true
+  }
+  RedAquaCaro = false
+  LongBrownVerene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WateryAzureEmera = "Why was it called the dark ages? Because of all the knights. "
+  GoldenAquamarineAurel = 840
+  SuccessfulBlushFaye = false
+  NursingBeigeJudy = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

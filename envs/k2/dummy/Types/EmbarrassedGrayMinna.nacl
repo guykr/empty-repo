@@ -1,0 +1,28 @@
+type dummy.EmbarrassedGrayMinna {
+  annotations {
+    string SelfishBlackConstancia {
+    }
+    json CrookedIvoryCharissa {
+    }
+    number LittleChocolateAgace {
+    }
+    dummy.DEFAULT ZanyEmeraldDeloria {
+    }
+    boolean SupportingAmethystGerianna {
+    }
+  }
+  number ElectoralEmeraldDonny {
+    _hidden_value = true
+  }
+  number SadBlueAnnadiana {
+    _hidden_value = true
+  }
+  SelfishBlackConstancia = "Why didnt the skeleton cross the road? Because he had no guts."
+  CrookedIvoryCharissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LittleChocolateAgace = 328
+  ZanyEmeraldDeloria = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  SupportingAmethystGerianna = false
+  _hidden_value = true
+}

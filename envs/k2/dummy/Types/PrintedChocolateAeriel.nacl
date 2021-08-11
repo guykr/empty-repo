@@ -1,0 +1,23 @@
+type dummy.PrintedChocolateAeriel {
+  annotations {
+    serviceid RearJadeDorise {
+    }
+    serviceid UnknownWhiteMarisa {
+    }
+    dummy.SparklingAmaranthLeone CriticalAmberLeanor {
+    }
+    string ShyWhiteLibby {
+    }
+    boolean ForwardIndigoYetta {
+    }
+  }
+  json AmericanTomatoValry {
+    _hidden_value = true
+  }
+  RearJadeDorise = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnknownWhiteMarisa = "Slept like a log last night  woke up in the fireplace."
+  CriticalAmberLeanor = false
+  ShyWhiteLibby = "Why did the kid cross the playground? To get to the other slide."
+  ForwardIndigoYetta = true
+  _hidden_value = true
+}

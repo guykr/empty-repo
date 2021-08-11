@@ -1,0 +1,26 @@
+type dummy.EnvironmentalPinkBeatriz {
+  annotations {
+    number ShyRoseElbertine {
+    }
+    string ReluctantBlushVanna {
+    }
+    number ZanyMaroonBeilul {
+    }
+    serviceid SurprisingIvoryAmata {
+    }
+  }
+  serviceid CoolSapphireHettie {
+    _hidden_value = true
+  }
+  json PresentHarlequinHarrie {
+    _hidden_value = true
+  }
+  boolean AmericanIvoryVivien {
+    _hidden_value = true
+  }
+  ShyRoseElbertine = 50
+  ReluctantBlushVanna = "Slept like a log last night  woke up in the fireplace."
+  ZanyMaroonBeilul = 591
+  SurprisingIvoryAmata = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

@@ -1,0 +1,62 @@
+type dummy.WrongPinkAtlanta {
+  annotations {
+    string RationalRedRosalie {
+    }
+    number SquareSilverJessika {
+    }
+    string UnpleasantTealKatha {
+    }
+    json JollyBronzeOdetta {
+    }
+  }
+  json DistinctBlushAshia {
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle RawSilverRory {
+    _hidden_value = true
+  }
+  serviceid QuietBronzeTiertza {
+    _hidden_value = true
+  }
+  number SuperiorGrayKaterine {
+    _hidden_value = true
+  }
+  string UniqueTealMarji {
+    _hidden_value = true
+  }
+  serviceid AdverseCoffeeBobette {
+    _hidden_value = true
+  }
+  serviceid TastyMaroonRoselin {
+    _hidden_value = true
+  }
+  serviceid FreshBrownChristabella {
+    _hidden_value = true
+  }
+  string AdministrativeBlushLanni {
+    _hidden_value = true
+  }
+  string AverageAzureViviyan {
+    _hidden_value = true
+  }
+  string GleamingGreenLeontine {
+    _hidden_value = true
+  }
+  "List<string>" SoreSilverEnrika {
+    _hidden_value = true
+  }
+  number DifficultAzureGlen {
+    _hidden_value = true
+  }
+  serviceid WidespreadMaroonGeorgeta {
+    _hidden_value = true
+  }
+  boolean DailyBronzeLanae {
+    _hidden_value = true
+  }
+  RationalRedRosalie = "A steak pun is a rare medium well done."
+  SquareSilverJessika = 587
+  UnpleasantTealKatha = "A steak pun is a rare medium well done."
+  JollyBronzeOdetta = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

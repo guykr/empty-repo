@@ -1,0 +1,50 @@
+type dummy.LongMoccasinGillan {
+  annotations {
+    string WeeVioletJaquelyn {
+    }
+    number StraightPinkIolanthe {
+    }
+    dummy.SubjectiveAmethystBel SystematicTanAddia {
+    }
+    json GladSalmonOdetta {
+    }
+    boolean ToughPurpleDierdre {
+    }
+    boolean FairPurpleMarta {
+    }
+    serviceid MetropolitanChocolateLegra {
+    }
+  }
+  number ReadyChocolateMavis {
+    _hidden_value = true
+  }
+  json ShortTurquoiseKerri {
+    _hidden_value = true
+  }
+  serviceid WeeklyLimeLeanor {
+    _hidden_value = true
+  }
+  string ExpectedYellowLynnett {
+    _hidden_value = true
+  }
+  string EthicalFuchsiaDoralyn {
+    _hidden_value = true
+  }
+  serviceid LooseLimeUta {
+    _hidden_value = true
+  }
+  number PrimeTealPeggy {
+    _hidden_value = true
+  }
+  json CooperativeCopperShandra {
+    _hidden_value = true
+  }
+  WeeVioletJaquelyn = "A steak pun is a rare medium well done."
+  StraightPinkIolanthe = 745
+  SystematicTanAddia = 644
+  GladSalmonOdetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ToughPurpleDierdre = false
+  FairPurpleMarta = true
+  MetropolitanChocolateLegra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

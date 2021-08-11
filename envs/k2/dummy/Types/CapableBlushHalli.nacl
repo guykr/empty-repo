@@ -1,0 +1,26 @@
+type dummy.CapableBlushHalli {
+  annotations {
+    boolean ColouredApricotLivia {
+    }
+    string PracticalYellowDevina {
+    }
+    boolean ChangingCoralMarilee {
+    }
+    string ApplicableWhiteVivian {
+    }
+    serviceid SystematicTanZsazsa {
+    }
+    boolean NutritiousBronzeAllyn {
+    }
+  }
+  json FoolishEmeraldGianna {
+    _hidden_value = true
+  }
+  ColouredApricotLivia = false
+  PracticalYellowDevina = "Why do birds fly south for the winter? Because it's too far to walk."
+  ChangingCoralMarilee = true
+  ApplicableWhiteVivian = "Why didnt the skeleton cross the road? Because he had no guts."
+  SystematicTanZsazsa = "Did you know that protons have mass? I didn't even know they were catholic."
+  NutritiousBronzeAllyn = true
+  _hidden_value = true
+}

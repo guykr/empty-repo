@@ -1,0 +1,23 @@
+type dummy.KeyGreenMarieann {
+  annotations {
+    serviceid ExtremeFuchsiaKarilynn {
+    }
+    json SilentIndigoGilda {
+    }
+    number ValidMagentaMerridie {
+    }
+    boolean NeutralLimeReggi {
+    }
+    dummy.AfraidAquaFawn UsualEmeraldMargeaux {
+    }
+  }
+  json HorizontalBronzeShayne {
+    _hidden_value = true
+  }
+  ExtremeFuchsiaKarilynn = "Why is Peter Pan always flying? Because he Neverlands."
+  SilentIndigoGilda = "A steak pun is a rare medium well done."
+  ValidMagentaMerridie = 522
+  NeutralLimeReggi = true
+  UsualEmeraldMargeaux = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

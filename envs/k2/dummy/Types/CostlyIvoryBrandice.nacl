@@ -1,0 +1,26 @@
+type dummy.CostlyIvoryBrandice {
+  annotations {
+    boolean WelcomeMaroonJoelie {
+    }
+    boolean RichAmberSharlene {
+    }
+    number PregnantOliveNorene {
+    }
+    string StatutoryVioletRanice {
+    }
+    boolean LiquidIvoryPiper {
+    }
+    boolean CooingIndigoDebera {
+    }
+  }
+  json ExtendedApricotDavita {
+    _hidden_value = true
+  }
+  WelcomeMaroonJoelie = true
+  RichAmberSharlene = false
+  PregnantOliveNorene = 144
+  StatutoryVioletRanice = "Why did the kid cross the playground? To get to the other slide."
+  LiquidIvoryPiper = true
+  CooingIndigoDebera = false
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type dummy.RealisticPurpleLyndsey {
+  annotations {
+    boolean ComparativeBlushElsi {
+    }
+    serviceid IdeologicalBlueDasya {
+    }
+    string DrivingCrimsonMandy {
+    }
+    boolean UrbanOliveTrudie {
+    }
+  }
+  dummy.DEFAULT DangerousCyanRona {
+    _hidden_value = true
+  }
+  json LargeAquamarineWindy {
+    _hidden_value = true
+  }
+  serviceid ImpressedAzureSam {
+    _hidden_value = true
+  }
+  serviceid CarefulOrangeAustina {
+    _hidden_value = true
+  }
+  serviceid FrontTurquoiseBenita {
+    _hidden_value = true
+  }
+  number SymbolicOliveBrande {
+    _hidden_value = true
+  }
+  number HardCoffeeJorrie {
+    _hidden_value = true
+  }
+  serviceid NumerousTealMerralee {
+    _hidden_value = true
+  }
+  dummy.LightAmethystFrank HarshPlumAlberta {
+    HonCrimsonGwen = 128
+    RoundPurplePaulie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ProposedBrownDominique = 466
+    ScaryMagentaJoby = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ObligedAquamarineLise = 571
+    IraqiCoffeeKaree = 974
+    BurningGoldSybille = 306
+    SubsequentGrayKania = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RespectableAmberCassy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DiversePinkJoanne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FrontPlumCamila = "I'll tell you what often gets over looked... garden fences."
+    DelightfulAmberFrieda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DeafCoffeeCookie = "A steak pun is a rare medium well done."
+    TastyFuchsiaCarol = "Why do birds fly south for the winter? Because it's too far to walk."
+    GastricIndigoCris = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  dummy.DEFAULT GivenPeachJoanie {
+    _hidden_value = true
+  }
+  ComparativeBlushElsi = true
+  IdeologicalBlueDasya = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DrivingCrimsonMandy = "How come the stadium got hot after the game? Because all of the fans left."
+  UrbanOliveTrudie = false
+  _hidden_value = true
+}

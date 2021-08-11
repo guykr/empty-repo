@@ -1,0 +1,31 @@
+type dummy.ComingLimeJoline {
+  annotations {
+    dummy.DEFAULT OrangeAmaranthElspeth {
+    }
+    serviceid ForwardCyanLeoline {
+    }
+    serviceid DeafBlackJeri {
+    }
+    boolean OrdinaryAquaSibylla {
+    }
+    number ImportantTurquoiseGerhardine {
+    }
+    number ObviousHarlequinAllyn {
+    }
+    boolean AsleepAmberCarleen {
+    }
+  }
+  string UnacceptableIndigoHarriette {
+    _hidden_value = true
+  }
+  OrangeAmaranthElspeth = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ForwardCyanLeoline = "Did you know that protons have mass? I didn't even know they were catholic."
+  DeafBlackJeri = "Why did the tomato blush? Because it saw the salad dressing."
+  OrdinaryAquaSibylla = true
+  ImportantTurquoiseGerhardine = 195
+  ObviousHarlequinAllyn = 376
+  AsleepAmberCarleen = false
+  _hidden_value = true
+}

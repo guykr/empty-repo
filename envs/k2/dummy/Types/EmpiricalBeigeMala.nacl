@@ -1,0 +1,72 @@
+type dummy.EmpiricalBeigeMala {
+  annotations {
+    dummy.DEFAULT RearEmeraldFlorette {
+    }
+    string AutonomousAquaAngy {
+    }
+    string FatBlueLisetta {
+    }
+    boolean DomesticLimeDorolisa {
+    }
+    string MarineAquaTallou {
+    }
+    dummy.DEFAULT AggregateCoffeeCharlean {
+    }
+  }
+  number CorporateMoccasinGae {
+    _hidden_value = true
+  }
+  "List<serviceid>" CulturalCoralJessamyn {
+    _hidden_value = true
+  }
+  "List<serviceid>" AdditionalAquaKalie {
+    _hidden_value = true
+  }
+  number DoubtfulYellowRosemaria {
+    _hidden_value = true
+  }
+  number AutomaticBlackFiorenze {
+    _hidden_value = true
+  }
+  boolean ResponsibleCoralGabriellia {
+    _hidden_value = true
+  }
+  serviceid BlondeAmberCarmelita {
+    _hidden_value = true
+  }
+  boolean NegativeFuchsiaSaudra {
+    _hidden_value = true
+  }
+  json UnemployedVioletLindy {
+    _hidden_value = true
+  }
+  dummy.IntegratedMoccasinClarissa StaleGoldJamie {
+    _hidden_value = true
+  }
+  boolean AwareGreenViviyan {
+    _hidden_value = true
+  }
+  boolean ImmediateLimeFlorance {
+    _hidden_value = true
+  }
+  string NationalAquaAshien {
+    _hidden_value = true
+  }
+  "List<string>" ParentalAmethystAnnetta {
+    _hidden_value = true
+  }
+  string AsleepAzureMaureen {
+    _hidden_value = true
+  }
+  RearEmeraldFlorette = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  AutonomousAquaAngy = "A steak pun is a rare medium well done."
+  FatBlueLisetta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DomesticLimeDorolisa = false
+  MarineAquaTallou = "Whoever invented the knock-knock joke should get a no bell prize."
+  AggregateCoffeeCharlean = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type dummy.NotableMoccasinAndrea {
+  annotations {
+    number NastyBlueLuelle {
+    }
+    boolean SoftFuchsiaRahal {
+    }
+    serviceid SharedTomatoJulie {
+    }
+    json RenewedCopperVanda {
+    }
+    number MaximumBeigeJoanne {
+    }
+  }
+  json LonelyRedZitella {
+    _hidden_value = true
+  }
+  boolean PeacefulTanShannah {
+    _hidden_value = true
+  }
+  serviceid SouthernBrownMinerva {
+    _hidden_value = true
+  }
+  string InsufficientAmberElsey {
+    _hidden_value = true
+  }
+  "List<serviceid>" HissingWhiteDevonne {
+    _hidden_value = true
+  }
+  serviceid OutrageousTealCandis {
+    _hidden_value = true
+  }
+  NastyBlueLuelle = 621
+  SoftFuchsiaRahal = true
+  SharedTomatoJulie = "A steak pun is a rare medium well done."
+  RenewedCopperVanda = "Why is Peter Pan always flying? Because he Neverlands."
+  MaximumBeigeJoanne = 6
+  _hidden_value = true
+}

@@ -1,0 +1,86 @@
+type dummy.CutePinkLuisa {
+  annotations {
+    number FaithfulGrayRomy {
+    }
+    boolean PersistentGrayKrystyna {
+    }
+    json SillyEmeraldElita {
+    }
+    number FatalOliveCyndi {
+    }
+  }
+  number SatisfactoryOrangeCandi {
+    _hidden_value = true
+  }
+  boolean RollingIndigoMarcille {
+    _hidden_value = true
+  }
+  serviceid PreciousSilverCindelyn {
+    _hidden_value = true
+  }
+  json DifferentCoffeeFrieda {
+    _hidden_value = true
+  }
+  number SexualApricotHestia {
+    _hidden_value = true
+  }
+  number QuickTurquoiseCorny {
+    _hidden_value = true
+  }
+  number EfficientTurquoiseSadella {
+    _hidden_value = true
+  }
+  serviceid ArtificialOliveDona {
+    _hidden_value = true
+  }
+  boolean RigidCoffeeAngy {
+    _hidden_value = true
+  }
+  json JollySilverCatherina {
+    _hidden_value = true
+  }
+  number SillyGoldLulu {
+    _hidden_value = true
+  }
+  json DelightfulMaroonTuesday {
+    _hidden_value = true
+  }
+  string PastOliveReena {
+    _hidden_value = true
+  }
+  number DepressedCyanCon {
+    _hidden_value = true
+  }
+  serviceid SubjectiveIvoryGiovanna {
+    _hidden_value = true
+  }
+  string VisibleLimeSharl {
+    _hidden_value = true
+  }
+  json UselessAmberRhianna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CharacteristicBronzeJudi {
+    _hidden_value = true
+  }
+  boolean SmoothGoldBunnie {
+    _hidden_value = true
+  }
+  dummy.SubjectiveAmethystBel HonestAzureDorris {
+    BadBronzeKristel = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ComingChocolateCharmane = true
+    BlueIvoryHollie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  serviceid BusyJadeKaitlyn {
+    _hidden_value = true
+  }
+  string SpatialBronzeKarolina {
+    _hidden_value = true
+  }
+  FaithfulGrayRomy = 936
+  PersistentGrayKrystyna = false
+  SillyEmeraldElita = "How come the stadium got hot after the game? Because all of the fans left."
+  FatalOliveCyndi = 195
+  _hidden_value = true
+}

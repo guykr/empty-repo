@@ -1,0 +1,68 @@
+type dummy.ActualSalmonLarine {
+  annotations {
+    string UselessMoccasinSheelagh {
+    }
+    serviceid CarefulAquaDyna {
+    }
+    serviceid AdministrativeCoffeeTiffy {
+    }
+    string DependentRedTrixie {
+    }
+    number QuaintRoseTiffie {
+    }
+    serviceid RepresentativeAzureZaria {
+    }
+  }
+  string LegitimateLavenderAlverta {
+    _hidden_value = true
+  }
+  json AwfulAmberElly {
+    _hidden_value = true
+  }
+  string SurprisingPeachAudra {
+    _hidden_value = true
+  }
+  string AcceptedCyanMellie {
+    _hidden_value = true
+  }
+  serviceid IdeologicalBronzeKitti {
+    _hidden_value = true
+  }
+  serviceid PrimitiveCrimsonErinna {
+    _hidden_value = true
+  }
+  json RichOliveRoxi {
+    _hidden_value = true
+  }
+  boolean OpenAmethystCherry {
+    _hidden_value = true
+  }
+  json RelievedGreenLenka {
+    _hidden_value = true
+  }
+  "List<boolean>" HorizontalHarlequinColene {
+    _hidden_value = true
+  }
+  "List<json>" DifficultCyanIra {
+    _hidden_value = true
+  }
+  serviceid SkilledSapphireHeath {
+    _hidden_value = true
+  }
+  boolean MinimalBlushAlaine {
+    _hidden_value = true
+  }
+  string GrotesqueSapphireMaurine {
+    _hidden_value = true
+  }
+  json HorribleTanEster {
+    _hidden_value = true
+  }
+  UselessMoccasinSheelagh = "Why did the kid cross the playground? To get to the other slide."
+  CarefulAquaDyna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AdministrativeCoffeeTiffy = "To be Frank, I'd have to change my name."
+  DependentRedTrixie = "I'll tell you what often gets over looked... garden fences."
+  QuaintRoseTiffie = 25
+  RepresentativeAzureZaria = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

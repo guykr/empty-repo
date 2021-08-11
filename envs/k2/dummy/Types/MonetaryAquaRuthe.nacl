@@ -1,0 +1,68 @@
+type dummy.MonetaryAquaRuthe {
+  annotations {
+    json RawScarletTessie {
+    }
+    string GenerousLavenderViviene {
+    }
+    number IntermediateCoralEstelle {
+    }
+    boolean DullSapphireNinetta {
+    }
+    json FutureBeigeVirgina {
+    }
+  }
+  number ExpectedBeigeDacy {
+    _hidden_value = true
+  }
+  serviceid PalestinianSalmonCassandra {
+    _hidden_value = true
+  }
+  boolean HistoricCrimsonDorette {
+    _hidden_value = true
+  }
+  json AcceptableWhiteAntonetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NiceAquamarineMarybeth {
+    _hidden_value = true
+  }
+  number EnormousLimeMatti {
+    _hidden_value = true
+  }
+  "Map<json>" YellowCoralEthelda {
+    _hidden_value = true
+  }
+  boolean FantasticCopperSaundra {
+    _hidden_value = true
+  }
+  "List<json>" PopularJadeGinnifer {
+    _hidden_value = true
+  }
+  json JewishBlueLuci {
+    _hidden_value = true
+  }
+  serviceid DefeatedBlackJoanna {
+    _hidden_value = true
+  }
+  string StatisticalTurquoiseCarlynn {
+    _hidden_value = true
+  }
+  serviceid LevelYellowDeva {
+    _hidden_value = true
+  }
+  string CompetitiveBronzeAlexis {
+    _hidden_value = true
+  }
+  boolean BroadAmberAlina {
+    _hidden_value = true
+  }
+  serviceid PaleGoldLoree {
+    _hidden_value = true
+  }
+  RawScarletTessie = "Why did the tomato blush? Because it saw the salad dressing."
+  GenerousLavenderViviene = "Whoever invented the knock-knock joke should get a no bell prize."
+  IntermediateCoralEstelle = 45
+  DullSapphireNinetta = true
+  FutureBeigeVirgina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

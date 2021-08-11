@@ -1,0 +1,100 @@
+type dummy.HissingTurquoiseVerna {
+  annotations {
+    json CautiousMagentaBarrie {
+    }
+    dummy.AfraidAquaFawn WrongAmberAnastasie {
+    }
+    dummy.DEFAULT BigBrownAllis {
+    }
+    serviceid TurkishLimeTerry {
+    }
+    serviceid WonderfulTurquoiseLorinda {
+    }
+    string ConventionalScarletJasmina {
+    }
+    string RedundantChocolateZenia {
+    }
+  }
+  string ShinyBlushHilde {
+    _hidden_value = true
+  }
+  string CivilianCrimsonQueenie {
+    _hidden_value = true
+  }
+  number FriendlyOrangeCrystal {
+    _hidden_value = true
+  }
+  number DrunkSilverFarrah {
+    _hidden_value = true
+  }
+  boolean RandomAmethystLinette {
+    _hidden_value = true
+  }
+  boolean PowerfulPinkAlanna {
+    _hidden_value = true
+  }
+  number DrunkBlueMargaret {
+    _hidden_value = true
+  }
+  json CompactApricotHenriette {
+    _hidden_value = true
+  }
+  string NorthernPinkJanene {
+    _hidden_value = true
+  }
+  json SkilledCoralBilly {
+    _hidden_value = true
+  }
+  serviceid PleasantBronzeJodi {
+    _hidden_value = true
+  }
+  number SeriousIvoryCelisse {
+    _hidden_value = true
+  }
+  serviceid FollowingMoccasinDonni {
+    _hidden_value = true
+  }
+  json DisastrousMaroonGwynne {
+    _hidden_value = true
+  }
+  json DetailedVioletCorliss {
+    _hidden_value = true
+  }
+  string JuniorIndigoTracey {
+    _hidden_value = true
+  }
+  string ShyIvoryDorine {
+    _hidden_value = true
+  }
+  serviceid AwakeHarlequinFelicle {
+    _hidden_value = true
+  }
+  string ExtremeYellowTalia {
+    _hidden_value = true
+  }
+  string LonelyCyanBiddy {
+    _hidden_value = true
+  }
+  number ColonialJadeCahra {
+    _hidden_value = true
+  }
+  serviceid MajorHarlequinKristi {
+    _hidden_value = true
+  }
+  json IntermediateGoldStacie {
+    _hidden_value = true
+  }
+  serviceid AnnualCopperAilyn {
+    _hidden_value = true
+  }
+  CautiousMagentaBarrie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WrongAmberAnastasie = "Dad Im hungry  Hi hungry Im dad"
+  BigBrownAllis = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  TurkishLimeTerry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WonderfulTurquoiseLorinda = "Slept like a log last night  woke up in the fireplace."
+  ConventionalScarletJasmina = "Dad Im hungry  Hi hungry Im dad"
+  RedundantChocolateZenia = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

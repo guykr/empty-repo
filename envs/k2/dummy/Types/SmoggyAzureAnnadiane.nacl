@@ -1,0 +1,58 @@
+type dummy.SmoggyAzureAnnadiane {
+  annotations {
+    boolean BitterPurpleAnastassia {
+    }
+    json MightyMagentaJacenta {
+    }
+    string QuickCopperTomasine {
+    }
+    serviceid LightHarlequinCandie {
+    }
+  }
+  json EmpiricalJadeLurlene {
+    _hidden_value = true
+  }
+  "List<serviceid>" InfluentialBlueAme {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LikeMagentaAntoinette {
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria OppositeCopperDedie {
+    ImpressiveCoralRoanne = 358
+    AwareScarletRhianon = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SimilarTealTova = 523
+    LazyJadeAlvina = 865
+    InsufficientBlushGertrude = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PlasticPinkSidonia = "Dad Im hungry  Hi hungry Im dad"
+    HappyAmaranthRhianna = false
+    SolidFuchsiaOlivia = "What creature is smarter than a talking parrot? A spelling bee."
+    EducationalJadeEdiva = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RoughOliveKailey = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    MistyGrayCollete = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SatisfiedAmaranthCarilyn = 290
+    NarrowPinkMadeleine = "Dad Im hungry  Hi hungry Im dad"
+    ShallowWhiteDahlia = "Why was it called the dark ages? Because of all the knights. "
+    RandomRedJolene = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  boolean FutureTealFlorina {
+    _hidden_value = true
+  }
+  json MuddyCrimsonGretchen {
+    _hidden_value = true
+  }
+  boolean SecureApricotFrancesca {
+    _hidden_value = true
+  }
+  json RepulsiveAmaranthZorana {
+    _hidden_value = true
+  }
+  BitterPurpleAnastassia = true
+  MightyMagentaJacenta = "Why was it called the dark ages? Because of all the knights. "
+  QuickCopperTomasine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LightHarlequinCandie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

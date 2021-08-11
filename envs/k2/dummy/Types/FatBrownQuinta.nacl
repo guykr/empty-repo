@@ -1,0 +1,49 @@
+type dummy.FatBrownQuinta {
+  annotations {
+    dummy.DEFAULT WeeTomatoWilie {
+    }
+    json CalmBlushGwenneth {
+    }
+    serviceid RespectableOliveLiuka {
+    }
+    json TraditionalEmeraldNina {
+    }
+    dummy.HumanAzureReeba SkinnyTanMarybeth {
+    }
+  }
+  serviceid UselessTanKaye {
+    _hidden_value = true
+  }
+  boolean OperationalAmberPhilis {
+    _hidden_value = true
+  }
+  serviceid PreviousIndigoBernadina {
+    _hidden_value = true
+  }
+  boolean ProminentMagentaMaxie {
+    _hidden_value = true
+  }
+  serviceid FemaleAmberGillan {
+    _hidden_value = true
+  }
+  json OrthodoxBlackFerdinanda {
+    _hidden_value = true
+  }
+  json SmoggyBeigeXaviera {
+    _hidden_value = true
+  }
+  serviceid CalmYellowLurleen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FavourableAquaIrena {
+    _hidden_value = true
+  }
+  WeeTomatoWilie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  CalmBlushGwenneth = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RespectableOliveLiuka = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TraditionalEmeraldNina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SkinnyTanMarybeth = false
+  _hidden_value = true
+}

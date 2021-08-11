@@ -1,0 +1,53 @@
+type dummy.CriminalRoseOralle {
+  annotations {
+    json SeriousPurpleJaquenette {
+    }
+    string StrongRedJillian {
+    }
+    serviceid ForthcomingBlackDorita {
+    }
+    json PleasantCyanRori {
+    }
+    string MinisterialRedAmelia {
+    }
+    serviceid SplendidFuchsiaLelah {
+    }
+  }
+  number LimitedCopperCaralie {
+    _hidden_value = true
+  }
+  "List<boolean>" AfraidSapphireAbbye {
+    _hidden_value = true
+  }
+  serviceid WoodenBlushNorri {
+    _hidden_value = true
+  }
+  serviceid DrabBeigeDanella {
+    _hidden_value = true
+  }
+  number DullLavenderSandie {
+    _hidden_value = true
+  }
+  serviceid FreeRoseVania {
+    _hidden_value = true
+  }
+  string SoundCrimsonDarryl {
+    _hidden_value = true
+  }
+  number AnxiousSapphireAlmire {
+    _hidden_value = true
+  }
+  string ImperialAquaTonia {
+    _hidden_value = true
+  }
+  string RedBrownEllissa {
+    _hidden_value = true
+  }
+  SeriousPurpleJaquenette = "My first time using an elevator was an uplifting experience. The second time let me down."
+  StrongRedJillian = "Did you know that protons have mass? I didn't even know they were catholic."
+  ForthcomingBlackDorita = "Dad Im hungry  Hi hungry Im dad"
+  PleasantCyanRori = "Why did the kid cross the playground? To get to the other slide."
+  MinisterialRedAmelia = "Did you know that protons have mass? I didn't even know they were catholic."
+  SplendidFuchsiaLelah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

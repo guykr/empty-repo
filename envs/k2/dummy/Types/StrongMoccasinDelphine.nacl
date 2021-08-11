@@ -1,0 +1,32 @@
+type dummy.StrongMoccasinDelphine {
+  annotations {
+    number HurtMagentaArabel {
+    }
+    string TameVioletMarice {
+    }
+    boolean RegisteredAquamarineRosalind {
+    }
+    number RidiculousPurpleMollee {
+    }
+    serviceid StrangeBrownMiguelita {
+    }
+    string DeterminedPurpleFaunie {
+    }
+  }
+  boolean MistyWhiteSukey {
+    _hidden_value = true
+  }
+  number EnchantingSalmonMalvina {
+    _hidden_value = true
+  }
+  boolean ExactChocolateKathy {
+    _hidden_value = true
+  }
+  HurtMagentaArabel = 919
+  TameVioletMarice = "Why was it called the dark ages? Because of all the knights. "
+  RegisteredAquamarineRosalind = true
+  RidiculousPurpleMollee = 198
+  StrangeBrownMiguelita = "What do you call two barracuda fish?  A Pairacuda!"
+  DeterminedPurpleFaunie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

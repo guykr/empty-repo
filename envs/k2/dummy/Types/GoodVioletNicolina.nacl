@@ -1,0 +1,23 @@
+type dummy.GoodVioletNicolina {
+  annotations {
+    boolean VictoriousAmberFedora {
+    }
+    string SharedPlumEugenia {
+    }
+    number UglyCrimsonGale {
+    }
+    serviceid EarlySilverAnthe {
+    }
+  }
+  json FilthyBrownShannon {
+    _hidden_value = true
+  }
+  serviceid MilitaryRedRobinet {
+    _hidden_value = true
+  }
+  VictoriousAmberFedora = true
+  SharedPlumEugenia = "Why did the kid cross the playground? To get to the other slide."
+  UglyCrimsonGale = 472
+  EarlySilverAnthe = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

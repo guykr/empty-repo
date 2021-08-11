@@ -1,0 +1,50 @@
+type dummy.TurkishCoralRoanne {
+  annotations {
+    number EssentialMagentaSosanna {
+    }
+    string HushedYellowYoshi {
+    }
+    number CloudyBlushSuzann {
+    }
+    boolean LivingCyanMarina {
+    }
+    serviceid LightCyanEvania {
+    }
+  }
+  number MixedJadeEnid {
+    _hidden_value = true
+  }
+  json UndergroundSilverBrunhilda {
+    _hidden_value = true
+  }
+  number VariedGrayCathe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrimeCopperLouisette {
+    _hidden_value = true
+  }
+  number OtherJadeAlvinia {
+    _hidden_value = true
+  }
+  number WelcomeTanMelesa {
+    _hidden_value = true
+  }
+  string ConfidentIvoryNatasha {
+    _hidden_value = true
+  }
+  serviceid RetailBronzeRamona {
+    _hidden_value = true
+  }
+  string DepressedCopperEloisa {
+    _hidden_value = true
+  }
+  json GivenGreenMelisse {
+    _hidden_value = true
+  }
+  EssentialMagentaSosanna = 200
+  HushedYellowYoshi = "Why is Peter Pan always flying? Because he Neverlands."
+  CloudyBlushSuzann = 132
+  LivingCyanMarina = true
+  LightCyanEvania = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type dummy.EffectiveSapphireMureil {
+  annotations {
+    string SlimApricotElmira {
+    }
+    boolean SillyRedJosy {
+    }
+    number AliveAquamarineXena {
+    }
+    dummy.DEFAULT UnderlyingAmaranthBenni {
+    }
+    serviceid NearbyTurquoiseJen {
+    }
+  }
+  serviceid DeadAmaranthKatherina {
+    _hidden_value = true
+  }
+  string EnglishMoccasinLiv {
+    _hidden_value = true
+  }
+  json DemocraticAmethystAgna {
+    _hidden_value = true
+  }
+  string BlushingSapphireLaureen {
+    _hidden_value = true
+  }
+  string DirtyGoldMadella {
+    _hidden_value = true
+  }
+  SlimApricotElmira = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SillyRedJosy = true
+  AliveAquamarineXena = 398
+  UnderlyingAmaranthBenni = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  NearbyTurquoiseJen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

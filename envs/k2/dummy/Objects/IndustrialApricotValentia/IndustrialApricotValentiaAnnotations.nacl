@@ -1,0 +1,75 @@
+type dummy.IndustrialApricotValentia {
+  annotations {
+    serviceid StupidTanElizabeth {
+    }
+    dummy.ArtisticEmeraldGrissel FondTanJosi {
+    }
+    json UncertainAmethystZorah {
+    }
+    number TallCopperJobina {
+    }
+    dummy.StiffFuchsiaTarah ReducedGoldAmil {
+    }
+    boolean ManualGreenDawna {
+    }
+    json StrangeTanVivie {
+    }
+    string UnlikelyBlushElsa {
+    }
+    json ProgressiveAquaVida {
+    }
+    string SunnyAmaranthMadel {
+    }
+    serviceid FondTanAmber {
+    }
+    boolean MeltedJadeJacinthe {
+    }
+    json DemocraticIndigoBrandea {
+    }
+    boolean OtherHarlequinSophronia {
+    }
+    serviceid PoorMagentaEolanda {
+    }
+    string ProfessionalAzureEmlynne {
+    }
+    number PetiteMagentaDebera {
+    }
+    dummy.BizarreScarletKarrie AlliedBlushRomy {
+    }
+    dummy.SemanticMaroonCharisse NarrowAmethystJennifer {
+    }
+    dummy.NutritiousCoralDania WearyTurquoiseCorinne {
+    }
+    json RivalMoccasinJoann {
+    }
+    number FirmLavenderCarroll {
+    }
+    dummy.VisualSilverAlysa ColonialBlushBryna {
+    }
+    boolean RespectableGrayAgneta {
+    }
+    number SmallBlushElbertine {
+    }
+  }
+  StupidTanElizabeth = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UncertainAmethystZorah = "Why did the tomato blush? Because it saw the salad dressing."
+  TallCopperJobina = 450
+  ManualGreenDawna = true
+  StrangeTanVivie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UnlikelyBlushElsa = "What do you call two barracuda fish?  A Pairacuda!"
+  ProgressiveAquaVida = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SunnyAmaranthMadel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FondTanAmber = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MeltedJadeJacinthe = false
+  DemocraticIndigoBrandea = "How come the stadium got hot after the game? Because all of the fans left."
+  OtherHarlequinSophronia = false
+  PoorMagentaEolanda = "I'll tell you what often gets over looked... garden fences."
+  ProfessionalAzureEmlynne = "Why didnt the skeleton cross the road? Because he had no guts."
+  PetiteMagentaDebera = 699
+  AlliedBlushRomy = 853
+  WearyTurquoiseCorinne = file("MobileSilverVictoria.txt")
+  RivalMoccasinJoann = "How come the stadium got hot after the game? Because all of the fans left."
+  FirmLavenderCarroll = 312
+  RespectableGrayAgneta = true
+  SmallBlushElbertine = 224
+}

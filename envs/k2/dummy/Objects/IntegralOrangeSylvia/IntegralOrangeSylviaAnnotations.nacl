@@ -1,0 +1,58 @@
+type dummy.IntegralOrangeSylvia {
+  annotations {
+    boolean DistinguishedTealGianina {
+    }
+    number AbundantCoffeeJoanne {
+    }
+    string DeepPeachChanna {
+    }
+    string FairTurquoiseTorie {
+    }
+    serviceid SleepyAquamarineLicha {
+    }
+    json ThoroughAmberJennie {
+    }
+    dummy.ShallowSalmonAdelaide CorrespondingCoralMorgen {
+    }
+    boolean ChosenTanRebekah {
+    }
+    json HistoricIndigoBerni {
+    }
+    string VariableRedMarabel {
+    }
+    json WellHarlequinShandeigh {
+    }
+    serviceid BraveSapphireLita {
+    }
+    string UptightAzureKimmie {
+    }
+    number TameBlushHannis {
+    }
+    string MinisterialFuchsiaSibilla {
+    }
+    boolean DrunkPinkAilis {
+    }
+    boolean UnsightlyTomatoEmmi {
+    }
+    json BottomPinkCarmencita {
+    }
+  }
+  DistinguishedTealGianina = true
+  AbundantCoffeeJoanne = 430
+  DeepPeachChanna = "What creature is smarter than a talking parrot? A spelling bee."
+  FairTurquoiseTorie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SleepyAquamarineLicha = "Why was it called the dark ages? Because of all the knights. "
+  ThoroughAmberJennie = "Why do birds fly south for the winter? Because it's too far to walk."
+  CorrespondingCoralMorgen = file("PuzzledBrownTalyah.txt")
+  ChosenTanRebekah = true
+  HistoricIndigoBerni = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  VariableRedMarabel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WellHarlequinShandeigh = "I'll tell you what often gets over looked... garden fences."
+  BraveSapphireLita = "Why is Peter Pan always flying? Because he Neverlands."
+  UptightAzureKimmie = "Dad Im hungry  Hi hungry Im dad"
+  TameBlushHannis = 319
+  MinisterialFuchsiaSibilla = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DrunkPinkAilis = true
+  UnsightlyTomatoEmmi = true
+  BottomPinkCarmencita = "Why didnt the skeleton cross the road? Because he had no guts."
+}

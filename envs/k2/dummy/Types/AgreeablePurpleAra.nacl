@@ -1,0 +1,59 @@
+type dummy.AgreeablePurpleAra {
+  annotations {
+    number SurprisingChocolateRobenia {
+    }
+    number GastricTanBerget {
+    }
+    string HandsomeTurquoiseIngrid {
+    }
+    boolean ItalianTomatoSherill {
+    }
+    string RottenRedCecelia {
+    }
+  }
+  serviceid FitMaroonGussi {
+    _hidden_value = true
+  }
+  boolean DesirableTurquoiseCharlean {
+    _hidden_value = true
+  }
+  boolean FantasticTanElspeth {
+    _hidden_value = true
+  }
+  json NecessaryAmberDixie {
+    _hidden_value = true
+  }
+  number WorryingMagentaIlysa {
+    _hidden_value = true
+  }
+  json RoundMoccasinKeriann {
+    _hidden_value = true
+  }
+  number SelfishSalmonRahal {
+    _hidden_value = true
+  }
+  json SatisfactoryAmaranthGerry {
+    _hidden_value = true
+  }
+  number DesirableSilverMaurizia {
+    _hidden_value = true
+  }
+  boolean ShyGoldTamar {
+    _hidden_value = true
+  }
+  serviceid CourageousCoralJenny {
+    _hidden_value = true
+  }
+  boolean EstimatedPurpleMarigold {
+    _hidden_value = true
+  }
+  serviceid RevolutionaryRedPrudence {
+    _hidden_value = true
+  }
+  SurprisingChocolateRobenia = 134
+  GastricTanBerget = 166
+  HandsomeTurquoiseIngrid = "Why is Peter Pan always flying? Because he Neverlands."
+  ItalianTomatoSherill = true
+  RottenRedCecelia = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

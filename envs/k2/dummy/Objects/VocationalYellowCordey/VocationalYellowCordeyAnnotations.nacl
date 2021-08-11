@@ -1,0 +1,66 @@
+type dummy.VocationalYellowCordey {
+  annotations {
+    number DifficultAquamarineJoanie {
+    }
+    dummy.MinimumIvoryFrankie FrightenedOrangeYoshiko {
+    }
+    string AwareRoseGeneva {
+    }
+    boolean TinyTanSteffane {
+    }
+    boolean GayApricotLacey {
+    }
+    string BetterYellowKinna {
+    }
+    json SystematicBronzeRois {
+    }
+    dummy.ObligedApricotMarleen DisturbedGrayAlisun {
+    }
+    serviceid EvilAquamarineNata {
+    }
+    string WidespreadAzureEleen {
+    }
+    serviceid MoralCoralLinda {
+    }
+    string NeutralAzureCindy {
+    }
+    json FairTealArlyn {
+    }
+    boolean GreatGreenLeone {
+    }
+    boolean FunctionalScarletBettine {
+    }
+    number TinyGoldAileen {
+    }
+    serviceid RealVioletHelga {
+    }
+    dummy.ConfidentialScarletAntonie AbsentApricotDoralynne {
+    }
+    string NovelPlumJerrine {
+    }
+    json DominantAmaranthShanda {
+    }
+    dummy.ContemporaryPurpleZabrina RunningIndigoRonnie {
+    }
+  }
+  DifficultAquamarineJoanie = 197
+  FrightenedOrangeYoshiko = false
+  AwareRoseGeneva = "How come the stadium got hot after the game? Because all of the fans left."
+  TinyTanSteffane = false
+  GayApricotLacey = false
+  BetterYellowKinna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SystematicBronzeRois = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EvilAquamarineNata = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WidespreadAzureEleen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MoralCoralLinda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NeutralAzureCindy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FairTealArlyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GreatGreenLeone = false
+  FunctionalScarletBettine = true
+  TinyGoldAileen = 667
+  RealVioletHelga = "To be Frank, I'd have to change my name."
+  AbsentApricotDoralynne = 140
+  NovelPlumJerrine = "Why is Peter Pan always flying? Because he Neverlands."
+  DominantAmaranthShanda = "Why did the kid cross the playground? To get to the other slide."
+  RunningIndigoRonnie = file("ElectronicAzureShay.txt")
+}

@@ -1,0 +1,20 @@
+type dummy.PuzzledBlackPavia {
+  annotations {
+    boolean IntensiveRedHelli {
+    }
+    string FoolishMaroonAimil {
+    }
+    serviceid GreenAmethystOphelie {
+    }
+    serviceid FutureTealJesse {
+    }
+  }
+  "List<json>" UnknownRedDyna {
+    _hidden_value = true
+  }
+  IntensiveRedHelli = true
+  FoolishMaroonAimil = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GreenAmethystOphelie = "Why didnt the skeleton cross the road? Because he had no guts."
+  FutureTealJesse = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

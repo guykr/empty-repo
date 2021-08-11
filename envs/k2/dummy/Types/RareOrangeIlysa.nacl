@@ -1,0 +1,62 @@
+type dummy.RareOrangeIlysa {
+  annotations {
+    string AvailableYellowRochelle {
+    }
+    serviceid ProbableRoseKathlin {
+    }
+    boolean CoolAmberLadonna {
+    }
+    dummy.OrthodoxEmeraldFelicity TallCoralRobbi {
+    }
+    string DeafYellowKarisa {
+    }
+    boolean LikelyCyanLita {
+    }
+  }
+  serviceid AssistantFuchsiaRoxie {
+    _hidden_value = true
+  }
+  number ConfidentialPurpleBess {
+    _hidden_value = true
+  }
+  string CautiousMaroonShae {
+    _hidden_value = true
+  }
+  boolean LoudBronzeMadel {
+    _hidden_value = true
+  }
+  json AdvancedSalmonVallie {
+    _hidden_value = true
+  }
+  string MaximumSapphireGabbie {
+    _hidden_value = true
+  }
+  boolean FunnyYellowTessa {
+    _hidden_value = true
+  }
+  number ScornfulPeachBiddie {
+    _hidden_value = true
+  }
+  boolean EqualAquamarineDeny {
+    _hidden_value = true
+  }
+  number FavourableVioletFederica {
+    _hidden_value = true
+  }
+  string IdealGreenBernette {
+    _hidden_value = true
+  }
+  string CleanAmethystMalia {
+    _hidden_value = true
+  }
+  number DeterminedGoldCarly {
+    _hidden_value = true
+  }
+  AvailableYellowRochelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ProbableRoseKathlin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CoolAmberLadonna = true
+  TallCoralRobbi = "Why was it called the dark ages? Because of all the knights. "
+  DeafYellowKarisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LikelyCyanLita = true
+  _hidden_value = true
+}

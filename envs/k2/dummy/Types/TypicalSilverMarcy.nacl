@@ -1,0 +1,79 @@
+type dummy.TypicalSilverMarcy {
+  annotations {
+    serviceid SupportingLimeAg {
+    }
+    serviceid BigLavenderHildegarde {
+    }
+    dummy.DEFAULT RetiredAquamarineMaia {
+    }
+    string ConcreteBronzeConstanta {
+    }
+    number CautiousAmaranthCorene {
+    }
+  }
+  number LooseVioletCharisse {
+    _hidden_value = true
+  }
+  string RespectiveFuchsiaGeorgena {
+    _hidden_value = true
+  }
+  dummy.NuclearBlueCorinna MainAmberAlicea {
+    GermanCrimsonRobbie = "What do you call two barracuda fish?  A Pairacuda!"
+    MiddleAmaranthCherlyn = "Slept like a log last night  woke up in the fireplace."
+    WrongVioletDaloris = "How come the stadium got hot after the game? Because all of the fans left."
+    ColonialCoralKat = 657
+    MushyBlushEirena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HotCopperBertina = "To be Frank, I'd have to change my name."
+    TenderAzureDoreen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PerfectOliveGabie = "Why was it called the dark ages? Because of all the knights. "
+    FullMaroonLissi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SorryCrimsonAudi = 6
+    AssociatedBronzeArlen = true
+    GivenWhiteJan = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InstantMaroonGabi = "Why do birds fly south for the winter? Because it's too far to walk."
+    CondemnedLimeIanthe = false
+    VerbalOrangeUlrika = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ShallowApricotMarylin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HomelyBrownRochette = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExpectedWhiteJeanie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    PracticalSalmonCarmela = "What creature is smarter than a talking parrot? A spelling bee."
+    NativeCoffeeKlara = 424
+    _hidden_value = true
+  }
+  string HeavyChocolateChrista {
+    _hidden_value = true
+  }
+  dummy.SorryPlumLottie DamagedOliveAnnadiane {
+    VaryingTealDyanne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HandicappedBrownMartita = "Why was it called the dark ages? Because of all the knights. "
+    CoolTurquoiseCaryl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WonderfulSilverOralle = 915
+    MagicSapphireAllison = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RapidAmethystTerza = 331
+    TightCoralAbagael = 564
+    YummyAmethystLenore = 400
+    ManyAquaEdi = false
+    HarshCrimsonValry = 678
+    PleasantScarletMia = "Whoever invented the knock-knock joke should get a no bell prize."
+    CulturalPurpleWenonah = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AfraidTanRozanna = "I'll tell you what often gets over looked... garden fences."
+    BrainyOlivePerle = "Im only familiar with 25 letters in the English language. I dont know why."
+    DoublePinkEkaterina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BeautifulYellowStacy = 338
+    ImmenseSalmonBatsheva = "I'll tell you what often gets over looked... garden fences."
+    ManagerialTurquoiseBelva = "Dad Im hungry  Hi hungry Im dad"
+    LeadingGoldHarriot = true
+    _hidden_value = true
+  }
+  "List<boolean>" SophisticatedEmeraldLulu {
+    _hidden_value = true
+  }
+  SupportingLimeAg = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BigLavenderHildegarde = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RetiredAquamarineMaia = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ConcreteBronzeConstanta = "What creature is smarter than a talking parrot? A spelling bee."
+  CautiousAmaranthCorene = 972
+  _hidden_value = true
+}

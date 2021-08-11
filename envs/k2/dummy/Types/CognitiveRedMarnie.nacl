@@ -1,0 +1,17 @@
+type dummy.CognitiveRedMarnie {
+  annotations {
+    boolean LoyalMagentaAlyssa {
+    }
+    json DullWhiteKirstyn {
+    }
+    boolean CentralOrangeCookie {
+    }
+  }
+  string DesperateGoldLydie {
+    _hidden_value = true
+  }
+  LoyalMagentaAlyssa = true
+  DullWhiteKirstyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CentralOrangeCookie = false
+  _hidden_value = true
+}

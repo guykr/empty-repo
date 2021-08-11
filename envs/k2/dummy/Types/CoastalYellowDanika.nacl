@@ -1,0 +1,53 @@
+type dummy.CoastalYellowDanika {
+  annotations {
+    json SteepLavenderJanina {
+    }
+    boolean LonelyBronzeNorry {
+    }
+    json WeirdRedEbonee {
+    }
+    serviceid ManagerialPurpleBessie {
+    }
+    number ImpressiveMaroonMahala {
+    }
+    boolean FashionableSilverOdessa {
+    }
+  }
+  boolean ClassicalAquaStoddard {
+    _hidden_value = true
+  }
+  string ParliamentaryTomatoCorliss {
+    _hidden_value = true
+  }
+  "List<boolean>" DelightfulLavenderMatilda {
+    _hidden_value = true
+  }
+  number VoicelessGreenEmmi {
+    _hidden_value = true
+  }
+  boolean ViolentChocolateMerna {
+    _hidden_value = true
+  }
+  string FlakyOrangeCarina {
+    _hidden_value = true
+  }
+  json OrthodoxMoccasinJillian {
+    _hidden_value = true
+  }
+  serviceid BiologicalBlackJanifer {
+    _hidden_value = true
+  }
+  string LightAquaOpal {
+    _hidden_value = true
+  }
+  serviceid GrievingMagentaLinnea {
+    _hidden_value = true
+  }
+  SteepLavenderJanina = "I'll tell you what often gets over looked... garden fences."
+  LonelyBronzeNorry = true
+  WeirdRedEbonee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ManagerialPurpleBessie = "Why did the kid cross the playground? To get to the other slide."
+  ImpressiveMaroonMahala = 34
+  FashionableSilverOdessa = true
+  _hidden_value = true
+}

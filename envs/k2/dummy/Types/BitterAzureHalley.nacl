@@ -1,0 +1,20 @@
+type dummy.BitterAzureHalley {
+  annotations {
+    string NarrowMagentaLeonie {
+    }
+    serviceid ShinyChocolateMargaret {
+    }
+    serviceid GloriousTanBea {
+    }
+    boolean UnwillingAquaJami {
+    }
+  }
+  number IndividualPlumDina {
+    _hidden_value = true
+  }
+  NarrowMagentaLeonie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ShinyChocolateMargaret = "What creature is smarter than a talking parrot? A spelling bee."
+  GloriousTanBea = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnwillingAquaJami = true
+  _hidden_value = true
+}

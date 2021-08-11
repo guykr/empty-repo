@@ -1,0 +1,104 @@
+type dummy.WonderfulGreenVeronica {
+  annotations {
+    boolean FellowRedCheslie {
+    }
+    number WeakTealSharl {
+    }
+    json IdenticalPeachSylvia {
+    }
+    serviceid NursingSalmonArdis {
+    }
+    serviceid CheerfulAquaKendre {
+    }
+  }
+  boolean MinisterialBronzeZelda {
+    _hidden_value = true
+  }
+  serviceid CorrespondingMoccasinNorean {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoleAmethystSheilakathryn {
+    _hidden_value = true
+  }
+  boolean KindSilverNadya {
+    _hidden_value = true
+  }
+  serviceid ExuberantLimeCherlyn {
+    _hidden_value = true
+  }
+  serviceid FranticFuchsiaMorgana {
+    _hidden_value = true
+  }
+  json UrgentAmberCindelyn {
+    _hidden_value = true
+  }
+  string SimpleBlackMadalyn {
+    _hidden_value = true
+  }
+  string ElatedHarlequinHilda {
+    _hidden_value = true
+  }
+  number TraditionalIvoryKaril {
+    _hidden_value = true
+  }
+  json OutstandingIvoryFlossy {
+    _hidden_value = true
+  }
+  serviceid RenewedSapphireVivie {
+    _hidden_value = true
+  }
+  string AverageApricotIlyssa {
+    _hidden_value = true
+  }
+  "List<boolean>" EvolutionaryCoralBrana {
+    _hidden_value = true
+  }
+  number MarkedBlushEmelia {
+    _hidden_value = true
+  }
+  number DivineAquamarineSherrie {
+    _hidden_value = true
+  }
+  number ManyIvoryUlrikaumeko {
+    _hidden_value = true
+  }
+  json CalmPurpleMaurita {
+    _hidden_value = true
+  }
+  string TypicalIndigoThalia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BriefYellowChiarra {
+    _hidden_value = true
+  }
+  string TerribleApricotDoralin {
+    _hidden_value = true
+  }
+  string SoreTurquoiseNoell {
+    _hidden_value = true
+  }
+  boolean InterestingPeachEdiva {
+    _hidden_value = true
+  }
+  string MinimalAzureMiran {
+    _hidden_value = true
+  }
+  number BalancedMoccasinTheodora {
+    _hidden_value = true
+  }
+  boolean SelectPlumEleanor {
+    _hidden_value = true
+  }
+  serviceid ConfusedAmaranthAshely {
+    _hidden_value = true
+  }
+  boolean DyingCyanLorilee {
+    _hidden_value = true
+  }
+  FellowRedCheslie = false
+  WeakTealSharl = 807
+  IdenticalPeachSylvia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NursingSalmonArdis = "Why was it called the dark ages? Because of all the knights. "
+  CheerfulAquaKendre = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

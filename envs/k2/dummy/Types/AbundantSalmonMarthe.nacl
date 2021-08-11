@@ -1,0 +1,56 @@
+type dummy.AbundantSalmonMarthe {
+  annotations {
+    json PowerfulCrimsonSybila {
+    }
+    number RepulsivePeachCarolyn {
+    }
+    number AbsentRedAnabel {
+    }
+    serviceid SquareMoccasinLindsay {
+    }
+  }
+  string DrunkAmethystCathrin {
+    _hidden_value = true
+  }
+  json TraditionalAquaCodie {
+    _hidden_value = true
+  }
+  number UpsetRoseEalasaid {
+    _hidden_value = true
+  }
+  json FriendlyBeigeClaudina {
+    _hidden_value = true
+  }
+  serviceid DampPeachDix {
+    _hidden_value = true
+  }
+  string BeneficialHarlequinZea {
+    _hidden_value = true
+  }
+  boolean AverageBlueLonee {
+    _hidden_value = true
+  }
+  boolean StrategicIvoryBernadene {
+    _hidden_value = true
+  }
+  serviceid ElegantPurpleJaneen {
+    _hidden_value = true
+  }
+  "List<string>" BreakableBeigeStarr {
+    _hidden_value = true
+  }
+  number FlatMoccasinLoretta {
+    _hidden_value = true
+  }
+  serviceid FavourableEmeraldChlo {
+    _hidden_value = true
+  }
+  json FancyGreenDevora {
+    _hidden_value = true
+  }
+  PowerfulCrimsonSybila = "Why is Peter Pan always flying? Because he Neverlands."
+  RepulsivePeachCarolyn = 745
+  AbsentRedAnabel = 173
+  SquareMoccasinLindsay = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

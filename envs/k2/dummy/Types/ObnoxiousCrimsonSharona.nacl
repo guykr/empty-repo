@@ -1,0 +1,23 @@
+type dummy.ObnoxiousCrimsonSharona {
+  annotations {
+    boolean WarmCopperLorianne {
+    }
+    json LittlePinkFidela {
+    }
+    serviceid LargeMaroonAdelaida {
+    }
+    string EmbarrassedAzureKalindi {
+    }
+    json HappyFuchsiaFleur {
+    }
+  }
+  string BoredPeachMara {
+    _hidden_value = true
+  }
+  WarmCopperLorianne = false
+  LittlePinkFidela = "Why do birds fly south for the winter? Because it's too far to walk."
+  LargeMaroonAdelaida = "Dad Im hungry  Hi hungry Im dad"
+  EmbarrassedAzureKalindi = "I'll tell you what often gets over looked... garden fences."
+  HappyFuchsiaFleur = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

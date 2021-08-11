@@ -1,0 +1,40 @@
+type dummy.PinkBlushAinslie is string {
+  annotations {
+    json ExtendedSapphireMaren {
+    }
+    number NutritiousAquamarineElie {
+    }
+    string AdvisoryMaroonSharron {
+    }
+    number GenuineGreenAbbie {
+    }
+    string SupremeChocolateBria {
+    }
+    boolean ObedientHarlequinChelsy {
+    }
+    boolean MysteriousRoseJordana {
+    }
+    json SovietChocolateGus {
+    }
+    serviceid ThirstyTurquoiseMarne {
+    }
+    json RepulsivePlumDelia {
+    }
+    serviceid FinancialIndigoMonah {
+    }
+    json EntitledScarletPammie {
+    }
+  }
+  ExtendedSapphireMaren = "What do you call two barracuda fish?  A Pairacuda!"
+  NutritiousAquamarineElie = 87
+  AdvisoryMaroonSharron = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GenuineGreenAbbie = 40
+  SupremeChocolateBria = "Why do birds fly south for the winter? Because it's too far to walk."
+  ObedientHarlequinChelsy = false
+  MysteriousRoseJordana = true
+  SovietChocolateGus = "I'll tell you what often gets over looked... garden fences."
+  ThirstyTurquoiseMarne = "Why was it called the dark ages? Because of all the knights. "
+  RepulsivePlumDelia = "Why didnt the skeleton cross the road? Because he had no guts."
+  FinancialIndigoMonah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EntitledScarletPammie = "I'll tell you what often gets over looked... garden fences."
+}

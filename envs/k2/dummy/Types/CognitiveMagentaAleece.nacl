@@ -1,0 +1,28 @@
+type dummy.CognitiveMagentaAleece {
+  annotations {
+    json AbundantIvoryNora {
+    }
+    dummy.SubjectiveAmethystBel SupportingPlumGeorgianne {
+    }
+    dummy.DEFAULT MarineCoralMarielle {
+    }
+    serviceid OddOliveCristi {
+    }
+  }
+  boolean ResidentialMaroonKristina {
+    _hidden_value = true
+  }
+  "List<serviceid>" ParliamentaryMoccasinPrisca {
+    _hidden_value = true
+  }
+  number MagneticScarletRosie {
+    _hidden_value = true
+  }
+  AbundantIvoryNora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SupportingPlumGeorgianne = 579
+  MarineCoralMarielle = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  OddOliveCristi = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

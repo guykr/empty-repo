@@ -1,0 +1,38 @@
+type dummy.TameHarlequinSarine {
+  annotations {
+    serviceid MysteriousTealDoreen {
+    }
+    number ElectricalPeachOdille {
+    }
+    json GreenBeigeDalia {
+    }
+    serviceid EarlySilverMichaeline {
+    }
+    serviceid RainyJadeOttilie {
+    }
+  }
+  json CoolAzureGustie {
+    _hidden_value = true
+  }
+  number PreliminaryBeigeMurielle {
+    _hidden_value = true
+  }
+  string ComparativeTomatoDamara {
+    _hidden_value = true
+  }
+  serviceid PlainChocolateSusannah {
+    _hidden_value = true
+  }
+  boolean DifficultAmethystJerrilyn {
+    _hidden_value = true
+  }
+  boolean RegulatoryAmethystPage {
+    _hidden_value = true
+  }
+  MysteriousTealDoreen = "Whoever invented the knock-knock joke should get a no bell prize."
+  ElectricalPeachOdille = 721
+  GreenBeigeDalia = "Why did the tomato blush? Because it saw the salad dressing."
+  EarlySilverMichaeline = "Dad Im hungry  Hi hungry Im dad"
+  RainyJadeOttilie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type dummy.CurvedBrownJackquelin {
+  annotations {
+    string NuttyTealMalvina {
+    }
+    serviceid HelpfulVioletAtalanta {
+    }
+    string LeadingSilverRasia {
+    }
+    dummy.DEFAULT TrickyBlueMorgana {
+    }
+    string WeakGreenChere {
+    }
+    string MutualAquamarineJanie {
+    }
+  }
+  string SensibleGreenJosy {
+    _hidden_value = true
+  }
+  "List<serviceid>" StrongMagentaLuce {
+    _hidden_value = true
+  }
+  serviceid GenerousAmethystElicia {
+    _hidden_value = true
+  }
+  number StickyPlumAshlie {
+    _hidden_value = true
+  }
+  string LogicalBeigeMadelena {
+    _hidden_value = true
+  }
+  json RareFuchsiaJenna {
+    _hidden_value = true
+  }
+  dummy.ContemporaryPurpleZabrina GrossBluePeg {
+    SecureGrayMerralee = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RobustAquaAlly = "Why is Peter Pan always flying? Because he Neverlands."
+    SwiftAmaranthGlyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StickyEmeraldLenette = "Dad Im hungry  Hi hungry Im dad"
+    DullPurpleKora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ShrillYellowConni = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PartialAmberKellsie = "Did you know that protons have mass? I didn't even know they were catholic."
+    OddScarletCaralie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExtremeTanArielle = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    YellowBronzeNessi = false
+    FlakyTanJeniffer = true
+    UnnecessarySapphireKathrine = false
+    FullTurquoiseCorabella = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  string DailyWhiteErina {
+    _hidden_value = true
+  }
+  number RemainingYellowMerry {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SharpMoccasinIngaborg {
+    _hidden_value = true
+  }
+  boolean MoralTomatoMalena {
+    _hidden_value = true
+  }
+  number CautiousOliveChrysa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LowCoralMariska {
+    _hidden_value = true
+  }
+  serviceid WearyOliveCherie {
+    _hidden_value = true
+  }
+  boolean UnusualWhiteKorrie {
+    _hidden_value = true
+  }
+  serviceid GoodMaroonChrissy {
+    _hidden_value = true
+  }
+  NuttyTealMalvina = "Did you know that protons have mass? I didn't even know they were catholic."
+  HelpfulVioletAtalanta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LeadingSilverRasia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TrickyBlueMorgana = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  WeakGreenChere = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MutualAquamarineJanie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

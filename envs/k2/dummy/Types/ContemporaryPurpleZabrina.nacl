@@ -1,0 +1,45 @@
+type dummy.ContemporaryPurpleZabrina is string {
+  annotations {
+    string SecureGrayMerralee {
+    }
+    serviceid RobustAquaAlly {
+    }
+    string SwiftAmaranthGlyn {
+    }
+    json StickyEmeraldLenette {
+    }
+    serviceid DullPurpleKora {
+    }
+    serviceid ShrillYellowConni {
+    }
+    string PartialAmberKellsie {
+    }
+    serviceid OddScarletCaralie {
+    }
+    dummy.DEFAULT ExtremeTanArielle {
+    }
+    boolean YellowBronzeNessi {
+    }
+    boolean FlakyTanJeniffer {
+    }
+    boolean UnnecessarySapphireKathrine {
+    }
+    string FullTurquoiseCorabella {
+    }
+  }
+  SecureGrayMerralee = "Why is Peter Pan always flying? Because he Neverlands."
+  RobustAquaAlly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SwiftAmaranthGlyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StickyEmeraldLenette = "Why did the kid cross the playground? To get to the other slide."
+  DullPurpleKora = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShrillYellowConni = "To be Frank, I'd have to change my name."
+  PartialAmberKellsie = "Did you know that protons have mass? I didn't even know they were catholic."
+  OddScarletCaralie = "Why was it called the dark ages? Because of all the knights. "
+  ExtremeTanArielle = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  YellowBronzeNessi = false
+  FlakyTanJeniffer = true
+  UnnecessarySapphireKathrine = false
+  FullTurquoiseCorabella = "How come the stadium got hot after the game? Because all of the fans left."
+}

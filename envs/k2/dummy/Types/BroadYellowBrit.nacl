@@ -1,0 +1,38 @@
+type dummy.BroadYellowBrit {
+  annotations {
+    serviceid NastyHarlequinRycca {
+    }
+    boolean TinyCoralMerrili {
+    }
+    dummy.OrthodoxEmeraldFelicity YummyVioletRianon {
+    }
+    boolean ObviousIvoryIna {
+    }
+    json ArbitrarySapphireOttilie {
+    }
+  }
+  json AllegedMaroonStarla {
+    _hidden_value = true
+  }
+  boolean DullMaroonCarree {
+    _hidden_value = true
+  }
+  json AliveAmaranthSallee {
+    _hidden_value = true
+  }
+  string SleepyCopperSheela {
+    _hidden_value = true
+  }
+  serviceid LostAmaranthVirginia {
+    _hidden_value = true
+  }
+  boolean RetiredPinkSiana {
+    _hidden_value = true
+  }
+  NastyHarlequinRycca = "Why is Peter Pan always flying? Because he Neverlands."
+  TinyCoralMerrili = false
+  YummyVioletRianon = "Why was it called the dark ages? Because of all the knights. "
+  ObviousIvoryIna = false
+  ArbitrarySapphireOttilie = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

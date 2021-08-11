@@ -1,0 +1,23 @@
+type dummy.WoodenMaroonUlrika {
+  annotations {
+    number AppropriateMagentaEsmaria {
+    }
+    number FaintGoldNance {
+    }
+    boolean LivelyBronzeManon {
+    }
+    serviceid BlondeTealGlenine {
+    }
+    boolean MedievalAquaMimi {
+    }
+  }
+  json WanderingCrimsonJosy {
+    _hidden_value = true
+  }
+  AppropriateMagentaEsmaria = 800
+  FaintGoldNance = 548
+  LivelyBronzeManon = true
+  BlondeTealGlenine = "Slept like a log last night  woke up in the fireplace."
+  MedievalAquaMimi = true
+  _hidden_value = true
+}

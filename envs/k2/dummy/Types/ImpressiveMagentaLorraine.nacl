@@ -1,0 +1,14 @@
+type dummy.ImpressiveMagentaLorraine {
+  annotations {
+    number ThickBlackOlympe {
+    }
+    number ChineseBlushBobbie {
+    }
+  }
+  json LegalAmaranthCarlye {
+    _hidden_value = true
+  }
+  ThickBlackOlympe = 427
+  ChineseBlushBobbie = 712
+  _hidden_value = true
+}

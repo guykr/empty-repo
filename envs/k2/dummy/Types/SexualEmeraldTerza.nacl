@@ -1,0 +1,23 @@
+type dummy.SexualEmeraldTerza {
+  annotations {
+    number DutchGrayNedda {
+    }
+    serviceid SuspiciousAzureRaquela {
+    }
+    serviceid AshamedCopperHatti {
+    }
+    number GracefulSilverAmargo {
+    }
+    number ScrawnyChocolateLinell {
+    }
+  }
+  number WrittenBlueJamima {
+    _hidden_value = true
+  }
+  DutchGrayNedda = 50
+  SuspiciousAzureRaquela = "How come the stadium got hot after the game? Because all of the fans left."
+  AshamedCopperHatti = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GracefulSilverAmargo = 872
+  ScrawnyChocolateLinell = 35
+  _hidden_value = true
+}

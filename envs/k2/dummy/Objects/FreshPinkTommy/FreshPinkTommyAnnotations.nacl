@@ -1,0 +1,54 @@
+type dummy.FreshPinkTommy {
+  annotations {
+    string WideCoralLeoline {
+    }
+    serviceid PromisingIvoryGerladina {
+    }
+    boolean ThoughtfulPinkNixie {
+    }
+    boolean GermanSilverBertina {
+    }
+    dummy.AustralianScarletPansie GiganticBlushGavrielle {
+    }
+    number SaltyBlackJacinta {
+    }
+    number DullPeachAngelique {
+    }
+    json MuteLimeArlyn {
+    }
+    string TremendousIndigoLauree {
+    }
+    json FarSalmonKeely {
+    }
+    serviceid SemanticAquaIndira {
+    }
+    boolean QuickSilverRanee {
+    }
+    serviceid LoudAmaranthJasmine {
+    }
+    string FriendlyCrimsonElset {
+    }
+    boolean WillingAmethystWillamina {
+    }
+    dummy.SmoggyApricotShayna SillyPlumAmanda {
+    }
+    json NoisyScarletKarena {
+    }
+  }
+  WideCoralLeoline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PromisingIvoryGerladina = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThoughtfulPinkNixie = true
+  GermanSilverBertina = true
+  SaltyBlackJacinta = 517
+  DullPeachAngelique = 165
+  MuteLimeArlyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TremendousIndigoLauree = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FarSalmonKeely = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SemanticAquaIndira = "A steak pun is a rare medium well done."
+  QuickSilverRanee = false
+  LoudAmaranthJasmine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FriendlyCrimsonElset = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WillingAmethystWillamina = false
+  SillyPlumAmanda = 831
+  NoisyScarletKarena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

@@ -1,0 +1,26 @@
+type dummy.ValidLavenderOthilia {
+  annotations {
+    boolean FineCopperLynne {
+    }
+    json HugeCrimsonGina {
+    }
+    json AdvisoryJadeMellisa {
+    }
+    json MarvellousIndigoMillicent {
+    }
+    boolean DullApricotPeg {
+    }
+  }
+  boolean ClassicSapphireMagdalene {
+    _hidden_value = true
+  }
+  boolean AestheticSilverLelah {
+    _hidden_value = true
+  }
+  FineCopperLynne = false
+  HugeCrimsonGina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AdvisoryJadeMellisa = "Why did the kid cross the playground? To get to the other slide."
+  MarvellousIndigoMillicent = "Why did the kid cross the playground? To get to the other slide."
+  DullApricotPeg = false
+  _hidden_value = true
+}

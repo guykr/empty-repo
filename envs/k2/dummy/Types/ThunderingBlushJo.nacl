@@ -1,0 +1,46 @@
+type dummy.ThunderingBlushJo {
+  annotations {
+    number BrightBeigeShara {
+    }
+    boolean TestyApricotTracey {
+    }
+    dummy.DEFAULT FriendlyBrownAlexi {
+    }
+    serviceid LovelySilverOdella {
+    }
+    boolean TameMaroonCornelle {
+    }
+    string WetAmaranthDorena {
+    }
+  }
+  json ObjectivePeachShirline {
+    _hidden_value = true
+  }
+  dummy.RunningAquaRoshelle DelicatePlumVittoria {
+    _hidden_value = true
+  }
+  boolean KeySapphireImogene {
+    _hidden_value = true
+  }
+  serviceid WorldwideAzurePatrizia {
+    _hidden_value = true
+  }
+  string PartialCyanCarmelle {
+    _hidden_value = true
+  }
+  number NovelIvoryAva {
+    _hidden_value = true
+  }
+  json EnthusiasticIndigoKyrstin {
+    _hidden_value = true
+  }
+  BrightBeigeShara = 413
+  TestyApricotTracey = false
+  FriendlyBrownAlexi = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  LovelySilverOdella = "Did you know that protons have mass? I didn't even know they were catholic."
+  TameMaroonCornelle = true
+  WetAmaranthDorena = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

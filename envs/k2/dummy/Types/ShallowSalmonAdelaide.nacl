@@ -1,0 +1,38 @@
+type dummy.ShallowSalmonAdelaide is string {
+  annotations {
+    dummy.DEFAULT AdvancedAquaMarion {
+    }
+    serviceid MonetaryLimeElectra {
+    }
+    boolean ResponsibleEmeraldBetti {
+    }
+    json RichLimeSukey {
+    }
+    boolean SorryWhitePrue {
+    }
+    number TemporaryTomatoLinnell {
+    }
+    boolean YummyPinkMinnnie {
+    }
+    json RespectiveTurquoiseCaralie {
+    }
+    dummy.DEFAULT RemarkableOliveLeona {
+    }
+    boolean RelievedCopperMozelle {
+    }
+  }
+  AdvancedAquaMarion = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  MonetaryLimeElectra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ResponsibleEmeraldBetti = true
+  RichLimeSukey = "Did you know that protons have mass? I didn't even know they were catholic."
+  SorryWhitePrue = true
+  TemporaryTomatoLinnell = 225
+  YummyPinkMinnnie = true
+  RespectiveTurquoiseCaralie = "Did you know that protons have mass? I didn't even know they were catholic."
+  RemarkableOliveLeona = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  RelievedCopperMozelle = true
+}

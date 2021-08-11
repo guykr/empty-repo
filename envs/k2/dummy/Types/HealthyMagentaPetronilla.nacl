@@ -1,0 +1,71 @@
+type dummy.HealthyMagentaPetronilla {
+  annotations {
+    serviceid SplendidGreenCindelyn {
+    }
+    number StandardCoffeeBlancha {
+    }
+    number ElaboratePurpleWilone {
+    }
+    string EnergeticTanVirgie {
+    }
+    serviceid AtomicCopperAshia {
+    }
+  }
+  json LightRedCinnamon {
+    _hidden_value = true
+  }
+  json DelightfulBrownMavra {
+    _hidden_value = true
+  }
+  "List<serviceid>" UnderlyingGreenHatty {
+    _hidden_value = true
+  }
+  string RearLavenderJulie {
+    _hidden_value = true
+  }
+  boolean WelcomeOrangeLynn {
+    _hidden_value = true
+  }
+  number GrandPurpleKatey {
+    _hidden_value = true
+  }
+  serviceid StrongJadeHarlene {
+    _hidden_value = true
+  }
+  string HandicappedFuchsiaHynda {
+    _hidden_value = true
+  }
+  string DullOrangeGavrielle {
+    _hidden_value = true
+  }
+  serviceid ResonantMoccasinPerla {
+    _hidden_value = true
+  }
+  serviceid SecretOrangeLethia {
+    _hidden_value = true
+  }
+  boolean RecentBronzeStepha {
+    _hidden_value = true
+  }
+  serviceid WelshSilverElise {
+    _hidden_value = true
+  }
+  boolean OfficialTomatoJoye {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddTomatoRosalinda {
+    _hidden_value = true
+  }
+  serviceid MarginalVioletJehanna {
+    _hidden_value = true
+  }
+  string RomanticBronzeHeath {
+    _hidden_value = true
+  }
+  SplendidGreenCindelyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  StandardCoffeeBlancha = 820
+  ElaboratePurpleWilone = 541
+  EnergeticTanVirgie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AtomicCopperAshia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

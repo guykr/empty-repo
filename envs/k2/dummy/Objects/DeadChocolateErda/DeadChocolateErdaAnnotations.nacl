@@ -1,0 +1,69 @@
+type dummy.DeadChocolateErda {
+  annotations {
+    serviceid DevotedCoffeeCatha {
+    }
+    dummy.DifficultBlackDeanne EncouragingYellowFlor {
+    }
+    string SwiftTurquoiseGustie {
+    }
+    serviceid SpatialLimeLesley {
+    }
+    number DoubtfulEmeraldCatherine {
+    }
+    dummy.FineCrimsonDeirdre FatTomatoJeri {
+    }
+    json DomesticTealCairistiona {
+    }
+    json JewishCopperJeane {
+    }
+    boolean EagerLavenderRetha {
+    }
+    number GastricAmethystNatalina {
+    }
+    json FranticCyanRaina {
+    }
+    json SensitiveFuchsiaTiffani {
+    }
+    number SadIvoryAudy {
+    }
+    string ViolentGoldAnnamaria {
+    }
+    serviceid SurvivingRedKaylyn {
+    }
+    string EvidentSilverMelisande {
+    }
+    number AbundantGrayMaura {
+    }
+    string GracefulPinkIsidora {
+    }
+    number ShortIndigoClaude {
+    }
+    serviceid RegularPeachStephannie {
+    }
+    string ChangingAzureKelcey {
+    }
+    number BadGrayBill {
+    }
+  }
+  DevotedCoffeeCatha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EncouragingYellowFlor = file("SwiftYellowFelisha.txt")
+  SwiftTurquoiseGustie = "What do you call two barracuda fish?  A Pairacuda!"
+  SpatialLimeLesley = "Why was it called the dark ages? Because of all the knights. "
+  DoubtfulEmeraldCatherine = 451
+  DomesticTealCairistiona = "Slept like a log last night  woke up in the fireplace."
+  JewishCopperJeane = "Slept like a log last night  woke up in the fireplace."
+  EagerLavenderRetha = false
+  GastricAmethystNatalina = 887
+  FranticCyanRaina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SensitiveFuchsiaTiffani = "What do you call two barracuda fish?  A Pairacuda!"
+  SadIvoryAudy = 845
+  ViolentGoldAnnamaria = "How come the stadium got hot after the game? Because all of the fans left."
+  SurvivingRedKaylyn = "What do you call two barracuda fish?  A Pairacuda!"
+  EvidentSilverMelisande = "To be Frank, I'd have to change my name."
+  AbundantGrayMaura = 679
+  GracefulPinkIsidora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShortIndigoClaude = 842
+  RegularPeachStephannie = "Whoever invented the knock-knock joke should get a no bell prize."
+  ChangingAzureKelcey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BadGrayBill = 168
+}

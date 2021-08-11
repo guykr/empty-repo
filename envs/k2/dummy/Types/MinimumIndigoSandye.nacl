@@ -1,0 +1,49 @@
+type dummy.MinimumIndigoSandye {
+  annotations {
+    dummy.DEFAULT OldCrimsonDaloris {
+    }
+    json DisgustedTanKarlotta {
+    }
+    string SillyCyanLarina {
+    }
+    json NeatGreenEstelle {
+    }
+    json DefiniteAquaSeka {
+    }
+    string ExplicitPurpleCaro {
+    }
+  }
+  json GivenPinkJanet {
+    _hidden_value = true
+  }
+  serviceid RareOliveRebeka {
+    _hidden_value = true
+  }
+  json BetterAquamarineGuendolen {
+    _hidden_value = true
+  }
+  serviceid ExcitingAmberFania {
+    _hidden_value = true
+  }
+  serviceid AssociatedRoseBonni {
+    _hidden_value = true
+  }
+  serviceid NormalPurpleOralla {
+    _hidden_value = true
+  }
+  string VerticalPlumShannah {
+    _hidden_value = true
+  }
+  serviceid ChosenSapphireElspeth {
+    _hidden_value = true
+  }
+  OldCrimsonDaloris = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  DisgustedTanKarlotta = "Why did the kid cross the playground? To get to the other slide."
+  SillyCyanLarina = "Why do birds fly south for the winter? Because it's too far to walk."
+  NeatGreenEstelle = "What do you call two barracuda fish?  A Pairacuda!"
+  DefiniteAquaSeka = "Dad Im hungry  Hi hungry Im dad"
+  ExplicitPurpleCaro = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,29 @@
+type dummy.LoosePeachGoldia {
+  annotations {
+    serviceid AnxiousSilverYevette {
+    }
+    boolean GrotesqueOliveSibyl {
+    }
+    serviceid UglyGreenCathy {
+    }
+    string MinimalJadeBrigit {
+    }
+    number SpottyAzureAllsun {
+    }
+    string AccurateMaroonAme {
+    }
+  }
+  boolean CheapCopperMonah {
+    _hidden_value = true
+  }
+  string SoundCopperDeni {
+    _hidden_value = true
+  }
+  AnxiousSilverYevette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GrotesqueOliveSibyl = false
+  UglyGreenCathy = "Why is Peter Pan always flying? Because he Neverlands."
+  MinimalJadeBrigit = "How come the stadium got hot after the game? Because all of the fans left."
+  SpottyAzureAllsun = 741
+  AccurateMaroonAme = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

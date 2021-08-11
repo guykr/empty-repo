@@ -1,0 +1,41 @@
+type dummy.VisibleRoseRoobbie {
+  annotations {
+    string WildPeachDalila {
+    }
+    boolean BareTanNissie {
+    }
+    string UsedLavenderAloysia {
+    }
+    boolean HumanLavenderJacqueline {
+    }
+    boolean OtherBlackBerna {
+    }
+    boolean PresidentialRoseLyssa {
+    }
+    json FierceAmaranthAubree {
+    }
+  }
+  number HostileTurquoiseMarylin {
+    _hidden_value = true
+  }
+  json RepresentativeMoccasinBeatrice {
+    _hidden_value = true
+  }
+  boolean RegisteredYellowElfrieda {
+    _hidden_value = true
+  }
+  string QuaintBeigePhilippa {
+    _hidden_value = true
+  }
+  boolean WanderingSapphireCindy {
+    _hidden_value = true
+  }
+  WildPeachDalila = "Dad Im hungry  Hi hungry Im dad"
+  BareTanNissie = true
+  UsedLavenderAloysia = "Why was it called the dark ages? Because of all the knights. "
+  HumanLavenderJacqueline = true
+  OtherBlackBerna = false
+  PresidentialRoseLyssa = true
+  FierceAmaranthAubree = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

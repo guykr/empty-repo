@@ -1,0 +1,46 @@
+type dummy.ConfidentialScarletAntonie is number {
+  annotations {
+    number SophisticatedScarletMolli {
+    }
+    json SoftMagentaKris {
+    }
+    string AnxiousBeigeSydney {
+    }
+    boolean ProudChocolateOfella {
+    }
+    string DramaticPinkWilly {
+    }
+    serviceid ImprovedRoseMorgana {
+    }
+    boolean PerfectChocolateDevondra {
+    }
+    string HungryRoseCarolina {
+    }
+    serviceid PeacefulAmaranthRicca {
+    }
+    serviceid EstablishedTurquoiseImogen {
+    }
+    json PunyTanTommie {
+    }
+    serviceid InnovativeVioletEma {
+    }
+    serviceid EnvironmentalHarlequinJanaye {
+    }
+    number VagueAmaranthJenine {
+    }
+  }
+  SophisticatedScarletMolli = 61
+  SoftMagentaKris = "To be Frank, I'd have to change my name."
+  AnxiousBeigeSydney = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProudChocolateOfella = true
+  DramaticPinkWilly = "Why did the kid cross the playground? To get to the other slide."
+  ImprovedRoseMorgana = "Why did the kid cross the playground? To get to the other slide."
+  PerfectChocolateDevondra = false
+  HungryRoseCarolina = "Why didnt the skeleton cross the road? Because he had no guts."
+  PeacefulAmaranthRicca = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EstablishedTurquoiseImogen = "Why do birds fly south for the winter? Because it's too far to walk."
+  PunyTanTommie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InnovativeVioletEma = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EnvironmentalHarlequinJanaye = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VagueAmaranthJenine = 262
+}

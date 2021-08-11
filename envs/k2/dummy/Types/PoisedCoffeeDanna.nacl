@@ -1,0 +1,31 @@
+type dummy.PoisedCoffeeDanna {
+  annotations {
+    boolean MainScarletRowe {
+    }
+    json StraightRedNerissa {
+    }
+    number RespectiveApricotNydia {
+    }
+    json SoundTurquoiseTybi {
+    }
+    boolean MaleSilverWilly {
+    }
+    dummy.DEFAULT DreadfulRedHonor {
+    }
+    number ShockedCopperOlwen {
+    }
+  }
+  string RelevantWhiteMarge {
+    _hidden_value = true
+  }
+  MainScarletRowe = false
+  StraightRedNerissa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RespectiveApricotNydia = 77
+  SoundTurquoiseTybi = "How come the stadium got hot after the game? Because all of the fans left."
+  MaleSilverWilly = false
+  DreadfulRedHonor = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  ShockedCopperOlwen = 40
+  _hidden_value = true
+}

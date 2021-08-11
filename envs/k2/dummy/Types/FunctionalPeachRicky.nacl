@@ -1,0 +1,71 @@
+type dummy.FunctionalPeachRicky {
+  annotations {
+    serviceid BoilingGoldFrederique {
+    }
+    json ShortTomatoBrianna {
+    }
+    dummy.DEFAULT EducationalPeachBridie {
+    }
+    serviceid RelievedCrimsonGuinevere {
+    }
+    serviceid FashionableVioletMelinda {
+    }
+    dummy.DEFAULT FatalCyanGlynda {
+    }
+    dummy.DEFAULT CostlyAmberRois {
+    }
+    serviceid ComfortableBlueMelva {
+    }
+  }
+  serviceid WildRedDonny {
+    _hidden_value = true
+  }
+  json PresidentialLimePeggi {
+    _hidden_value = true
+  }
+  serviceid JoyousPurpleVictoria {
+    _hidden_value = true
+  }
+  boolean WellHarlequinBeverlee {
+    _hidden_value = true
+  }
+  number CharacteristicTurquoiseDarell {
+    _hidden_value = true
+  }
+  json GentleTealJemie {
+    _hidden_value = true
+  }
+  boolean HealthyCoralMerci {
+    _hidden_value = true
+  }
+  string NarrowBeigeMeagan {
+    _hidden_value = true
+  }
+  string RubberSalmonAriela {
+    _hidden_value = true
+  }
+  string FinancialJadeBetteann {
+    _hidden_value = true
+  }
+  boolean DreadfulGrayCharmane {
+    _hidden_value = true
+  }
+  number SadBeigeRosalia {
+    _hidden_value = true
+  }
+  BoilingGoldFrederique = "Slept like a log last night  woke up in the fireplace."
+  ShortTomatoBrianna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EducationalPeachBridie = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  RelievedCrimsonGuinevere = "I'll tell you what often gets over looked... garden fences."
+  FashionableVioletMelinda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FatalCyanGlynda = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  CostlyAmberRois = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  ComfortableBlueMelva = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

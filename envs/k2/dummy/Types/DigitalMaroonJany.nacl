@@ -1,0 +1,50 @@
+type dummy.DigitalMaroonJany {
+  annotations {
+    boolean SlowSilverLouisette {
+    }
+    json AppropriateOrangeJulie {
+    }
+    serviceid BigMagentaAigneis {
+    }
+    string SheerCoffeeBell {
+    }
+  }
+  json CorporateMaroonCaresa {
+    _hidden_value = true
+  }
+  serviceid PsychologicalPlumIsabelita {
+    _hidden_value = true
+  }
+  boolean ShallowAquamarineJoli {
+    _hidden_value = true
+  }
+  serviceid GrowingBlackFredra {
+    _hidden_value = true
+  }
+  json JuniorGoldAnnabelle {
+    _hidden_value = true
+  }
+  number IntellectualApricotNomi {
+    _hidden_value = true
+  }
+  boolean LongChocolateLynnett {
+    _hidden_value = true
+  }
+  serviceid KindBlueGray {
+    _hidden_value = true
+  }
+  number FineRoseRoselle {
+    _hidden_value = true
+  }
+  serviceid CloseLavenderGlynda {
+    _hidden_value = true
+  }
+  json EncouragingWhiteCoralie {
+    _hidden_value = true
+  }
+  SlowSilverLouisette = true
+  AppropriateOrangeJulie = "What creature is smarter than a talking parrot? A spelling bee."
+  BigMagentaAigneis = "Why was it called the dark ages? Because of all the knights. "
+  SheerCoffeeBell = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

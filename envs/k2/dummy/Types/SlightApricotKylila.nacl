@@ -1,0 +1,23 @@
+type dummy.SlightApricotKylila {
+  annotations {
+    serviceid RelevantGoldDix {
+    }
+    json UnpleasantPurpleGael {
+    }
+    boolean RollingRoseTessie {
+    }
+    number PossibleGreenArliene {
+    }
+    serviceid InnovativeSapphireRoxanne {
+    }
+  }
+  number ModernCrimsonAndeee {
+    _hidden_value = true
+  }
+  RelevantGoldDix = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnpleasantPurpleGael = "A steak pun is a rare medium well done."
+  RollingRoseTessie = false
+  PossibleGreenArliene = 16
+  InnovativeSapphireRoxanne = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

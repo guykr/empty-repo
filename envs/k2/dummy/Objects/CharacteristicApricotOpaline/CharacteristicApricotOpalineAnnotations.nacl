@@ -1,0 +1,58 @@
+type dummy.CharacteristicApricotOpaline {
+  annotations {
+    string WorkingApricotRora {
+    }
+    string ImmensePeachSher {
+    }
+    string ObedientGrayGolda {
+    }
+    dummy.PerfectEmeraldBarry ToughSapphireDevonna {
+    }
+    dummy.WrittenTomatoArliene PaleAzureAntonie {
+    }
+    boolean BrokenSilverUrsuline {
+    }
+    serviceid ImmenseGoldNoelani {
+    }
+    json CondemnedCyanMela {
+    }
+    number SaltyCoralStephine {
+    }
+    boolean MushyPurpleBrooke {
+    }
+    dummy.IrrelevantAmethystJacintha OrthodoxFuchsiaAggie {
+    }
+    number ImpossibleWhiteFrankie {
+    }
+    string EarlyEmeraldCharlean {
+    }
+    number UniversalScarletDoralynn {
+    }
+    boolean RemainingBlushGlad {
+    }
+    number HonestRedSonni {
+    }
+    serviceid PleasantPurpleLianna {
+    }
+    dummy.InlandGreenSarene NativeCyanKeri {
+    }
+    dummy.MinimumIvoryFrankie PromisingYellowHelen {
+    }
+  }
+  WorkingApricotRora = "Did you know that protons have mass? I didn't even know they were catholic."
+  ImmensePeachSher = "Dad Im hungry  Hi hungry Im dad"
+  ObedientGrayGolda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  BrokenSilverUrsuline = true
+  ImmenseGoldNoelani = "Why did the tomato blush? Because it saw the salad dressing."
+  CondemnedCyanMela = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SaltyCoralStephine = 307
+  MushyPurpleBrooke = false
+  ImpossibleWhiteFrankie = 684
+  EarlyEmeraldCharlean = "To be Frank, I'd have to change my name."
+  UniversalScarletDoralynn = 605
+  RemainingBlushGlad = true
+  HonestRedSonni = 775
+  PleasantPurpleLianna = "To be Frank, I'd have to change my name."
+  NativeCyanKeri = false
+  PromisingYellowHelen = false
+}

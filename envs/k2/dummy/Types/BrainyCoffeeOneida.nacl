@@ -1,0 +1,32 @@
+type dummy.BrainyCoffeeOneida {
+  annotations {
+    serviceid UpsetJadeVyky {
+    }
+    string EuropeanCyanAlethea {
+    }
+    json GorgeousBlushJulienne {
+    }
+    dummy.DeliberateMaroonGabbey PromisingMoccasinMady {
+    }
+    number ObjectiveGrayAudrye {
+    }
+    serviceid FlexibleAmberMorgana {
+    }
+  }
+  string NumerousCopperElga {
+    _hidden_value = true
+  }
+  boolean MentalOliveElvira {
+    _hidden_value = true
+  }
+  string AngryEmeraldCasie {
+    _hidden_value = true
+  }
+  UpsetJadeVyky = "Why is Peter Pan always flying? Because he Neverlands."
+  EuropeanCyanAlethea = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GorgeousBlushJulienne = "Why didnt the skeleton cross the road? Because he had no guts."
+  PromisingMoccasinMady = 359
+  ObjectiveGrayAudrye = 302
+  FlexibleAmberMorgana = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

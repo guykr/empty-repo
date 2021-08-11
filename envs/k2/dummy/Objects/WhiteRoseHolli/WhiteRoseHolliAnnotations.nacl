@@ -1,0 +1,60 @@
+type dummy.WhiteRoseHolli {
+  annotations {
+    serviceid MeaningfulIvoryGeraldine {
+    }
+    serviceid MadAquamarineCatarina {
+    }
+    number StandardCoralIngaberg {
+    }
+    serviceid OptimisticAmaranthNessie {
+    }
+    boolean SolarMaroonKalinda {
+    }
+    boolean CentralSalmonHarriette {
+    }
+    serviceid RidiculousOrangeKirbee {
+    }
+    number IntenseChocolateLeeann {
+    }
+    boolean GleamingOliveJaneta {
+    }
+    string NewRedGenna {
+    }
+    boolean SlowJadeConstantia {
+    }
+    json HonScarletMagdalena {
+    }
+    dummy.ShyAzureGwenora TopSapphireLenette {
+    }
+    serviceid IndirectApricotBenita {
+    }
+    string AccurateIndigoZuzana {
+    }
+    number SexualLavenderShela {
+    }
+    boolean WoodenPurpleHappy {
+    }
+    boolean DeliberateGoldYetty {
+    }
+    boolean BlindPlumEsma {
+    }
+  }
+  MeaningfulIvoryGeraldine = "How come the stadium got hot after the game? Because all of the fans left."
+  MadAquamarineCatarina = "Why didnt the skeleton cross the road? Because he had no guts."
+  StandardCoralIngaberg = 248
+  OptimisticAmaranthNessie = "Whoever invented the knock-knock joke should get a no bell prize."
+  SolarMaroonKalinda = true
+  CentralSalmonHarriette = false
+  RidiculousOrangeKirbee = "Why did the tomato blush? Because it saw the salad dressing."
+  IntenseChocolateLeeann = 888
+  GleamingOliveJaneta = false
+  NewRedGenna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SlowJadeConstantia = true
+  HonScarletMagdalena = "What do you call two barracuda fish?  A Pairacuda!"
+  IndirectApricotBenita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AccurateIndigoZuzana = "I'll tell you what often gets over looked... garden fences."
+  SexualLavenderShela = 398
+  WoodenPurpleHappy = true
+  DeliberateGoldYetty = true
+  BlindPlumEsma = false
+}

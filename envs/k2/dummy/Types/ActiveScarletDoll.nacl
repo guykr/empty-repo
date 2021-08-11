@@ -1,0 +1,29 @@
+type dummy.ActiveScarletDoll {
+  annotations {
+    json MadBlushRoda {
+    }
+    number FemaleAquaTanitansy {
+    }
+    number StandardYellowGelya {
+    }
+    boolean RevolutionaryFuchsiaBrana {
+    }
+    boolean HardTomatoJoly {
+    }
+  }
+  string RelievedTanVioletta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealPeachClemmie {
+    _hidden_value = true
+  }
+  serviceid FavouriteMaroonMoria {
+    _hidden_value = true
+  }
+  MadBlushRoda = "What creature is smarter than a talking parrot? A spelling bee."
+  FemaleAquaTanitansy = 188
+  StandardYellowGelya = 167
+  RevolutionaryFuchsiaBrana = false
+  HardTomatoJoly = true
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.KeyMaroonBunny is string {
+  annotations {
+    number RussianChocolateVirginia {
+    }
+    boolean NovelGoldBettine {
+    }
+    json PersistentHarlequinLana {
+    }
+    boolean NovelOliveWillamina {
+    }
+    string CurrentPinkVina {
+    }
+    serviceid PracticalIndigoDanna {
+    }
+    serviceid CruelBrownJada {
+    }
+    string PatientAmaranthSydney {
+    }
+    serviceid MarxistPeachJolie {
+    }
+    string BoredTealDemetra {
+    }
+    boolean ShallowPurpleKatrinka {
+    }
+    number DelightfulRoseLeonore {
+    }
+    string OutdoorJadeAnabelle {
+    }
+    serviceid OccasionalLavenderKonstanze {
+    }
+    dummy.DEFAULT RidiculousJadeMadelin {
+    }
+    number FederalTealHarriott {
+    }
+  }
+  RussianChocolateVirginia = 635
+  NovelGoldBettine = false
+  PersistentHarlequinLana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NovelOliveWillamina = true
+  CurrentPinkVina = "Slept like a log last night  woke up in the fireplace."
+  PracticalIndigoDanna = "Why did the kid cross the playground? To get to the other slide."
+  CruelBrownJada = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PatientAmaranthSydney = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MarxistPeachJolie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BoredTealDemetra = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ShallowPurpleKatrinka = false
+  DelightfulRoseLeonore = 396
+  OutdoorJadeAnabelle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OccasionalLavenderKonstanze = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RidiculousJadeMadelin = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  FederalTealHarriott = 921
+}

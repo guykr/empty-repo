@@ -1,0 +1,26 @@
+type dummy.EfficientPeachJehanna {
+  annotations {
+    string RelievedBeigeCarita {
+    }
+    number DetailedScarletCristie {
+    }
+    number BewilderedChocolateSallyanne {
+    }
+    string VastHarlequinSaree {
+    }
+    number MultipleMoccasinPrissie {
+    }
+    number TiredGoldDianne {
+    }
+  }
+  json FiscalAquamarineAna {
+    _hidden_value = true
+  }
+  RelievedBeigeCarita = "Why was it called the dark ages? Because of all the knights. "
+  DetailedScarletCristie = 576
+  BewilderedChocolateSallyanne = 895
+  VastHarlequinSaree = "Why didnt the skeleton cross the road? Because he had no guts."
+  MultipleMoccasinPrissie = 651
+  TiredGoldDianne = 881
+  _hidden_value = true
+}

@@ -1,0 +1,23 @@
+type dummy.UnfortunateCoffeeBethena {
+  annotations {
+    string UnhappyFuchsiaMelisande {
+    }
+    json AnxiousPinkOdetta {
+    }
+    boolean MagicLavenderBrita {
+    }
+    string StiffSilverLaura {
+    }
+    serviceid GoverningTanCordy {
+    }
+  }
+  json IndianAmberKimberly {
+    _hidden_value = true
+  }
+  UnhappyFuchsiaMelisande = "What creature is smarter than a talking parrot? A spelling bee."
+  AnxiousPinkOdetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MagicLavenderBrita = false
+  StiffSilverLaura = "Why was it called the dark ages? Because of all the knights. "
+  GoverningTanCordy = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

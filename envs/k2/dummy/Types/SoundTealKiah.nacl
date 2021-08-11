@@ -1,0 +1,52 @@
+type dummy.SoundTealKiah {
+  annotations {
+    number ConsciousPinkCelinda {
+    }
+    serviceid ScaryMagentaShina {
+    }
+    string ExternalAmethystDarrelle {
+    }
+    dummy.JewishCoralJannel UnsightlyAmethystPhelia {
+    }
+    serviceid WoodenWhiteHollie {
+    }
+    dummy.DEFAULT NaturalAmberMartguerita {
+    }
+  }
+  number TremendousSapphireJobi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpecificFuchsiaRoselin {
+    _hidden_value = true
+  }
+  serviceid ExperimentalCopperJeane {
+    _hidden_value = true
+  }
+  number TallCrimsonLoree {
+    _hidden_value = true
+  }
+  dummy.SlimyOrangeVickie CivicMagentaCorey {
+    _hidden_value = true
+  }
+  serviceid CuddlyIvoryKate {
+    _hidden_value = true
+  }
+  json AppropriateSalmonStephine {
+    _hidden_value = true
+  }
+  boolean FinalAmethystAnnadiana {
+    _hidden_value = true
+  }
+  json AggressiveWhiteDorri {
+    _hidden_value = true
+  }
+  ConsciousPinkCelinda = 224
+  ScaryMagentaShina = "What do you call two barracuda fish?  A Pairacuda!"
+  ExternalAmethystDarrelle = "Slept like a log last night  woke up in the fireplace."
+  UnsightlyAmethystPhelia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WoodenWhiteHollie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NaturalAmberMartguerita = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+}

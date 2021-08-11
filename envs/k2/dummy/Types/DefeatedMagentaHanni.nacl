@@ -1,0 +1,38 @@
+type dummy.DefeatedMagentaHanni {
+  annotations {
+    json FrightenedMoccasinNina {
+    }
+    string ScientificGoldNovelia {
+    }
+    serviceid DepressedMagentaZoe {
+    }
+    serviceid IndependentIvoryJoscelin {
+    }
+  }
+  string InterestedOliveHetty {
+    _hidden_value = true
+  }
+  boolean BeautifulCrimsonCaresa {
+    _hidden_value = true
+  }
+  "List<serviceid>" ProfitableScarletBlake {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryBlackCorinna {
+    _hidden_value = true
+  }
+  json BewilderedSalmonKonstanze {
+    _hidden_value = true
+  }
+  boolean ConfidentAzureVonnie {
+    _hidden_value = true
+  }
+  string WetGreenKristy {
+    _hidden_value = true
+  }
+  FrightenedMoccasinNina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ScientificGoldNovelia = "Whoever invented the knock-knock joke should get a no bell prize."
+  DepressedMagentaZoe = "Slept like a log last night  woke up in the fireplace."
+  IndependentIvoryJoscelin = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

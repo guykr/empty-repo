@@ -1,0 +1,38 @@
+type dummy.NarrowMoccasinEvonne {
+  annotations {
+    dummy.ContemporaryPurpleZabrina HighCyanZenia {
+    }
+    string EagerOrangeWhitney {
+    }
+    serviceid EarlyIndigoMitzi {
+    }
+    json AccurateBeigeConstantina {
+    }
+  }
+  string SweetSilverMarney {
+    _hidden_value = true
+  }
+  string ColourfulAzureBabette {
+    _hidden_value = true
+  }
+  json PoorCoffeeKathleen {
+    _hidden_value = true
+  }
+  serviceid PolishIndigoSonnie {
+    _hidden_value = true
+  }
+  json ViolentApricotBarbra {
+    _hidden_value = true
+  }
+  string HungryWhiteMonah {
+    _hidden_value = true
+  }
+  json LiveFuchsiaAiley {
+    _hidden_value = true
+  }
+  HighCyanZenia = "What do you call two barracuda fish?  A Pairacuda!"
+  EagerOrangeWhitney = "Why is Peter Pan always flying? Because he Neverlands."
+  EarlyIndigoMitzi = "To be Frank, I'd have to change my name."
+  AccurateBeigeConstantina = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

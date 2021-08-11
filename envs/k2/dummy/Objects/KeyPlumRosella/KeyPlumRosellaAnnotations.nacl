@@ -1,0 +1,49 @@
+type dummy.KeyPlumRosella {
+  annotations {
+    string GothicAzurePatti {
+    }
+    string ManagingBlushShanie {
+    }
+    dummy.FunctionalPeachRicky AggregateScarletSada {
+    }
+    number DailyAmberCinderella {
+    }
+    number CatholicOrangeRebecka {
+    }
+    boolean MatureRedMaitilde {
+    }
+    dummy.CooingBeigeAntonietta BoldCyanHarlie {
+    }
+    json ResponsibleBlueCarlye {
+    }
+    dummy.VisualSilverAlysa FranticBeigeGinnie {
+    }
+    number IntegratedMaroonLise {
+    }
+    serviceid FatTomatoBess {
+    }
+    boolean MushyBlueNannette {
+    }
+    json ProductiveJadeDaveta {
+    }
+    string HorribleIndigoGrier {
+    }
+    json TallPurpleFaunie {
+    }
+    number WideAquaCristine {
+    }
+  }
+  GothicAzurePatti = "A steak pun is a rare medium well done."
+  ManagingBlushShanie = "Slept like a log last night  woke up in the fireplace."
+  DailyAmberCinderella = 844
+  CatholicOrangeRebecka = 354
+  MatureRedMaitilde = true
+  ResponsibleBlueCarlye = "Dad Im hungry  Hi hungry Im dad"
+  IntegratedMaroonLise = 566
+  FatTomatoBess = "A steak pun is a rare medium well done."
+  MushyBlueNannette = true
+  ProductiveJadeDaveta = "Why was it called the dark ages? Because of all the knights. "
+  HorribleIndigoGrier = "Whoever invented the knock-knock joke should get a no bell prize."
+  TallPurpleFaunie = "Why was it called the dark ages? Because of all the knights. "
+  WideAquaCristine = 695
+}

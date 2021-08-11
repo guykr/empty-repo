@@ -1,0 +1,35 @@
+type dummy.AgriculturalAmberAdela {
+  annotations {
+    boolean LargePurpleCarolin {
+    }
+    number LongCyanSibel {
+    }
+    json EvilSapphireBritta {
+    }
+    number PhilosophicalBeigeTallou {
+    }
+    serviceid EthicalYellowJeni {
+    }
+  }
+  dummy.DEFAULT AncientSilverRaquela {
+    _hidden_value = true
+  }
+  serviceid StiffPlumBethanne {
+    _hidden_value = true
+  }
+  string BeautifulCrimsonVere {
+    _hidden_value = true
+  }
+  boolean SubstantialCrimsonArlette {
+    _hidden_value = true
+  }
+  number ModernYellowJeannine {
+    _hidden_value = true
+  }
+  LargePurpleCarolin = true
+  LongCyanSibel = 342
+  EvilSapphireBritta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PhilosophicalBeigeTallou = 259
+  EthicalYellowJeni = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

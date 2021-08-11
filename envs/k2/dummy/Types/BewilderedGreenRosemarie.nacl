@@ -1,0 +1,16 @@
+type dummy.BewilderedGreenRosemarie is string {
+  annotations {
+    serviceid HighBlushMoyna {
+    }
+    string ClearPeachUla {
+    }
+    number ControlledPeachKathye {
+    }
+    number LeadingIvoryGlory {
+    }
+  }
+  HighBlushMoyna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ClearPeachUla = "Did you know that protons have mass? I didn't even know they were catholic."
+  ControlledPeachKathye = 186
+  LeadingIvoryGlory = 323
+}

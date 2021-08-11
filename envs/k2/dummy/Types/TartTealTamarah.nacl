@@ -1,0 +1,74 @@
+type dummy.TartTealTamarah {
+  annotations {
+    boolean DeterminedYellowKellsie {
+    }
+    boolean TastyRedDaisi {
+    }
+    number SuperSapphireJuliette {
+    }
+    serviceid ActualHarlequinJaneen {
+    }
+  }
+  string LocalYellowAnabella {
+    _hidden_value = true
+  }
+  string ConstantChocolateSosanna {
+    _hidden_value = true
+  }
+  boolean BetterIndigoAsia {
+    _hidden_value = true
+  }
+  string ExcessiveAmethystBev {
+    _hidden_value = true
+  }
+  number LinearMagentaKaylil {
+    _hidden_value = true
+  }
+  number AssistantPurpleDanit {
+    _hidden_value = true
+  }
+  boolean KeyOliveAtlanta {
+    _hidden_value = true
+  }
+  json LooseAmethystMargery {
+    _hidden_value = true
+  }
+  string WearyIvoryKarlee {
+    _hidden_value = true
+  }
+  string SharpSalmonEaster {
+    _hidden_value = true
+  }
+  number DevelopedBlueSheelah {
+    _hidden_value = true
+  }
+  serviceid CoolAmethystCathie {
+    _hidden_value = true
+  }
+  boolean ObligedFuchsiaMarjie {
+    _hidden_value = true
+  }
+  boolean JewishSalmonEricha {
+    _hidden_value = true
+  }
+  json EarlyBlushJilly {
+    _hidden_value = true
+  }
+  json SuitableJadeMonika {
+    _hidden_value = true
+  }
+  json VoluntarySapphireDaryl {
+    _hidden_value = true
+  }
+  boolean MechanicalOliveRebeka {
+    _hidden_value = true
+  }
+  boolean StableBeigeFae {
+    _hidden_value = true
+  }
+  DeterminedYellowKellsie = false
+  TastyRedDaisi = false
+  SuperSapphireJuliette = 707
+  ActualHarlequinJaneen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

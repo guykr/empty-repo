@@ -1,0 +1,60 @@
+type dummy.IndividualVioletValentia {
+  annotations {
+    string StormyHarlequinJanela {
+    }
+    string ThoughtfulLimeMaureen {
+    }
+    json PowerfulGoldThalia {
+    }
+    serviceid FlyingMagentaBrianna {
+    }
+    serviceid ContemporaryCopperRebeca {
+    }
+    boolean MagnificentAmberZuzana {
+    }
+  }
+  boolean RealLimeAggi {
+    _hidden_value = true
+  }
+  string FrequentSilverPerle {
+    _hidden_value = true
+  }
+  number ShockedRoseErin {
+    _hidden_value = true
+  }
+  serviceid PlainAquamarineSeline {
+    _hidden_value = true
+  }
+  serviceid ExcellentCyanSamaria {
+    _hidden_value = true
+  }
+  json DistinctivePeachLudovika {
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie MathematicalAmberLorette {
+    TastelessYellowTheodora = "Did you know that protons have mass? I didn't even know they were catholic."
+    UnableCrimsonSydel = false
+    DistinguishedBeigeBonni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AfraidLavenderAbagail = 719
+    CarefulRoseMichell = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SpanishIvoryCordey = "I'll tell you what often gets over looked... garden fences."
+    SmoothAmberKatharyn = true
+    CentralTomatoBobina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AsianCoralRosamond = "Why did the tomato blush? Because it saw the salad dressing."
+    WoodenGrayKaitlin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  number ShaggyAzureEmilia {
+    _hidden_value = true
+  }
+  number RealisticScarletNicola {
+    _hidden_value = true
+  }
+  StormyHarlequinJanela = "How come the stadium got hot after the game? Because all of the fans left."
+  ThoughtfulLimeMaureen = "I'll tell you what often gets over looked... garden fences."
+  PowerfulGoldThalia = "A steak pun is a rare medium well done."
+  FlyingMagentaBrianna = "Slept like a log last night  woke up in the fireplace."
+  ContemporaryCopperRebeca = "Did you know that protons have mass? I didn't even know they were catholic."
+  MagnificentAmberZuzana = true
+  _hidden_value = true
+}

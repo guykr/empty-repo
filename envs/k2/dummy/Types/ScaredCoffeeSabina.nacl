@@ -1,0 +1,20 @@
+type dummy.ScaredCoffeeSabina {
+  annotations {
+    serviceid GradualVioletDotti {
+    }
+    serviceid ConcernedSilverTrix {
+    }
+    boolean NavalMaroonEsmaria {
+    }
+    serviceid PrimitiveLavenderFaythe {
+    }
+  }
+  boolean MagneticSapphireAdelaida {
+    _hidden_value = true
+  }
+  GradualVioletDotti = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ConcernedSilverTrix = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NavalMaroonEsmaria = true
+  PrimitiveLavenderFaythe = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type dummy.GermanPurpleGuglielma {
+  annotations {
+    dummy.ExclusiveEmeraldCorrine MarriedEmeraldAileen {
+    }
+    dummy.DEFAULT BeneficialVioletIsa {
+    }
+    json StrangeJadeViolette {
+    }
+    dummy.EquivalentJadeCaria PersistentBrownClaude {
+    }
+    boolean FriendlyAmethystDeeann {
+    }
+    string RunningCrimsonAlix {
+    }
+  }
+  number IntermediateCrimsonHedwig {
+    _hidden_value = true
+  }
+  json BoldHarlequinAnissa {
+    _hidden_value = true
+  }
+  string RareMaroonPearle {
+    _hidden_value = true
+  }
+  json AwfulTurquoiseMaud {
+    _hidden_value = true
+  }
+  MarriedEmeraldAileen = 408
+  BeneficialVioletIsa = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  StrangeJadeViolette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PersistentBrownClaude = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FriendlyAmethystDeeann = false
+  RunningCrimsonAlix = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

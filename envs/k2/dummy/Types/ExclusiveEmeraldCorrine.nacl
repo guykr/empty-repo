@@ -1,0 +1,16 @@
+type dummy.ExclusiveEmeraldCorrine is number {
+  annotations {
+    boolean ContentAzureLindsay {
+    }
+    json FellowVioletSapphire {
+    }
+    serviceid LittleCrimsonRosina {
+    }
+    boolean DeafeningCyanCassandry {
+    }
+  }
+  ContentAzureLindsay = true
+  FellowVioletSapphire = "Why didnt the skeleton cross the road? Because he had no guts."
+  LittleCrimsonRosina = "Im only familiar with 25 letters in the English language. I dont know why."
+  DeafeningCyanCassandry = true
+}

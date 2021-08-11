@@ -1,0 +1,56 @@
+type dummy.UltimateSapphirePetronia {
+  annotations {
+    json EverydayTomatoNaomi {
+    }
+    string AggressiveBlackYvette {
+    }
+    json AbundantRedOralle {
+    }
+    string SuccessfulJadeLu {
+    }
+    boolean ClearTurquoiseReeba {
+    }
+  }
+  boolean PricklyCoffeeJeniffer {
+    _hidden_value = true
+  }
+  number FinancialTanSibelle {
+    _hidden_value = true
+  }
+  string BrokenTomatoBelinda {
+    _hidden_value = true
+  }
+  serviceid RareSilverJenine {
+    _hidden_value = true
+  }
+  string PleasedCoffeeUna {
+    _hidden_value = true
+  }
+  string IllAmaranthMarci {
+    _hidden_value = true
+  }
+  boolean OutstandingWhiteKym {
+    _hidden_value = true
+  }
+  serviceid BlackCrimsonJori {
+    _hidden_value = true
+  }
+  dummy.SlimyOrangeVickie DistantBeigeAllyce {
+    _hidden_value = true
+  }
+  serviceid SatisfactoryHarlequinWalliw {
+    _hidden_value = true
+  }
+  number CruelSapphireMelisa {
+    _hidden_value = true
+  }
+  json IntactRoseArabele {
+    _hidden_value = true
+  }
+  EverydayTomatoNaomi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AggressiveBlackYvette = "Why did the kid cross the playground? To get to the other slide."
+  AbundantRedOralle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SuccessfulJadeLu = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ClearTurquoiseReeba = false
+  _hidden_value = true
+}

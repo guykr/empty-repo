@@ -1,0 +1,68 @@
+type dummy.NuclearRoseAddie {
+  annotations {
+    number GenerousTomatoBellanca {
+    }
+    number LesserYellowTheodora {
+    }
+    serviceid BritishGreenHaley {
+    }
+    string FilthyMagentaTerra {
+    }
+    string GothicWhiteCallie {
+    }
+  }
+  json FlutteringPinkKass {
+    _hidden_value = true
+  }
+  number SympatheticBlushBernete {
+    _hidden_value = true
+  }
+  number CertainCrimsonCindelyn {
+    _hidden_value = true
+  }
+  number AccessibleScarletAlexi {
+    _hidden_value = true
+  }
+  string BraveTanKissee {
+    _hidden_value = true
+  }
+  number AnnualBeigeUta {
+    _hidden_value = true
+  }
+  boolean SurvivingEmeraldGertie {
+    _hidden_value = true
+  }
+  string SwissPlumLavina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightMagentaMillisent {
+    _hidden_value = true
+  }
+  number ConsistentSapphireJulianna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BreezyBlushOrtensia {
+    _hidden_value = true
+  }
+  string RandomApricotAmity {
+    _hidden_value = true
+  }
+  serviceid FunBeigeGwenette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DustyOrangeNeilla {
+    _hidden_value = true
+  }
+  serviceid DullOliveRivy {
+    _hidden_value = true
+  }
+  json AfraidSalmonGarnette {
+    _hidden_value = true
+  }
+  GenerousTomatoBellanca = 680
+  LesserYellowTheodora = 629
+  BritishGreenHaley = "Dad Im hungry  Hi hungry Im dad"
+  FilthyMagentaTerra = "What creature is smarter than a talking parrot? A spelling bee."
+  GothicWhiteCallie = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

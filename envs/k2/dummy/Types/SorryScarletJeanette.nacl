@@ -1,0 +1,40 @@
+type dummy.SorryScarletJeanette {
+  annotations {
+    dummy.DEFAULT BrightRedFanny {
+    }
+    serviceid FreshTomatoCandi {
+    }
+    json ComplexVioletGilemette {
+    }
+    boolean RelievedCoralRozina {
+    }
+    json UptightCoralLeonore {
+    }
+    serviceid UnhappyBlushSapphire {
+    }
+  }
+  boolean CalmOliveJorie {
+    _hidden_value = true
+  }
+  number LinearChocolateAshli {
+    _hidden_value = true
+  }
+  serviceid BadSilverWendye {
+    _hidden_value = true
+  }
+  json ProtestantOrangeFederica {
+    _hidden_value = true
+  }
+  number SpecifiedMaroonDael {
+    _hidden_value = true
+  }
+  BrightRedFanny = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  FreshTomatoCandi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ComplexVioletGilemette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RelievedCoralRozina = true
+  UptightCoralLeonore = "Why did the tomato blush? Because it saw the salad dressing."
+  UnhappyBlushSapphire = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

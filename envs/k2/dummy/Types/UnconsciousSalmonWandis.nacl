@@ -1,0 +1,35 @@
+type dummy.UnconsciousSalmonWandis {
+  annotations {
+    json LengthyCopperFrancene {
+    }
+    serviceid SovietSilverAnnadiane {
+    }
+    boolean RespectableBlackRozele {
+    }
+    number PuzzledAmaranthEdyth {
+    }
+  }
+  number HiddenBrownLuella {
+    _hidden_value = true
+  }
+  json PoisedGoldTracie {
+    _hidden_value = true
+  }
+  number WetLimeSybilla {
+    _hidden_value = true
+  }
+  json RareLavenderStacie {
+    _hidden_value = true
+  }
+  number ExplicitTurquoiseGretna {
+    _hidden_value = true
+  }
+  boolean GiganticOrangeSioux {
+    _hidden_value = true
+  }
+  LengthyCopperFrancene = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SovietSilverAnnadiane = "Im only familiar with 25 letters in the English language. I dont know why."
+  RespectableBlackRozele = false
+  PuzzledAmaranthEdyth = 150
+  _hidden_value = true
+}

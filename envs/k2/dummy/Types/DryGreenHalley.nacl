@@ -1,0 +1,56 @@
+type dummy.DryGreenHalley {
+  annotations {
+    boolean ContinuedBlushElie {
+    }
+    serviceid SurprisingGrayAmanda {
+    }
+    json AcceptableApricotFania {
+    }
+    json AwkwardOliveArdelis {
+    }
+    string CrowdedSalmonCelisse {
+    }
+    serviceid SickBeigeHoney {
+    }
+    number LuckyCopperBrigit {
+    }
+  }
+  json CleanHarlequinAddie {
+    _hidden_value = true
+  }
+  string FatalCopperJaimie {
+    _hidden_value = true
+  }
+  serviceid HotAmberIvy {
+    _hidden_value = true
+  }
+  json RelatedAmberJoli {
+    _hidden_value = true
+  }
+  string InterestingYellowCele {
+    _hidden_value = true
+  }
+  string ValuableAzureSuzie {
+    _hidden_value = true
+  }
+  json FlatMagentaKay {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NuttyMoccasinMame {
+    _hidden_value = true
+  }
+  string EvilVioletNickie {
+    _hidden_value = true
+  }
+  boolean AlliedApricotEileen {
+    _hidden_value = true
+  }
+  ContinuedBlushElie = true
+  SurprisingGrayAmanda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AcceptableApricotFania = "What creature is smarter than a talking parrot? A spelling bee."
+  AwkwardOliveArdelis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CrowdedSalmonCelisse = "I'll tell you what often gets over looked... garden fences."
+  SickBeigeHoney = "How come the stadium got hot after the game? Because all of the fans left."
+  LuckyCopperBrigit = 93
+  _hidden_value = true
+}

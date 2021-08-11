@@ -1,0 +1,52 @@
+type dummy.ConcernedGoldLizette {
+  annotations {
+    number OccasionalSapphireJanna {
+    }
+    dummy.DEFAULT FilthyCyanJanenna {
+    }
+    string TotalIvoryClarice {
+    }
+    serviceid FrequentBlueLurlene {
+    }
+    number DirtyAquamarineLeah {
+    }
+    number FoolishAmberTawnya {
+    }
+    serviceid OrganisationalOrangeDredi {
+    }
+    dummy.DEFAULT WillingCrimsonEttie {
+    }
+  }
+  dummy.DifferentLimeChristen CausalFuchsiaSonnie {
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 476
+    GrievingLavenderTera = 80
+    PatientApricotMidge = 427
+    CertainScarletClarine = "What do you call two barracuda fish?  A Pairacuda!"
+    AccurateYellowElfrida = true
+    SlowCrimsonIvett = true
+    RigidBrownAllene = "Why didnt the skeleton cross the road? Because he had no guts."
+    NegativeScarletWilly = "Why was it called the dark ages? Because of all the knights. "
+    PossibleAquaRanda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  serviceid OutstandingCoffeeYvonne {
+    _hidden_value = true
+  }
+  number DirtyLimeBernete {
+    _hidden_value = true
+  }
+  OccasionalSapphireJanna = 363
+  FilthyCyanJanenna = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  TotalIvoryClarice = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FrequentBlueLurlene = "Dad Im hungry  Hi hungry Im dad"
+  DirtyAquamarineLeah = 300
+  FoolishAmberTawnya = 233
+  OrganisationalOrangeDredi = "Did you know that protons have mass? I didn't even know they were catholic."
+  WillingCrimsonEttie = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  _hidden_value = true
+}

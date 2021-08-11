@@ -1,0 +1,55 @@
+type dummy.DifficultBlackSabina {
+  annotations {
+    number NotableCopperElsinore {
+    }
+    serviceid RetiredHarlequinErma {
+    }
+    boolean DearOliveJaclin {
+    }
+    serviceid WelshFuchsiaArlene {
+    }
+  }
+  serviceid ChronicHarlequinMarthena {
+    _hidden_value = true
+  }
+  dummy.FilthyLimeFaye TechnologicalTealMaire {
+    HistoricalTurquoiseCandie = "Im only familiar with 25 letters in the English language. I dont know why."
+    BlueBlueDarleen = "Did you know that protons have mass? I didn't even know they were catholic."
+    DomesticIvoryVanny = 785
+    SupremeEmeraldTraci = "I'll tell you what often gets over looked... garden fences."
+    RomanticAmberYalonda = false
+    _hidden_value = true
+  }
+  serviceid DamagedCoralCorabel {
+    _hidden_value = true
+  }
+  serviceid PrettyGoldLurlene {
+    _hidden_value = true
+  }
+  json ArchitecturalWhiteWallie {
+    _hidden_value = true
+  }
+  number AdjacentChocolateShaylyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbundantRedNeda {
+    _hidden_value = true
+  }
+  boolean SheerAmaranthAnnemarie {
+    _hidden_value = true
+  }
+  json ClosedSilverAngeline {
+    _hidden_value = true
+  }
+  "List<string>" ExcitedCopperLotty {
+    _hidden_value = true
+  }
+  number TropicalMaroonKerianne {
+    _hidden_value = true
+  }
+  NotableCopperElsinore = 611
+  RetiredHarlequinErma = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DearOliveJaclin = true
+  WelshFuchsiaArlene = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

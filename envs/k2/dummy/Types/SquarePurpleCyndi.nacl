@@ -1,0 +1,34 @@
+type dummy.SquarePurpleCyndi {
+  annotations {
+    json UnconsciousBrownMarilin {
+    }
+    json GeneticAquaZarla {
+    }
+    dummy.DEFAULT AbleChocolateVyky {
+    }
+    string BrightSalmonChristal {
+    }
+    string ConfusedSalmonKatti {
+    }
+    json QuickCyanGabi {
+    }
+    number AloneMaroonJacqueline {
+    }
+  }
+  number ClassicVioletDanette {
+    _hidden_value = true
+  }
+  string LimitedJadeOllie {
+    _hidden_value = true
+  }
+  UnconsciousBrownMarilin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GeneticAquaZarla = "Why was it called the dark ages? Because of all the knights. "
+  AbleChocolateVyky = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  BrightSalmonChristal = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConfusedSalmonKatti = "Why didnt the skeleton cross the road? Because he had no guts."
+  QuickCyanGabi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AloneMaroonJacqueline = 897
+  _hidden_value = true
+}

@@ -1,0 +1,59 @@
+type dummy.CapitalistChocolateJohanna {
+  annotations {
+    string ConstitutionalAzureKayle {
+    }
+    string UsedFuchsiaMarge {
+    }
+    serviceid OppositeHarlequinGabey {
+    }
+    string ElderlyAquaCorenda {
+    }
+    number MagnificentRoseLulu {
+    }
+    string ProgressiveIvoryNovelia {
+    }
+  }
+  number GoodRoseBenoite {
+    _hidden_value = true
+  }
+  boolean HungryTurquoiseAurie {
+    _hidden_value = true
+  }
+  string GayChocolateBrittne {
+    _hidden_value = true
+  }
+  string FrozenAmethystChery {
+    _hidden_value = true
+  }
+  serviceid FancyChocolateRhiamon {
+    _hidden_value = true
+  }
+  boolean HelplessLavenderTamiko {
+    _hidden_value = true
+  }
+  serviceid FrightenedPurpleLynelle {
+    _hidden_value = true
+  }
+  boolean UglyEmeraldLolita {
+    _hidden_value = true
+  }
+  serviceid ExceptionalHarlequinPhebe {
+    _hidden_value = true
+  }
+  number BlushingAmberJerry {
+    _hidden_value = true
+  }
+  number RegularJadeAudi {
+    _hidden_value = true
+  }
+  json SmilingOrangeKarmen {
+    _hidden_value = true
+  }
+  ConstitutionalAzureKayle = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UsedFuchsiaMarge = "To be Frank, I'd have to change my name."
+  OppositeHarlequinGabey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ElderlyAquaCorenda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MagnificentRoseLulu = 653
+  ProgressiveIvoryNovelia = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

@@ -1,0 +1,65 @@
+type dummy.ThickRedJaney {
+  annotations {
+    boolean DistantTurquoiseRey {
+    }
+    json EconomicRoseWylma {
+    }
+    serviceid QuietVioletMargalit {
+    }
+    json PurpleIvoryClair {
+    }
+    json WesternPinkNerti {
+    }
+    dummy.BizarreScarletKarrie GreenGreenNerti {
+    }
+  }
+  dummy.DEFAULT SlowJadeAlicea {
+    _hidden_value = true
+  }
+  "List<boolean>" DeafeningGrayZahara {
+    _hidden_value = true
+  }
+  json AlternativeTurquoiseHarri {
+    _hidden_value = true
+  }
+  string CommonLavenderMathilde {
+    _hidden_value = true
+  }
+  serviceid DryBrownBlondelle {
+    _hidden_value = true
+  }
+  number AgreeableAquaNancey {
+    _hidden_value = true
+  }
+  number MonetaryBlackLeta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RemoteMoccasinPavla {
+    _hidden_value = true
+  }
+  number FullIvoryDacy {
+    _hidden_value = true
+  }
+  string ChemicalBrownFelecia {
+    _hidden_value = true
+  }
+  boolean ObviousSalmonIda {
+    _hidden_value = true
+  }
+  json RareGreenEudora {
+    _hidden_value = true
+  }
+  number MadBronzeOliy {
+    _hidden_value = true
+  }
+  number HomelyTealVivienne {
+    _hidden_value = true
+  }
+  DistantTurquoiseRey = false
+  EconomicRoseWylma = "Why did the kid cross the playground? To get to the other slide."
+  QuietVioletMargalit = "Did you know that protons have mass? I didn't even know they were catholic."
+  PurpleIvoryClair = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WesternPinkNerti = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GreenGreenNerti = 155
+  _hidden_value = true
+}

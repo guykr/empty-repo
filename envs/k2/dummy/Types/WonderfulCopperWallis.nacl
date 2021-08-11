@@ -1,0 +1,97 @@
+type dummy.WonderfulCopperWallis {
+  annotations {
+    json InquisitiveBlueJennifer {
+    }
+    boolean GracefulIndigoFilippa {
+    }
+    serviceid OccupationalCyanNonna {
+    }
+    string JointMagentaDoralynn {
+    }
+    dummy.DEFAULT SmartBlushCristal {
+    }
+    serviceid AverageCoffeeJean {
+    }
+  }
+  serviceid RaspyBlackLenore {
+    _hidden_value = true
+  }
+  boolean ProtestantAquaFederica {
+    _hidden_value = true
+  }
+  json ImplicitOliveWendi {
+    _hidden_value = true
+  }
+  boolean SureIndigoShanie {
+    _hidden_value = true
+  }
+  boolean WastefulIvoryKrissy {
+    _hidden_value = true
+  }
+  string InterestedAquaJanice {
+    _hidden_value = true
+  }
+  boolean ProgressiveCyanJolene {
+    _hidden_value = true
+  }
+  number NeighbouringTomatoMarthena {
+    _hidden_value = true
+  }
+  serviceid ScrawnyTealShanta {
+    _hidden_value = true
+  }
+  serviceid NosyTomatoMala {
+    _hidden_value = true
+  }
+  json SuitableHarlequinShari {
+    _hidden_value = true
+  }
+  string ShrillRedBerry {
+    _hidden_value = true
+  }
+  string FancyGreenJacqueline {
+    _hidden_value = true
+  }
+  boolean AcuteYellowAmye {
+    _hidden_value = true
+  }
+  serviceid LuckyScarletKarleen {
+    _hidden_value = true
+  }
+  serviceid HumanBlushDarleen {
+    _hidden_value = true
+  }
+  string ProfitableMaroonStafani {
+    _hidden_value = true
+  }
+  serviceid AdvancedPlumDelora {
+    _hidden_value = true
+  }
+  number WorryingCopperTommi {
+    _hidden_value = true
+  }
+  number ReliableSalmonWileen {
+    _hidden_value = true
+  }
+  json CrudeTealDenys {
+    _hidden_value = true
+  }
+  boolean NeutralPeachIngunna {
+    _hidden_value = true
+  }
+  boolean LivelyPinkAppolonia {
+    _hidden_value = true
+  }
+  "List<boolean>" BreakableAmaranthChelsey {
+    _hidden_value = true
+  }
+  InquisitiveBlueJennifer = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GracefulIndigoFilippa = true
+  OccupationalCyanNonna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  JointMagentaDoralynn = "Why was it called the dark ages? Because of all the knights. "
+  SmartBlushCristal = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  AverageCoffeeJean = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type dummy.JewishCoralJannel is string {
+  annotations {
+    boolean AlivePeachImogen {
+    }
+    number HollowCopperKaitlynn {
+    }
+    json HappyTanCandis {
+    }
+    json CoolGreenRona {
+    }
+    string BottomBlushWinonah {
+    }
+    serviceid RelativeTealLeontine {
+    }
+    string RepresentativeScarletLorenza {
+    }
+    number DesperateAquamarineLisabeth {
+    }
+    string UndergroundBlackBenni {
+    }
+    number FunnyRedTimi {
+    }
+    serviceid GlobalCopperFanechka {
+    }
+  }
+  AlivePeachImogen = true
+  HollowCopperKaitlynn = 708
+  HappyTanCandis = "Why did the tomato blush? Because it saw the salad dressing."
+  CoolGreenRona = "Whoever invented the knock-knock joke should get a no bell prize."
+  BottomBlushWinonah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RelativeTealLeontine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RepresentativeScarletLorenza = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DesperateAquamarineLisabeth = 129
+  UndergroundBlackBenni = "Why didnt the skeleton cross the road? Because he had no guts."
+  FunnyRedTimi = 451
+  GlobalCopperFanechka = "Why didnt the skeleton cross the road? Because he had no guts."
+}

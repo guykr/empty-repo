@@ -1,0 +1,25 @@
+type dummy.BrilliantWhiteTildi {
+  annotations {
+    dummy.DEFAULT FixedWhiteJunina {
+    }
+    serviceid JollyLimeTheodosia {
+    }
+    boolean EqualGrayDaria {
+    }
+    serviceid DampIvoryBabita {
+    }
+    serviceid DrivingTanDarice {
+    }
+  }
+  number NearbyAmberLurlene {
+    _hidden_value = true
+  }
+  FixedWhiteJunina = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  JollyLimeTheodosia = "Slept like a log last night  woke up in the fireplace."
+  EqualGrayDaria = false
+  DampIvoryBabita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DrivingTanDarice = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

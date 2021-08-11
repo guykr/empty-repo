@@ -1,0 +1,32 @@
+type dummy.PotentialGoldGuillema {
+  annotations {
+    number OccasionalSilverNikkie {
+    }
+    boolean WildPinkKristien {
+    }
+    serviceid SuperiorCopperCynde {
+    }
+    string PowerfulTealBlinny {
+    }
+    dummy.KeyMaroonBunny EmbarrassedBeigeJasmina {
+    }
+  }
+  boolean AmericanPlumDonni {
+    _hidden_value = true
+  }
+  json SportingGoldKarlie {
+    _hidden_value = true
+  }
+  serviceid KindOrangeDarcee {
+    _hidden_value = true
+  }
+  boolean ElectricMoccasinHannis {
+    _hidden_value = true
+  }
+  OccasionalSilverNikkie = 289
+  WildPinkKristien = false
+  SuperiorCopperCynde = "Why did the tomato blush? Because it saw the salad dressing."
+  PowerfulTealBlinny = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EmbarrassedBeigeJasmina = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

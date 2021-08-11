@@ -1,0 +1,26 @@
+type dummy.ToughCrimsonGabey {
+  annotations {
+    json CorporateRedClementine {
+    }
+    boolean NakedSapphireRona {
+    }
+    number DullJadeCarita {
+    }
+    serviceid MelodicIvoryRandee {
+    }
+    boolean HushedPinkLilith {
+    }
+    number StrangeAquaSabrina {
+    }
+  }
+  serviceid LikelyRoseKelley {
+    _hidden_value = true
+  }
+  CorporateRedClementine = "To be Frank, I'd have to change my name."
+  NakedSapphireRona = false
+  DullJadeCarita = 581
+  MelodicIvoryRandee = "Why didnt the skeleton cross the road? Because he had no guts."
+  HushedPinkLilith = true
+  StrangeAquaSabrina = 148
+  _hidden_value = true
+}

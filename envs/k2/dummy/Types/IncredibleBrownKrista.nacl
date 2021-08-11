@@ -1,0 +1,25 @@
+type dummy.IncredibleBrownKrista {
+  annotations {
+    number SmoggyFuchsiaJeniece {
+    }
+    string DynamicCopperEustacia {
+    }
+    boolean ImaginativeCrimsonLethia {
+    }
+    boolean PreviousCrimsonMufinella {
+    }
+    dummy.DEFAULT InnocentAmaranthCharlotta {
+    }
+  }
+  string CrazyMoccasinKrystle {
+    _hidden_value = true
+  }
+  SmoggyFuchsiaJeniece = 229
+  DynamicCopperEustacia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ImaginativeCrimsonLethia = true
+  PreviousCrimsonMufinella = false
+  InnocentAmaranthCharlotta = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+}

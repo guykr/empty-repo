@@ -1,0 +1,61 @@
+type dummy.TerribleCyanAveril {
+  annotations {
+    number ScottishChocolateNoellyn {
+    }
+    json SheerFuchsiaElsbeth {
+    }
+    string AfraidLavenderJoana {
+    }
+    string GreyAquaCherin {
+    }
+    dummy.DEFAULT CommonBlackValerie {
+    }
+    json SteadyApricotCristina {
+    }
+  }
+  json SensitiveMoccasinDoralynn {
+    _hidden_value = true
+  }
+  number JuicyTealAriella {
+    _hidden_value = true
+  }
+  json InevitableChocolateJohanna {
+    _hidden_value = true
+  }
+  boolean FamousChocolateBerenice {
+    _hidden_value = true
+  }
+  json WideTomatoBeverie {
+    _hidden_value = true
+  }
+  string IndianBlushRosana {
+    _hidden_value = true
+  }
+  boolean ObligedCyanGermaine {
+    _hidden_value = true
+  }
+  number MoralPeachLona {
+    _hidden_value = true
+  }
+  json AfraidAmaranthUlrica {
+    _hidden_value = true
+  }
+  json DryMaroonCristi {
+    _hidden_value = true
+  }
+  number AllegedCyanConstantina {
+    _hidden_value = true
+  }
+  json SuperbMagentaMichell {
+    _hidden_value = true
+  }
+  ScottishChocolateNoellyn = 919
+  SheerFuchsiaElsbeth = "Why was it called the dark ages? Because of all the knights. "
+  AfraidLavenderJoana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GreyAquaCherin = "A steak pun is a rare medium well done."
+  CommonBlackValerie = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  SteadyApricotCristina = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

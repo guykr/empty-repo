@@ -1,0 +1,26 @@
+type dummy.CivicFuchsiaMonique {
+  annotations {
+    number ContinuedSalmonMariam {
+    }
+    number ClinicalYellowTamara {
+    }
+    boolean ImportantOrangeRuby {
+    }
+    string ComfortableRoseMarlena {
+    }
+    serviceid IntellectualSapphireWanids {
+    }
+    number FineIndigoAnnadiane {
+    }
+  }
+  serviceid EasternGoldClareta {
+    _hidden_value = true
+  }
+  ContinuedSalmonMariam = 774
+  ClinicalYellowTamara = 304
+  ImportantOrangeRuby = false
+  ComfortableRoseMarlena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  IntellectualSapphireWanids = "Dad Im hungry  Hi hungry Im dad"
+  FineIndigoAnnadiane = 329
+  _hidden_value = true
+}

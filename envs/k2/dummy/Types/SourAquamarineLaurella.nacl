@@ -1,0 +1,47 @@
+type dummy.SourAquamarineLaurella {
+  annotations {
+    string WorthySilverRosalinde {
+    }
+    dummy.VoluntaryBlushSonja ArrogantTanEllissa {
+    }
+    boolean AnxiousCoralRoseanna {
+    }
+    string SelectivePurpleKora {
+    }
+    json ArmedRoseSabina {
+    }
+    string DepressedBronzeSibel {
+    }
+  }
+  json DynamicAmethystVickie {
+    _hidden_value = true
+  }
+  number BrownTurquoiseBert {
+    _hidden_value = true
+  }
+  number ElectricMaroonStarlin {
+    _hidden_value = true
+  }
+  json MuddySalmonSibley {
+    _hidden_value = true
+  }
+  number SingleIvoryTova {
+    _hidden_value = true
+  }
+  json ProgressiveTealLindi {
+    _hidden_value = true
+  }
+  boolean IndividualFuchsiaCesya {
+    _hidden_value = true
+  }
+  json SeniorGoldHeda {
+    _hidden_value = true
+  }
+  WorthySilverRosalinde = "How come the stadium got hot after the game? Because all of the fans left."
+  ArrogantTanEllissa = false
+  AnxiousCoralRoseanna = false
+  SelectivePurpleKora = "Why was it called the dark ages? Because of all the knights. "
+  ArmedRoseSabina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DepressedBronzeSibel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

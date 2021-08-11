@@ -1,0 +1,72 @@
+type dummy.ThinGrayMasha {
+  annotations {
+    number WorryingBlueMariann {
+    }
+    boolean NuclearBlushAdelaida {
+    }
+    string HandicappedTomatoLaurette {
+    }
+    dummy.DEFAULT UnpleasantAmethystStephana {
+    }
+    number AboveApricotClarissa {
+    }
+    boolean BroadPinkHeddie {
+    }
+  }
+  string SoleRedDidi {
+    _hidden_value = true
+  }
+  number AcceptableBronzeMichele {
+    _hidden_value = true
+  }
+  number LeftOliveBrynne {
+    _hidden_value = true
+  }
+  serviceid ImpossibleGreenHesther {
+    _hidden_value = true
+  }
+  dummy.PrintedGoldLauralee ForthcomingIvoryFlorrie {
+    DrabAmaranthGertruda = "How come the stadium got hot after the game? Because all of the fans left."
+    PassingBeigeMorissa = "How come the stadium got hot after the game? Because all of the fans left."
+    ClumsyTealDrona = "How come the stadium got hot after the game? Because all of the fans left."
+    GoverningPeachValerie = true
+    JustTealGeorge = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AdjacentAquamarineRegan = 812
+    ProgressiveCoffeeZuzana = false
+    PatientScarletAmandi = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  number ReducedEmeraldJemmy {
+    _hidden_value = true
+  }
+  string SkilledOliveDorella {
+    _hidden_value = true
+  }
+  serviceid CrowdedIvoryKrystle {
+    _hidden_value = true
+  }
+  string GradualChocolateFernanda {
+    _hidden_value = true
+  }
+  string ChiefScarletOriana {
+    _hidden_value = true
+  }
+  number BalancedBrownEttie {
+    _hidden_value = true
+  }
+  boolean ElegantRedKrissie {
+    _hidden_value = true
+  }
+  WorryingBlueMariann = 886
+  NuclearBlushAdelaida = true
+  HandicappedTomatoLaurette = "Why didnt the skeleton cross the road? Because he had no guts."
+  UnpleasantAmethystStephana = {
+    legit = '''
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+'''
+  }
+  AboveApricotClarissa = 50
+  BroadPinkHeddie = true
+  _hidden_value = true
+}

@@ -1,0 +1,53 @@
+type dummy.AwkwardMagentaTheda {
+  annotations {
+    json FellowAzureEugine {
+    }
+    json MinisterialEmeraldScarlet {
+    }
+    serviceid DomesticWhiteMeriel {
+    }
+    number TartAquamarineMignonne {
+    }
+  }
+  json SystematicApricotVin {
+    _hidden_value = true
+  }
+  number CheapRoseGwyn {
+    _hidden_value = true
+  }
+  json SacredGrayCassondra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CostlyAmberMarijo {
+    _hidden_value = true
+  }
+  boolean SimpleWhiteBamby {
+    _hidden_value = true
+  }
+  boolean LightMaroonAlecia {
+    _hidden_value = true
+  }
+  boolean ProperAquaElly {
+    _hidden_value = true
+  }
+  string ChiefMaroonKimmi {
+    _hidden_value = true
+  }
+  number CheerfulAquamarineJeannine {
+    _hidden_value = true
+  }
+  number AdvancedGrayDredi {
+    _hidden_value = true
+  }
+  json AnnualAquaMireielle {
+    _hidden_value = true
+  }
+  serviceid UnlikelyAmethystZarah {
+    _hidden_value = true
+  }
+  FellowAzureEugine = "Slept like a log last night  woke up in the fireplace."
+  MinisterialEmeraldScarlet = "Im only familiar with 25 letters in the English language. I dont know why."
+  DomesticWhiteMeriel = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TartAquamarineMignonne = 967
+  _hidden_value = true
+}

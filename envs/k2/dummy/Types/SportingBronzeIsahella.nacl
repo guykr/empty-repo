@@ -1,0 +1,20 @@
+type dummy.SportingBronzeIsahella {
+  annotations {
+    json GoodLavenderAmalita {
+    }
+    boolean RetiredIndigoLotte {
+    }
+    number GrievingAquaTresa {
+    }
+    boolean StickyIndigoFlorenza {
+    }
+  }
+  serviceid FantasticPurpleGeorgina {
+    _hidden_value = true
+  }
+  GoodLavenderAmalita = "What creature is smarter than a talking parrot? A spelling bee."
+  RetiredIndigoLotte = false
+  GrievingAquaTresa = 177
+  StickyIndigoFlorenza = false
+  _hidden_value = true
+}

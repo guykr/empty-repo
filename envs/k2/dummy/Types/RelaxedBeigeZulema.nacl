@@ -1,0 +1,23 @@
+type dummy.RelaxedBeigeZulema {
+  annotations {
+    serviceid FlyingLimeClio {
+    }
+    number GenuineAmberPhilippe {
+    }
+    boolean SplendidMaroonCleopatra {
+    }
+    string NotableSalmonMatelda {
+    }
+    number SlowHarlequinGilbertina {
+    }
+  }
+  serviceid PoorYellowSherry {
+    _hidden_value = true
+  }
+  FlyingLimeClio = "Why didnt the skeleton cross the road? Because he had no guts."
+  GenuineAmberPhilippe = 296
+  SplendidMaroonCleopatra = false
+  NotableSalmonMatelda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SlowHarlequinGilbertina = 111
+  _hidden_value = true
+}

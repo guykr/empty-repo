@@ -1,0 +1,31 @@
+type dummy.FavourableMoccasinUlrikaumeko {
+  annotations {
+    dummy.AppropriateChocolateLadonna HiddenMoccasinElaine {
+    }
+    json CommercialGreenAnnice {
+    }
+    dummy.DEFAULT DeadAmaranthNovelia {
+    }
+  }
+  boolean DarkBronzeBatsheva {
+    _hidden_value = true
+  }
+  serviceid PermanentIndigoEve {
+    _hidden_value = true
+  }
+  json EducationalHarlequinMilicent {
+    _hidden_value = true
+  }
+  boolean PurringJadeNorri {
+    _hidden_value = true
+  }
+  string SelectScarletDyane {
+    _hidden_value = true
+  }
+  HiddenMoccasinElaine = 520
+  CommercialGreenAnnice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DeadAmaranthNovelia = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  _hidden_value = true
+}

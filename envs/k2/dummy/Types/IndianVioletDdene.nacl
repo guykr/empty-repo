@@ -1,0 +1,47 @@
+type dummy.IndianVioletDdene {
+  annotations {
+    json LovelyBlueJanaye {
+    }
+    json SkinnyScarletIvy {
+    }
+    dummy.DeliberateMaroonGabbey AliveGreenJanina {
+    }
+    string HonestGoldTarrah {
+    }
+  }
+  string DemocraticIvoryGalina {
+    _hidden_value = true
+  }
+  boolean InvisibleGreenFayette {
+    _hidden_value = true
+  }
+  serviceid FrailGoldViolante {
+    _hidden_value = true
+  }
+  number CombinedFuchsiaArlana {
+    _hidden_value = true
+  }
+  number BoldIndigoAnnissa {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExpensivePeachElsinore {
+    _hidden_value = true
+  }
+  boolean InsufficientGrayCyndy {
+    _hidden_value = true
+  }
+  serviceid PermanentBlackLoree {
+    _hidden_value = true
+  }
+  string SoftPlumLauralee {
+    _hidden_value = true
+  }
+  number LikePeachNonie {
+    _hidden_value = true
+  }
+  LovelyBlueJanaye = "Im only familiar with 25 letters in the English language. I dont know why."
+  SkinnyScarletIvy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AliveGreenJanina = 787
+  HonestGoldTarrah = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

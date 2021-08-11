@@ -1,0 +1,47 @@
+type dummy.FinancialVioletBeverley {
+  annotations {
+    string ResonantOrangeMalorie {
+    }
+    number VastRedAddie {
+    }
+    json InfluentialTanCollette {
+    }
+    boolean ItchyTurquoiseRea {
+    }
+  }
+  string ModernBrownNoell {
+    _hidden_value = true
+  }
+  boolean FundamentalEmeraldCymbre {
+    _hidden_value = true
+  }
+  json WelcomeCoffeeLanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PunyAzureRosette {
+    _hidden_value = true
+  }
+  string HonIndigoNadean {
+    _hidden_value = true
+  }
+  number DifferentChocolateMaitilde {
+    _hidden_value = true
+  }
+  number SlowPeachLisbeth {
+    _hidden_value = true
+  }
+  boolean ColourfulAzureBenedetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CautiousPinkSorcha {
+    _hidden_value = true
+  }
+  boolean ObnoxiousChocolatePavla {
+    _hidden_value = true
+  }
+  ResonantOrangeMalorie = "Why did the kid cross the playground? To get to the other slide."
+  VastRedAddie = 416
+  InfluentialTanCollette = "Why is Peter Pan always flying? Because he Neverlands."
+  ItchyTurquoiseRea = true
+  _hidden_value = true
+}

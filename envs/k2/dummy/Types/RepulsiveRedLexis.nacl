@@ -1,0 +1,73 @@
+type dummy.RepulsiveRedLexis {
+  annotations {
+    number ControversialBrownVivian {
+    }
+    json DustyBlueMarinna {
+    }
+    dummy.DEFAULT DoubtfulBlueGodiva {
+    }
+    string ExternalAzureFelecia {
+    }
+    boolean OfficialLavenderLuella {
+    }
+    string ExtensiveTealRobinia {
+    }
+  }
+  boolean FaintEmeraldSharai {
+    _hidden_value = true
+  }
+  serviceid OrthodoxGrayChristel {
+    _hidden_value = true
+  }
+  string ImprovedBeigeWilhelmina {
+    _hidden_value = true
+  }
+  serviceid SpatialBlackAlessandra {
+    _hidden_value = true
+  }
+  serviceid TheoreticalMaroonLinda {
+    _hidden_value = true
+  }
+  number DifficultTanIvie {
+    _hidden_value = true
+  }
+  boolean FewGrayShirleen {
+    _hidden_value = true
+  }
+  serviceid FunnySilverSerena {
+    _hidden_value = true
+  }
+  string ColossalBeigeEran {
+    _hidden_value = true
+  }
+  string FrozenAzureAlbertina {
+    _hidden_value = true
+  }
+  json ShortSalmonCharita {
+    _hidden_value = true
+  }
+  json StaticCoralMichell {
+    _hidden_value = true
+  }
+  number EerieApricotGwendolen {
+    _hidden_value = true
+  }
+  string AdjacentLimeNoelani {
+    _hidden_value = true
+  }
+  string ShrillBrownStephie {
+    _hidden_value = true
+  }
+  string EntitledOliveDonielle {
+    _hidden_value = true
+  }
+  ControversialBrownVivian = 237
+  DustyBlueMarinna = "Slept like a log last night  woke up in the fireplace."
+  DoubtfulBlueGodiva = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  ExternalAzureFelecia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OfficialLavenderLuella = true
+  ExtensiveTealRobinia = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

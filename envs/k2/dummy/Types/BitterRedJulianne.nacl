@@ -1,0 +1,38 @@
+type dummy.BitterRedJulianne {
+  annotations {
+    serviceid IntermediateApricotMelissa {
+    }
+    number EmbarrassingAmberTeddi {
+    }
+    string ApplicableGoldMatty {
+    }
+    string BusyMoccasinFidelia {
+    }
+  }
+  json UncertainAmberMarie {
+    _hidden_value = true
+  }
+  json MagentaPlumDelcina {
+    _hidden_value = true
+  }
+  json AlliedOrangeJoann {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LuckyChocolateNaomi {
+    _hidden_value = true
+  }
+  "List<serviceid>" HarshApricotClem {
+    _hidden_value = true
+  }
+  serviceid MobileOliveImogen {
+    _hidden_value = true
+  }
+  json ImperialEmeraldKala {
+    _hidden_value = true
+  }
+  IntermediateApricotMelissa = "What do you call two barracuda fish?  A Pairacuda!"
+  EmbarrassingAmberTeddi = 424
+  ApplicableGoldMatty = "Why did the tomato blush? Because it saw the salad dressing."
+  BusyMoccasinFidelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

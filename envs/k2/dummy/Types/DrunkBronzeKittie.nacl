@@ -1,0 +1,20 @@
+type dummy.DrunkBronzeKittie {
+  annotations {
+    boolean SilentCoffeeJolyn {
+    }
+    json ClumsyAquaEvonne {
+    }
+    serviceid NearYellowTraci {
+    }
+    json SmoothAmberKaleena {
+    }
+  }
+  string MisleadingTanBethena {
+    _hidden_value = true
+  }
+  SilentCoffeeJolyn = true
+  ClumsyAquaEvonne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NearYellowTraci = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SmoothAmberKaleena = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

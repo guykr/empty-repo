@@ -1,0 +1,60 @@
+type dummy.ForthcomingVioletCammi {
+  annotations {
+    string IntegratedOrangeDaile {
+    }
+    boolean ImportantGreenGrazia {
+    }
+    dummy.ElectricalFuchsiaCaitrin PowerfulBlushElka {
+    }
+    number FeministHarlequinSybilla {
+    }
+    boolean LonelyTanFerdinanda {
+    }
+    number CriminalGoldCelestina {
+    }
+    string ObedientBlueAlidia {
+    }
+    number ZanyGreenMaisey {
+    }
+    serviceid CooperativeYellowKati {
+    }
+    boolean PinkRedElmira {
+    }
+    number EnchantingGrayPatience {
+    }
+    number ApparentPinkChristal {
+    }
+    string ElderlyRedSheeree {
+    }
+    json GrotesqueSilverHertha {
+    }
+    dummy.LightAmethystFrank SoftBrownVerena {
+    }
+    string PrivateMaroonAlie {
+    }
+    serviceid DefiantCoralJaynell {
+    }
+    boolean ImaginativeIndigoClareta {
+    }
+    dummy.VoluntaryBlushSonja UgliestGrayMoyna {
+    }
+  }
+  IntegratedOrangeDaile = "Why did the tomato blush? Because it saw the salad dressing."
+  ImportantGreenGrazia = false
+  FeministHarlequinSybilla = 925
+  LonelyTanFerdinanda = true
+  CriminalGoldCelestina = 827
+  ObedientBlueAlidia = "What creature is smarter than a talking parrot? A spelling bee."
+  ZanyGreenMaisey = 478
+  CooperativeYellowKati = "Why was it called the dark ages? Because of all the knights. "
+  PinkRedElmira = true
+  EnchantingGrayPatience = 107
+  ApparentPinkChristal = 765
+  ElderlyRedSheeree = "What do you call two barracuda fish?  A Pairacuda!"
+  GrotesqueSilverHertha = "Slept like a log last night  woke up in the fireplace."
+  SoftBrownVerena = true
+  PrivateMaroonAlie = "Why do birds fly south for the winter? Because it's too far to walk."
+  DefiantCoralJaynell = "A steak pun is a rare medium well done."
+  ImaginativeIndigoClareta = true
+  UgliestGrayMoyna = false
+}

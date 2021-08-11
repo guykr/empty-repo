@@ -1,0 +1,7 @@
+type dummy.PuzzledTanTildi is number {
+  annotations {
+    number OldGoldKaylil {
+    }
+  }
+  OldGoldKaylil = 335
+}

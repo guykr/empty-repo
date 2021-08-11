@@ -1,0 +1,49 @@
+type dummy.AlliedMoccasinEtty {
+  annotations {
+    number UnfairSapphireJesselyn {
+    }
+    dummy.ConstitutionalPlumDaisy MedievalTomatoPhaedra {
+    }
+    number LeadingAquaNeely {
+    }
+    string SteepCrimsonElenore {
+    }
+    serviceid AncientAmaranthSharia {
+    }
+    serviceid SteepBlueMorgen {
+    }
+    string DeadVioletKelcy {
+    }
+    string RealPeachMarsiella {
+    }
+    boolean DynamicBlueNadine {
+    }
+    boolean WhisperingCrimsonHulda {
+    }
+    string SharpAquaCal {
+    }
+    number ReasonableChocolateMatilda {
+    }
+    dummy.EasternMagentaPeggy PreciseOliveAlexandrina {
+    }
+    dummy.LoudOrangeTobi ExcessPlumGarland {
+    }
+    boolean StickyGreenJody {
+    }
+    json CuriousPeachCristie {
+    }
+  }
+  UnfairSapphireJesselyn = 187
+  LeadingAquaNeely = 510
+  SteepCrimsonElenore = "Why is Peter Pan always flying? Because he Neverlands."
+  AncientAmaranthSharia = "A steak pun is a rare medium well done."
+  SteepBlueMorgen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DeadVioletKelcy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RealPeachMarsiella = "Why did the kid cross the playground? To get to the other slide."
+  DynamicBlueNadine = false
+  WhisperingCrimsonHulda = false
+  SharpAquaCal = "Dad Im hungry  Hi hungry Im dad"
+  ReasonableChocolateMatilda = 640
+  StickyGreenJody = false
+  CuriousPeachCristie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

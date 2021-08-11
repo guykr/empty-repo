@@ -1,0 +1,59 @@
+type dummy.OldPurpleCorrianne {
+  annotations {
+    serviceid ScottishMoccasinLaverna {
+    }
+    serviceid DrySalmonMariejeanne {
+    }
+    number ControversialCoffeeBarbette {
+    }
+    string StupidPinkCamala {
+    }
+    json ObligedLavenderAlthea {
+    }
+    dummy.DEFAULT IntelligentBlueLicha {
+    }
+  }
+  boolean LiteraryTurquoiseKatti {
+    _hidden_value = true
+  }
+  string LovelyLimeGoldy {
+    _hidden_value = true
+  }
+  json AwkwardIndigoFarica {
+    _hidden_value = true
+  }
+  dummy.StrikingMoccasinLonnie UgliestGrayMerola {
+    TastelessYellowTheodora = "To be Frank, I'd have to change my name."
+    UnableCrimsonSydel = true
+    DistinguishedBeigeBonni = "Did you know that protons have mass? I didn't even know they were catholic."
+    AfraidLavenderAbagail = 408
+    CarefulRoseMichell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SpanishIvoryCordey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SmoothAmberKatharyn = false
+    CentralTomatoBobina = "Why did the tomato blush? Because it saw the salad dressing."
+    AsianCoralRosamond = "Why did the tomato blush? Because it saw the salad dressing."
+    WoodenGrayKaitlin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  boolean TameAmaranthKarita {
+    _hidden_value = true
+  }
+  string DefiantTomatoJaneen {
+    _hidden_value = true
+  }
+  serviceid LevelApricotGuendolen {
+    _hidden_value = true
+  }
+  boolean AshamedScarletLoreen {
+    _hidden_value = true
+  }
+  ScottishMoccasinLaverna = "A steak pun is a rare medium well done."
+  DrySalmonMariejeanne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ControversialCoffeeBarbette = 311
+  StupidPinkCamala = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ObligedLavenderAlthea = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IntelligentBlueLicha = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

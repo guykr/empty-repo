@@ -1,0 +1,65 @@
+type dummy.MeltedBrownShanna {
+  annotations {
+    dummy.DEFAULT VividAmaranthDeirdre {
+    }
+    number SmartMoccasinBarbette {
+    }
+    json InnocentOliveEvangelina {
+    }
+    dummy.SparklingAmaranthLeone ElegantMaroonMechelle {
+    }
+    boolean WonderfulAmaranthChryste {
+    }
+    json FunnyTanCelle {
+    }
+  }
+  string NorthernBronzeElberta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExperimentalCopperEloise {
+    _hidden_value = true
+  }
+  "List<serviceid>" CriticalMagentaArdyce {
+    _hidden_value = true
+  }
+  number ResponsibleMagentaDarcey {
+    _hidden_value = true
+  }
+  dummy.DifferentLimeChristen LooseIndigoDamaris {
+    IndianOrangeFilippa = false
+    QuietLimeCristen = 16
+    GrievingLavenderTera = 28
+    PatientApricotMidge = 45
+    CertainScarletClarine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AccurateYellowElfrida = true
+    SlowCrimsonIvett = true
+    RigidBrownAllene = "What do you do on a remote island? Try and find the TV island it belongs to."
+    NegativeScarletWilly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PossibleAquaRanda = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  string HiddenBlueJoela {
+    _hidden_value = true
+  }
+  json TallAmberNina {
+    _hidden_value = true
+  }
+  string StandardYellowKeeley {
+    _hidden_value = true
+  }
+  number SuccessfulAquaKissie {
+    _hidden_value = true
+  }
+  string DarkMoccasinJanith {
+    _hidden_value = true
+  }
+  VividAmaranthDeirdre = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  SmartMoccasinBarbette = 306
+  InnocentOliveEvangelina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ElegantMaroonMechelle = true
+  WonderfulAmaranthChryste = false
+  FunnyTanCelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

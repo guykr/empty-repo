@@ -1,0 +1,29 @@
+type dummy.FriendlyPeachMagdaia {
+  annotations {
+    number SecretTomatoRosy {
+    }
+    boolean SubsequentYellowLoreen {
+    }
+    boolean FederalBronzeSteffane {
+    }
+    string ToughAmaranthNita {
+    }
+    serviceid AwfulGreenSiana {
+    }
+  }
+  serviceid HonestBlushLynde {
+    _hidden_value = true
+  }
+  string StrangePeachOdelinda {
+    _hidden_value = true
+  }
+  "List<json>" EmptyMoccasinGabi {
+    _hidden_value = true
+  }
+  SecretTomatoRosy = 117
+  SubsequentYellowLoreen = true
+  FederalBronzeSteffane = true
+  ToughAmaranthNita = "Dad Im hungry  Hi hungry Im dad"
+  AwfulGreenSiana = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

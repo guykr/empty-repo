@@ -1,0 +1,79 @@
+type dummy.DeliberateMaroonGabbey is number {
+  annotations {
+    json ConfusedPlumGusta {
+    }
+    json SpecialBeigeKaralynn {
+    }
+    dummy.DEFAULT LexicalLavenderAlthea {
+    }
+    boolean DampLavenderCindee {
+    }
+    boolean MinimumChocolateSydelle {
+    }
+    dummy.DEFAULT AngryAquaIlise {
+    }
+    boolean ConfidentCopperMariam {
+    }
+    dummy.DEFAULT ScatteredSalmonAddi {
+    }
+    number AlrightChocolateAmalle {
+    }
+    boolean CautiousIndigoNichol {
+    }
+    json SeriousScarletBekki {
+    }
+    string SweetLimeShayna {
+    }
+    json RichTurquoiseHarriott {
+    }
+    serviceid MilitaryMaroonLee {
+    }
+    string GreasyAquamarineNanny {
+    }
+    string HilariousIvoryYettie {
+    }
+    serviceid AsianSapphireSerena {
+    }
+    string ShinyAquamarinePenny {
+    }
+    string BroadSapphireTildy {
+    }
+    serviceid JustVioletSosanna {
+    }
+    boolean InstantTomatoBinny {
+    }
+    string DullIndigoKaralynn {
+    }
+    boolean PreciseApricotTory {
+    }
+  }
+  ConfusedPlumGusta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpecialBeigeKaralynn = "Slept like a log last night  woke up in the fireplace."
+  LexicalLavenderAlthea = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  DampLavenderCindee = false
+  MinimumChocolateSydelle = true
+  AngryAquaIlise = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ConfidentCopperMariam = false
+  ScatteredSalmonAddi = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  AlrightChocolateAmalle = 154
+  CautiousIndigoNichol = true
+  SeriousScarletBekki = "Why did the kid cross the playground? To get to the other slide."
+  SweetLimeShayna = "Whoever invented the knock-knock joke should get a no bell prize."
+  RichTurquoiseHarriott = "Slept like a log last night  woke up in the fireplace."
+  MilitaryMaroonLee = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GreasyAquamarineNanny = "Why was it called the dark ages? Because of all the knights. "
+  HilariousIvoryYettie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AsianSapphireSerena = "How come the stadium got hot after the game? Because all of the fans left."
+  ShinyAquamarinePenny = "To be Frank, I'd have to change my name."
+  BroadSapphireTildy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  JustVioletSosanna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InstantTomatoBinny = true
+  DullIndigoKaralynn = "Slept like a log last night  woke up in the fireplace."
+  PreciseApricotTory = true
+}

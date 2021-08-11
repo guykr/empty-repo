@@ -1,0 +1,38 @@
+type dummy.HeavyChocolateGenni {
+  annotations {
+    boolean SubtleGreenMichal {
+    }
+    string WealthyMaroonWilow {
+    }
+    boolean StripedGoldDavine {
+    }
+    boolean TenderTomatoStephenie {
+    }
+    json PerfectAquamarineDorian {
+    }
+  }
+  serviceid AwareCoralModesta {
+    _hidden_value = true
+  }
+  boolean CrudeAquaRomonda {
+    _hidden_value = true
+  }
+  boolean CalmSalmonOllie {
+    _hidden_value = true
+  }
+  string UniqueRoseNessie {
+    _hidden_value = true
+  }
+  number MoralLavenderDore {
+    _hidden_value = true
+  }
+  boolean CatholicSalmonKetty {
+    _hidden_value = true
+  }
+  SubtleGreenMichal = true
+  WealthyMaroonWilow = "Why did the kid cross the playground? To get to the other slide."
+  StripedGoldDavine = true
+  TenderTomatoStephenie = true
+  PerfectAquamarineDorian = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

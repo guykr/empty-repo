@@ -1,0 +1,46 @@
+type dummy.InlandLimeRubi is number {
+  annotations {
+    string FaithfulWhitePaulita {
+    }
+    boolean EnviousPinkLyn {
+    }
+    number OkJadeCarmela {
+    }
+    boolean LooseAmberLynett {
+    }
+    boolean IndependentPlumJelene {
+    }
+    serviceid ValidAmaranthVivie {
+    }
+    boolean GrossAmberBrear {
+    }
+    string AverageChocolateCacilia {
+    }
+    json PreferredCyanTamra {
+    }
+    number GoodTomatoTeri {
+    }
+    json SafeCopperAbbe {
+    }
+    number MusicalPurpleNana {
+    }
+    json UpperBronzeMyrilla {
+    }
+    serviceid ReliableGrayRosette {
+    }
+  }
+  FaithfulWhitePaulita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  EnviousPinkLyn = true
+  OkJadeCarmela = 619
+  LooseAmberLynett = true
+  IndependentPlumJelene = false
+  ValidAmaranthVivie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GrossAmberBrear = true
+  AverageChocolateCacilia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PreferredCyanTamra = "Did you know that protons have mass? I didn't even know they were catholic."
+  GoodTomatoTeri = 365
+  SafeCopperAbbe = "Why did the tomato blush? Because it saw the salad dressing."
+  MusicalPurpleNana = 748
+  UpperBronzeMyrilla = "Slept like a log last night  woke up in the fireplace."
+  ReliableGrayRosette = "What creature is smarter than a talking parrot? A spelling bee."
+}

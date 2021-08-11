@@ -1,0 +1,22 @@
+type dummy.NosyCyanAgnesse {
+  annotations {
+    dummy.DEFAULT StalePeachMarjie {
+    }
+    string RoughAmberDolley {
+    }
+    number HeavyTanTasia {
+    }
+    boolean ProspectiveJadeEnid {
+    }
+  }
+  string InstitutionalOrangeDrusi {
+    _hidden_value = true
+  }
+  StalePeachMarjie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  RoughAmberDolley = "Why didnt the skeleton cross the road? Because he had no guts."
+  HeavyTanTasia = 873
+  ProspectiveJadeEnid = false
+  _hidden_value = true
+}

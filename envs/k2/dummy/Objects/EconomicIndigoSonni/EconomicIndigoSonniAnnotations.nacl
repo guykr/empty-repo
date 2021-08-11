@@ -1,0 +1,67 @@
+type dummy.EconomicIndigoSonni {
+  annotations {
+    dummy.MonthlyAquamarineBernetta DisappointedCoffeeAlfreda {
+    }
+    string OutdoorBlueAbigale {
+    }
+    boolean WonderfulCoffeeBunnie {
+    }
+    string FascinatingBeigeCarie {
+    }
+    boolean ConfusedMagentaPhylis {
+    }
+    json PerfectRoseMelinda {
+    }
+    json PeculiarApricotLynda {
+    }
+    dummy.OrthodoxEmeraldFelicity LuckyIndigoDiana {
+    }
+    string WickedBlueMarty {
+    }
+    boolean NastyCrimsonLacy {
+    }
+    serviceid CriticalTomatoDulcia {
+    }
+    boolean OlympicApricotJuli {
+    }
+    dummy.WidespreadLavenderValina ScientificYellowSibelle {
+    }
+    boolean MetropolitanFuchsiaDonica {
+    }
+    serviceid FaithfulBlushDacey {
+    }
+    json WorriedApricotLivia {
+    }
+    dummy.ConcernedGoldLizette StormySalmonRosalinda {
+    }
+    boolean BreakableAquamarineRici {
+    }
+    string VariedBrownMechelle {
+    }
+    serviceid FluffyPeachJoellyn {
+    }
+    boolean ModestPurpleGail {
+    }
+    number RuralGreenIvonne {
+    }
+  }
+  OutdoorBlueAbigale = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WonderfulCoffeeBunnie = false
+  FascinatingBeigeCarie = "Did you know that protons have mass? I didn't even know they were catholic."
+  ConfusedMagentaPhylis = true
+  PerfectRoseMelinda = "Why do birds fly south for the winter? Because it's too far to walk."
+  PeculiarApricotLynda = "What creature is smarter than a talking parrot? A spelling bee."
+  LuckyIndigoDiana = file("BewilderedBlushTeriann.txt")
+  WickedBlueMarty = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  NastyCrimsonLacy = true
+  CriticalTomatoDulcia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OlympicApricotJuli = false
+  MetropolitanFuchsiaDonica = true
+  FaithfulBlushDacey = "Slept like a log last night  woke up in the fireplace."
+  WorriedApricotLivia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BreakableAquamarineRici = true
+  VariedBrownMechelle = "What creature is smarter than a talking parrot? A spelling bee."
+  FluffyPeachJoellyn = "Dad Im hungry  Hi hungry Im dad"
+  ModestPurpleGail = false
+  RuralGreenIvonne = 899
+}

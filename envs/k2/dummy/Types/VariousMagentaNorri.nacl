@@ -1,0 +1,89 @@
+type dummy.VariousMagentaNorri {
+  annotations {
+    string SlightLavenderGwenore {
+    }
+    json AdministrativeAmberWinifred {
+    }
+    string ConfidentialSalmonMaura {
+    }
+    json MedicalJadeKamillah {
+    }
+    boolean ResonantLimeCamala {
+    }
+    json ManualIvoryMarijo {
+    }
+    string OtherCoffeeShari {
+    }
+  }
+  "List<string>" AgreedApricotFranni {
+    _hidden_value = true
+  }
+  string ExoticMaroonRhianna {
+    _hidden_value = true
+  }
+  "Map<number>" LateBronzeCordi {
+    _hidden_value = true
+  }
+  json PreliminaryAmethystKari {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcceptedPeachCorrie {
+    _hidden_value = true
+  }
+  serviceid ScottishBrownOralle {
+    _hidden_value = true
+  }
+  json InformalAmberShoshana {
+    _hidden_value = true
+  }
+  number FunnyPeachReyna {
+    _hidden_value = true
+  }
+  serviceid YoungBlueDawna {
+    _hidden_value = true
+  }
+  boolean MoaningYellowAlla {
+    _hidden_value = true
+  }
+  number FeministBlueJori {
+    _hidden_value = true
+  }
+  boolean CapableBrownViolante {
+    _hidden_value = true
+  }
+  serviceid BitterPurpleRheba {
+    _hidden_value = true
+  }
+  number LevelBlushPriscilla {
+    _hidden_value = true
+  }
+  serviceid DoubtfulHarlequinGrazia {
+    _hidden_value = true
+  }
+  number CreativeScarletSerene {
+    _hidden_value = true
+  }
+  boolean DifferentPinkPetunia {
+    _hidden_value = true
+  }
+  json BadAmethystHattie {
+    _hidden_value = true
+  }
+  "List<json>" IncGrayClemmy {
+    _hidden_value = true
+  }
+  number DueJadeStephannie {
+    _hidden_value = true
+  }
+  boolean QuickYellowCristen {
+    _hidden_value = true
+  }
+  SlightLavenderGwenore = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AdministrativeAmberWinifred = "Slept like a log last night  woke up in the fireplace."
+  ConfidentialSalmonMaura = "Im only familiar with 25 letters in the English language. I dont know why."
+  MedicalJadeKamillah = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ResonantLimeCamala = true
+  ManualIvoryMarijo = "Im only familiar with 25 letters in the English language. I dont know why."
+  OtherCoffeeShari = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

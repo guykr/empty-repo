@@ -1,0 +1,29 @@
+type dummy.UnacceptableCyanMariya {
+  annotations {
+    json StupidAmethystMae {
+    }
+    boolean GreatWhiteDorena {
+    }
+    boolean IncredibleAquamarineJoeann {
+    }
+    json StraightBrownUta {
+    }
+    boolean RoastedHarlequinLilian {
+    }
+    string FinalTanRaeann {
+    }
+    json DisappointedGoldSydel {
+    }
+  }
+  json InvolvedMoccasinWinni {
+    _hidden_value = true
+  }
+  StupidAmethystMae = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GreatWhiteDorena = false
+  IncredibleAquamarineJoeann = true
+  StraightBrownUta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RoastedHarlequinLilian = true
+  FinalTanRaeann = "Did you know that protons have mass? I didn't even know they were catholic."
+  DisappointedGoldSydel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

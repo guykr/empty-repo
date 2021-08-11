@@ -1,0 +1,44 @@
+type dummy.MainGrayNathalia {
+  annotations {
+    serviceid EstimatedBronzeCicely {
+    }
+    number BalancedRedGilbertina {
+    }
+    boolean LittleRedFreddi {
+    }
+    string BeneficialLimeIsa {
+    }
+    string JointSalmonLeese {
+    }
+  }
+  serviceid RetailYellowMyranda {
+    _hidden_value = true
+  }
+  serviceid BusyBlackIngeberg {
+    _hidden_value = true
+  }
+  "List<number>" AnxiousWhiteBrunhilde {
+    _hidden_value = true
+  }
+  string BrokenBlushSallyanne {
+    _hidden_value = true
+  }
+  boolean ParentalIndigoMadelina {
+    _hidden_value = true
+  }
+  number SheerGoldTaffy {
+    _hidden_value = true
+  }
+  string RaspyPeachBobbi {
+    _hidden_value = true
+  }
+  boolean CharmingMoccasinDorree {
+    _hidden_value = true
+  }
+  EstimatedBronzeCicely = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BalancedRedGilbertina = 194
+  LittleRedFreddi = true
+  BeneficialLimeIsa = "Why did the tomato blush? Because it saw the salad dressing."
+  JointSalmonLeese = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

@@ -1,0 +1,53 @@
+type dummy.LikelyLavenderBreena {
+  annotations {
+    boolean LonelyIvorySam {
+    }
+    json SubtleMoccasinGwenny {
+    }
+    json ShortFuchsiaCarlota {
+    }
+    string ScatteredScarletCatlaina {
+    }
+    boolean SpicyAmberDulsea {
+    }
+    number NutritiousApricotMyranda {
+    }
+  }
+  string SquareBlushMonika {
+    _hidden_value = true
+  }
+  serviceid GentlePinkMyrlene {
+    _hidden_value = true
+  }
+  boolean FashionableBlackJanella {
+    _hidden_value = true
+  }
+  number WidespreadLimeMalia {
+    _hidden_value = true
+  }
+  boolean NewMaroonKiley {
+    _hidden_value = true
+  }
+  json StrangeAquaKetti {
+    _hidden_value = true
+  }
+  "List<json>" OtherWhiteAnnabelle {
+    _hidden_value = true
+  }
+  number SouthernCrimsonSuellen {
+    _hidden_value = true
+  }
+  boolean WoodenBeigeHeath {
+    _hidden_value = true
+  }
+  boolean RealisticPeachLeeann {
+    _hidden_value = true
+  }
+  LonelyIvorySam = true
+  SubtleMoccasinGwenny = "Slept like a log last night  woke up in the fireplace."
+  ShortFuchsiaCarlota = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ScatteredScarletCatlaina = "A steak pun is a rare medium well done."
+  SpicyAmberDulsea = false
+  NutritiousApricotMyranda = 186
+  _hidden_value = true
+}

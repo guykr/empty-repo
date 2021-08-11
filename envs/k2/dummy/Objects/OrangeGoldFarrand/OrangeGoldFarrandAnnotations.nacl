@@ -1,0 +1,68 @@
+type dummy.OrangeGoldFarrand {
+  annotations {
+    boolean MusicalPeachRobbie {
+    }
+    number TechnicalTurquoiseFrancoise {
+    }
+    dummy.DeliberateMaroonGabbey DirectWhiteMerlina {
+    }
+    boolean DualBronzeRandi {
+    }
+    boolean AvailableGrayBirgit {
+    }
+    serviceid CompatibleEmeraldSibella {
+    }
+    boolean PowerfulGoldShara {
+    }
+    number GentleOrangeTedra {
+    }
+    boolean ZealousAmethystBridie {
+    }
+    dummy.PrintedGoldLauralee CoherentAmberNan {
+    }
+    boolean ThenTomatoLucy {
+    }
+    number AbleTomatoRoslyn {
+    }
+    json ScaredHarlequinKalie {
+    }
+    serviceid QuickApricotLorena {
+    }
+    string BoldAmethystAuroora {
+    }
+    serviceid IntermediateMoccasinKendra {
+    }
+    number AbundantPeachAdria {
+    }
+    dummy.LoosePeachGoldia ArtificialMoccasinHeidi {
+    }
+    boolean HumanCoralShel {
+    }
+    dummy.TechnologicalAquaJulienne KeyEmeraldLisetta {
+    }
+    string RapidBlushDruci {
+    }
+    string MixedBronzeTheodosia {
+    }
+  }
+  MusicalPeachRobbie = false
+  TechnicalTurquoiseFrancoise = 147
+  DirectWhiteMerlina = 368
+  DualBronzeRandi = true
+  AvailableGrayBirgit = false
+  CompatibleEmeraldSibella = "Why do birds fly south for the winter? Because it's too far to walk."
+  PowerfulGoldShara = false
+  GentleOrangeTedra = 486
+  ZealousAmethystBridie = true
+  CoherentAmberNan = false
+  ThenTomatoLucy = false
+  AbleTomatoRoslyn = 112
+  ScaredHarlequinKalie = "Why did the tomato blush? Because it saw the salad dressing."
+  QuickApricotLorena = "Im only familiar with 25 letters in the English language. I dont know why."
+  BoldAmethystAuroora = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IntermediateMoccasinKendra = "Why didnt the skeleton cross the road? Because he had no guts."
+  AbundantPeachAdria = 773
+  HumanCoralShel = true
+  RapidBlushDruci = "Why is Peter Pan always flying? Because he Neverlands."
+  MixedBronzeTheodosia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

@@ -1,0 +1,70 @@
+type dummy.OddAquaRoxane {
+  annotations {
+    string DrivingRedTasia {
+    }
+    number BlackCyanSeline {
+    }
+    boolean GrandChocolateAlfy {
+    }
+    dummy.DEFAULT TallScarletSusette {
+    }
+  }
+  boolean SurroundingPlumHeddie {
+    _hidden_value = true
+  }
+  boolean MotionlessPlumPhedra {
+    _hidden_value = true
+  }
+  boolean ColourfulLimeCherry {
+    _hidden_value = true
+  }
+  serviceid HotAmaranthWandie {
+    _hidden_value = true
+  }
+  string MidHarlequinJoelly {
+    _hidden_value = true
+  }
+  boolean ProudCoralEdee {
+    _hidden_value = true
+  }
+  number EarlyMaroonArleta {
+    _hidden_value = true
+  }
+  json EducationalAmaranthMarcie {
+    _hidden_value = true
+  }
+  string DemocraticAmberDavita {
+    _hidden_value = true
+  }
+  boolean ExtremeBlushDrusy {
+    _hidden_value = true
+  }
+  json PanickyHarlequinFaydra {
+    _hidden_value = true
+  }
+  boolean UnableHarlequinWallie {
+    _hidden_value = true
+  }
+  number RattyCoralIdell {
+    _hidden_value = true
+  }
+  json DoubtfulPinkTildi {
+    _hidden_value = true
+  }
+  string SparklingChocolateJodee {
+    _hidden_value = true
+  }
+  boolean WildMagentaNicole {
+    _hidden_value = true
+  }
+  number AppropriateCrimsonVera {
+    _hidden_value = true
+  }
+  DrivingRedTasia = "What creature is smarter than a talking parrot? A spelling bee."
+  BlackCyanSeline = 345
+  GrandChocolateAlfy = false
+  TallScarletSusette = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  _hidden_value = true
+}

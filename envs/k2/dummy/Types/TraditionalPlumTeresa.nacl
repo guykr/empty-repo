@@ -1,0 +1,77 @@
+type dummy.TraditionalPlumTeresa {
+  annotations {
+    string QuickAzureMommy {
+    }
+    string BritishRedAlex {
+    }
+    json EducationalTanCorrey {
+    }
+    string DecisiveAzureCaressa {
+    }
+  }
+  serviceid PurringTurquoiseDanit {
+    _hidden_value = true
+  }
+  string MissingAmberChelsae {
+    _hidden_value = true
+  }
+  string ProtectiveOrangeKameko {
+    _hidden_value = true
+  }
+  serviceid GoodPurpleAdrianna {
+    _hidden_value = true
+  }
+  json CivilianCopperTamera {
+    _hidden_value = true
+  }
+  string RareYellowMariya {
+    _hidden_value = true
+  }
+  boolean BalancedGoldCandi {
+    _hidden_value = true
+  }
+  boolean EvidentJadeCathleen {
+    _hidden_value = true
+  }
+  boolean GeneticBlackJolynn {
+    _hidden_value = true
+  }
+  number ReluctantWhiteElaine {
+    _hidden_value = true
+  }
+  number AdvancedAquamarineCamel {
+    _hidden_value = true
+  }
+  number JollyIvoryMara {
+    _hidden_value = true
+  }
+  serviceid ArbitraryMagentaLynnet {
+    _hidden_value = true
+  }
+  "List<json>" RussianTealGwenny {
+    _hidden_value = true
+  }
+  serviceid DryJadeBrandie {
+    _hidden_value = true
+  }
+  json PoisedHarlequinAlexina {
+    _hidden_value = true
+  }
+  number EmbarrassingTealDido {
+    _hidden_value = true
+  }
+  string FaintLimeEnid {
+    _hidden_value = true
+  }
+  serviceid EnergeticBrownIngeborg {
+    _hidden_value = true
+  }
+  string MiddleRedMarinna {
+    _hidden_value = true
+  }
+  QuickAzureMommy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BritishRedAlex = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EducationalTanCorrey = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DecisiveAzureCaressa = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

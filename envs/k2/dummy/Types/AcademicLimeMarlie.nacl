@@ -1,0 +1,20 @@
+type dummy.AcademicLimeMarlie {
+  annotations {
+    number UnawareLavenderCahra {
+    }
+    boolean NetAmethystPetronia {
+    }
+    boolean HealthyPlumAlayne {
+    }
+    boolean CrowdedAmberBenita {
+    }
+  }
+  boolean GrievingSapphireMelitta {
+    _hidden_value = true
+  }
+  UnawareLavenderCahra = 405
+  NetAmethystPetronia = false
+  HealthyPlumAlayne = false
+  CrowdedAmberBenita = false
+  _hidden_value = true
+}

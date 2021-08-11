@@ -1,0 +1,58 @@
+type dummy.CheapAmaranthAlecia {
+  annotations {
+    string NearRoseEvangeline {
+    }
+    boolean ShrillAzureDorothee {
+    }
+    string DarkRoseJaney {
+    }
+    string DryBeigeLuella {
+    }
+    json NoisyOrangeSheree {
+    }
+    string InnocentWhiteAgnola {
+    }
+    number FarBeigeTedra {
+    }
+    string LuckyBlueAfton {
+    }
+    json SplendidJadeBernita {
+    }
+    json MeanChocolateWilla {
+    }
+    json CheapCoralKaralee {
+    }
+    number AverageCopperConsuela {
+    }
+    json EasternScarletRachael {
+    }
+    boolean OperationalGrayOralle {
+    }
+    serviceid CurlyCopperGinnie {
+    }
+    serviceid SlowBrownBrenda {
+    }
+    json AncientBeigeGenia {
+    }
+    string FellowBlackPenni {
+    }
+  }
+  NearRoseEvangeline = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ShrillAzureDorothee = false
+  DarkRoseJaney = "Why was it called the dark ages? Because of all the knights. "
+  DryBeigeLuella = "To be Frank, I'd have to change my name."
+  NoisyOrangeSheree = "Why did the tomato blush? Because it saw the salad dressing."
+  InnocentWhiteAgnola = "What do you call two barracuda fish?  A Pairacuda!"
+  FarBeigeTedra = 812
+  LuckyBlueAfton = "What creature is smarter than a talking parrot? A spelling bee."
+  SplendidJadeBernita = "Why didnt the skeleton cross the road? Because he had no guts."
+  MeanChocolateWilla = "To be Frank, I'd have to change my name."
+  CheapCoralKaralee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AverageCopperConsuela = 975
+  EasternScarletRachael = "I'll tell you what often gets over looked... garden fences."
+  OperationalGrayOralle = false
+  CurlyCopperGinnie = "Why was it called the dark ages? Because of all the knights. "
+  SlowBrownBrenda = "Why did the tomato blush? Because it saw the salad dressing."
+  AncientBeigeGenia = "To be Frank, I'd have to change my name."
+  FellowBlackPenni = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

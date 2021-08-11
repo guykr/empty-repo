@@ -1,0 +1,32 @@
+type dummy.BetterHarlequinBeret {
+  annotations {
+    json ManyFuchsiaCaitlin {
+    }
+    string DampCoralEmlynne {
+    }
+    number FaithfulRoseGusti {
+    }
+    number IntactLavenderAbbi {
+    }
+  }
+  json NervousCyanElva {
+    _hidden_value = true
+  }
+  boolean MinimumPlumTani {
+    _hidden_value = true
+  }
+  number PrintedBeigeMarieann {
+    _hidden_value = true
+  }
+  number FatScarletTorie {
+    _hidden_value = true
+  }
+  json WonderfulBeigeDaphna {
+    _hidden_value = true
+  }
+  ManyFuchsiaCaitlin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DampCoralEmlynne = "Why is Peter Pan always flying? Because he Neverlands."
+  FaithfulRoseGusti = 408
+  IntactLavenderAbbi = 380
+  _hidden_value = true
+}

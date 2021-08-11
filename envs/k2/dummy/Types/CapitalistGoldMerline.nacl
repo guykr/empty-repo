@@ -1,0 +1,41 @@
+type dummy.CapitalistGoldMerline {
+  annotations {
+    boolean BitterIndigoNeila {
+    }
+    number LongTealAida {
+    }
+    string SovietTanBabs {
+    }
+    number RacialAmberCassandry {
+    }
+    serviceid TypicalGreenFreddy {
+    }
+  }
+  string BroadFuchsiaMaryl {
+    _hidden_value = true
+  }
+  json ScientificCoralDora {
+    _hidden_value = true
+  }
+  string AncientGreenSibelle {
+    _hidden_value = true
+  }
+  json RomanMagentaBrunhilde {
+    _hidden_value = true
+  }
+  number BroadSapphireWillyt {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EconomicAmberLorette {
+    _hidden_value = true
+  }
+  number ConsciousOrangeEloise {
+    _hidden_value = true
+  }
+  BitterIndigoNeila = false
+  LongTealAida = 825
+  SovietTanBabs = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RacialAmberCassandry = 842
+  TypicalGreenFreddy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

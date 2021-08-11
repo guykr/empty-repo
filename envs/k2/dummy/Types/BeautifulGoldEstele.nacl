@@ -1,0 +1,23 @@
+type dummy.BeautifulGoldEstele {
+  annotations {
+    string SharpPurpleGertie {
+    }
+    serviceid DistantBronzeLetitia {
+    }
+    boolean DyingAmaranthIvory {
+    }
+    json FatCoralDyanne {
+    }
+    boolean ConventionalPinkElora {
+    }
+  }
+  json RelativePurpleIanthe {
+    _hidden_value = true
+  }
+  SharpPurpleGertie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DistantBronzeLetitia = "Dad Im hungry  Hi hungry Im dad"
+  DyingAmaranthIvory = false
+  FatCoralDyanne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConventionalPinkElora = false
+  _hidden_value = true
+}

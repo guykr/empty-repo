@@ -1,0 +1,32 @@
+type dummy.MobileIndigoMavra {
+  annotations {
+    boolean PoliticalChocolateMichel {
+    }
+    json UnnecessaryAquamarineWynne {
+    }
+    number ColorfulAzureMelesa {
+    }
+    json BigTomatoKora {
+    }
+    boolean SignificantOliveCecilia {
+    }
+    boolean RedundantOrangeAnnadiana {
+    }
+  }
+  number DrunkCoralPenni {
+    _hidden_value = true
+  }
+  number LeadingAmaranthPam {
+    _hidden_value = true
+  }
+  "List<string>" SuspiciousOliveLoria {
+    _hidden_value = true
+  }
+  PoliticalChocolateMichel = false
+  UnnecessaryAquamarineWynne = "Why didnt the skeleton cross the road? Because he had no guts."
+  ColorfulAzureMelesa = 894
+  BigTomatoKora = "Did you know that protons have mass? I didn't even know they were catholic."
+  SignificantOliveCecilia = true
+  RedundantOrangeAnnadiana = false
+  _hidden_value = true
+}

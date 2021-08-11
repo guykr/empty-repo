@@ -1,0 +1,23 @@
+type dummy.LoudOrangeTobi {
+  annotations {
+    serviceid SpecificOliveHoney {
+    }
+    json ConcreteTealCollete {
+    }
+    json GratefulOliveAnnecorinne {
+    }
+    number SubstantialMoccasinLu {
+    }
+    boolean RemainingEmeraldGretal {
+    }
+  }
+  number ExtremeMaroonSabine {
+    _hidden_value = true
+  }
+  SpecificOliveHoney = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConcreteTealCollete = "Dad Im hungry  Hi hungry Im dad"
+  GratefulOliveAnnecorinne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SubstantialMoccasinLu = 222
+  RemainingEmeraldGretal = true
+  _hidden_value = true
+}

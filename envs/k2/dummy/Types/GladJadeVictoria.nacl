@@ -1,0 +1,71 @@
+type dummy.GladJadeVictoria {
+  annotations {
+    string EducationalCopperVerene {
+    }
+    boolean ChineseHarlequinLeanna {
+    }
+    number SpecificSalmonTania {
+    }
+    string SplendidIvoryNady {
+    }
+    boolean ToxicTurquoiseNovelia {
+    }
+    boolean NoisyMaroonAimee {
+    }
+  }
+  serviceid InformalMagentaSaudra {
+    _hidden_value = true
+  }
+  boolean EventualJadeTorie {
+    _hidden_value = true
+  }
+  number RelativeMaroonCristen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChemicalPlumShanda {
+    _hidden_value = true
+  }
+  boolean AdvisoryYellowKynthia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT KnownCopperNessie {
+    _hidden_value = true
+  }
+  number LiableBrownJuliana {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" AccusedLimeEttie {
+    _hidden_value = true
+  }
+  serviceid UrbanSalmonAndra {
+    _hidden_value = true
+  }
+  boolean SelectiveTealJackie {
+    _hidden_value = true
+  }
+  string CruelCyanDara {
+    _hidden_value = true
+  }
+  string SensibleMaroonJacynth {
+    _hidden_value = true
+  }
+  string NaughtyCopperLucine {
+    _hidden_value = true
+  }
+  number SolidAmethystBilli {
+    _hidden_value = true
+  }
+  string RedundantMagentaZuzana {
+    _hidden_value = true
+  }
+  json SleepyBrownMinta {
+    _hidden_value = true
+  }
+  EducationalCopperVerene = "Did you know that protons have mass? I didn't even know they were catholic."
+  ChineseHarlequinLeanna = true
+  SpecificSalmonTania = 176
+  SplendidIvoryNady = "Why is Peter Pan always flying? Because he Neverlands."
+  ToxicTurquoiseNovelia = false
+  NoisyMaroonAimee = false
+  _hidden_value = true
+}

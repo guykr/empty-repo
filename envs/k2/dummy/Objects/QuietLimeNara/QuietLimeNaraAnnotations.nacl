@@ -1,0 +1,62 @@
+type dummy.QuietLimeNara {
+  annotations {
+    boolean MereRoseGinnifer {
+    }
+    number HiddenTealMargareta {
+    }
+    string AbleMaroonPauly {
+    }
+    number UnfortunateHarlequinNoell {
+    }
+    serviceid FrontGrayLatrena {
+    }
+    boolean RoastedIndigoMyrtle {
+    }
+    serviceid SlightPeachMelony {
+    }
+    serviceid GoverningCoralLegra {
+    }
+    number SpectacularCyanKeeley {
+    }
+    boolean MaleCrimsonArliene {
+    }
+    serviceid FaintOliveAllsun {
+    }
+    boolean OrganicAmberNananne {
+    }
+    dummy.PowerfulIndigoStacie IncredibleHarlequinStarla {
+    }
+    json DifficultOliveJackelyn {
+    }
+    dummy.VictorianMagentaGeorgie SpotlessBlushLyndel {
+    }
+    boolean BrightWhiteMelantha {
+    }
+    string SwissCoralCharita {
+    }
+    number AsleepWhiteKatti {
+    }
+    boolean AbsoluteLimeErica {
+    }
+    string NobleAzureJacenta {
+    }
+  }
+  MereRoseGinnifer = false
+  HiddenTealMargareta = 737
+  AbleMaroonPauly = "Dad Im hungry  Hi hungry Im dad"
+  UnfortunateHarlequinNoell = 902
+  FrontGrayLatrena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RoastedIndigoMyrtle = true
+  SlightPeachMelony = "How come the stadium got hot after the game? Because all of the fans left."
+  GoverningCoralLegra = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpectacularCyanKeeley = 289
+  MaleCrimsonArliene = false
+  FaintOliveAllsun = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OrganicAmberNananne = true
+  DifficultOliveJackelyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BrightWhiteMelantha = true
+  SwissCoralCharita = "Slept like a log last night  woke up in the fireplace."
+  AsleepWhiteKatti = 295
+  AbsoluteLimeErica = false
+  NobleAzureJacenta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

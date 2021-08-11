@@ -1,0 +1,63 @@
+type dummy.EvilPinkBibi {
+  annotations {
+    boolean IncreasedHarlequinBreanne {
+    }
+    number SweetTealWilhelmina {
+    }
+    boolean RomanticApricotBelicia {
+    }
+    json CuteHarlequinVirgie {
+    }
+  }
+  number CompetitiveCoffeeSybille {
+    _hidden_value = true
+  }
+  boolean StingyMagentaGuenna {
+    _hidden_value = true
+  }
+  string FantasticOrangeZondra {
+    _hidden_value = true
+  }
+  json EquivalentAmethystGiulietta {
+    _hidden_value = true
+  }
+  number BottomAmaranthAretha {
+    _hidden_value = true
+  }
+  string SourAzureSylvia {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine DangerousTanLibby {
+    ContentAzureLindsay = true
+    FellowVioletSapphire = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    LittleCrimsonRosina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DeafeningCyanCassandry = false
+    _hidden_value = true
+  }
+  string AliveApricotValerie {
+    _hidden_value = true
+  }
+  serviceid HealthyIndigoErma {
+    _hidden_value = true
+  }
+  json ShyScarletMicheline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnsightlyBeigeJoanie {
+    _hidden_value = true
+  }
+  json UnsightlySilverFrannie {
+    _hidden_value = true
+  }
+  json PurringLimeDona {
+    _hidden_value = true
+  }
+  boolean BeautifulPurpleBernardine {
+    _hidden_value = true
+  }
+  IncreasedHarlequinBreanne = false
+  SweetTealWilhelmina = 337
+  RomanticApricotBelicia = false
+  CuteHarlequinVirgie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

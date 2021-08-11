@@ -1,0 +1,20 @@
+type dummy.FlyingBlushXena {
+  annotations {
+    boolean BeautifulCoffeeBee {
+    }
+    number AmusedTurquoiseZara {
+    }
+    json WonderfulJadeCarolyn {
+    }
+    number SurprisingAmaranthAmy {
+    }
+  }
+  "List<boolean>" NastyIndigoDenise {
+    _hidden_value = true
+  }
+  BeautifulCoffeeBee = true
+  AmusedTurquoiseZara = 548
+  WonderfulJadeCarolyn = "To be Frank, I'd have to change my name."
+  SurprisingAmaranthAmy = 855
+  _hidden_value = true
+}

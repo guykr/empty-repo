@@ -1,0 +1,23 @@
+type dummy.RoyalTomatoCelestyna {
+  annotations {
+    boolean ItalianOliveBethanne {
+    }
+    json SocialAmethystZandra {
+    }
+    number SignificantMagentaQuintilla {
+    }
+    dummy.FirmAquaNicolea RattyRoseAnnadiana {
+    }
+    json InsufficientCopperChickie {
+    }
+  }
+  serviceid ParticularRedCorabel {
+    _hidden_value = true
+  }
+  ItalianOliveBethanne = false
+  SocialAmethystZandra = "Why do birds fly south for the winter? Because it's too far to walk."
+  SignificantMagentaQuintilla = 749
+  RattyRoseAnnadiana = false
+  InsufficientCopperChickie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

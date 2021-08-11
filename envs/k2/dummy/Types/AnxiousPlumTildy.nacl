@@ -1,0 +1,68 @@
+type dummy.AnxiousPlumTildy {
+  annotations {
+    json SunnyBlackMinnie {
+    }
+    string LatinMaroonDevonna {
+    }
+    number AliveSalmonAllie {
+    }
+    number AncientBeigeNolana {
+    }
+  }
+  json GloriousBrownLyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EventualPeachAdoree {
+    _hidden_value = true
+  }
+  boolean GreatOrangeMicaela {
+    _hidden_value = true
+  }
+  json SlowAmberAntonie {
+    _hidden_value = true
+  }
+  boolean SleepyRoseNinetta {
+    _hidden_value = true
+  }
+  string WonderfulBlushCarilyn {
+    _hidden_value = true
+  }
+  boolean MusicalEmeraldSherye {
+    _hidden_value = true
+  }
+  number OlympicSilverElfrieda {
+    _hidden_value = true
+  }
+  number AnonymousSilverGeorgetta {
+    _hidden_value = true
+  }
+  "List<serviceid>" IntactBeigeLeoine {
+    _hidden_value = true
+  }
+  serviceid CriminalJadeShalna {
+    _hidden_value = true
+  }
+  string CivilPlumDemetra {
+    _hidden_value = true
+  }
+  string BroadBronzeElvira {
+    _hidden_value = true
+  }
+  json GenuineFuchsiaDamita {
+    _hidden_value = true
+  }
+  boolean HugeAquaLetty {
+    _hidden_value = true
+  }
+  number RegionalOliveJordana {
+    _hidden_value = true
+  }
+  string FuriousCoffeeFriederike {
+    _hidden_value = true
+  }
+  SunnyBlackMinnie = "Dad Im hungry  Hi hungry Im dad"
+  LatinMaroonDevonna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AliveSalmonAllie = 508
+  AncientBeigeNolana = 654
+  _hidden_value = true
+}

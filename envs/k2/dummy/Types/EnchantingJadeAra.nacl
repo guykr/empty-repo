@@ -1,0 +1,23 @@
+type dummy.EnchantingJadeAra {
+  annotations {
+    number DeterminedJadeAlana {
+    }
+    string QuickestScarletDarsey {
+    }
+    string EthicalLimeWanda {
+    }
+    boolean ReadyWhiteLesley {
+    }
+    json HollowPinkMarilin {
+    }
+  }
+  string MixedTurquoiseBerrie {
+    _hidden_value = true
+  }
+  DeterminedJadeAlana = 688
+  QuickestScarletDarsey = "Did you know that protons have mass? I didn't even know they were catholic."
+  EthicalLimeWanda = "Im only familiar with 25 letters in the English language. I dont know why."
+  ReadyWhiteLesley = true
+  HollowPinkMarilin = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

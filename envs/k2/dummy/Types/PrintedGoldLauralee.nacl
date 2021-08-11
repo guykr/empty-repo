@@ -1,0 +1,28 @@
+type dummy.PrintedGoldLauralee is boolean {
+  annotations {
+    string DrabAmaranthGertruda {
+    }
+    string PassingBeigeMorissa {
+    }
+    json ClumsyTealDrona {
+    }
+    boolean GoverningPeachValerie {
+    }
+    json JustTealGeorge {
+    }
+    number AdjacentAquamarineRegan {
+    }
+    boolean ProgressiveCoffeeZuzana {
+    }
+    json PatientScarletAmandi {
+    }
+  }
+  DrabAmaranthGertruda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PassingBeigeMorissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ClumsyTealDrona = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GoverningPeachValerie = false
+  JustTealGeorge = "Why didnt the skeleton cross the road? Because he had no guts."
+  AdjacentAquamarineRegan = 354
+  ProgressiveCoffeeZuzana = false
+  PatientScarletAmandi = "I'll tell you what often gets over looked... garden fences."
+}

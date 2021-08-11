@@ -1,0 +1,28 @@
+type dummy.ScaryRedSayre {
+  annotations {
+    number ScreechingBlueGusta {
+    }
+    json RollingBronzeRhiamon {
+    }
+    json UninterestedPeachHarli {
+    }
+    serviceid RepresentativeBeigeMathilda {
+    }
+    json ApplicableCoffeeEdee {
+    }
+    dummy.DEFAULT RelievedCyanMadelene {
+    }
+  }
+  json EmptyAmaranthEdy {
+    _hidden_value = true
+  }
+  ScreechingBlueGusta = 232
+  RollingBronzeRhiamon = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UninterestedPeachHarli = "Why was it called the dark ages? Because of all the knights. "
+  RepresentativeBeigeMathilda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ApplicableCoffeeEdee = "Im only familiar with 25 letters in the English language. I dont know why."
+  RelievedCyanMadelene = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

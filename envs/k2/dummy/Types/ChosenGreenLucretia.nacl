@@ -1,0 +1,49 @@
+type dummy.ChosenGreenLucretia {
+  annotations {
+    number AfraidTurquoiseDorelle {
+    }
+    string DeterminedMoccasinIna {
+    }
+    json RipeAzureKimberli {
+    }
+    serviceid AlliedWhiteKamilah {
+    }
+    boolean SuccessfulLimePerrine {
+    }
+    number PriorBlackNancey {
+    }
+  }
+  serviceid UninterestedTealJaclin {
+    _hidden_value = true
+  }
+  json WisePeachShirlee {
+    _hidden_value = true
+  }
+  serviceid EvilPeachClary {
+    _hidden_value = true
+  }
+  boolean RevolutionaryTurquoiseNatassia {
+    _hidden_value = true
+  }
+  number MushyBronzeGlynda {
+    _hidden_value = true
+  }
+  dummy.SmallPlumLiana StatutorySapphireMaggee {
+    DecentAquamarineTabina = "I'll tell you what often gets over looked... garden fences."
+    VagueAmaranthEsmaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EssentialLavenderFlor = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GenerousBlueKiele = false
+    SensitiveTurquoiseClaresta = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number IncreasedIndigoEmmalee {
+    _hidden_value = true
+  }
+  AfraidTurquoiseDorelle = 479
+  DeterminedMoccasinIna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RipeAzureKimberli = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AlliedWhiteKamilah = "To be Frank, I'd have to change my name."
+  SuccessfulLimePerrine = false
+  PriorBlackNancey = 229
+  _hidden_value = true
+}

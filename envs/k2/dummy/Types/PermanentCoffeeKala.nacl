@@ -1,0 +1,44 @@
+type dummy.PermanentCoffeeKala {
+  annotations {
+    serviceid OptimisticIndigoMaritsa {
+    }
+    boolean PracticalHarlequinDaniela {
+    }
+    json ControlledChocolateAlane {
+    }
+    string ReligiousEmeraldDacie {
+    }
+    boolean JapaneseYellowZelda {
+    }
+    serviceid StrongCrimsonTiffanie {
+    }
+    string SkinnyCoralCecelia {
+    }
+  }
+  number ShortPlumRemy {
+    _hidden_value = true
+  }
+  boolean ThoroughTealMelinda {
+    _hidden_value = true
+  }
+  json BoldYellowFredrika {
+    _hidden_value = true
+  }
+  number VivaciousAmethystPamelina {
+    _hidden_value = true
+  }
+  json EndlessIndigoAnselma {
+    _hidden_value = true
+  }
+  "List<serviceid>" TenderAmberDamara {
+    _hidden_value = true
+  }
+  OptimisticIndigoMaritsa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PracticalHarlequinDaniela = true
+  ControlledChocolateAlane = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ReligiousEmeraldDacie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  JapaneseYellowZelda = false
+  StrongCrimsonTiffanie = "Why was it called the dark ages? Because of all the knights. "
+  SkinnyCoralCecelia = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

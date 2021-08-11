@@ -1,0 +1,28 @@
+type dummy.IntegralCoffeeOnida {
+  annotations {
+    boolean ComprehensiveMoccasinShelley {
+    }
+    dummy.PuzzledTanTildi WeakPeachRomola {
+    }
+    dummy.DEFAULT ConvincingAmethystHallie {
+    }
+    json FastBlushJean {
+    }
+    string GenuinePinkMarys {
+    }
+    serviceid UniversalAmaranthKellen {
+    }
+  }
+  json IndirectAquamarineCariotta {
+    _hidden_value = true
+  }
+  ComprehensiveMoccasinShelley = true
+  WeakPeachRomola = 35
+  ConvincingAmethystHallie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  FastBlushJean = "Why did the tomato blush? Because it saw the salad dressing."
+  GenuinePinkMarys = "Why didnt the skeleton cross the road? Because he had no guts."
+  UniversalAmaranthKellen = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

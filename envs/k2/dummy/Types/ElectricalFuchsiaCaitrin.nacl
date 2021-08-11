@@ -1,0 +1,55 @@
+type dummy.ElectricalFuchsiaCaitrin {
+  annotations {
+    json AustralianBlushTansy {
+    }
+    boolean CharacteristicApricotTheresa {
+    }
+    boolean VerbalHarlequinDarlene {
+    }
+    serviceid UniqueAquamarineMil {
+    }
+    json RulingSalmonZena {
+    }
+  }
+  string EmbarrassedLavenderRori {
+    _hidden_value = true
+  }
+  json InclinedGoldMarsha {
+    _hidden_value = true
+  }
+  boolean UnhappyPeachAthena {
+    _hidden_value = true
+  }
+  dummy.SparklingAmaranthLeone ConfidentPinkMerilee {
+    PricklyPlumKatrine = 167
+    LivelyBlackIngeberg = "What creature is smarter than a talking parrot? A spelling bee."
+    FiscalMaroonCassaundra = "I'll tell you what often gets over looked... garden fences."
+    IllegalLimeAshely = "Why did the kid cross the playground? To get to the other slide."
+    FirmIvoryBrigid = false
+    ZanyCoralBerri = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FunCoffeeOrelia = 468
+    KindCrimsonDeina = "Why was it called the dark ages? Because of all the knights. "
+    GentleAquamarineSimonette = "Why did the kid cross the playground? To get to the other slide."
+    InclinedBronzeJobey = false
+    BrightMoccasinMaia = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  dummy.DEFAULT MagneticBrownGabriell {
+    _hidden_value = true
+  }
+  boolean ShakyCrimsonSabina {
+    _hidden_value = true
+  }
+  json WillingIndigoGillian {
+    _hidden_value = true
+  }
+  json ArbitraryLimeCathie {
+    _hidden_value = true
+  }
+  AustralianBlushTansy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CharacteristicApricotTheresa = false
+  VerbalHarlequinDarlene = false
+  UniqueAquamarineMil = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RulingSalmonZena = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

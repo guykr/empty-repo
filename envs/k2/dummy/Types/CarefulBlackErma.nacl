@@ -1,0 +1,80 @@
+type dummy.CarefulBlackErma {
+  annotations {
+    serviceid InterestingEmeraldMonique {
+    }
+    serviceid CollectiveCyanMel {
+    }
+    serviceid GeneticAzureClaudette {
+    }
+    string ForthcomingScarletAleen {
+    }
+  }
+  string WealthyOliveSherie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreyBronzeKaria {
+    _hidden_value = true
+  }
+  serviceid SeriousWhiteGnni {
+    _hidden_value = true
+  }
+  serviceid SilentIvoryBethina {
+    _hidden_value = true
+  }
+  boolean ThinPeachHeath {
+    _hidden_value = true
+  }
+  serviceid FragileVioletCharmaine {
+    _hidden_value = true
+  }
+  boolean DominantTealMadelena {
+    _hidden_value = true
+  }
+  boolean LabourSalmonOfilia {
+    _hidden_value = true
+  }
+  serviceid FeministChocolateGlyn {
+    _hidden_value = true
+  }
+  string FastMaroonClaudetta {
+    _hidden_value = true
+  }
+  serviceid DrabPlumMerlina {
+    _hidden_value = true
+  }
+  boolean ModernPurpleNetty {
+    _hidden_value = true
+  }
+  string GrievingTurquoiseLisetta {
+    _hidden_value = true
+  }
+  string JewishScarletLynnea {
+    _hidden_value = true
+  }
+  json FrozenMagentaBlair {
+    _hidden_value = true
+  }
+  string FaithfulCrimsonNorene {
+    _hidden_value = true
+  }
+  number PatientBlackRuthi {
+    _hidden_value = true
+  }
+  boolean HappyCoffeeLaurena {
+    _hidden_value = true
+  }
+  serviceid AustralianGrayKorrie {
+    _hidden_value = true
+  }
+  serviceid ImpressedTomatoAvrit {
+    _hidden_value = true
+  }
+  serviceid LowOrangeJolynn {
+    _hidden_value = true
+  }
+  InterestingEmeraldMonique = "What creature is smarter than a talking parrot? A spelling bee."
+  CollectiveCyanMel = "What do you call two barracuda fish?  A Pairacuda!"
+  GeneticAzureClaudette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ForthcomingScarletAleen = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

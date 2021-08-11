@@ -1,0 +1,25 @@
+type dummy.TechnicalMagentaCatriona {
+  annotations {
+    number LateRedShel {
+    }
+    dummy.DEFAULT GloriousBlackMelisent {
+    }
+    json CommunistAmberMelly {
+    }
+    serviceid MoaningPeachTersina {
+    }
+    json CleanGoldJoanie {
+    }
+  }
+  json DifficultPeachClary {
+    _hidden_value = true
+  }
+  LateRedShel = 470
+  GloriousBlackMelisent = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  CommunistAmberMelly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MoaningPeachTersina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CleanGoldJoanie = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

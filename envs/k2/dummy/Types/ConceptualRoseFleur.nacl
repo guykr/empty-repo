@@ -1,0 +1,29 @@
+type dummy.ConceptualRoseFleur {
+  annotations {
+    serviceid CivilApricotFredelia {
+    }
+    json GorgeousPlumRickie {
+    }
+    dummy.HurtJadeVevay StraightEmeraldCindy {
+    }
+    boolean SplendidCyanMoreen {
+    }
+    number UrgentAmethystAvis {
+    }
+  }
+  json SpiritualSapphireZelda {
+    _hidden_value = true
+  }
+  boolean HardLimeDacie {
+    _hidden_value = true
+  }
+  string GentleLimeMeara {
+    _hidden_value = true
+  }
+  CivilApricotFredelia = "Why do birds fly south for the winter? Because it's too far to walk."
+  GorgeousPlumRickie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StraightEmeraldCindy = false
+  SplendidCyanMoreen = true
+  UrgentAmethystAvis = 808
+  _hidden_value = true
+}

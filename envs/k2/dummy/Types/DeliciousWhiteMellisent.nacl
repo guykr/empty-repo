@@ -1,0 +1,100 @@
+type dummy.DeliciousWhiteMellisent {
+  annotations {
+    string CorporateYellowLacy {
+    }
+    serviceid GayCyanCalida {
+    }
+    serviceid PurringYellowKaterina {
+    }
+    json ControlledBronzeLorraine {
+    }
+  }
+  boolean AbovePeachNerita {
+    _hidden_value = true
+  }
+  json ThoroughGoldBrynn {
+    _hidden_value = true
+  }
+  boolean FixedBeigeSher {
+    _hidden_value = true
+  }
+  string LengthyYellowJoan {
+    _hidden_value = true
+  }
+  boolean ResonantTurquoiseBlakelee {
+    _hidden_value = true
+  }
+  json EasternTanFredra {
+    _hidden_value = true
+  }
+  string BadBronzeSaree {
+    _hidden_value = true
+  }
+  number CivilianCrimsonChelsie {
+    _hidden_value = true
+  }
+  serviceid FoolishTealPearline {
+    _hidden_value = true
+  }
+  boolean GreekCopperCarolin {
+    _hidden_value = true
+  }
+  number HorribleCyanCami {
+    _hidden_value = true
+  }
+  number EconomicTealVita {
+    _hidden_value = true
+  }
+  string ForthcomingOliveLina {
+    _hidden_value = true
+  }
+  number DifferentTealViolante {
+    _hidden_value = true
+  }
+  serviceid PricklySapphireAnnecorinne {
+    _hidden_value = true
+  }
+  number NovelScarletMaxy {
+    _hidden_value = true
+  }
+  number ShiveringScarletAurore {
+    _hidden_value = true
+  }
+  "List<json>" RequiredMaroonLonni {
+    _hidden_value = true
+  }
+  dummy.EquivalentJadeCaria InsufficientAmethystMei {
+    ImpressiveCoralRoanne = 76
+    AwareScarletRhianon = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SimilarTealTova = 756
+    LazyJadeAlvina = 959
+    InsufficientBlushGertrude = "How come the stadium got hot after the game? Because all of the fans left."
+    PlasticPinkSidonia = "Why did the tomato blush? Because it saw the salad dressing."
+    HappyAmaranthRhianna = true
+    SolidFuchsiaOlivia = "Did you know that protons have mass? I didn't even know they were catholic."
+    EducationalJadeEdiva = "What do you call two barracuda fish?  A Pairacuda!"
+    RoughOliveKailey = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    MistyGrayCollete = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SatisfiedAmaranthCarilyn = 799
+    NarrowPinkMadeleine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShallowWhiteDahlia = "Why did the kid cross the playground? To get to the other slide."
+    RandomRedJolene = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  string LightAquaHedda {
+    _hidden_value = true
+  }
+  number HugeRedCherice {
+    _hidden_value = true
+  }
+  boolean UnlikelyYellowFarra {
+    _hidden_value = true
+  }
+  CorporateYellowLacy = "Slept like a log last night  woke up in the fireplace."
+  GayCyanCalida = "Did you know that protons have mass? I didn't even know they were catholic."
+  PurringYellowKaterina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ControlledBronzeLorraine = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

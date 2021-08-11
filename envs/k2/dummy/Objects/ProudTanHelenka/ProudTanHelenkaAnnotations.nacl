@@ -1,0 +1,58 @@
+type dummy.ProudTanHelenka {
+  annotations {
+    dummy.IntegratedMoccasinClarissa EducationalTealJaimie {
+    }
+    string HeadFuchsiaTildy {
+    }
+    string DomesticVioletZorana {
+    }
+    number SureIvoryTraci {
+    }
+    string FunnyGrayIlene {
+    }
+    serviceid CarefulLavenderShir {
+    }
+    string SecretOrangeGratiana {
+    }
+    number DampBlackUta {
+    }
+    string HistoricVioletMelonie {
+    }
+    number InterestingBrownAmelita {
+    }
+    boolean MonetarySilverMora {
+    }
+    json HuskyYellowBrear {
+    }
+    boolean PossibleGrayFanny {
+    }
+    number HeadBlushCamile {
+    }
+    boolean NovelLavenderMisti {
+    }
+    number DrunkTanZelma {
+    }
+    boolean SurvivingYellowOlympie {
+    }
+    string HorizontalIvoryZenia {
+    }
+  }
+  EducationalTealJaimie = 515
+  HeadFuchsiaTildy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DomesticVioletZorana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SureIvoryTraci = 449
+  FunnyGrayIlene = "How come the stadium got hot after the game? Because all of the fans left."
+  CarefulLavenderShir = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SecretOrangeGratiana = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DampBlackUta = 133
+  HistoricVioletMelonie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  InterestingBrownAmelita = 478
+  MonetarySilverMora = false
+  HuskyYellowBrear = "Why did the kid cross the playground? To get to the other slide."
+  PossibleGrayFanny = true
+  HeadBlushCamile = 242
+  NovelLavenderMisti = true
+  DrunkTanZelma = 50
+  SurvivingYellowOlympie = false
+  HorizontalIvoryZenia = "Slept like a log last night  woke up in the fireplace."
+}

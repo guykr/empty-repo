@@ -1,0 +1,38 @@
+type dummy.GladGoldDanit {
+  annotations {
+    serviceid ExtensiveCyanAngel {
+    }
+    json UnwillingPinkNanette {
+    }
+    serviceid DiplomaticChocolateWilma {
+    }
+    string CrazyBlueRaeann {
+    }
+    serviceid MinisterialAquaValerye {
+    }
+  }
+  json SymbolicTealAnnette {
+    _hidden_value = true
+  }
+  boolean FaintPinkLorie {
+    _hidden_value = true
+  }
+  number MatureEmeraldDedra {
+    _hidden_value = true
+  }
+  json AbstractYellowTanya {
+    _hidden_value = true
+  }
+  number StaticSalmonMarti {
+    _hidden_value = true
+  }
+  serviceid DrabEmeraldAudre {
+    _hidden_value = true
+  }
+  ExtensiveCyanAngel = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnwillingPinkNanette = "Why is Peter Pan always flying? Because he Neverlands."
+  DiplomaticChocolateWilma = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CrazyBlueRaeann = "To be Frank, I'd have to change my name."
+  MinisterialAquaValerye = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

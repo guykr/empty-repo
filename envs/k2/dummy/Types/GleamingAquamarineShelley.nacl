@@ -1,0 +1,35 @@
+type dummy.GleamingAquamarineShelley {
+  annotations {
+    number GermanBlueAbigale {
+    }
+    string LimitedBrownAindrea {
+    }
+    json DisgustedGreenGertrud {
+    }
+    boolean FunnyRedTasia {
+    }
+    serviceid ArtificialVioletEmilie {
+    }
+    string UnevenChocolatePooh {
+    }
+  }
+  boolean CrudeBlushOliy {
+    _hidden_value = true
+  }
+  number BritishPeachGisele {
+    _hidden_value = true
+  }
+  number LateLavenderKarena {
+    _hidden_value = true
+  }
+  number BrokenLimeEmeline {
+    _hidden_value = true
+  }
+  GermanBlueAbigale = 185
+  LimitedBrownAindrea = "Why did the tomato blush? Because it saw the salad dressing."
+  DisgustedGreenGertrud = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FunnyRedTasia = true
+  ArtificialVioletEmilie = "Why did the kid cross the playground? To get to the other slide."
+  UnevenChocolatePooh = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

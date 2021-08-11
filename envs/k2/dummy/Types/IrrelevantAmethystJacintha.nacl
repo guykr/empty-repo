@@ -1,0 +1,23 @@
+type dummy.IrrelevantAmethystJacintha {
+  annotations {
+    string QualifiedVioletLynette {
+    }
+    string ExtremeSapphireRachelle {
+    }
+    json TroubledMaroonMeggie {
+    }
+    number HelpfulSilverMarne {
+    }
+    serviceid BigSapphireDoti {
+    }
+  }
+  number SurroundingAquamarineAeriela {
+    _hidden_value = true
+  }
+  QualifiedVioletLynette = "To be Frank, I'd have to change my name."
+  ExtremeSapphireRachelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TroubledMaroonMeggie = "Why is Peter Pan always flying? Because he Neverlands."
+  HelpfulSilverMarne = 528
+  BigSapphireDoti = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

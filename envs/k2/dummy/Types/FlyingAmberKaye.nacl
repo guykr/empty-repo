@@ -1,0 +1,76 @@
+type dummy.FlyingAmberKaye {
+  annotations {
+    serviceid LoudCrimsonPatrizia {
+    }
+    serviceid FunctionalAquamarineCecilia {
+    }
+    string UncomfortablePlumVanna {
+    }
+    json VariousCopperAngelia {
+    }
+    number ProspectiveTomatoJuli {
+    }
+    boolean TechnicalBlushCodi {
+    }
+    dummy.DEFAULT SecondaryMoccasinFilippa {
+    }
+    json MonthlyPurpleAlissa {
+    }
+  }
+  boolean ComparativeBlushValery {
+    _hidden_value = true
+  }
+  boolean FastBrownAnne {
+    _hidden_value = true
+  }
+  json MolecularMagentaLissa {
+    _hidden_value = true
+  }
+  "Map<string>" UnderlyingVioletClarey {
+    _hidden_value = true
+  }
+  number ResidentialHarlequinCoralyn {
+    _hidden_value = true
+  }
+  number ProvincialGoldMaribelle {
+    _hidden_value = true
+  }
+  string InternationalFuchsiaMargaretta {
+    _hidden_value = true
+  }
+  boolean IdealAquaAdelind {
+    _hidden_value = true
+  }
+  json ConservativeTurquoiseKasey {
+    _hidden_value = true
+  }
+  json UnexpectedPurpleAllene {
+    _hidden_value = true
+  }
+  json SurvivingAmethystJacklin {
+    _hidden_value = true
+  }
+  number GiganticScarletWendy {
+    _hidden_value = true
+  }
+  number YoungTealTheressa {
+    _hidden_value = true
+  }
+  serviceid RoughOrangeAnnissa {
+    _hidden_value = true
+  }
+  serviceid PrincipalBronzeDionne {
+    _hidden_value = true
+  }
+  LoudCrimsonPatrizia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FunctionalAquamarineCecilia = "To be Frank, I'd have to change my name."
+  UncomfortablePlumVanna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VariousCopperAngelia = "Why did the kid cross the playground? To get to the other slide."
+  ProspectiveTomatoJuli = 649
+  TechnicalBlushCodi = false
+  SecondaryMoccasinFilippa = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  MonthlyPurpleAlissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

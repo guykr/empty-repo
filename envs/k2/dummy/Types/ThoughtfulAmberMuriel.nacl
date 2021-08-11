@@ -1,0 +1,47 @@
+type dummy.ThoughtfulAmberMuriel {
+  annotations {
+    boolean EvilMoccasinBibby {
+    }
+    json DifficultBlueDenice {
+    }
+    string SlowRoseKattie {
+    }
+    boolean StupidPurpleOpalina {
+    }
+  }
+  dummy.DEFAULT MassiveMoccasinDulsea {
+    _hidden_value = true
+  }
+  number UnnecessaryCoffeeCatriona {
+    _hidden_value = true
+  }
+  number InappropriateGoldVirginie {
+    _hidden_value = true
+  }
+  number OrangeLimeFancy {
+    _hidden_value = true
+  }
+  number ImportantRedMariana {
+    _hidden_value = true
+  }
+  number ZanyTomatoCorenda {
+    _hidden_value = true
+  }
+  number JitteryBlackInge {
+    _hidden_value = true
+  }
+  serviceid PlainHarlequinCelestyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlackVioletRomona {
+    _hidden_value = true
+  }
+  json StingyOrangeDedra {
+    _hidden_value = true
+  }
+  EvilMoccasinBibby = true
+  DifficultBlueDenice = "To be Frank, I'd have to change my name."
+  SlowRoseKattie = "Why didnt the skeleton cross the road? Because he had no guts."
+  StupidPurpleOpalina = true
+  _hidden_value = true
+}

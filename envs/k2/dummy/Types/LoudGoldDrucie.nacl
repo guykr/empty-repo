@@ -1,0 +1,46 @@
+type dummy.LoudGoldDrucie {
+  annotations {
+    dummy.StructuralChocolateMeggie AdministrativeTanZonnya {
+    }
+    serviceid InnocentCrimsonChelsy {
+    }
+    string HungryLimeRetha {
+    }
+    dummy.DEFAULT PrettyPlumCarrie {
+    }
+    number EuropeanCoralTessa {
+    }
+    serviceid NearAquaTommy {
+    }
+  }
+  json NeighbouringBronzeTarah {
+    _hidden_value = true
+  }
+  json IntellectualScarletDeni {
+    _hidden_value = true
+  }
+  boolean WarmIndigoDarcy {
+    _hidden_value = true
+  }
+  string YoungAmaranthJilleen {
+    _hidden_value = true
+  }
+  serviceid GreasyAmberJolyn {
+    _hidden_value = true
+  }
+  string SurroundingGoldRora {
+    _hidden_value = true
+  }
+  serviceid ModerateVioletTherese {
+    _hidden_value = true
+  }
+  AdministrativeTanZonnya = 470
+  InnocentCrimsonChelsy = "Whoever invented the knock-knock joke should get a no bell prize."
+  HungryLimeRetha = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PrettyPlumCarrie = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  EuropeanCoralTessa = 625
+  NearAquaTommy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

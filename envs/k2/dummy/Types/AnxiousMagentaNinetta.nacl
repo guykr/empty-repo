@@ -1,0 +1,65 @@
+type dummy.AnxiousMagentaNinetta {
+  annotations {
+    serviceid GreatPurpleLoralie {
+    }
+    serviceid LoyalPeachKakalina {
+    }
+    number SteepMaroonReina {
+    }
+    serviceid TurkishOrangeBliss {
+    }
+    boolean SickBlackJacintha {
+    }
+    json DeterminedBronzeGoldarina {
+    }
+  }
+  number ArrogantMaroonRuby {
+    _hidden_value = true
+  }
+  serviceid WorthyWhiteDiann {
+    _hidden_value = true
+  }
+  number HandicappedCoralYolanthe {
+    _hidden_value = true
+  }
+  number FullGreenLeann {
+    _hidden_value = true
+  }
+  serviceid PregnantBlackRuthie {
+    _hidden_value = true
+  }
+  json ProfessionalAmaranthMaris {
+    _hidden_value = true
+  }
+  json AggregateLimeJourdan {
+    _hidden_value = true
+  }
+  serviceid CivilTomatoJaquith {
+    _hidden_value = true
+  }
+  number DomesticBlackTessie {
+    _hidden_value = true
+  }
+  string EnviousBrownMuriel {
+    _hidden_value = true
+  }
+  serviceid ContinentalIvoryPamella {
+    _hidden_value = true
+  }
+  serviceid UnfortunateCopperDebi {
+    _hidden_value = true
+  }
+  "List<serviceid>" UnderlyingApricotGeneva {
+    _hidden_value = true
+  }
+  number RareCrimsonAnabella {
+    _hidden_value = true
+  }
+  GreatPurpleLoralie = "A steak pun is a rare medium well done."
+  LoyalPeachKakalina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SteepMaroonReina = 443
+  TurkishOrangeBliss = "Im only familiar with 25 letters in the English language. I dont know why."
+  SickBlackJacintha = false
+  DeterminedBronzeGoldarina = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

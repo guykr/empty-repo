@@ -1,0 +1,56 @@
+type dummy.ScreechingCoffeeLayney {
+  annotations {
+    serviceid TallRedNinette {
+    }
+    json TremendousPlumReba {
+    }
+    number WetBlueSadella {
+    }
+    json CrazyRedClaresta {
+    }
+  }
+  serviceid ContinuedOrangeIvette {
+    _hidden_value = true
+  }
+  boolean DisabledScarletKlara {
+    _hidden_value = true
+  }
+  number TinyMaroonRoanna {
+    _hidden_value = true
+  }
+  number MysteriousPlumSydel {
+    _hidden_value = true
+  }
+  string LostBeigeRoby {
+    _hidden_value = true
+  }
+  json ImprovedBlushJuline {
+    _hidden_value = true
+  }
+  json EasyAmethystVeda {
+    _hidden_value = true
+  }
+  serviceid ColonialBlueLeora {
+    _hidden_value = true
+  }
+  boolean HelplessTealLorenza {
+    _hidden_value = true
+  }
+  serviceid IncredibleIndigoCathleen {
+    _hidden_value = true
+  }
+  boolean MightyIndigoMatti {
+    _hidden_value = true
+  }
+  string GastricSapphireShaylynn {
+    _hidden_value = true
+  }
+  string ZanyMoccasinBerni {
+    _hidden_value = true
+  }
+  TallRedNinette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  TremendousPlumReba = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WetBlueSadella = 129
+  CrazyRedClaresta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

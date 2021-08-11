@@ -1,0 +1,40 @@
+type dummy.BrokenPeachReeba {
+  annotations {
+    string AttractiveCoffeeAgata {
+    }
+    boolean FreshOliveJammie {
+    }
+    number IndustrialAmethystJosephine {
+    }
+    serviceid SophisticatedYellowMorgen {
+    }
+    dummy.DEFAULT WellChocolateMalina {
+    }
+    string DeafeningSapphireHulda {
+    }
+  }
+  json AnxiousCoffeeAlexina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LoyalYellowNariko {
+    _hidden_value = true
+  }
+  boolean ConcernedTanCatherin {
+    _hidden_value = true
+  }
+  serviceid SeriousAzureTeddy {
+    _hidden_value = true
+  }
+  boolean BurningCyanAndi {
+    _hidden_value = true
+  }
+  AttractiveCoffeeAgata = "How come the stadium got hot after the game? Because all of the fans left."
+  FreshOliveJammie = false
+  IndustrialAmethystJosephine = 961
+  SophisticatedYellowMorgen = "Dad Im hungry  Hi hungry Im dad"
+  WellChocolateMalina = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  DeafeningSapphireHulda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

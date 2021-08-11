@@ -1,0 +1,101 @@
+type dummy.SwissTanLucila {
+  annotations {
+    boolean SquealingTomatoLezlie {
+    }
+    string RottenMaroonMaddy {
+    }
+    string WildBrownPrudi {
+    }
+    serviceid RomanticPurpleMelva {
+    }
+    string RenewedOliveHeddie {
+    }
+    serviceid MysteriousScarletJeri {
+    }
+  }
+  serviceid CivilianFuchsiaRaynell {
+    _hidden_value = true
+  }
+  serviceid SignificantAmaranthKyle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FashionableLavenderStephi {
+    _hidden_value = true
+  }
+  string SuccessfulOliveAnabel {
+    _hidden_value = true
+  }
+  string ScreechingHarlequinAvivah {
+    _hidden_value = true
+  }
+  string FixedVioletFarah {
+    _hidden_value = true
+  }
+  serviceid SharedTanArielle {
+    _hidden_value = true
+  }
+  "List<serviceid>" RelaxedCrimsonMichele {
+    _hidden_value = true
+  }
+  boolean WetMoccasinSharona {
+    _hidden_value = true
+  }
+  boolean PositivePlumMargi {
+    _hidden_value = true
+  }
+  string IntactBronzeElianora {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" CasualHarlequinCherilyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeirdAmaranthCherry {
+    _hidden_value = true
+  }
+  boolean DirtyYellowFleurette {
+    _hidden_value = true
+  }
+  json SuccessfulMagentaRow {
+    _hidden_value = true
+  }
+  json FierceCopperDulcie {
+    _hidden_value = true
+  }
+  number WesternBeigeAdella {
+    _hidden_value = true
+  }
+  number AbundantSalmonJanaya {
+    _hidden_value = true
+  }
+  boolean OrangeBeigeAnnette {
+    _hidden_value = true
+  }
+  json TinyAmethystBrigitta {
+    _hidden_value = true
+  }
+  serviceid LiberalBlackAllison {
+    _hidden_value = true
+  }
+  serviceid HeadTomatoGarnette {
+    _hidden_value = true
+  }
+  serviceid SupposedTealMeridel {
+    _hidden_value = true
+  }
+  serviceid GrotesqueMoccasinHana {
+    _hidden_value = true
+  }
+  serviceid CorrespondingChocolateGwendolin {
+    _hidden_value = true
+  }
+  boolean FuriousBrownClem {
+    _hidden_value = true
+  }
+  SquealingTomatoLezlie = true
+  RottenMaroonMaddy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WildBrownPrudi = "What creature is smarter than a talking parrot? A spelling bee."
+  RomanticPurpleMelva = "Why was it called the dark ages? Because of all the knights. "
+  RenewedOliveHeddie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MysteriousScarletJeri = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

@@ -1,0 +1,52 @@
+type dummy.GentleAquaRanice {
+  annotations {
+    boolean LesserPlumIvory {
+    }
+    serviceid MetropolitanTanCarie {
+    }
+    number VulnerableCoffeeAra {
+    }
+    serviceid WittyBeigeGiselle {
+    }
+    serviceid ValuableAmberNani {
+    }
+    dummy.InlandGreenSarene PracticalAzureMarcile {
+    }
+    string DefiniteRoseFenelia {
+    }
+    number ResultingAmaranthMissy {
+    }
+    number ShiveringAquamarinePauletta {
+    }
+    dummy.SoundAmaranthImelda WateryFuchsiaEdythe {
+    }
+    boolean WelshBlushShirlee {
+    }
+    json JointBrownJade {
+    }
+    number ElectricAmaranthDniren {
+    }
+    serviceid BitterGrayRalina {
+    }
+    string CourageousIndigoErika {
+    }
+    number ClosePeachBrittan {
+    }
+  }
+  LesserPlumIvory = true
+  MetropolitanTanCarie = "Why is Peter Pan always flying? Because he Neverlands."
+  VulnerableCoffeeAra = 367
+  WittyBeigeGiselle = "Whoever invented the knock-knock joke should get a no bell prize."
+  ValuableAmberNani = "How come the stadium got hot after the game? Because all of the fans left."
+  PracticalAzureMarcile = false
+  DefiniteRoseFenelia = "A steak pun is a rare medium well done."
+  ResultingAmaranthMissy = 593
+  ShiveringAquamarinePauletta = 677
+  WateryFuchsiaEdythe = 675
+  WelshBlushShirlee = false
+  JointBrownJade = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ElectricAmaranthDniren = 636
+  BitterGrayRalina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CourageousIndigoErika = "Did you know that protons have mass? I didn't even know they were catholic."
+  ClosePeachBrittan = 763
+}

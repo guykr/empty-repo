@@ -1,0 +1,44 @@
+type dummy.CasualAzureMavis {
+  annotations {
+    string RespectiveTurquoiseEllissa {
+    }
+    number CommunistWhiteIbby {
+    }
+    number ImplicitJadeLeticia {
+    }
+    boolean PainfulSilverRebeca {
+    }
+    string CoherentLimeGrata {
+    }
+    number DoubtfulPlumPhillida {
+    }
+  }
+  number SadChocolateTalya {
+    _hidden_value = true
+  }
+  number InnocentScarletNevsa {
+    _hidden_value = true
+  }
+  json BumpyMaroonTessi {
+    _hidden_value = true
+  }
+  json PhysicalMagentaCecilla {
+    _hidden_value = true
+  }
+  boolean EncouragingBronzeChanda {
+    _hidden_value = true
+  }
+  json LegalGoldDianemarie {
+    _hidden_value = true
+  }
+  string AdjacentAmaranthSimone {
+    _hidden_value = true
+  }
+  RespectiveTurquoiseEllissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CommunistWhiteIbby = 884
+  ImplicitJadeLeticia = 675
+  PainfulSilverRebeca = true
+  CoherentLimeGrata = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DoubtfulPlumPhillida = 340
+  _hidden_value = true
+}

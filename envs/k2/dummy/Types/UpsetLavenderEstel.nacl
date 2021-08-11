@@ -1,0 +1,20 @@
+type dummy.UpsetLavenderEstel {
+  annotations {
+    json RevolutionaryPinkDarline {
+    }
+    string WhisperingEmeraldAlexandra {
+    }
+    dummy.ExclusiveEmeraldCorrine FitAquaIssie {
+    }
+    string SolarCoralChastity {
+    }
+  }
+  number AlertGrayMellicent {
+    _hidden_value = true
+  }
+  RevolutionaryPinkDarline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WhisperingEmeraldAlexandra = "How come the stadium got hot after the game? Because all of the fans left."
+  FitAquaIssie = 574
+  SolarCoralChastity = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

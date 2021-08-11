@@ -1,0 +1,31 @@
+type dummy.RacialSilverNorah {
+  annotations {
+    json PurpleGoldCarolynn {
+    }
+    string AsianVioletRicca {
+    }
+    dummy.DEFAULT DominantBlackDory {
+    }
+    json CapableRedRegan {
+    }
+    boolean DreadfulOrangeOdele {
+    }
+    json AliveBlushAilyn {
+    }
+    boolean InternationalYellowKori {
+    }
+  }
+  number ViolentLavenderIvy {
+    _hidden_value = true
+  }
+  PurpleGoldCarolynn = "To be Frank, I'd have to change my name."
+  AsianVioletRicca = "Slept like a log last night  woke up in the fireplace."
+  DominantBlackDory = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  CapableRedRegan = "Whoever invented the knock-knock joke should get a no bell prize."
+  DreadfulOrangeOdele = true
+  AliveBlushAilyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  InternationalYellowKori = false
+  _hidden_value = true
+}

@@ -1,0 +1,44 @@
+type dummy.SystematicAquaOrly {
+  annotations {
+    boolean UpsetCrimsonDebby {
+    }
+    boolean DangerousAquamarineLoria {
+    }
+    json StableCrimsonAilina {
+    }
+    string SoreEmeraldHyacintha {
+    }
+    string FairPurpleJsandye {
+    }
+  }
+  json PowerfulCrimsonDoreen {
+    _hidden_value = true
+  }
+  json ControversialYellowEmmey {
+    _hidden_value = true
+  }
+  number VariableApricotDarlene {
+    _hidden_value = true
+  }
+  number DryBlueMegan {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShortBeigeKimmi {
+    _hidden_value = true
+  }
+  json HotCoralRomola {
+    _hidden_value = true
+  }
+  "List<number>" SecondaryCoffeeNerissa {
+    _hidden_value = true
+  }
+  boolean PlainAmaranthAtlanta {
+    _hidden_value = true
+  }
+  UpsetCrimsonDebby = true
+  DangerousAquamarineLoria = true
+  StableCrimsonAilina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SoreEmeraldHyacintha = "Im only familiar with 25 letters in the English language. I dont know why."
+  FairPurpleJsandye = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

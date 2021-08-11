@@ -1,0 +1,47 @@
+type dummy.AsleepPinkKeri {
+  annotations {
+    string AliveBronzeRonnica {
+    }
+    serviceid IndividualBlackKym {
+    }
+    serviceid BlackAmethystKalli {
+    }
+    json SupposedMaroonAnne {
+    }
+    string SlimyOrangeChrissy {
+    }
+    json BlondeTomatoTarra {
+    }
+  }
+  number StraightApricotAndriette {
+    _hidden_value = true
+  }
+  string DeadGreenShawn {
+    _hidden_value = true
+  }
+  serviceid VoluntaryGreenValma {
+    _hidden_value = true
+  }
+  number FrightenedCyanCordie {
+    _hidden_value = true
+  }
+  string JointMagentaOphelie {
+    _hidden_value = true
+  }
+  boolean FashionableCoralArabelle {
+    _hidden_value = true
+  }
+  string DelightfulMaroonNerta {
+    _hidden_value = true
+  }
+  number SquareSilverOona {
+    _hidden_value = true
+  }
+  AliveBronzeRonnica = "What do you do on a remote island? Try and find the TV island it belongs to."
+  IndividualBlackKym = "Why didnt the skeleton cross the road? Because he had no guts."
+  BlackAmethystKalli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SupposedMaroonAnne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SlimyOrangeChrissy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BlondeTomatoTarra = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

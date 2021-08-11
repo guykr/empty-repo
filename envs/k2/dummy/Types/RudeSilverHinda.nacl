@@ -1,0 +1,65 @@
+type dummy.RudeSilverHinda {
+  annotations {
+    json RealisticAmaranthHedwig {
+    }
+    serviceid RemoteApricotMelitta {
+    }
+    boolean LoosePlumAbagael {
+    }
+    boolean ComplexTealDeeanne {
+    }
+    number ElderlyAmberAlyse {
+    }
+    string LongBlueAdeline {
+    }
+  }
+  json PoliteSalmonCharil {
+    _hidden_value = true
+  }
+  number ExcitedBrownKaela {
+    _hidden_value = true
+  }
+  serviceid RoughCoffeeRosabella {
+    _hidden_value = true
+  }
+  serviceid MutualCrimsonBeatrisa {
+    _hidden_value = true
+  }
+  boolean StickyJadeRobina {
+    _hidden_value = true
+  }
+  serviceid EnormousGrayTomi {
+    _hidden_value = true
+  }
+  boolean SpottyCoralTina {
+    _hidden_value = true
+  }
+  json SmoothTanCilka {
+    _hidden_value = true
+  }
+  json AnonymousMagentaGarnet {
+    _hidden_value = true
+  }
+  "List<json>" ZanyPeachTandie {
+    _hidden_value = true
+  }
+  serviceid MechanicalVioletAnalise {
+    _hidden_value = true
+  }
+  json RetiredTealPhilly {
+    _hidden_value = true
+  }
+  boolean GayFuchsiaNicolina {
+    _hidden_value = true
+  }
+  number ComfortableBlackFelisha {
+    _hidden_value = true
+  }
+  RealisticAmaranthHedwig = "Dad Im hungry  Hi hungry Im dad"
+  RemoteApricotMelitta = "I'll tell you what often gets over looked... garden fences."
+  LoosePlumAbagael = false
+  ComplexTealDeeanne = true
+  ElderlyAmberAlyse = 592
+  LongBlueAdeline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

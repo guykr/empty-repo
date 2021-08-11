@@ -1,0 +1,38 @@
+type dummy.SleepyAzureTobey {
+  annotations {
+    boolean WonderfulJadeCoriss {
+    }
+    boolean TinyAmaranthLina {
+    }
+    string FutureYellowDorene {
+    }
+    serviceid CostlyBlushBenny {
+    }
+    number ReliableEmeraldAlejandrina {
+    }
+    string MassWhiteCaryl {
+    }
+  }
+  serviceid TiredMoccasinAbagael {
+    _hidden_value = true
+  }
+  serviceid UnconsciousCoralTrix {
+    _hidden_value = true
+  }
+  boolean ActiveEmeraldAugusta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightBronzeCorinne {
+    _hidden_value = true
+  }
+  json WidespreadSapphireAllis {
+    _hidden_value = true
+  }
+  WonderfulJadeCoriss = false
+  TinyAmaranthLina = false
+  FutureYellowDorene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CostlyBlushBenny = "Why was it called the dark ages? Because of all the knights. "
+  ReliableEmeraldAlejandrina = 249
+  MassWhiteCaryl = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

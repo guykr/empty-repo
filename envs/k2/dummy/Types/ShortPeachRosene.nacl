@@ -1,0 +1,50 @@
+type dummy.ShortPeachRosene {
+  annotations {
+    string CapitalistBrownAnnamaria {
+    }
+    string GiganticTurquoiseDanika {
+    }
+    number ApparentTurquoiseLenore {
+    }
+    number SwiftLavenderVania {
+    }
+    string FatTealDaria {
+    }
+    string RedCoralDruci {
+    }
+  }
+  json RoundAmberLexie {
+    _hidden_value = true
+  }
+  boolean StrictBronzeMei {
+    _hidden_value = true
+  }
+  serviceid VariedYellowBabs {
+    _hidden_value = true
+  }
+  json ForthcomingWhitePrue {
+    _hidden_value = true
+  }
+  json HelpfulRoseAila {
+    _hidden_value = true
+  }
+  json WorthyIndigoLeona {
+    _hidden_value = true
+  }
+  json RequiredPlumBlancha {
+    _hidden_value = true
+  }
+  boolean ElderlyLimeJaquenette {
+    _hidden_value = true
+  }
+  string SquareIndigoTamar {
+    _hidden_value = true
+  }
+  CapitalistBrownAnnamaria = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GiganticTurquoiseDanika = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ApparentTurquoiseLenore = 127
+  SwiftLavenderVania = 578
+  FatTealDaria = "I'll tell you what often gets over looked... garden fences."
+  RedCoralDruci = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

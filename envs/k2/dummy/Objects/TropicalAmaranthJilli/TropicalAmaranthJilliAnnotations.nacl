@@ -1,0 +1,57 @@
+type dummy.TropicalAmaranthJilli {
+  annotations {
+    boolean AccusedPlumCarol {
+    }
+    string MushyIvoryZonda {
+    }
+    json MechanicalSapphireMarcelia {
+    }
+    json CommonChocolateHyacinthia {
+    }
+    string DisappointedPinkNaomi {
+    }
+    dummy.InlandLimeRubi NarrowTurquoiseKara {
+    }
+    string VoluntaryBlushAilina {
+    }
+    json ElectricalJadeEalasaid {
+    }
+    string DryWhiteReina {
+    }
+    json DelightedBlushAbbie {
+    }
+    number ScreechingMoccasinKakalina {
+    }
+    boolean CommunistVioletAudrye {
+    }
+    string StraightWhiteBeulah {
+    }
+    json ExpensivePlumKatherina {
+    }
+    json ShakyCrimsonFionna {
+    }
+    boolean NervousBlackClaudette {
+    }
+    json PanickyMagentaHeath {
+    }
+    dummy.KeyGreenMarieann UgliestMaroonOralle {
+    }
+  }
+  AccusedPlumCarol = false
+  MushyIvoryZonda = "Dad Im hungry  Hi hungry Im dad"
+  MechanicalSapphireMarcelia = "To be Frank, I'd have to change my name."
+  CommonChocolateHyacinthia = "What do you call two barracuda fish?  A Pairacuda!"
+  DisappointedPinkNaomi = "To be Frank, I'd have to change my name."
+  NarrowTurquoiseKara = 323
+  VoluntaryBlushAilina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ElectricalJadeEalasaid = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DryWhiteReina = "Dad Im hungry  Hi hungry Im dad"
+  DelightedBlushAbbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ScreechingMoccasinKakalina = 581
+  CommunistVioletAudrye = false
+  StraightWhiteBeulah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExpensivePlumKatherina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShakyCrimsonFionna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NervousBlackClaudette = false
+  PanickyMagentaHeath = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

@@ -1,0 +1,20 @@
+type dummy.LoudGreenWanids {
+  annotations {
+    number SoftCyanCheryl {
+    }
+    boolean ComplexLavenderBobby {
+    }
+    json PleasedBlushDierdre {
+    }
+    string SuccessfulSilverNonnah {
+    }
+  }
+  string SeriousApricotEmmalyn {
+    _hidden_value = true
+  }
+  SoftCyanCheryl = 550
+  ComplexLavenderBobby = true
+  PleasedBlushDierdre = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SuccessfulSilverNonnah = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

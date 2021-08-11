@@ -1,0 +1,23 @@
+type dummy.ConvincedRoseVerla {
+  annotations {
+    number ClassicalScarletSofia {
+    }
+    json PrettyOliveKylila {
+    }
+    serviceid ShortHarlequinFelice {
+    }
+    dummy.FirmAquaNicolea AgriculturalPinkNovelia {
+    }
+    json SlightEmeraldNell {
+    }
+  }
+  serviceid PregnantBlueDyane {
+    _hidden_value = true
+  }
+  ClassicalScarletSofia = 57
+  PrettyOliveKylila = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ShortHarlequinFelice = "I'll tell you what often gets over looked... garden fences."
+  AgriculturalPinkNovelia = false
+  SlightEmeraldNell = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

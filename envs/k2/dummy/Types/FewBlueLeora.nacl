@@ -1,0 +1,40 @@
+type dummy.FewBlueLeora {
+  annotations {
+    number HumanMoccasinRobbyn {
+    }
+    number MinimumOrangeEudora {
+    }
+    dummy.DEFAULT CondemnedAmaranthClaresta {
+    }
+    number ExpensivePlumEmiline {
+    }
+    json TameBrownAlmeta {
+    }
+    string TallCrimsonNicolle {
+    }
+  }
+  dummy.DEFAULT RespectiveCrimsonEmiline {
+    _hidden_value = true
+  }
+  number AliveCopperOdella {
+    _hidden_value = true
+  }
+  string ConfusedFuchsiaEleen {
+    _hidden_value = true
+  }
+  string CheerfulOrangeTobe {
+    _hidden_value = true
+  }
+  serviceid CheapOliveReena {
+    _hidden_value = true
+  }
+  HumanMoccasinRobbyn = 632
+  MinimumOrangeEudora = 187
+  CondemnedAmaranthClaresta = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  ExpensivePlumEmiline = 685
+  TameBrownAlmeta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TallCrimsonNicolle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

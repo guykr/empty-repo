@@ -1,0 +1,22 @@
+type dummy.NervousAquamarineDeidre {
+  annotations {
+    dummy.DEFAULT SuperbBeigeVictoria {
+    }
+    json SplendidPeachAlecia {
+    }
+    json UnlikelyBlueCharmion {
+    }
+    boolean DisciplinarySilverPeria {
+    }
+  }
+  boolean UnwillingOrangeBambie {
+    _hidden_value = true
+  }
+  SuperbBeigeVictoria = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  SplendidPeachAlecia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnlikelyBlueCharmion = "Slept like a log last night  woke up in the fireplace."
+  DisciplinarySilverPeria = true
+  _hidden_value = true
+}

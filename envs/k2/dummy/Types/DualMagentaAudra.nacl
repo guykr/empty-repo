@@ -1,0 +1,83 @@
+type dummy.DualMagentaAudra {
+  annotations {
+    json ShakyMaroonLenore {
+    }
+    boolean FavouriteTealCara {
+    }
+    json CoherentHarlequinMichelle {
+    }
+    string QualifiedBlueLeonelle {
+    }
+  }
+  dummy.DEFAULT ExtraCyanFlorrie {
+    _hidden_value = true
+  }
+  serviceid SelectLimeEma {
+    _hidden_value = true
+  }
+  number ThickSapphireJoby {
+    _hidden_value = true
+  }
+  serviceid DepressedAmaranthRhianna {
+    _hidden_value = true
+  }
+  number HollowSilverWendy {
+    _hidden_value = true
+  }
+  number UselessLimeMaxine {
+    _hidden_value = true
+  }
+  json OverallCyanCarita {
+    _hidden_value = true
+  }
+  string HeadLavenderIsis {
+    _hidden_value = true
+  }
+  serviceid LongIndigoMarketa {
+    _hidden_value = true
+  }
+  "Map<number>" MarginalAquaLanni {
+    _hidden_value = true
+  }
+  string DeafWhitePierette {
+    _hidden_value = true
+  }
+  boolean IslamicWhiteKass {
+    _hidden_value = true
+  }
+  boolean LegitimateYellowMillisent {
+    _hidden_value = true
+  }
+  json OutdoorScarletNeila {
+    _hidden_value = true
+  }
+  json MinimumCopperFlorry {
+    _hidden_value = true
+  }
+  "List<json>" JointMoccasinNancey {
+    _hidden_value = true
+  }
+  string SafeTurquoiseDarcie {
+    _hidden_value = true
+  }
+  json FrightenedAmaranthCorissa {
+    _hidden_value = true
+  }
+  serviceid CurlyOrangePaule {
+    _hidden_value = true
+  }
+  serviceid ScaredPlumDonny {
+    _hidden_value = true
+  }
+  string ScatteredGrayLory {
+    _hidden_value = true
+  }
+  serviceid LiberalTealMatilda {
+    _hidden_value = true
+  }
+  ShakyMaroonLenore = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FavouriteTealCara = false
+  CoherentHarlequinMichelle = "Im only familiar with 25 letters in the English language. I dont know why."
+  QualifiedBlueLeonelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

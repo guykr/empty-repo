@@ -1,0 +1,80 @@
+type dummy.SoftGreenBarbee {
+  annotations {
+    string SouthernMagentaPeria {
+    }
+    boolean ProtestantYellowHeidi {
+    }
+    serviceid FemaleMoccasinAmeline {
+    }
+    json IntegratedOrangeArabela {
+    }
+    number DamagedWhiteChiquita {
+    }
+    dummy.ShallowSalmonAdelaide FunJadeRosina {
+    }
+  }
+  json ProudWhiteJuditha {
+    _hidden_value = true
+  }
+  serviceid SpotlessGoldDarcie {
+    _hidden_value = true
+  }
+  string WhisperingCrimsonAlmeda {
+    _hidden_value = true
+  }
+  boolean SunnyWhiteViv {
+    _hidden_value = true
+  }
+  dummy.ExclusiveEmeraldCorrine DelicatePeachRici {
+    ContentAzureLindsay = true
+    FellowVioletSapphire = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LittleCrimsonRosina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DeafeningCyanCassandry = false
+    _hidden_value = true
+  }
+  boolean HandicappedRoseKelila {
+    _hidden_value = true
+  }
+  string InterestingMagentaLinn {
+    _hidden_value = true
+  }
+  serviceid FrontCopperJilly {
+    _hidden_value = true
+  }
+  json InstantCoralLacie {
+    _hidden_value = true
+  }
+  boolean UndergroundSapphireVan {
+    _hidden_value = true
+  }
+  "List<dummy.SparklingAmaranthLeone>" StrongHarlequinTabby {
+    PricklyPlumKatrine = 207
+    LivelyBlackIngeberg = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FiscalMaroonCassaundra = "Why didnt the skeleton cross the road? Because he had no guts."
+    IllegalLimeAshely = "Why was it called the dark ages? Because of all the knights. "
+    FirmIvoryBrigid = false
+    ZanyCoralBerri = "Whoever invented the knock-knock joke should get a no bell prize."
+    FunCoffeeOrelia = 535
+    KindCrimsonDeina = "Why do birds fly south for the winter? Because it's too far to walk."
+    GentleAquamarineSimonette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    InclinedBronzeJobey = true
+    BrightMoccasinMaia = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProposedHarlequinImelda {
+    _hidden_value = true
+  }
+  string DominantTealFrieda {
+    _hidden_value = true
+  }
+  boolean FluffySalmonZora {
+    _hidden_value = true
+  }
+  SouthernMagentaPeria = "To be Frank, I'd have to change my name."
+  ProtestantYellowHeidi = true
+  FemaleMoccasinAmeline = "Why didnt the skeleton cross the road? Because he had no guts."
+  IntegratedOrangeArabela = "Im only familiar with 25 letters in the English language. I dont know why."
+  DamagedWhiteChiquita = 637
+  FunJadeRosina = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

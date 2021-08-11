@@ -1,0 +1,76 @@
+type dummy.RearCoralGennie {
+  annotations {
+    string InternalHarlequinHetti {
+    }
+    string WhiteFuchsiaTrish {
+    }
+    number CleverSilverGeneva {
+    }
+    dummy.SmallPlumLiana FormalAmberYovonnda {
+    }
+    string TenseBlackClarisse {
+    }
+    string SupposedHarlequinLucretia {
+    }
+    number MajorChocolateLatia {
+    }
+    boolean DefensiveAmethystNikolia {
+    }
+  }
+  serviceid OpenBlueLelia {
+    _hidden_value = true
+  }
+  dummy.SoundAmaranthImelda LoudMagentaKarin {
+    JollyAmethystPetronille = "Why did the kid cross the playground? To get to the other slide."
+    SaltyOrangeMaribeth = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LazyPlumStafani = "How come the stadium got hot after the game? Because all of the fans left."
+    MightyTomatoEzmeralda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MiserableChocolateFaina = 780
+    RespectableJadeAgatha = "Why do birds fly south for the winter? Because it's too far to walk."
+    DelightedSalmonArlene = "Slept like a log last night  woke up in the fireplace."
+    RepulsivePlumMarcella = "I'll tell you what often gets over looked... garden fences."
+    IslamicFuchsiaAidan = true
+    RainyGreenMalia = false
+    HomelessWhiteMathilde = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MammothSalmonEsme = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TanRoseCamellia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FlutteringTealHester = 841
+    EagerMagentaRoslyn = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    IntensivePurpleBarbabra = 163
+    WidespreadIvoryIdelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ImprovedWhiteRicca = "Why do birds fly south for the winter? Because it's too far to walk."
+    UltimateBrownSusana = "Why is Peter Pan always flying? Because he Neverlands."
+    DepressedFuchsiaCordula = false
+    InteriorTurquoiseCharyl = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuperBronzeMarijo {
+    _hidden_value = true
+  }
+  number FrenchCoffeeLetitia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NutritiousAzureMarta {
+    _hidden_value = true
+  }
+  "List<json>" CrazyRedVivyan {
+    _hidden_value = true
+  }
+  string WonderfulAquamarineMandy {
+    _hidden_value = true
+  }
+  string RightFuchsiaHilda {
+    _hidden_value = true
+  }
+  InternalHarlequinHetti = "Why didnt the skeleton cross the road? Because he had no guts."
+  WhiteFuchsiaTrish = "How come the stadium got hot after the game? Because all of the fans left."
+  CleverSilverGeneva = 553
+  FormalAmberYovonnda = true
+  TenseBlackClarisse = "Why was it called the dark ages? Because of all the knights. "
+  SupposedHarlequinLucretia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MajorChocolateLatia = 652
+  DefensiveAmethystNikolia = true
+  _hidden_value = true
+}

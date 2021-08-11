@@ -1,0 +1,26 @@
+type dummy.GoodGreenSharla {
+  annotations {
+    boolean PermanentCoralGlad {
+    }
+    json ReducedGreenSella {
+    }
+    serviceid ExoticPeachFayre {
+    }
+    dummy.OrthodoxEmeraldFelicity HugeBlackErnesta {
+    }
+    boolean ScottishSilverGermaine {
+    }
+    serviceid IrishAmberRetha {
+    }
+  }
+  number CheapSapphireMarley {
+    _hidden_value = true
+  }
+  PermanentCoralGlad = false
+  ReducedGreenSella = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ExoticPeachFayre = "To be Frank, I'd have to change my name."
+  HugeBlackErnesta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ScottishSilverGermaine = true
+  IrishAmberRetha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

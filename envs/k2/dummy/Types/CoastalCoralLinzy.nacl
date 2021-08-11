@@ -1,0 +1,38 @@
+type dummy.CoastalCoralLinzy {
+  annotations {
+    json TraditionalHarlequinLoralyn {
+    }
+    number FrightenedSalmonGeorgie {
+    }
+    boolean ThoughtlessFuchsiaAnica {
+    }
+    string ElatedAmberJess {
+    }
+    serviceid FatIndigoNanine {
+    }
+    dummy.InlandLimeRubi AppropriateRoseBeryl {
+    }
+  }
+  boolean OrthodoxAmethystLenee {
+    _hidden_value = true
+  }
+  json GrimCopperSonni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HugeTealEuphemia {
+    _hidden_value = true
+  }
+  json FilthyOrangeDaffi {
+    _hidden_value = true
+  }
+  boolean SteepAzureHyacinth {
+    _hidden_value = true
+  }
+  TraditionalHarlequinLoralyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FrightenedSalmonGeorgie = 49
+  ThoughtlessFuchsiaAnica = false
+  ElatedAmberJess = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FatIndigoNanine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AppropriateRoseBeryl = 925
+  _hidden_value = true
+}

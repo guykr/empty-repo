@@ -1,0 +1,65 @@
+type dummy.EntireBlackMarion {
+  annotations {
+    boolean InvisibleAmberJanice {
+    }
+    json GrotesqueIvoryNisse {
+    }
+    string DomesticBrownDela {
+    }
+    number PrimeChocolateSaree {
+    }
+    json BusyAzureGiorgia {
+    }
+    boolean EasyLavenderAnnis {
+    }
+  }
+  number SadOliveBren {
+    _hidden_value = true
+  }
+  boolean ReasonableBlackWanids {
+    _hidden_value = true
+  }
+  boolean PurringCrimsonAlicea {
+    _hidden_value = true
+  }
+  boolean AlivePurpleLorri {
+    _hidden_value = true
+  }
+  string VastCyanSharia {
+    _hidden_value = true
+  }
+  string RegularCoralMarian {
+    _hidden_value = true
+  }
+  string StatutoryAmberNessie {
+    _hidden_value = true
+  }
+  boolean NeatTurquoiseCorinna {
+    _hidden_value = true
+  }
+  string RobustYellowRosemonde {
+    _hidden_value = true
+  }
+  number InternalPlumLizzie {
+    _hidden_value = true
+  }
+  number AcceptableBeigeJacquelin {
+    _hidden_value = true
+  }
+  string RichSalmonElenore {
+    _hidden_value = true
+  }
+  boolean RelevantAmaranthVanda {
+    _hidden_value = true
+  }
+  string JuniorBronzePaige {
+    _hidden_value = true
+  }
+  InvisibleAmberJanice = true
+  GrotesqueIvoryNisse = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DomesticBrownDela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PrimeChocolateSaree = 119
+  BusyAzureGiorgia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EasyLavenderAnnis = true
+  _hidden_value = true
+}

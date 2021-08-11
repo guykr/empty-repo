@@ -1,0 +1,38 @@
+type dummy.TerribleLimeAilyn {
+  annotations {
+    boolean AnnualCoffeeShirlee {
+    }
+    json DullAquamarineGretchen {
+    }
+    serviceid RigidTealDatha {
+    }
+    json ThunderingIvoryErika {
+    }
+    boolean ClosedHarlequinOlenka {
+    }
+    json ChristianJadeLeonora {
+    }
+  }
+  json InnerFuchsiaMaren {
+    _hidden_value = true
+  }
+  string YoungHarlequinTimmi {
+    _hidden_value = true
+  }
+  json DiplomaticGrayJacky {
+    _hidden_value = true
+  }
+  number ResultingTurquoiseUrsula {
+    _hidden_value = true
+  }
+  boolean AgreedPurpleAigneis {
+    _hidden_value = true
+  }
+  AnnualCoffeeShirlee = false
+  DullAquamarineGretchen = "Dad Im hungry  Hi hungry Im dad"
+  RigidTealDatha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ThunderingIvoryErika = "Why was it called the dark ages? Because of all the knights. "
+  ClosedHarlequinOlenka = false
+  ChristianJadeLeonora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

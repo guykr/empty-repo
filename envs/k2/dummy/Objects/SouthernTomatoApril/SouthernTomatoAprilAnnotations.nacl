@@ -1,0 +1,53 @@
+type dummy.SouthernTomatoApril {
+  annotations {
+    string FluffyWhiteKristi {
+    }
+    json DeafYellowAgnella {
+    }
+    serviceid ExactGoldOlwen {
+    }
+    number RipeGrayNanice {
+    }
+    serviceid GentleOliveMaxie {
+    }
+    number CapableScarletCherlyn {
+    }
+    serviceid ShrillAmethystMagdalen {
+    }
+    boolean VocationalIndigoBlancha {
+    }
+    serviceid RobustBronzeTrula {
+    }
+    boolean TestyJadeMalorie {
+    }
+    dummy.CapitalistGoldMerline WastefulAzureIlla {
+    }
+    number ValuableBrownCecilia {
+    }
+    dummy.WildGreenMalory FarBrownBianca {
+    }
+    string UnpleasantCoffeeFarah {
+    }
+    boolean UnableBronzeCatlee {
+    }
+    serviceid ThirstyPeachSeana {
+    }
+    string ProvincialRedGillan {
+    }
+  }
+  FluffyWhiteKristi = "Why was it called the dark ages? Because of all the knights. "
+  DeafYellowAgnella = "Dad Im hungry  Hi hungry Im dad"
+  ExactGoldOlwen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RipeGrayNanice = 237
+  GentleOliveMaxie = "How come the stadium got hot after the game? Because all of the fans left."
+  CapableScarletCherlyn = 267
+  ShrillAmethystMagdalen = "Why didnt the skeleton cross the road? Because he had no guts."
+  VocationalIndigoBlancha = true
+  RobustBronzeTrula = "A steak pun is a rare medium well done."
+  TestyJadeMalorie = true
+  ValuableBrownCecilia = 144
+  UnpleasantCoffeeFarah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UnableBronzeCatlee = false
+  ThirstyPeachSeana = "Why did the kid cross the playground? To get to the other slide."
+  ProvincialRedGillan = "Why is Peter Pan always flying? Because he Neverlands."
+}

@@ -1,0 +1,45 @@
+type dummy.SuperbAquaSallee {
+  annotations {
+    number YellowTealDebera {
+    }
+    number ResonantCrimsonKarina {
+    }
+    serviceid SadIndigoTrina {
+    }
+    serviceid ClinicalHarlequinRita {
+    }
+  }
+  boolean ClassicalOliveKaja {
+    _hidden_value = true
+  }
+  serviceid InnocentApricotHermine {
+    _hidden_value = true
+  }
+  json FineTurquoiseFelicdad {
+    _hidden_value = true
+  }
+  json SatisfactoryTanMel {
+    _hidden_value = true
+  }
+  boolean ExtremeBlackKirsteni {
+    _hidden_value = true
+  }
+  number FriendlyAmberLanae {
+    _hidden_value = true
+  }
+  dummy.AppropriateChocolateLadonna AvailableCoffeeLyndy {
+    SilentLavenderMidge = true
+    PotentialBronzeManya = true
+    FirmTurquoiseMagdalena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    DirectIndigoNannie = "What do you call two barracuda fish?  A Pairacuda!"
+    EthicalHarlequinCarmon = "What creature is smarter than a talking parrot? A spelling bee."
+    KindIndigoHelen = 589
+    PlannedOrangeWynn = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  YellowTealDebera = 435
+  ResonantCrimsonKarina = 949
+  SadIndigoTrina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ClinicalHarlequinRita = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

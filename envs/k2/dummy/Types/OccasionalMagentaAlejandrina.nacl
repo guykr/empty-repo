@@ -1,0 +1,35 @@
+type dummy.OccasionalMagentaAlejandrina {
+  annotations {
+    string ValuableSilverMerci {
+    }
+    serviceid SmartCyanGilli {
+    }
+    json MushyCoffeeTressa {
+    }
+    json UnfortunateTomatoRobinet {
+    }
+    number MuddyBronzeCristy {
+    }
+    number ChristianVioletAndriette {
+    }
+    string PublicSalmonMelita {
+    }
+  }
+  boolean DesirableRedKali {
+    _hidden_value = true
+  }
+  string NaughtyIvoryJori {
+    _hidden_value = true
+  }
+  string ParticularVioletErna {
+    _hidden_value = true
+  }
+  ValuableSilverMerci = "Did you know that protons have mass? I didn't even know they were catholic."
+  SmartCyanGilli = "A steak pun is a rare medium well done."
+  MushyCoffeeTressa = "Why didnt the skeleton cross the road? Because he had no guts."
+  UnfortunateTomatoRobinet = "Why do birds fly south for the winter? Because it's too far to walk."
+  MuddyBronzeCristy = 300
+  ChristianVioletAndriette = 840
+  PublicSalmonMelita = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

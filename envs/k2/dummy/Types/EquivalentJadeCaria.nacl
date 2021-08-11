@@ -1,0 +1,51 @@
+type dummy.EquivalentJadeCaria is string {
+  annotations {
+    number ImpressiveCoralRoanne {
+    }
+    serviceid AwareScarletRhianon {
+    }
+    number SimilarTealTova {
+    }
+    number LazyJadeAlvina {
+    }
+    string InsufficientBlushGertrude {
+    }
+    serviceid PlasticPinkSidonia {
+    }
+    boolean HappyAmaranthRhianna {
+    }
+    json SolidFuchsiaOlivia {
+    }
+    json EducationalJadeEdiva {
+    }
+    dummy.DEFAULT RoughOliveKailey {
+    }
+    json MistyGrayCollete {
+    }
+    number SatisfiedAmaranthCarilyn {
+    }
+    json NarrowPinkMadeleine {
+    }
+    json ShallowWhiteDahlia {
+    }
+    json RandomRedJolene {
+    }
+  }
+  ImpressiveCoralRoanne = 583
+  AwareScarletRhianon = "To be Frank, I'd have to change my name."
+  SimilarTealTova = 410
+  LazyJadeAlvina = 658
+  InsufficientBlushGertrude = "How come the stadium got hot after the game? Because all of the fans left."
+  PlasticPinkSidonia = "Why was it called the dark ages? Because of all the knights. "
+  HappyAmaranthRhianna = false
+  SolidFuchsiaOlivia = "What do you call two barracuda fish?  A Pairacuda!"
+  EducationalJadeEdiva = "Why didnt the skeleton cross the road? Because he had no guts."
+  RoughOliveKailey = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  MistyGrayCollete = "Why did the kid cross the playground? To get to the other slide."
+  SatisfiedAmaranthCarilyn = 76
+  NarrowPinkMadeleine = "Why do birds fly south for the winter? Because it's too far to walk."
+  ShallowWhiteDahlia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RandomRedJolene = "Why did the kid cross the playground? To get to the other slide."
+}

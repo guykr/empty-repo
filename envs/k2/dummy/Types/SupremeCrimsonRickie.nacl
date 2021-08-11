@@ -1,0 +1,26 @@
+type dummy.SupremeCrimsonRickie {
+  annotations {
+    string GayCopperDebra {
+    }
+    boolean DisabledPinkCairistiona {
+    }
+    boolean DigitalMoccasinVerna {
+    }
+    number UgliestSapphireShani {
+    }
+    serviceid DisgustedBrownKial {
+    }
+    boolean OrganicGrayLatashia {
+    }
+  }
+  serviceid TestyRoseChristiane {
+    _hidden_value = true
+  }
+  GayCopperDebra = "What creature is smarter than a talking parrot? A spelling bee."
+  DisabledPinkCairistiona = true
+  DigitalMoccasinVerna = false
+  UgliestSapphireShani = 10
+  DisgustedBrownKial = "What creature is smarter than a talking parrot? A spelling bee."
+  OrganicGrayLatashia = true
+  _hidden_value = true
+}
