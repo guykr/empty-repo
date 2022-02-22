@@ -1,0 +1,25 @@
+type dummy.EnvObj {
+  annotations {
+    string ShardAnno {
+    }
+    string SharedButDiffAnno {
+    }
+    string dummy642Anno {
+    }
+    hidden_string SharedHidden {
+    }
+    hidden_string DiffHidden {
+    }
+  }
+  string SharedField {
+  }
+  string SharedButDiffField {
+  }
+  string dummy642Field {
+  }
+  dummy.PrimWithAnnos dummy642FieldWithHidden {
+  }
+  SharedAnno = "AnnoValue"
+  SharedButDiffAnno = "dummy642AnnoValue"
+  dummy642Anno = "AnnoValue"
+}
