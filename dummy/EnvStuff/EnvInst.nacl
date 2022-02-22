@@ -1,0 +1,5 @@
+dummy.EnvObj EnvInst {
+  SharedField = "FieldValue"
+  SharedButDiffField = "dummy642FieldValue"
+  dummy642Field = "FieldValue"
+}
