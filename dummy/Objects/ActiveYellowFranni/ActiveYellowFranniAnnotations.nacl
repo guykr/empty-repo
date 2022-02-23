@@ -1,0 +1,48 @@
+type dummy.ActiveYellowFranni {
+  annotations {
+    dummy.QuietBlushHilde LeadingAzureJuli {
+    }
+    json ProfoundTanMercedes {
+    }
+    number TechnologicalCyanCeleste {
+    }
+    json ImportantPurpleFayina {
+    }
+    string DisabledPlumJewel {
+    }
+    boolean InformalMaroonJoly {
+    }
+    string LovelyRedAntonella {
+    }
+    json WetBeigeMarci {
+    }
+    boolean ConvincedGreenMaddi {
+    }
+    number AddedHarlequinBerte {
+    }
+    dummy.RearCoralGennie SteadyEmeraldHarrie {
+    }
+    string MedicalSapphireDulcia {
+    }
+    serviceid FormalAmberFederica {
+    }
+    serviceid_number LevelTurquoiseMarjy {
+    }
+    serviceid_number InclinedGoldBenedikta {
+    }
+  }
+  LeadingAzureJuli = 389
+  ProfoundTanMercedes = "What creature is smarter than a talking parrot? A spelling bee."
+  TechnologicalCyanCeleste = 739
+  ImportantPurpleFayina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DisabledPlumJewel = "Slept like a log last night  woke up in the fireplace."
+  InformalMaroonJoly = true
+  LovelyRedAntonella = "Dad Im hungry  Hi hungry Im dad"
+  WetBeigeMarci = "Whoever invented the knock-knock joke should get a no bell prize."
+  ConvincedGreenMaddi = false
+  AddedHarlequinBerte = 859
+  MedicalSapphireDulcia = "I'll tell you what often gets over looked... garden fences."
+  FormalAmberFederica = "Did you know that protons have mass? I didn't even know they were catholic."
+  LevelTurquoiseMarjy = 258
+  InclinedGoldBenedikta = 416
+}
