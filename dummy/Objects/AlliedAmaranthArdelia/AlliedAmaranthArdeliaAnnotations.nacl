@@ -1,0 +1,54 @@
+type dummy.AlliedAmaranthArdelia {
+  annotations {
+    number GoodLimeMonica {
+    }
+    number CalmGrayJemmy {
+    }
+    dummy.OptimisticIndigoMax IraqiFuchsiaLilla {
+    }
+    dummy.LoosePeachGoldia FatGrayMarilyn {
+    }
+    dummy.ThoughtfulAmberMuriel ImpressiveBrownChryste {
+    }
+    serviceid_number FollowingHarlequinMarcy {
+    }
+    boolean GentleAzureKimbra {
+    }
+    string ConsiderableAmberBlondell {
+    }
+    dummy.EverydayGoldElle SelfishApricotCammi {
+    }
+    number RealAzureGeorgia {
+    }
+    string BrilliantLimeGelya {
+    }
+    hidden_boolean HungryGoldPortia {
+    }
+    dummy.WelcomeGrayWenonah AttractiveVioletMaureene {
+    }
+    serviceid_number PreciousSapphireStacy {
+    }
+    hidden_boolean ObligedGreenWynn {
+    }
+    serviceid SplendidGrayTalya {
+    }
+    hidden_boolean SquareCrimsonDanella {
+    }
+    serviceid_number BraveHarlequinJaime {
+    }
+    string EldestFuchsiaVikki {
+    }
+  }
+  GoodLimeMonica = 791
+  CalmGrayJemmy = 324
+  FollowingHarlequinMarcy = 935
+  GentleAzureKimbra = false
+  ConsiderableAmberBlondell = "Why didnt the skeleton cross the road? Because he had no guts."
+  RealAzureGeorgia = 116
+  BrilliantLimeGelya = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AttractiveVioletMaureene = 899
+  PreciousSapphireStacy = 509
+  SplendidGrayTalya = "Why did the tomato blush? Because it saw the salad dressing."
+  BraveHarlequinJaime = 117
+  EldestFuchsiaVikki = "What do you call two barracuda fish?  A Pairacuda!"
+}
