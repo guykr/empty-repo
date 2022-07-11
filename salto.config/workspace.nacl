@@ -1,0 +1,5 @@
+workspace {
+  uid = "44960c0c-837c-462f-a446-4f27a0ce4f9a"
+  name = "git ws"
+  staleStateThresholdMinutes = undefined
+}
