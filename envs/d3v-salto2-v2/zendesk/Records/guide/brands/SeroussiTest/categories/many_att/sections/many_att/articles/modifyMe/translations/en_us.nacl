@@ -1,0 +1,13 @@
+zendesk.article_translation modifyMe_many_att_many_att_SeroussiTest_su_suuum_uuuuuum__SeroussiTest_en_us_ub@uuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "modifyMe"
+  body = "<p><img src=\"${ zendesk.brand.instance.SeroussiTest }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_SeroussiTest_19749109441811 }\" alt=\"nacl.png\"><img src=\"${ zendesk.brand.instance.SeroussiTest }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_SeroussiTest_19749088748691 }\" alt=\"Screen Shot 2023-05-30 at 14.03.34.png\"><img src=\"${ zendesk.brand.instance.SeroussiTest }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_SeroussiTest_19748824348051 }\" alt=\"nacl.png\"></p>"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.modifyMe_many_att_many_att_SeroussiTest_su_suuum@uuuuuum,
+  ]
+  _alias = "en-us - modifyMe"
+}

@@ -1,0 +1,16 @@
+zendesk.article_translation Brand_A_Article_Title____Announcements_General_BrandAForGuide_sssllluuu__BrandAForGuide_en_us_ub@uuuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  title = "Brand A Article Title!!!"
+  body = '''
+<p>This is Brand A Article body</p>
+<p>test</p>
+'''
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.article.instance.Brand_A_Article_Title____Announcements_General_BrandAForGuide@sssllluuu,
+  ]
+  _alias = "en-us - Brand A Article Title!!!"
+}

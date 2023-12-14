@@ -1,0 +1,11 @@
+zendesk.article_attachment TestArticle_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_uuuuuuuuuuum__amit_bday_png_true@uuuuuuuuuuuumuuuvu {
+  file_name = "amit_bday.png"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/att_test2/sections/att_test2/articles/TestArticle/article_attachment/amit_bday/87b384b84f_amit_bday.png")
+  _parent = [
+    zendesk.article.instance.TestArticle_att_test2_att_test2_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuuum,
+  ]
+  _alias = "amit_bday.png - TestArticle"
+}

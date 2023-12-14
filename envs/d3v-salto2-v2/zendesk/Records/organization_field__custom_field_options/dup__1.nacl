@@ -1,0 +1,8 @@
+zendesk.organization_field__custom_field_options dup__1 {
+  raw_name = "1"
+  value = "1"
+  _parent = [
+    zendesk.organization_field.instance.dup,
+  ]
+  _alias = "1"
+}

@@ -1,0 +1,13 @@
+zendesk.section many_att_many_att_SeroussiTest_su@suuum {
+  category_id = zendesk.category.instance.many_att_SeroussiTest@su
+  sorting = "manual"
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  outdated = false
+  theme_template = "section_page"
+  translations = [
+    zendesk.section_translation.instance.many_att_many_att_SeroussiTest_su_suuum__SeroussiTest_en_us_ub@uuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _alias = "many att"
+}

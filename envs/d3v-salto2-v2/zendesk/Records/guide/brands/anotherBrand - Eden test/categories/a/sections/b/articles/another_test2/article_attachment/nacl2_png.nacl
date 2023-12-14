@@ -1,0 +1,11 @@
+zendesk.article_attachment another_test2_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_suuuuuuuuum__nacl2_png_true@uuuuuuuuuuumuuvu {
+  file_name = "nacl2.png"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/a/sections/b/articles/another_test2/article_attachment/nacl2/ec8e79c0d7_nacl2.png")
+  _parent = [
+    zendesk.article.instance.another_test2_b_a_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@suuuuuuuuum,
+  ]
+  _alias = "nacl2.png - another test2"
+}

@@ -1,0 +1,47 @@
+zendesk.sla_policy eden_test@s {
+  title = "eden test"
+  filter = {
+    all = [
+      {
+        field = "organization_id"
+        operator = "is"
+      },
+      {
+        field = "brand_id"
+        operator = "is"
+        value = zendesk.brand.instance.Salto
+      },
+    ]
+    any = [
+      {
+        field = zendesk.organization_field.instance.edentest1
+        operator = "is"
+        value = zendesk.organization_field__custom_field_options.instance.edentest1__test
+      },
+      {
+        field = "organization_id"
+        operator = "is"
+      },
+      {
+        field = zendesk.organization_field.instance.edentest1
+        operator = "is"
+        value = zendesk.organization_field__custom_field_options.instance.missing_16916008708499
+      },
+    ]
+  }
+  policy_metrics = [
+    {
+      priority = "normal"
+      metric = "first_reply_time"
+      target = 60
+      business_hours = false
+    },
+    {
+      priority = "high"
+      metric = "first_reply_time"
+      target = 60
+      business_hours = false
+    },
+  ]
+  _alias = "eden test"
+}

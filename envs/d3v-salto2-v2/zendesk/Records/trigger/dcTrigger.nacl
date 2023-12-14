@@ -1,0 +1,32 @@
+zendesk.trigger dcTrigger {
+  title = "dcTrigger"
+  active = true
+  default = false
+  actions = [
+    {
+      field = "notification_user"
+      value = [
+        "neta.marcus@salto.io",
+        "this is dc test",
+        "{{${ zendesk.dynamic_content_item.instance.test }}}",
+      ]
+    },
+  ]
+  conditions = {
+    all = [
+      {
+        field = zendesk.ticket_field.instance.123456_text
+        operator = "present"
+        value = ""
+      },
+      {
+        field = "subject_includes_word"
+        operator = "is"
+        value = "this is dc test"
+      },
+    ]
+  }
+  raw_title = "dcTrigger"
+  category_id = zendesk.trigger_category.instance.audit_test@s
+  _alias = "dcTrigger"
+}

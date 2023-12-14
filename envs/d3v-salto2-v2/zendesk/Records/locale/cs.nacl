@@ -1,0 +1,9 @@
+zendesk.locale cs {
+  locale = "cs"
+  name = "Čeština"
+  native_name = "čeština"
+  presentation_name = "Czech - čeština"
+  rtl = false
+  default = false
+  _alias = "Czech - čeština"
+}

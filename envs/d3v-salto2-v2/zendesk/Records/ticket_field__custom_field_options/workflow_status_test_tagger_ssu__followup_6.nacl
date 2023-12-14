@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options workflow_status_test_tagger_ssu__followup_6@uuumuuu {
+  raw_name = "followup_6"
+  value = "followup_6"
+  _parent = [
+    zendesk.ticket_field.instance.workflow_status_test_tagger@ssu,
+  ]
+  _alias = "followup_6"
+}

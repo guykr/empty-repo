@@ -1,0 +1,18 @@
+zendesk.article_translation aaa444_FAQ_General_nms_test_b_uum_uuuum_uuuuuum__nms_test_b_en_us_umub@uuuuuuumuuuuuum {
+  locale = zendesk.guide_language_settings.instance.nms_test_b_en_us@umub
+  title = "aaa444"
+  body = '''
+<p>aaa</p>
+<p> </p>
+
+<p>aaa</p><p>bbb</p><p>ccc</p>
+'''
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.nms_test@b
+  _parent = [
+    zendesk.article.instance.aaa444_FAQ_General_nms_test_b_uum_uuuum@uuuuuum,
+  ]
+  _alias = "en-us - aaa444"
+}

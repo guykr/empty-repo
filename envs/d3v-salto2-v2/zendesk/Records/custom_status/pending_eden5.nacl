@@ -1,0 +1,9 @@
+zendesk.custom_status pending_eden5 {
+  status_category = "pending"
+  raw_agent_label = "eden5"
+  raw_end_user_label = "eden5"
+  raw_description = "5"
+  raw_end_user_description = "5"
+  active = false
+  _alias = "eden5"
+}

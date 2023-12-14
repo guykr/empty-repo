@@ -1,0 +1,11 @@
+zendesk.article_attachment AddMe_many_att_many_att_SeroussiTest_su_suuum_uuuuuum__dp_very_large_attachment_json_false@uuuuuuumuuuuuvu {
+  file_name = "dp_very_large_attachment.json"
+  content_type = "unknown"
+  inline = false
+  brand = zendesk.brand.instance.SeroussiTest
+  content = file("zendesk/article_attachments/guide/brands/SeroussiTest/categories/many_att/sections/many_att/articles/AddMe/article_attachment/dp_very_large_attachment/4bbf8b6ff3_dp_very_large_attachment.json")
+  _parent = [
+    zendesk.article.instance.AddMe_many_att_many_att_SeroussiTest_su_suuum@uuuuuum,
+  ]
+  _alias = "dp_very_large_attachment.json - AddMe"
+}

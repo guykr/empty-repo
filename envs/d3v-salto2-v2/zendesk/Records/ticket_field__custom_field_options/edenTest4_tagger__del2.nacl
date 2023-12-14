@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options edenTest4_tagger__del2 {
+  raw_name = "del2"
+  value = "del2"
+  _parent = [
+    zendesk.ticket_field.instance.edenTest4_tagger,
+  ]
+  _alias = "del2"
+}

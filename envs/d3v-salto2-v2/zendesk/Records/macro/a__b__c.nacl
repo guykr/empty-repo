@@ -1,0 +1,63 @@
+zendesk.macro a__b__c@f {
+  title = "a::b::c"
+  active = false
+  default = false
+  actions = [
+    {
+      field = "subject"
+      value = "a"
+    },
+    {
+      field = "priority"
+      value = "normal"
+    },
+    {
+      field = "type"
+      value = "task"
+    },
+    {
+      field = "group_id"
+      value = zendesk.group.instance.edenAudit
+    },
+    {
+      field = "assignee_id"
+      value = "current_user"
+    },
+    {
+      field = "set_tags"
+      value = [
+        zendesk.tag.instance.a,
+        zendesk.tag.instance.b,
+        zendesk.tag.instance.c,
+      ]
+    },
+    {
+      field = "comment_mode_is_public"
+      value = "true"
+    },
+    {
+      field = "comment_value_html"
+      value = "<p>bla bla bla</p>"
+    },
+    {
+      field = "ticket_form_id"
+      value = zendesk.ticket_form.instance.EdenForm12
+    },
+    {
+      field = "status"
+      value = "pending"
+    },
+    {
+      field = zendesk.ticket_field.instance.workflow_status_test_tagger@ssu
+      value = zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__ab_tc_new_ticket@uuumuuuuu
+    },
+  ]
+  restriction = {
+    type = "Group"
+    ids = [
+      zendesk.group.instance.edenAudit,
+    ]
+  }
+  raw_title = "a::b::c"
+  _alias = "a::b::c"
+}

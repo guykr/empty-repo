@@ -1,0 +1,20 @@
+zendesk.article_translation What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu_ssuuuuum__Salto_en_us_ub@uuuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.Salto_en_us@ub
+  title = "What is DevOps"
+  body = '''
+<div class="lead-copy section">
+<div class="lead centered-small offset-large">
+<p>DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.</p>
+</div>
+</div>
+<div class="aws-comp"> </div>
+'''
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.Salto
+  _parent = [
+    zendesk.article.instance.What_is_DevOps_Everything_about_DevOps_General_Salto_ssuu@ssuuuuum,
+  ]
+  _alias = "en-us - What is DevOps"
+}

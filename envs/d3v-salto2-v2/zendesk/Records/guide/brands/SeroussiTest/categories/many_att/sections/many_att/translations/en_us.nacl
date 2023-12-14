@@ -1,0 +1,12 @@
+zendesk.section_translation many_att_many_att_SeroussiTest_su_suuum__SeroussiTest_en_us_ub@uuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "many att"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.section.instance.many_att_many_att_SeroussiTest_su@suuum,
+  ]
+  _alias = "en-us - many att"
+}

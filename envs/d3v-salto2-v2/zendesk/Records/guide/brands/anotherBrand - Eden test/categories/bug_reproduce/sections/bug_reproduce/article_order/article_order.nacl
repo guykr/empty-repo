@@ -1,0 +1,13 @@
+zendesk.article_order bug_reproduce_bug_reproduce_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@uuuuuuuuuum {
+  articles = [
+    zendesk.article.instance.bug_repro_22480167111187@su,
+    zendesk.article.instance.collision_22480167111187,
+    zendesk.article.instance.collision_22480167111187,
+    zendesk.article.instance.bug_repro_22480167111187@su,
+  ]
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.section.instance.bug_reproduce_bug_reproduce_anotherBrand___Eden_test_sbss_suuuuum@suuuuuuuum,
+  ]
+  _alias = "bug reproduce Article Order"
+}

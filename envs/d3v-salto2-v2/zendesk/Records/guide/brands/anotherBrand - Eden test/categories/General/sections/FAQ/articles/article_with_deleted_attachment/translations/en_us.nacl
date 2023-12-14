@@ -1,0 +1,13 @@
+zendesk.article_translation article_with_deleted_attachment_FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum_sssuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "article with deleted attachment"
+  body = "<p><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_anotherBrand___Eden_test_17821694591507@usbssu }\" alt=\"nacl2.png\"></p>"
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.article_with_deleted_attachment_FAQ_General_anotherBrand___Eden_test_sbss_uuuuum_uuuuuuum@sssuuuuuuuuum,
+  ]
+  _alias = "en-us - article with deleted attachment"
+}

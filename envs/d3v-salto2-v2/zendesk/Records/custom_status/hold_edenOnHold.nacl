@@ -1,0 +1,9 @@
+zendesk.custom_status hold_edenOnHold {
+  status_category = "hold"
+  raw_agent_label = "edenOnHold"
+  raw_end_user_label = "edenOnHold"
+  raw_description = "edenOnHold"
+  raw_end_user_description = "edenOnHold"
+  active = false
+  _alias = "edenOnHold"
+}

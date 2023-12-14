@@ -1,0 +1,16 @@
+envs {
+  envs = [
+    {
+      name = "986"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
+    {
+      name = "d3v-salto2-v2"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
+  ]
+}

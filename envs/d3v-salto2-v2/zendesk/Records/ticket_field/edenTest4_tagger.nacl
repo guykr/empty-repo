@@ -1,0 +1,17 @@
+zendesk.ticket_field edenTest4_tagger {
+  type = "tagger"
+  raw_title = "edenTest4"
+  raw_description = ""
+  active = false
+  required = false
+  collapsed_for_agents = false
+  raw_title_in_portal = "edenTest4"
+  visible_in_portal = false
+  editable_in_portal = false
+  required_in_portal = false
+  removable = true
+  custom_field_options = [
+    zendesk.ticket_field__custom_field_options.instance.edenTest4_tagger__del2,
+  ]
+  _alias = "edenTest4"
+}

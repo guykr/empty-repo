@@ -1,0 +1,78 @@
+zendesk.trigger shir_test_user_fields@s {
+  title = "shir test user fields"
+  active = false
+  default = false
+  actions = [
+    {
+      field = "notification_target"
+      value = [
+        zendesk.target.instance.Default_sandbox_email_target_email_target@sssuu,
+        "bla",
+      ]
+    },
+    {
+      field = "assignee_id"
+      value = "requester_id"
+    },
+    {
+      field = "notification_user"
+      value = [
+        "current_user",
+        "hi",
+        "hi",
+      ]
+    },
+    {
+      field = "notification_user"
+      value = [
+        "requester_and_ccs",
+        "hihihi",
+        "hi",
+      ]
+    },
+    {
+      field = "notification_user"
+      value = [
+        "all_agents",
+        "hi",
+        "hihi",
+      ]
+    },
+    {
+      field = "notification_user"
+      value = [
+        "assignee_id",
+        "assigne",
+        "a",
+      ]
+    },
+    {
+      field = "notification_user"
+      value = [
+        "requester_id",
+        "requester",
+        "bla",
+      ]
+    },
+    {
+      field = "notification_user"
+      value = [
+        "la+70@example.org",
+        "user",
+        "user",
+      ]
+    },
+  ]
+  conditions = {
+    all = [
+      {
+        field = "assignee_id"
+        operator = "not_value_previous"
+        value = "requester_id"
+      },
+    ]
+  }
+  raw_title = "shir test user fields"
+  category_id = zendesk.trigger_category.instance.General_Settings@s
+  _alias = "shir test user fields"
+}

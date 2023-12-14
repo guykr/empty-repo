@@ -1,0 +1,16 @@
+zendesk.article_translation Test_Test_Test_SeroussiTest__SeroussiTest_da {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_da
+  title = "Test"
+  body = '''
+<p><a href="fsdfreressf" target="_self">fsdfreressf</a></p>
+<p><a href="123124124" target="_self">123124124</a></p>
+'''
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.Test_Test_Test_SeroussiTest,
+  ]
+  _alias = "da - Test"
+}

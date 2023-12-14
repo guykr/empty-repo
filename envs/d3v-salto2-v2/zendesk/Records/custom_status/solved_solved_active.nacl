@@ -1,0 +1,9 @@
+zendesk.custom_status solved_solved_active@us {
+  status_category = "solved"
+  raw_agent_label = "solved active"
+  raw_end_user_label = "solved active"
+  raw_description = ""
+  raw_end_user_description = ""
+  active = false
+  _alias = "solved active"
+}

@@ -1,0 +1,21 @@
+zendesk.macro Neta_test_side_conversation_edited@s {
+  title = "Neta test side conversation edited"
+  active = false
+  default = false
+  actions = [
+    {
+      field = "subject"
+      value = "aaaa"
+    },
+    {
+      field = zendesk.ticket_field.instance.__dc_about_field_title___tagger@_00123_00123vuu_00125_00125u
+      value = zendesk.ticket_field__custom_field_options.instance.__dc_about_field_title___tagger__00123_00123vuu_00125_00125u__missed_package@uuuuuuuumuuuuuuu
+    },
+    {
+      field = zendesk.ticket_field.instance.Neta_multiselect_123_multiselect@ssu
+      value = zendesk.ticket_field__custom_field_options.instance.Neta_multiselect_123_multiselect_ssu____dc_about_option___late_order___nnn@uuumuuuuvuubuuuuu
+    },
+  ]
+  raw_title = "Neta test side conversation edited"
+  _alias = "Neta test side conversation edited"
+}

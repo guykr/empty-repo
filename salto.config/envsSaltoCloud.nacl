@@ -1,0 +1,12 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "175c9306-89a7-47fd-8c35-fc9edde8c933"
+      folderName = "986"
+    },
+    {
+      uuid = "525a443f-91bb-454f-87e6-91e6239ace2b"
+      folderName = "d3v-salto2-v2"
+    },
+  ]
+}

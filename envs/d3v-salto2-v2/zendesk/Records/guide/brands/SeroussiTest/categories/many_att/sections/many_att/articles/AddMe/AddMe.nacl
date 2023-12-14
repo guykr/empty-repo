@@ -1,0 +1,20 @@
+zendesk.article AddMe_many_att_many_att_SeroussiTest_su_suuum@uuuuuum {
+  author_id = "zendesk-adapter@salto.io"
+  comments_disabled = false
+  draft = true
+  promoted = false
+  section_id = zendesk.section.instance.many_att_many_att_SeroussiTest_su@suuum
+  source_locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  outdated = false
+  user_segment_id = zendesk.user_segment.instance.Agents_and_admins@s
+  permission_group_id = zendesk.permission_group.instance.Admins
+  translations = [
+    zendesk.article_translation.instance.AddMe_many_att_many_att_SeroussiTest_su_suuum_uuuuuum__SeroussiTest_en_us_ub@uuuuuuumuuuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  attachments = [
+    zendesk.article_attachment.instance.AddMe_many_att_many_att_SeroussiTest_su_suuum_uuuuuum__dp_very_large_attachment_json_false@uuuuuuumuuuuuvu,
+  ]
+  _alias = "AddMe"
+}

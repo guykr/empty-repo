@@ -1,0 +1,20 @@
+zendesk.article_translation Artic2_FAQ_General_TomerBrand__TomerBrand_en_us_ub@uuuuuuum {
+  locale = zendesk.guide_language_settings.instance.TomerBrand_en_us@ub
+  title = "Artic2"
+  body = '''
+<p>some content</p>
+<p><iframe src="//www.youtube-nocookie.com/embed/WaNI71LgbZ8" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p> </p>
+<p>sdfsdfdf</p>
+<p>some changes in version</p>
+<p><a href="${ zendesk.brand.instance.TomerBrand }/hc/en-us/articles/${ zendesk.article.instance.How_can_agents_leverage_knowledge_to_help_customers__FAQ_General_TomerBrand@sssssssauuu }" target="_self">How can agents leverage knowledge to help customers?</a></p>
+'''
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.TomerBrand
+  _parent = [
+    zendesk.article.instance.Artic2_FAQ_General_TomerBrand,
+  ]
+  _alias = "en-us - Artic2"
+}

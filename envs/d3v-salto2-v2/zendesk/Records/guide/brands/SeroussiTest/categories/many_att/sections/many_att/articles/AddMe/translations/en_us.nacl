@@ -1,0 +1,12 @@
+zendesk.article_translation AddMe_many_att_many_att_SeroussiTest_su_suuum_uuuuuum__SeroussiTest_en_us_ub@uuuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.SeroussiTest_en_us@ub
+  title = "AddMe"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.article.instance.AddMe_many_att_many_att_SeroussiTest_su_suuum@uuuuuum,
+  ]
+  _alias = "en-us - AddMe"
+}

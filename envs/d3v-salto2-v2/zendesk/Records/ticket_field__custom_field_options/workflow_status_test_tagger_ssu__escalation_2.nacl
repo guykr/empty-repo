@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options workflow_status_test_tagger_ssu__escalation_2@uuumuuu {
+  raw_name = "escalation_2"
+  value = "escalation_2"
+  _parent = [
+    zendesk.ticket_field.instance.workflow_status_test_tagger@ssu,
+  ]
+  _alias = "escalation_2"
+}

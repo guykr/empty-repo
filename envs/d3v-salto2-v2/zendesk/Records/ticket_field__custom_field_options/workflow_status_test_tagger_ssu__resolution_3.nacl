@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options workflow_status_test_tagger_ssu__resolution_3@uuumuuu {
+  raw_name = "resolution_3"
+  value = "resolution_3"
+  _parent = [
+    zendesk.ticket_field.instance.workflow_status_test_tagger@ssu,
+  ]
+  _alias = "resolution_3"
+}

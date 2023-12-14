@@ -1,0 +1,11 @@
+zendesk.article_attachment recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__nacl_png_true@uuuuuuuuuuuuuumuuvu {
+  file_name = "nacl.png"
+  content_type = "image/png"
+  inline = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  content = file("zendesk/article_attachments/guide/brands/anotherBrand - Eden test/categories/test1_category/sections/test1_section/articles/recreate_bug_2/article_attachment/nacl/ec8e79c0d7_nacl.png")
+  _parent = [
+    zendesk.article.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssuuuuuuuuuuum,
+  ]
+  _alias = "nacl.png - recreate bug 2"
+}

@@ -1,0 +1,11 @@
+zendesk.dynamic_content_item__variants eden3__nl {
+  content = "adsv"
+  locale_id = zendesk.locale.instance.nl
+  outdated = false
+  active = true
+  default = false
+  _parent = [
+    zendesk.dynamic_content_item.instance.eden3,
+  ]
+  _alias = "eden3 - nl"
+}

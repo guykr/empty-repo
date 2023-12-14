@@ -1,0 +1,37 @@
+zendesk.trigger DO_NOT_ACTIVATE____side_conv_gest@ssssbsss {
+  title = "DO NOT ACTIVATE  - side conv gest"
+  active = false
+  default = false
+  actions = [
+    {
+      field = "side_conversation_ticket"
+      value = [
+        "test",
+        "<p>test</p>",
+        "SupportAssignable:support_assignable/group/bla",
+        "text/html",
+      ]
+    },
+    {
+      field = "side_conversation"
+      value = [
+        "etest",
+        "<p>test</p>",
+        "test",
+        "text/html",
+      ]
+    },
+  ]
+  conditions = {
+    all = [
+      {
+        field = "brand_id"
+        operator = "is"
+        value = zendesk.brand.instance.Salto
+      },
+    ]
+  }
+  raw_title = "DO NOT ACTIVATE  - side conv gest"
+  category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "DO NOT ACTIVATE  - side conv gest"
+}

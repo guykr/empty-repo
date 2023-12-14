@@ -1,0 +1,18 @@
+zendesk.ticket_field eden_drop_tagger@su {
+  type = "tagger"
+  raw_title = "eden drop"
+  raw_description = ""
+  active = false
+  required = false
+  collapsed_for_agents = false
+  raw_title_in_portal = "eden drop"
+  visible_in_portal = false
+  editable_in_portal = false
+  required_in_portal = false
+  removable = true
+  agent_description = "bla"
+  custom_field_options = [
+    zendesk.ticket_field__custom_field_options.instance.eden_drop_tagger_su__c@uumuu,
+  ]
+  _alias = "eden drop"
+}

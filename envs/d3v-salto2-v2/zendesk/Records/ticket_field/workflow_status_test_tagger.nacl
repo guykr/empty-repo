@@ -1,0 +1,31 @@
+zendesk.ticket_field workflow_status_test_tagger@ssu {
+  type = "tagger"
+  raw_title = "workflow status test"
+  raw_description = ""
+  active = false
+  required = false
+  collapsed_for_agents = false
+  raw_title_in_portal = "workflow status test"
+  visible_in_portal = false
+  editable_in_portal = false
+  required_in_portal = false
+  removable = true
+  agent_description = "workflow status test"
+  custom_field_options = [
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__ab_tc_new_ticket@uuumuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__ab_tc_followup_1@uuumuuuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__followup_2@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__followup_3@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__escalation_1@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__escalation_2@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__resolution_1@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__resolution_2@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__resolution_3@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__followup_4@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__followup_5@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__followup_6@uuumuuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__final@uuumuu,
+    zendesk.ticket_field__custom_field_options.instance.workflow_status_test_tagger_ssu__suspension@uuumuu,
+  ]
+  _alias = "workflow status test"
+}

@@ -1,0 +1,13 @@
+zendesk.article_translation recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__anotherBrand___Eden_test_sbss_en_us_uuuumub@uuuuuuuuuuuuuumuuuuuuuuum {
+  locale = zendesk.guide_language_settings.instance.anotherBrand___Eden_test_sbss_en_us@uuuumub
+  title = "recreate bug 2"
+  body = "<p><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_anotherBrand___Eden_test_17926672658067@usbssu }\" alt=\"Screen_Shot_2022-11-21_at_10.49.20.png\"><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__amit_bday_png_true@uuuuuuuuuuuuuumuuuvu }\" alt=\"amit_bday.png\"><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__amit_bday_png_true@uuuuuuuuuuuuuumuuuvu }\" alt=\"amit_bday.png\"><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum_ssuuuuuuuuuuum__nacl_png_true@uuuuuuuuuuuuuumuuvu }\" alt=\"nacl.png\"><img src=\"${ zendesk.brand.instance.anotherBrand___Eden_test@sbss }/hc/article_attachments/${ zendesk.article_attachment.instance.missing_anotherBrand___Eden_test_17926505082643@usbssu }\" alt=\"WhatsApp\"></p>"
+  outdated = false
+  draft = true
+  hidden = true
+  brand = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+  _parent = [
+    zendesk.article.instance.recreate_bug_2_test1_section_test1_category_anotherBrand___Eden_test_sbss_suuuuum_suuuuuuuum@ssuuuuuuuuuuum,
+  ]
+  _alias = "en-us - recreate bug 2"
+}

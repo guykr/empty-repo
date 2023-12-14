@@ -1,0 +1,13 @@
+zendesk.organization_field dup {
+  type = "dropdown"
+  key = "dup"
+  raw_title = "dup"
+  raw_description = ""
+  active = false
+  system = false
+  custom_field_options = [
+    zendesk.organization_field__custom_field_options.instance.dup__1,
+    zendesk.organization_field__custom_field_options.instance.dup__2,
+  ]
+  _alias = "dup"
+}

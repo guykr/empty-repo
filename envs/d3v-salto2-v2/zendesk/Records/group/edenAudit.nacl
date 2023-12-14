@@ -1,0 +1,8 @@
+zendesk.group edenAudit {
+  is_public = true
+  name = "edenAudit"
+  description = ""
+  default = false
+  deleted = false
+  _alias = "edenAudit"
+}

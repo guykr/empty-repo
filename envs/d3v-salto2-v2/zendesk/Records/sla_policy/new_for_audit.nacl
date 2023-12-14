@@ -1,0 +1,27 @@
+zendesk.sla_policy new_for_audit@s {
+  title = "new for audit"
+  filter = {
+    all = [
+      {
+        field = "brand_id"
+        operator = "is"
+        value = zendesk.brand.instance.Salto
+      },
+    ]
+  }
+  policy_metrics = [
+    {
+      priority = "high"
+      metric = "first_reply_time"
+      target = 60
+      business_hours = false
+    },
+    {
+      priority = "urgent"
+      metric = "first_reply_time"
+      target = 60
+      business_hours = false
+    },
+  ]
+  _alias = "new for audit"
+}

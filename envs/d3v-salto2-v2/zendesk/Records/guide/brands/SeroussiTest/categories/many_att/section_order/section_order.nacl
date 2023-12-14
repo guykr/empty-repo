@@ -1,0 +1,10 @@
+zendesk.section_order many_att_SeroussiTest_su@uum {
+  sections = [
+    zendesk.section.instance.many_att_many_att_SeroussiTest_su@suuum,
+  ]
+  brand = zendesk.brand.instance.SeroussiTest
+  _parent = [
+    zendesk.category.instance.many_att_SeroussiTest@su,
+  ]
+  _alias = "many att Section Order"
+}

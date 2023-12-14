@@ -1,0 +1,65 @@
+zendesk.trigger eden_test_@s {
+  title = "eden test "
+  active = true
+  default = false
+  actions = [
+    {
+      field = "notification_user"
+      value = [
+        "neta.marcus@salto.io",
+        "new",
+        '''
+another try
+
+
+organization: 
+{{ticket.organization.custom_fields.${ zendesk.organization_field.instance.edentest1 }}}
+{{ticket.organization.custom_fields.${ zendesk.organization_field.instance.oftoremove }}}
+
+user:
+{{ticket.requester.custom_fields.${ zendesk.user_field.instance.test1 }}}
+
+more: {{ticket.organization.name}}
+{{ticket.requester.name}}
+''',
+      ]
+    },
+    {
+      field = "notification_webhook"
+      value = [
+        zendesk.webhook.instance.test6,
+        '''
+
+{
+            "id": "{{ticket.ticket_field_${ zendesk.ticket_field.instance.123456_text }}}",
+			"id2": "{{ticket.ticket_field_${ zendesk.ticket_field.instance.missing_14618312277522 }}}",
+            "url": "{{${ zendesk.dynamic_content_item.instance.test }}} {{${ zendesk.dynamic_content_item.instance.missing_notExist }}}"
+}
+''',
+      ]
+    },
+  ]
+  conditions = {
+    all = [
+      {
+        field = "update_type"
+        operator = "is"
+        value = "Change"
+      },
+      {
+        field = "ticket_form_id"
+        operator = "is"
+        value = zendesk.ticket_form.instance.eden___test@sbs
+      },
+      {
+        field = "brand_id"
+        operator = "is"
+        value = zendesk.brand.instance.anotherBrand___Eden_test@sbss
+      },
+    ]
+  }
+  description = "time"
+  raw_title = "eden test "
+  category_id = zendesk.trigger_category.instance.Notifications
+  _alias = "eden test "
+}

@@ -1,0 +1,9 @@
+zendesk.locale nl {
+  locale = "nl"
+  name = "Nederlands (Dutch)"
+  native_name = "Nederlands"
+  presentation_name = "Dutch - Nederlands"
+  rtl = false
+  default = false
+  _alias = "Dutch - Nederlands"
+}

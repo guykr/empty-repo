@@ -1,0 +1,16 @@
+zendesk.article_translation article_with_refs_2_NewSection_General_BrandAForGuide_sssuuu__BrandAForGuide_en_us_ub@uuuuuumuuuum {
+  locale = zendesk.guide_language_settings.instance.BrandAForGuide_en_us@ub
+  title = "article with refs 2"
+  body = '''
+<p>this is a link to an article in a different brand: ${ zendesk.brand.instance.SeroussiTest }/hc/en-us/articles/${ zendesk.article.instance.missing_SeroussiTest_12503727114387 }-this-is-a-demo-article</p>
+<p>this is a link to a category: ${ zendesk.brand.instance.SeroussiTest }/hc/en-us/categories/${ zendesk.category.instance.missing_SeroussiTest_12503485705235 }-demo</p>
+'''
+  outdated = false
+  draft = false
+  hidden = false
+  brand = zendesk.brand.instance.BrandAForGuide
+  _parent = [
+    zendesk.article.instance.article_with_refs_2_NewSection_General_BrandAForGuide@sssuuu,
+  ]
+  _alias = "en-us - article with refs 2"
+}

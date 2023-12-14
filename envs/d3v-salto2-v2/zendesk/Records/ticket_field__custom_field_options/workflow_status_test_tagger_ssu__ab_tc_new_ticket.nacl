@@ -1,0 +1,8 @@
+zendesk.ticket_field__custom_field_options workflow_status_test_tagger_ssu__ab_tc_new_ticket@uuumuuuuu {
+  raw_name = "new ticket"
+  value = "ab_tc_new_ticket"
+  _parent = [
+    zendesk.ticket_field.instance.workflow_status_test_tagger@ssu,
+  ]
+  _alias = "new ticket"
+}
