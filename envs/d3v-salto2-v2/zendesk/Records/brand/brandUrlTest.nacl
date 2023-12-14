@@ -9,4 +9,6 @@ zendesk.brand brandUrlTest {
   is_deleted = false
   signature_template = "{{agent.signature}}"
   _alias = "brandUrlTest"
-}
+  bla
+  blu
+

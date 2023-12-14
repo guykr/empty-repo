@@ -9,4 +9,5 @@ zendesk.brand BrandBForGuide {
   is_deleted = false
   signature_template = "{{agent.signature}}"
   _alias = "BrandBForGuide"
+  bla
 }

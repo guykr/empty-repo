@@ -1,0 +1,4 @@
+zendesk.trigger_category Severity {
+  name = "Severity"
+  _alias = "Severity"
+}
