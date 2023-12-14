@@ -1,5 +1,6 @@
 zendesk.brand nms_test@b {
   name = "nms-test"
+  foo
   brand_url = "https://nms-test.zendesk.com"
   subdomain = "nms-test"
   has_help_center = true
