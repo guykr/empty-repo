@@ -1,8 +1,8 @@
 envs {
   envsCloud = [
     {
-      uuid = "8ae3aad5-3a83-4272-9be4-78fbd338acf1"
-      folderName = "e2"
+      uuid = "ddf58836-91b5-46bf-9489-82f1c9931489"
+      folderName = "Auto Push Env"
     },
   ]
 }
