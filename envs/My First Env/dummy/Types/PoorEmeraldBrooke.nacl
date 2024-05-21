@@ -1,0 +1,36 @@
+type dummy.PoorEmeraldBrooke {
+  annotations {
+    string UnfortunateCoffeeDeanna {
+    }
+    hidden_boolean ZestyLavenderAnnabelle {
+    }
+    json AwfulSalmonChristel {
+    }
+    serviceid ConsistentBlackHyacintha {
+    }
+    json RunningBlueBrittaney {
+    }
+  }
+  hidden_boolean ItchyTealJoelynn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UnfortunateCoffeeDeanna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AwfulSalmonChristel = "Dad Im hungry  Hi hungry Im dad"
+  ConsistentBlackHyacintha = "A steak pun is a rare medium well done."
+  RunningBlueBrittaney = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UnfortunateCoffeeDeanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConsistentBlackHyacintha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

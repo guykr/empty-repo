@@ -1,0 +1,105 @@
+type dummy.BoilingApricotSheilakathryn {
+  annotations {
+    serviceid MysteriousCrimsonJoletta {
+    }
+    boolean TamePurpleChelsie {
+    }
+    serviceid TraditionalSapphireLynna {
+    }
+    boolean EntitledCopperRebeca {
+    }
+    json PriorOliveSammy {
+    }
+    serviceid SoftAzureNatala {
+    }
+  }
+  serviceid SunnyOliveKi {
+    _hidden_value = true
+  }
+  string AggressiveTomatoCarlynne {
+    _hidden_value = true
+  }
+  serviceid AssistantTealMalena {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedCrimsonLesli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DeafGreenKally {
+    _hidden_value = true
+  }
+  serviceid_number PresentPlumKacy {
+    _hidden_value = true
+  }
+  json JustGoldMelba {
+    _hidden_value = true
+  }
+  string ShinyAmethystArabele {
+    _hidden_value = true
+  }
+  json QuerulousBlueGrazia {
+    _hidden_value = true
+  }
+  boolean CommercialRedPegeen {
+    _hidden_value = true
+  }
+  serviceid_number ContinentalSilverMira {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingJadeDenyse {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UndergroundHarlequinWillamina {
+    _hidden_value = true
+  }
+  serviceid_number IndependentBronzeHatti {
+    _hidden_value = true
+  }
+  string TastyRoseAntonie {
+    _hidden_value = true
+  }
+  string SuperSapphireTrista {
+    _hidden_value = true
+  }
+  serviceid_number CircularTealMeridith {
+    _hidden_value = true
+  }
+  MysteriousCrimsonJoletta = "Why was it called the dark ages? Because of all the knights. "
+  TamePurpleChelsie = false
+  TraditionalSapphireLynna = "Why did the kid cross the playground? To get to the other slide."
+  EntitledCopperRebeca = false
+  PriorOliveSammy = "Why did the kid cross the playground? To get to the other slide."
+  SoftAzureNatala = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShinyAmethystArabele"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JustGoldMelba"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IndependentBronzeHatti"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "QuerulousBlueGrazia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PresentPlumKacy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

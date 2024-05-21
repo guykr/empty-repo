@@ -1,0 +1,31 @@
+dummy.SecondaryVioletCarlen OrganicBlackJoice {
+  ContemporaryPeachElaine = "What creature is smarter than a talking parrot? A spelling bee."
+  RegularAzureJody = true
+  MeanBlushChris = true
+  PrintedAquamarineLexy = 482
+  HistoricCoffeeRosabella = 366
+  BreezyMagentaMartynne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BlondeSalmonTheo = false
+  IntellectualCopperCissy = "I'll tell you what often gets over looked... garden fences."
+  RareAmberDoralin = false
+  TerritorialGrayGilly = true
+  ViciousPinkJaquenette = false
+  YappiestPlumNerita = false
+  DisturbingGoldFlor = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ResponsibleVioletMirna = [
+    file("PsychologicalLavenderDasie.txt"),
+    file("WillingBrownHedi.txt"),
+    file("SocialAzureRosa.txt"),
+    file("CollectiveHarlequinOdille.txt"),
+  ]
+  NuclearTurquoisePearline = true
+  UnhappyAquaDonia = true
+  FatMagentaKerrie = 124
+  VerbalLavenderBarbe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AssistantBlackTeodora = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RelievedSilverKaterina = true
+  PublicCoffeeUmeko = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChiefAmethystLenee = 575
+  _parent = dummy.ExceptionalGrayMarjie
+  _alias = "OrganicBlackJoice_alias"
+}

@@ -1,0 +1,108 @@
+type dummy.ProgressiveSapphireMargareta {
+  annotations {
+    dummy.WeeSapphireChelsey ProfoundPinkBrande {
+    }
+    json BrightLimeGiorgia {
+    }
+    number CommercialIndigoAudra {
+    }
+    json AcceptableAmethystTheda {
+    }
+    number OccupationalMaroonClareta {
+    }
+    serviceid_number NarrowFuchsiaIsobel {
+    }
+    serviceid CompleteMoccasinJonis {
+    }
+    boolean SilentIvorySybille {
+    }
+    hidden_boolean RelevantWhiteKathie {
+    }
+    serviceid_number ValuableMaroonChantalle {
+    }
+    serviceid RetailWhiteKimberley {
+    }
+    serviceid_number MinorVioletReena {
+    }
+    dummy.ScrawnyTomatoBamby UsedHarlequinTerza {
+    }
+    number UrgentApricotAudy {
+    }
+    string UnwillingJadeSandye {
+    }
+    string GoverningLavenderMadelin {
+    }
+    serviceid TechnologicalPinkNedi {
+    }
+    boolean OlympicSapphireRae {
+    }
+    serviceid_number ComplexPinkMoselle {
+    }
+    hidden_boolean VerbalLavenderHolli {
+    }
+    string FunctionalGoldFernanda {
+    }
+    boolean NetAmberBirgitta {
+    }
+    dummy.VoluminousSilverHermina TerritorialGreenEolanda {
+    }
+    serviceid UnlikelySilverBasia {
+    }
+  }
+  BrightLimeGiorgia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CommercialIndigoAudra = 282
+  AcceptableAmethystTheda = "What creature is smarter than a talking parrot? A spelling bee."
+  OccupationalMaroonClareta = 216
+  NarrowFuchsiaIsobel = 205
+  CompleteMoccasinJonis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SilentIvorySybille = false
+  ValuableMaroonChantalle = 76
+  RetailWhiteKimberley = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MinorVioletReena = 671
+  UsedHarlequinTerza = false
+  UrgentApricotAudy = 415
+  UnwillingJadeSandye = "What do you call two barracuda fish?  A Pairacuda!"
+  GoverningLavenderMadelin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TechnologicalPinkNedi = "What creature is smarter than a talking parrot? A spelling bee."
+  OlympicSapphireRae = false
+  ComplexPinkMoselle = 602
+  FunctionalGoldFernanda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NetAmberBirgitta = true
+  TerritorialGreenEolanda = 839
+  UnlikelySilverBasia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _important_values = [
+    {
+      value = "NegativeFuchsiaMariya"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RetailWhiteKimberley"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SilentIvorySybille"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompleteMoccasinJonis"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AcceptableAmethystTheda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnlikelySilverBasia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ProgressiveSapphireMargareta_alias"
+}

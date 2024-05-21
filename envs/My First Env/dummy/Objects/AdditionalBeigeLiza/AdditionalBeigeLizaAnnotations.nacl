@@ -1,0 +1,90 @@
+type dummy.AdditionalBeigeLiza {
+  annotations {
+    serviceid_number DoubtfulHarlequinSaudra {
+    }
+    json MotionlessApricotOlga {
+    }
+    serviceid ThinSilverMabelle {
+    }
+    dummy.NaughtyAmberKimberly ExceptionalTomatoRandee {
+    }
+    boolean LogicalYellowSusie {
+    }
+    serviceid OldAquaKaroline {
+    }
+    hidden_boolean EventualPeachGwendolin {
+    }
+    dummy.DistinctWhiteAdi SourSilverCasey {
+    }
+    serviceid_number SurvivingOrangeRozele {
+    }
+    hidden_boolean ConvenientBrownDel {
+    }
+    serviceid_number InherentAquaOlva {
+    }
+    boolean SmoggyMoccasinMildrid {
+    }
+    serviceid_number HeavyPinkCelene {
+    }
+    dummy.RareScarletEllyn PsychiatricCyanGisella {
+    }
+    boolean FascinatingAquaMaressa {
+    }
+    boolean TestyHarlequinGenna {
+    }
+    json ActiveOlivePetronia {
+    }
+    json NutritiousBlueAllis {
+    }
+  }
+  DoubtfulHarlequinSaudra = 387
+  MotionlessApricotOlga = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThinSilverMabelle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LogicalYellowSusie = false
+  OldAquaKaroline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SourSilverCasey = 472
+  SurvivingOrangeRozele = 421
+  InherentAquaOlva = 677
+  SmoggyMoccasinMildrid = false
+  HeavyPinkCelene = 383
+  PsychiatricCyanGisella = file("DetailedApricotLyssa.txt")
+  FascinatingAquaMaressa = true
+  TestyHarlequinGenna = false
+  ActiveOlivePetronia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NutritiousBlueAllis = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _important_values = [
+    {
+      value = "SingleCyanIsabelle"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LogicalYellowSusie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FascinatingAquaMaressa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OldAquaKaroline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HeavyPinkCelene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SmoggyMoccasinMildrid"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "AdditionalBeigeLiza_alias"
+}

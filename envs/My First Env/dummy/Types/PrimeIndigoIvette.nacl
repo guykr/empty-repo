@@ -1,0 +1,71 @@
+type dummy.PrimeIndigoIvette {
+  annotations {
+    number PrincipalOrangeKylynn {
+    }
+    boolean ChangingPinkEdin {
+    }
+    serviceid QuietIvoryAlejandra {
+    }
+    serviceid IdealBrownLorilyn {
+    }
+    number StillRoseAnn {
+    }
+    serviceid GenuineTomatoShena {
+    }
+  }
+  json OtherAzureCathlene {
+    _hidden_value = true
+  }
+  serviceid HungryBlueSharai {
+    _hidden_value = true
+  }
+  hidden_boolean FantasticJadeKaron {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ChronicPurpleStephannie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ElectoralIvoryAudrey {
+    _hidden_value = true
+  }
+  serviceid_number DisturbedOliveGui {
+    _hidden_value = true
+  }
+  number AbstractCrimsonWally {
+    _hidden_value = true
+  }
+  number BetterOliveFelipa {
+    _hidden_value = true
+  }
+  number ShinyVioletAlane {
+    _hidden_value = true
+  }
+  serviceid ChangingBlueKai {
+    _hidden_value = true
+  }
+  PrincipalOrangeKylynn = 250
+  ChangingPinkEdin = true
+  QuietIvoryAlejandra = "I'll tell you what often gets over looked... garden fences."
+  IdealBrownLorilyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  StillRoseAnn = 451
+  GenuineTomatoShena = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ElectoralIvoryAudrey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChangingPinkEdin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

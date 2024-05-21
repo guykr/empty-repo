@@ -1,0 +1,53 @@
+type dummy.AdvisoryCoralJami {
+  annotations {
+    string ComparableLimeLucine {
+    }
+    json CharmingSalmonDesdemona {
+    }
+    serviceid_number SouthernIvoryAlyce {
+    }
+    boolean PreciseRedElisabetta {
+    }
+  }
+  serviceid GivenAquamarineAudrey {
+    _hidden_value = true
+  }
+  serviceid GreatOrangeJocelyn {
+    _hidden_value = true
+  }
+  dummy.RevolutionaryWhiteHannah BadIvoryJillane {
+    WickedCyanMaureene = true
+    ElectoralSapphireDevonne = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UncomfortableMaroonMeara = false
+    EmptyCoralDynah = 501
+    FreshAquamarineOrsa = true
+    CasualGreenDaniella = 779
+    FranticIvoryWinnifred = 520
+    NeighbouringAmaranthJacquelin = 612
+    RemoteBeigeCandi = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  json MarineTealGenovera {
+    _hidden_value = true
+  }
+  hidden_boolean TotalLimeViv {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string IntelligentGrayNinetta {
+    _hidden_value = true
+  }
+  ComparableLimeLucine = "Why do birds fly south for the winter? Because it's too far to walk."
+  CharmingSalmonDesdemona = "Whoever invented the knock-knock joke should get a no bell prize."
+  SouthernIvoryAlyce = 834
+  PreciseRedElisabetta = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TotalLimeViv"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

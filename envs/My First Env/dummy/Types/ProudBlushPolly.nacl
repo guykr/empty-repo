@@ -1,0 +1,44 @@
+type dummy.ProudBlushPolly {
+  annotations {
+    boolean WispyEmeraldMicaela {
+    }
+    string CostlyMaroonKayle {
+    }
+    number FlyingIndigoBrynna {
+    }
+    json ProposedTurquoiseGiulia {
+    }
+    serviceid DependentTomatoJsandye {
+    }
+    json SubsequentAmberTerri {
+    }
+  }
+  json ExtraSilverAile {
+    _hidden_value = true
+  }
+  string ControlledIndigoBrittany {
+    _hidden_value = true
+  }
+  serviceid ScaryRoseLuella {
+    _hidden_value = true
+  }
+  hidden_boolean ProvincialLimeAntonie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WispyEmeraldMicaela = true
+  CostlyMaroonKayle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FlyingIndigoBrynna = 850
+  ProposedTurquoiseGiulia = "Why is Peter Pan always flying? Because he Neverlands."
+  DependentTomatoJsandye = "Why was it called the dark ages? Because of all the knights. "
+  SubsequentAmberTerri = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FlyingIndigoBrynna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

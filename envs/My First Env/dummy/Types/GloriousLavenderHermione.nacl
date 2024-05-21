@@ -1,0 +1,19 @@
+type dummy.GloriousLavenderHermione {
+  annotations {
+    string StripedPurplePierette {
+    }
+    hidden_boolean EerieScarletGoldarina {
+    }
+    number InclinedAquamarineGenna {
+    }
+  }
+  number SlimyEmeraldTess {
+    _hidden_value = true
+  }
+  serviceid_number ShakyYellowWilla {
+    _hidden_value = true
+  }
+  StripedPurplePierette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InclinedAquamarineGenna = 98
+  _hidden_value = true
+}

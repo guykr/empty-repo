@@ -1,0 +1,34 @@
+type dummy.CreativeAmethystAlison {
+  annotations {
+    serviceid_number ContinuingGoldTony {
+    }
+    json ToughRoseLinnie {
+    }
+    number UnsightlyMoccasinHeidie {
+    }
+    string CapableBlackAbigail {
+    }
+    json ContentTanSalaidh {
+    }
+    string CourageousIndigoGayla {
+    }
+    number SelfishBeigeNevsa {
+    }
+    dummy.DEFAULT StrictBlackCharmane {
+    }
+  }
+  json FierceTanCherey {
+    _hidden_value = true
+  }
+  ContinuingGoldTony = 185
+  ToughRoseLinnie = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnsightlyMoccasinHeidie = 205
+  CapableBlackAbigail = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ContentTanSalaidh = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CourageousIndigoGayla = "What creature is smarter than a talking parrot? A spelling bee."
+  SelfishBeigeNevsa = 879
+  StrictBlackCharmane = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

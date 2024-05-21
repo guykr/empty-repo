@@ -1,0 +1,117 @@
+type dummy.LowTomatoFina {
+  annotations {
+    boolean YieldingCopperErinn {
+    }
+    json BewilderedMoccasinGabrielle {
+    }
+    boolean WoodenBronzeJohna {
+    }
+    boolean OverwhelmingAquamarineBernette {
+    }
+  }
+  dummy.FilthyPlumKristine BetterTealJorie {
+    VocationalYellowJori = 288
+    ImpressedPurpleJennette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StrangeTomatoKelsy = 403
+    UnwillingWhiteValma = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ApplicableApricotFlor = "Did you know that protons have mass? I didn't even know they were catholic."
+    OnlyBlueKatha = "Why is Peter Pan always flying? Because he Neverlands."
+    PregnantLavenderFrederica = "Why is Peter Pan always flying? Because he Neverlands."
+    SwiftAzureSandi = "Whoever invented the knock-knock joke should get a no bell prize."
+    MadMagentaKarrah = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    BusyPeachMelissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" MiserableIvoryPansie {
+    _hidden_value = true
+  }
+  json ShyBeigeZea {
+    _hidden_value = true
+  }
+  serviceid CloseGoldKonstanze {
+    _hidden_value = true
+  }
+  serviceid_number UnhappyAmaranthTybie {
+    _hidden_value = true
+  }
+  boolean BriefTomatoAloise {
+    _hidden_value = true
+  }
+  json DeliciousLimeCristal {
+    _hidden_value = true
+  }
+  string EnvironmentalVioletGaynor {
+    _hidden_value = true
+  }
+  number VerbalIndigoTeriann {
+    _hidden_value = true
+  }
+  hidden_boolean PrettyIvoryLorena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number YellingFuchsiaOlympia {
+    _hidden_value = true
+  }
+  json BackAmethystEyde {
+    _hidden_value = true
+  }
+  serviceid_number InternationalAquaCindelyn {
+    _hidden_value = true
+  }
+  number DailyMoccasinTommie {
+    _hidden_value = true
+  }
+  boolean IndividualMagentaLoraine {
+    _hidden_value = true
+  }
+  serviceid_number AnnualTomatoKerrin {
+    _hidden_value = true
+  }
+  string ContinuingSilverSadella {
+    _hidden_value = true
+  }
+  string ImmenseYellowNicolette {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyChocolateHelena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid IsolatedAquaEtti {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReasonableSilverMicky {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfidentTanLorrayne {
+    _hidden_value = true
+  }
+  json SadTomatoSilva {
+    _hidden_value = true
+  }
+  string EverydayMaroonCorette {
+    _hidden_value = true
+  }
+  YieldingCopperErinn = true
+  BewilderedMoccasinGabrielle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WoodenBronzeJohna = false
+  OverwhelmingAquamarineBernette = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WealthyChocolateHelena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BackAmethystEyde"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

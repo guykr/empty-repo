@@ -1,0 +1,94 @@
+type dummy.ImmenseMagentaAlfi {
+  string ExcessChocolateDaron {
+  }
+  serviceid_number MarkedAquamarineSephira {
+  }
+  string JoyousTealJermaine {
+  }
+  number GreasyBlueLea {
+  }
+  json ScrawnyBlushRivy {
+  }
+  number WeeklyWhiteSonnie {
+  }
+  "List<dummy.CorrectAquamarinePerry>" PreviousSapphireChandal {
+    WittyEmeraldCarmon = false
+    ZonalGrayFredericka = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AverageScarletSianna = 188
+  }
+  dummy.ProspectiveTomatoReggi InadequateRedNinette {
+    YummyTurquoiseFerdinanda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RapidGoldAlmeta = "Dad Im hungry  Hi hungry Im dad"
+    CivicBlackOlva = "Did you know that protons have mass? I didn't even know they were catholic."
+    SelectiveRoseMegan = 764
+    JoyousRedJess = "To be Frank, I'd have to change my name."
+    DutchChocolateErnestine = 922
+  }
+  string JuicyScarletTorrie {
+  }
+  number NorthernTurquoiseCarole {
+  }
+  string LtdIvoryPhilis {
+  }
+  string GoldenHarlequinJill {
+  }
+  serviceid_number PriorIndigoSybilla {
+  }
+  hidden_boolean UrbanCopperDaria {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ConceptualCrimsonKari {
+  }
+  json PeacefulSalmonElberta {
+  }
+  dummy.UptightPlumWynne BeautifulIvoryAnnie {
+    SelectedAmaranthMarleen = 807
+    DepressedApricotDanell = 538
+    PublicRedMelinde = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SpottyPeachBinny = "Why is Peter Pan always flying? Because he Neverlands."
+    GoodMagentaTami = "Why do birds fly south for the winter? Because it's too far to walk."
+    SlimScarletMelisenda = 375
+    WeeScarletCatlin = 283
+    HonAmethystBertha = 339
+    AbstractAmberJosey = false
+    BoilingAquaTim = "Why did the kid cross the playground? To get to the other slide."
+    RealYellowFaye = 191
+    HorribleAmethystFifi = false
+    BoredCrimsonZaria = 122
+    UnfortunateCrimsonLeelah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EnergeticApricotBelinda = 693
+  }
+  serviceid_number EmotionalGrayLuella {
+  }
+  serviceid_number EducationalScarletDeane {
+  }
+  number SympatheticBrownClarabelle {
+  }
+  dummy.SharpAquamarineMilicent BusySalmonShanon {
+    RetiredAquaNonah = 510
+    RightCoralGeorgina = 529
+  }
+  number UniversalApricotBrenna {
+  }
+  boolean CapableOrangePam {
+  }
+  serviceid_number CompetentCoffeeKiri {
+  }
+  json MolecularAmaranthPhillida {
+  }
+  json DistantLimeEmmy {
+  }
+  serviceid_number CurvedTanJoanna {
+  }
+  string WilfulVioletFawne {
+  }
+  number RipeJadeAurora {
+  }
+  hidden_boolean ArchitecturalLavenderTricia {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+}

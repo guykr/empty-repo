@@ -1,0 +1,50 @@
+type dummy.UnusualPeachShirleen {
+  hidden_boolean FavouriteMaroonMaribel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json VocalLimeAnnmarie {
+  }
+  boolean AdequateMaroonCyndie {
+  }
+  hidden_boolean FrequentRoseKorrie {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json SubjectiveRedCaitlin {
+  }
+  hidden_boolean FullLimeCarolyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.MildSapphireZulema GreasyGoldLonna {
+    BrightPinkMady = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    HonestOrangeLanni = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PoliteCopperErica = true
+    QuietOliveDrusilla = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ShinyLavenderEzmeralda = "Dad Im hungry  Hi hungry Im dad"
+  }
+  json IntegralIvoryAudie {
+  }
+  json AdditionalPlumKatee {
+  }
+  hidden_boolean ObjectiveBronzeRozalin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CorrectTealNadean {
+  }
+  hidden_boolean NakedAmberPearline {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number StillPurpleLeann {
+  }
+  string AbsentVioletDeane {
+  }
+}

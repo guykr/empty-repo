@@ -1,0 +1,122 @@
+type dummy.RudePinkLura {
+  annotations {
+    serviceid NetAquamarineNicholle {
+    }
+    serviceid_number FavouriteTealVanessa {
+    }
+    serviceid_number PoliticalMagentaDelphine {
+    }
+    hidden_boolean ExtremePinkGwenora {
+    }
+  }
+  json PrintedSalmonLesli {
+    _hidden_value = true
+  }
+  boolean GrubbyBlackJanice {
+    _hidden_value = true
+  }
+  number CollectiveBeigeYasmeen {
+    _hidden_value = true
+  }
+  serviceid WildTealJosie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConsiderableScarletVannie {
+    _hidden_value = true
+  }
+  number ScientificYellowLinn {
+    _hidden_value = true
+  }
+  hidden_boolean MadScarletMicki {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SuperiorBrownLacey {
+    _hidden_value = true
+  }
+  hidden_boolean QuerulousBlueFaunie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean WoodenHarlequinAnnmarie {
+    _hidden_value = true
+  }
+  boolean BroadApricotValery {
+    _hidden_value = true
+  }
+  string NobleWhiteCelia {
+    _hidden_value = true
+  }
+  string RaspyGoldFreddie {
+    _hidden_value = true
+  }
+  hidden_boolean CriminalCyanVanny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FitFuchsiaAmber {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialBlackCarolyne {
+    _hidden_value = true
+  }
+  serviceid AncientApricotDniren {
+    _hidden_value = true
+  }
+  number ProfitableCopperGill {
+    _hidden_value = true
+  }
+  hidden_boolean DecisiveCrimsonPetronilla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT DreadfulAquamarineMadonna {
+    _hidden_value = true
+  }
+  number PoliticalCopperKerianne {
+    _hidden_value = true
+  }
+  hidden_boolean CommonAquamarineGwyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SelectCopperPatrice {
+    _hidden_value = true
+  }
+  json UltimateGreenAlicea {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CuriousBlueHarriet {
+    _hidden_value = true
+  }
+  dummy.BrilliantAmethystShannah SupportingGoldElaine {
+    ConcernedApricotMariel = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CharacteristicSapphireMichele = false
+    ScatteredGreenFrankie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DigitalCrimsonRosella = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  NetAquamarineNicholle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FavouriteTealVanessa = 581
+  PoliticalMagentaDelphine = 880
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrintedSalmonLesli"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NetAquamarineNicholle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

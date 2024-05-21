@@ -1,0 +1,143 @@
+type dummy.ResultingBlueLaurene {
+  annotations {
+    boolean HeavyPeachPrudy {
+    }
+    serviceid_number ProtestantPeachSiobhan {
+    }
+    string AnnualCopperBeret {
+    }
+    serviceid DualPeachBeatriz {
+    }
+    number DisciplinaryTealPia {
+    }
+    string FrequentPeachAdria {
+    }
+  }
+  serviceid_number PurringMaroonZorina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoastedMoccasinDevon {
+    _hidden_value = true
+  }
+  number SpottyMoccasinJoceline {
+    _hidden_value = true
+  }
+  dummy.LikeTurquoiseMarisa ColdSilverRubie {
+    InternalPurpleIrina = "What do you call two barracuda fish?  A Pairacuda!"
+    StraightforwardPlumLillis = 690
+    CoherentScarletLanna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    VastAzureOthella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MutualMaroonDelores = 700
+    WidespreadIvoryHettie = 506
+    HistoricalSalmonLuise = 341
+    _hidden_value = true
+  }
+  json WellOrangeLayla {
+    _hidden_value = true
+  }
+  json IndependentIvoryKerri {
+    _hidden_value = true
+  }
+  json ShaggyBlueFionna {
+    _hidden_value = true
+  }
+  boolean FiscalAmethystLilian {
+    _hidden_value = true
+  }
+  serviceid_number WitteringApricotAmberly {
+    _hidden_value = true
+  }
+  hidden_boolean ConfidentHarlequinGelya {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ShrillBlackFilippa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AsleepMoccasinFlora {
+    _hidden_value = true
+  }
+  hidden_boolean SquareIvoryBertha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean InterestedMaroonRebekkah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RapidAmaranthNonie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RandomApricotEileen {
+    _hidden_value = true
+  }
+  "List<boolean>" LonelyScarletCorabella {
+    _hidden_value = true
+  }
+  serviceid LikeMaroonStephenie {
+    _hidden_value = true
+  }
+  serviceid PowerfulTanTabbitha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CoolHarlequinDesiri {
+    _hidden_value = true
+  }
+  number PrimitiveGreenHyacinthia {
+    _hidden_value = true
+  }
+  hidden_boolean ElderlyLimePooh {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SouthernBrownAnnadiane {
+    _hidden_value = true
+  }
+  HeavyPeachPrudy = true
+  ProtestantPeachSiobhan = 984
+  AnnualCopperBeret = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DualPeachBeatriz = "Why do birds fly south for the winter? Because it's too far to walk."
+  DisciplinaryTealPia = 693
+  FrequentPeachAdria = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LonelyScarletCorabella"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AsleepMoccasinFlora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShrillBlackFilippa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SouthernBrownAnnadiane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SquareIvoryBertha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DisciplinaryTealPia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

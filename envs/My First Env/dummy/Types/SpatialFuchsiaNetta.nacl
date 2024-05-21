@@ -1,0 +1,60 @@
+type dummy.SpatialFuchsiaNetta {
+  annotations {
+    hidden_boolean SystematicVioletClem {
+    }
+    number SlimyBeigeVale {
+    }
+    serviceid_number MainBlueCarlotta {
+    }
+    json LittleFuchsiaMallorie {
+    }
+    string SimpleMaroonNannette {
+    }
+    string SubjectiveCoffeeNeilla {
+    }
+    hidden_boolean PhilosophicalCyanHerminia {
+    }
+  }
+  json WorkingGoldGiacinta {
+    _hidden_value = true
+  }
+  number YoungestLimeFernande {
+    _hidden_value = true
+  }
+  json NursingIndigoOralle {
+    _hidden_value = true
+  }
+  number CommercialFuchsiaCelene {
+    _hidden_value = true
+  }
+  json AgriculturalIndigoMichaelina {
+    _hidden_value = true
+  }
+  number SlowSilverKariotta {
+    _hidden_value = true
+  }
+  number ViolentVioletTalia {
+    _hidden_value = true
+  }
+  json GentleSilverRaynell {
+    _hidden_value = true
+  }
+  SlimyBeigeVale = 360
+  MainBlueCarlotta = 38
+  LittleFuchsiaMallorie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SimpleMaroonNannette = "Why didnt the skeleton cross the road? Because he had no guts."
+  SubjectiveCoffeeNeilla = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WorkingGoldGiacinta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GentleSilverRaynell"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

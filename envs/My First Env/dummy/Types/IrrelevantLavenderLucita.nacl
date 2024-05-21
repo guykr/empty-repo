@@ -1,0 +1,120 @@
+type dummy.IrrelevantLavenderLucita {
+  annotations {
+    dummy.AngryLimeTiphani WeakLimeGussy {
+    }
+    hidden_boolean SafeMagentaMalory {
+    }
+    boolean PleasantBeigeDiannne {
+    }
+    json YtterbicCrimsonCaralie {
+    }
+    dummy.SwiftAzureBryn ExperiencedHarlequinJordana {
+    }
+    boolean RainyOliveUna {
+    }
+  }
+  boolean WhisperingBlueJennine {
+    _hidden_value = true
+  }
+  number UnawareCyanNichol {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LesserGrayDorella {
+    _hidden_value = true
+  }
+  boolean BreezyRoseJocelin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ContemporaryScarletJunina {
+    _hidden_value = true
+  }
+  boolean GrowingBlueGray {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IncreasedMoccasinLenna {
+    _hidden_value = true
+  }
+  string SelfishBeigeHali {
+    _hidden_value = true
+  }
+  hidden_boolean PrivateJadeEimile {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RightRoseJoan {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyCoralBeth {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json InfluentialBluePammie {
+    _hidden_value = true
+  }
+  boolean MarvellousHarlequinEmily {
+    _hidden_value = true
+  }
+  dummy.DreadfulCoralCassandre OfficialJadeDela {
+    _hidden_value = true
+  }
+  number NiceOliveCornelia {
+    _hidden_value = true
+  }
+  number InvisibleGreenRahal {
+    _hidden_value = true
+  }
+  serviceid ConventionalRedDesiree {
+    _hidden_value = true
+  }
+  serviceid ColourfulScarletFidela {
+    _hidden_value = true
+  }
+  json CleverTurquoiseSydel {
+    _hidden_value = true
+  }
+  json CoastalAmberJesse {
+    _hidden_value = true
+  }
+  WeakLimeGussy = false
+  PleasantBeigeDiannne = false
+  YtterbicCrimsonCaralie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExperiencedHarlequinJordana = 647
+  RainyOliveUna = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OfficialJadeDela"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ContemporaryScarletJunina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InvisibleGreenRahal"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConventionalRedDesiree"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PrivateJadeEimile"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExperiencedHarlequinJordana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,82 @@
+type dummy.StuckTealAnabelle {
+  annotations {
+    string LiberalTealJodi {
+    }
+    serviceid_number UnacceptableEmeraldHelge {
+    }
+    string ShiveringCoffeeBarbra {
+    }
+    number WeeklyLavenderKellina {
+    }
+    string InstantBronzeKali {
+    }
+    dummy.DEFAULT ChubbyCoralSybille {
+    }
+  }
+  serviceid_number SelfishMagentaAngelica {
+    _hidden_value = true
+  }
+  number MistyPlumVivienne {
+    _hidden_value = true
+  }
+  serviceid DullPinkMelonie {
+    _hidden_value = true
+  }
+  string ArrogantIndigoGretchen {
+    _hidden_value = true
+  }
+  string WorthwhileScarletSelinda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YtterbicGrayLacie {
+    _hidden_value = true
+  }
+  serviceid OutrageousOliveDorette {
+    _hidden_value = true
+  }
+  boolean XenaciousPinkJoela {
+    _hidden_value = true
+  }
+  number LiberalRedGae {
+    _hidden_value = true
+  }
+  json HumanIndigoLatrena {
+    _hidden_value = true
+  }
+  boolean UniformAmethystElfie {
+    _hidden_value = true
+  }
+  LiberalTealJodi = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnacceptableEmeraldHelge = 485
+  ShiveringCoffeeBarbra = "Why is Peter Pan always flying? Because he Neverlands."
+  WeeklyLavenderKellina = 525
+  InstantBronzeKali = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ChubbyCoralSybille = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SelfishMagentaAngelica"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XenaciousPinkJoela"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChubbyCoralSybille"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnacceptableEmeraldHelge"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

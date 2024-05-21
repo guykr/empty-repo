@@ -1,0 +1,93 @@
+type dummy.SquareJadeFrancyne {
+  annotations {
+    hidden_boolean TenderTomatoSula {
+    }
+    string HardBrownChristin {
+    }
+    boolean WrittenBronzeEmlyn {
+    }
+    number TallHarlequinAngel {
+    }
+    number OrdinaryOrangeDebbie {
+    }
+  }
+  json GiantAquamarineLiza {
+    _hidden_value = true
+  }
+  number SurvivingSilverDonia {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveIvoryVerina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean NutritiousMoccasinDorise {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CorrectCoralFreda {
+    _hidden_value = true
+  }
+  serviceid ActiveTealFloris {
+    _hidden_value = true
+  }
+  dummy.OutsideIvoryAshely TheoreticalCoralKerrie {
+    AssistantLavenderJasmine = "A steak pun is a rare medium well done."
+    VictoriousChocolatePavia = "Im only familiar with 25 letters in the English language. I dont know why."
+    ImplicitBlushLouisette = "Dad Im hungry  Hi hungry Im dad"
+    LatinMaroonCybil = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MoaningPinkNorene = 377
+    ObedientLavenderBreanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SubtleAmethystRona = 693
+    FuzzyCoralElvira = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    GracefulChocolateFederica = 258
+    ElaborateAmethystBelita = "Why did the tomato blush? Because it saw the salad dressing."
+    PetiteRedSharona = false
+    _hidden_value = true
+  }
+  serviceid_number TeenageApricotNorine {
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousAmberDebby {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DeliciousAquamarineCheri {
+    _hidden_value = true
+  }
+  hidden_boolean ActualBlackMegan {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PricklyRedVerile {
+    _hidden_value = true
+  }
+  json TartBlackRuperta {
+    _hidden_value = true
+  }
+  string PleasantTomatoOthelia {
+    _hidden_value = true
+  }
+  number DueAquaCandace {
+    _hidden_value = true
+  }
+  json HolyAzurePhillida {
+    _hidden_value = true
+  }
+  HardBrownChristin = "Did you know that protons have mass? I didn't even know they were catholic."
+  WrittenBronzeEmlyn = false
+  TallHarlequinAngel = 651
+  OrdinaryOrangeDebbie = 236
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OrdinaryOrangeDebbie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

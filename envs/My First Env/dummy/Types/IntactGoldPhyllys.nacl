@@ -1,0 +1,166 @@
+type dummy.IntactGoldPhyllys {
+  annotations {
+    serviceid_number PlannedTealErika {
+    }
+    serviceid UninterestedOliveZuzana {
+    }
+    boolean ChillyHarlequinDrusie {
+    }
+    boolean SoftTanDona {
+    }
+    hidden_boolean CheapGoldHyacinth {
+    }
+  }
+  boolean HomelessCrimsonSelina {
+    _hidden_value = true
+  }
+  json AnnualScarletDeedee {
+    _hidden_value = true
+  }
+  hidden_boolean TerritorialPlumEvelyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ResidentialGoldWileen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SlowChocolateGwendolyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MultipleAzureHermine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SubstantialTomatoLorry {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalCopperMehetabel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FashionableTanAlanah {
+    _hidden_value = true
+  }
+  boolean CorporateAmberJanenna {
+    _hidden_value = true
+  }
+  "List<number>" FrequentGreenJennette {
+    _hidden_value = true
+  }
+  string TastelessSapphireMaggy {
+    _hidden_value = true
+  }
+  hidden_boolean NavalMagentaTricia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ApparentOrangeCelinka {
+    _hidden_value = true
+  }
+  serviceid ComparativeTealBabs {
+    _hidden_value = true
+  }
+  number SpecificLimeMariana {
+    _hidden_value = true
+  }
+  hidden_boolean OtherSapphireManon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean VeryPlumLethia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json InterestingAzureMinette {
+    _hidden_value = true
+  }
+  json AdjacentVioletLauretta {
+    _hidden_value = true
+  }
+  serviceid MagicPurpleDoralia {
+    _hidden_value = true
+  }
+  serviceid_number GiantPeachWilma {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalBlackUta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ObjectiveAmberRoseann {
+    _hidden_value = true
+  }
+  json AfraidTanEleanor {
+    _hidden_value = true
+  }
+  PlannedTealErika = 442
+  UninterestedOliveZuzana = "Why did the tomato blush? Because it saw the salad dressing."
+  ChillyHarlequinDrusie = false
+  SoftTanDona = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MagicPurpleDoralia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlowChocolateGwendolyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NavalMagentaTricia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SubstantialTomatoLorry"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InterestingAzureMinette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResidentialGoldWileen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AnnualScarletDeedee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HomelessCrimsonSelina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PlannedTealErika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UninterestedOliveZuzana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

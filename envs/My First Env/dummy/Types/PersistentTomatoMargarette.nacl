@@ -1,0 +1,68 @@
+type dummy.PersistentTomatoMargarette {
+  annotations {
+    string AggressiveOliveRenate {
+    }
+    hidden_boolean BiologicalTurquoiseMimi {
+    }
+    dummy.DEFAULT DiplomaticBlueLauraine {
+    }
+    serviceid FluffyGreenDenni {
+    }
+  }
+  serviceid EducationalSilverTate {
+    _hidden_value = true
+  }
+  string TechnologicalBlueFlo {
+    _hidden_value = true
+  }
+  json ResidentOrangeAnnadiana {
+    _hidden_value = true
+  }
+  string GastricPeachIlysa {
+    _hidden_value = true
+  }
+  string XenialScarletGuenna {
+    _hidden_value = true
+  }
+  string SilkyPeachGypsy {
+    _hidden_value = true
+  }
+  serviceid_number ExcitingTurquoiseVivianne {
+    _hidden_value = true
+  }
+  string WidespreadEmeraldTheda {
+    _hidden_value = true
+  }
+  serviceid LtdJadeEdy {
+    _hidden_value = true
+  }
+  hidden_boolean FunPeachNatty {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ClassicalGrayGilly {
+    _hidden_value = true
+  }
+  number PeculiarBlushAnalise {
+    _hidden_value = true
+  }
+  AggressiveOliveRenate = "Slept like a log last night  woke up in the fireplace."
+  DiplomaticBlueLauraine = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  FluffyGreenDenni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DiplomaticBlueLauraine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BiologicalTurquoiseMimi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

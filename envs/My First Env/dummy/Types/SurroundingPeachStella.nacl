@@ -1,0 +1,84 @@
+type dummy.SurroundingPeachStella {
+  annotations {
+    json MidLavenderAggy {
+    }
+    number MedievalScarletHenriette {
+    }
+    serviceid_number StupidMagentaKessia {
+    }
+    json EncouragingScarletAnnamaria {
+    }
+    hidden_boolean ExclusiveSapphireAbagail {
+    }
+  }
+  dummy.VerticalHarlequinCelka ObjectivePlumCleo {
+    SheerChocolateRonda = 250
+    SorryTomatoTally = "To be Frank, I'd have to change my name."
+    InnovativeBeigeKendra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BackSapphireLiv = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    TeenageBlushCarole = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    _hidden_value = true
+  }
+  serviceid_number SubsequentBrownFlossi {
+    _hidden_value = true
+  }
+  boolean IllApricotIsabel {
+    _hidden_value = true
+  }
+  serviceid_number SpecialMaroonCourtney {
+    _hidden_value = true
+  }
+  serviceid_number MarvellousIndigoStephenie {
+    _hidden_value = true
+  }
+  serviceid JuniorOrangeRemy {
+    _hidden_value = true
+  }
+  serviceid CalmAquamarineTerza {
+    _hidden_value = true
+  }
+  json DoubtfulOliveWilletta {
+    _hidden_value = true
+  }
+  hidden_boolean SorePeachAshli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PrimaryTurquoiseOneida {
+    _hidden_value = true
+  }
+  hidden_boolean ImaginativeEmeraldWynnie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ReducedGoldLaurel {
+    _hidden_value = true
+  }
+  boolean AcceptableMoccasinNikki {
+    _hidden_value = true
+  }
+  json UnitedTealKonstance {
+    _hidden_value = true
+  }
+  boolean SecretGrayKristal {
+    _hidden_value = true
+  }
+  boolean EnchantingBrownMargaux {
+    _hidden_value = true
+  }
+  serviceid_number PrimeMoccasinPerl {
+    _hidden_value = true
+  }
+  boolean DramaticJadeSapphire {
+    _hidden_value = true
+  }
+  MidLavenderAggy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MedievalScarletHenriette = 878
+  StupidMagentaKessia = 472
+  EncouragingScarletAnnamaria = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

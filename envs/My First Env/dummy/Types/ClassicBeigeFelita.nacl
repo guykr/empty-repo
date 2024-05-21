@@ -1,0 +1,43 @@
+type dummy.ClassicBeigeFelita {
+  annotations {
+    hidden_boolean ExcellentIndigoMelitta {
+    }
+    boolean RottenApricotShanon {
+    }
+    serviceid HomelessApricotAndi {
+    }
+    serviceid_number ModerateTealCarlyn {
+    }
+    dummy.FierceSilverCherilyn GrievingBronzeDianna {
+    }
+    serviceid EthicalMagentaYvonne {
+    }
+    string ClinicalBlackVinita {
+    }
+    number StraightforwardSilverFilide {
+    }
+  }
+  serviceid SpicyIvoryDiann {
+    _hidden_value = true
+  }
+  RottenApricotShanon = false
+  HomelessApricotAndi = "What creature is smarter than a talking parrot? A spelling bee."
+  ModerateTealCarlyn = 164
+  GrievingBronzeDianna = 612
+  EthicalMagentaYvonne = "What do you call two barracuda fish?  A Pairacuda!"
+  ClinicalBlackVinita = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StraightforwardSilverFilide = 617
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GrievingBronzeDianna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExcellentIndigoMelitta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

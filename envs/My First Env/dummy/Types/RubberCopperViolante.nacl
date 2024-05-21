@@ -1,0 +1,75 @@
+type dummy.RubberCopperViolante {
+  annotations {
+    dummy.LeadingPlumFelicia SimilarMoccasinMarcella {
+    }
+    number SecretAquamarineAmalia {
+    }
+    number EligibleHarlequinValaree {
+    }
+    serviceid YoungestApricotPerry {
+    }
+    serviceid_number RulingOliveHelene {
+    }
+    boolean SophisticatedEmeraldZenia {
+    }
+  }
+  serviceid OrthodoxScarletShanie {
+    _hidden_value = true
+  }
+  string CommonAzureDoris {
+    _hidden_value = true
+  }
+  number NearRoseAlisha {
+    _hidden_value = true
+  }
+  serviceid HostileGrayCherise {
+    _hidden_value = true
+  }
+  serviceid_number MiserableHarlequinAndrea {
+    _hidden_value = true
+  }
+  hidden_boolean ProductiveHarlequinWilla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UsualRedBenny {
+    _hidden_value = true
+  }
+  boolean DeepGoldMurial {
+    _hidden_value = true
+  }
+  serviceid DirtyGreenTeresina {
+    _hidden_value = true
+  }
+  serviceid ElectoralAzureMillicent {
+    _hidden_value = true
+  }
+  json PreparedBlueAida {
+    _hidden_value = true
+  }
+  string MedievalTomatoHedwiga {
+    _hidden_value = true
+  }
+  SimilarMoccasinMarcella = false
+  SecretAquamarineAmalia = 203
+  EligibleHarlequinValaree = 674
+  YoungestApricotPerry = "Im only familiar with 25 letters in the English language. I dont know why."
+  RulingOliveHelene = 47
+  SophisticatedEmeraldZenia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MedievalTomatoHedwiga"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EligibleHarlequinValaree"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

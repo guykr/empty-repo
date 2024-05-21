@@ -1,0 +1,36 @@
+type dummy.BeautifulBlueKarlotte {
+  annotations {
+    number BrainyAmberDeerdre {
+    }
+    serviceid_number ReligiousSilverGlad {
+    }
+    string HilariousLavenderEmelina {
+    }
+    dummy.UniqueCoralTiffie PrivateYellowBobbye {
+    }
+    string HomelyLavenderBea {
+    }
+    serviceid RipeEmeraldWilletta {
+    }
+    serviceid_number MarginalBronzePhilis {
+    }
+  }
+  string ProperCyanFifi {
+    _hidden_value = true
+  }
+  BrainyAmberDeerdre = 73
+  ReligiousSilverGlad = 933
+  HilariousLavenderEmelina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PrivateYellowBobbye = true
+  HomelyLavenderBea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RipeEmeraldWilletta = "Why do birds fly south for the winter? Because it's too far to walk."
+  MarginalBronzePhilis = 25
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ReligiousSilverGlad"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

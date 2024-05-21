@@ -1,0 +1,60 @@
+type dummy.IllGrayCecil {
+  annotations {
+    hidden_boolean BrilliantBlackRozalie {
+    }
+    boolean ArchitecturalWhiteErinn {
+    }
+    hidden_boolean CausalTealTine {
+    }
+    serviceid_number WoodenAmethystGarnette {
+    }
+    number UsedRoseKatey {
+    }
+    boolean LiableAzureDalenna {
+    }
+  }
+  boolean CrudeCoffeeShelagh {
+    _hidden_value = true
+  }
+  json DistinctCopperDeanne {
+    _hidden_value = true
+  }
+  string ThunderingCrimsonEliza {
+    _hidden_value = true
+  }
+  string NuclearTurquoiseFifi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompetitivePlumAmitie {
+    _hidden_value = true
+  }
+  ArchitecturalWhiteErinn = true
+  WoodenAmethystGarnette = 346
+  UsedRoseKatey = 194
+  LiableAzureDalenna = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CrudeCoffeeShelagh"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WoodenAmethystGarnette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CausalTealTine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BrilliantBlackRozalie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

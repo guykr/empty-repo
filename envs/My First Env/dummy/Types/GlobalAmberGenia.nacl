@@ -1,0 +1,164 @@
+type dummy.GlobalAmberGenia {
+  annotations {
+    serviceid UnchangedAmaranthFayina {
+    }
+    serviceid StingyPlumSallie {
+    }
+    dummy.DEFAULT DisabledScarletElsey {
+    }
+    hidden_boolean SolarCyanMartelle {
+    }
+    json MedicalAmberChlo {
+    }
+    hidden_boolean EthnicBeigeMaighdiln {
+    }
+  }
+  json SimpleFuchsiaArdis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChemicalRedHollyanne {
+    _hidden_value = true
+  }
+  dummy.LeadingPlumFelicia ExtensiveYellowCarolynn {
+    LiveAmethystPammy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    TropicalRedGlenda = false
+    NetIndigoLorraine = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    CriticalGrayWynny = false
+    SplendidScarletMilicent = false
+    CurrentRoseErmentrude = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    BindingTomatoDarci = 417
+    SourPlumAshlee = false
+    FrozenOliveSunshine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  json GradualBrownArielle {
+    _hidden_value = true
+  }
+  serviceid SpontaneousLavenderMelissa {
+    _hidden_value = true
+  }
+  serviceid AnnualGreenShae {
+    _hidden_value = true
+  }
+  json SecretSapphireAntonella {
+    _hidden_value = true
+  }
+  serviceid IntermediatePlumAlexia {
+    _hidden_value = true
+  }
+  serviceid HardAmethystStacee {
+    _hidden_value = true
+  }
+  boolean CompatibleBeigeTressa {
+    _hidden_value = true
+  }
+  hidden_boolean StrategicCoralGwenette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ImpossiblePinkTobi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number GenerousAquamarineDesiree {
+    _hidden_value = true
+  }
+  string WeakBrownCarmelita {
+    _hidden_value = true
+  }
+  hidden_boolean ColdJadeSuzie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FrailYellowBobbi {
+    _hidden_value = true
+  }
+  number LiteraryYellowDarsie {
+    _hidden_value = true
+  }
+  serviceid_number LovelyHarlequinBrook {
+    _hidden_value = true
+  }
+  serviceid_number SupposedCyanDido {
+    _hidden_value = true
+  }
+  json DetailedChocolateOthelia {
+    _hidden_value = true
+  }
+  serviceid_number LinearCyanAnnmarie {
+    _hidden_value = true
+  }
+  boolean ComparativeLimeCristy {
+    _hidden_value = true
+  }
+  serviceid WealthyOliveLexy {
+    _hidden_value = true
+  }
+  string CapableBlackLaura {
+    _hidden_value = true
+  }
+  number OptimisticLimeJennica {
+    _hidden_value = true
+  }
+  UnchangedAmaranthFayina = "Why did the kid cross the playground? To get to the other slide."
+  StingyPlumSallie = "I'll tell you what often gets over looked... garden fences."
+  DisabledScarletElsey = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  MedicalAmberChlo = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LinearCyanAnnmarie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GenerousAquamarineDesiree"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ComparativeLimeCristy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImpossiblePinkTobi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DetailedChocolateOthelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SecretSapphireAntonella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompatibleBeigeTressa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SupposedCyanDido"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnchangedAmaranthFayina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

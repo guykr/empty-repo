@@ -1,0 +1,143 @@
+type dummy.GiganticSilverBrandi {
+  annotations {
+    json OverallBlushRebecka {
+    }
+    json DisabledAmberCristie {
+    }
+    json TerribleBronzeRosina {
+    }
+    string XenophobicBrownDarlleen {
+    }
+    hidden_boolean SplendidLimeGerry {
+    }
+    number NorthernMagentaIngunna {
+    }
+  }
+  serviceid_number SpiritualBeigeWrennie {
+    _hidden_value = true
+  }
+  string FlexibleAmethystMiriam {
+    _hidden_value = true
+  }
+  json EarlyPurpleClaudetta {
+    _hidden_value = true
+  }
+  serviceid SkinnyCrimsonFlorencia {
+    _hidden_value = true
+  }
+  hidden_boolean SunnyBronzeGert {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number JuicyCyanPhil {
+    _hidden_value = true
+  }
+  boolean FewBlackHelenelizabeth {
+    _hidden_value = true
+  }
+  boolean MushyOrangeSteffane {
+    _hidden_value = true
+  }
+  number PublicGrayDoria {
+    _hidden_value = true
+  }
+  json CleverJadeLisa {
+    _hidden_value = true
+  }
+  serviceid SelfishMagentaKim {
+    _hidden_value = true
+  }
+  boolean GrubbyOliveDaniella {
+    _hidden_value = true
+  }
+  hidden_boolean InnerYellowAustine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PoliteRedAmbur {
+    _hidden_value = true
+  }
+  dummy.UniqueCoralTiffie AwakePlumMarianna {
+    RealisticEmeraldAurlie = "Why did the kid cross the playground? To get to the other slide."
+    NetJadeCarolina = "Why do birds fly south for the winter? Because it's too far to walk."
+    SoundTanKayle = "What do you call two barracuda fish?  A Pairacuda!"
+    ThirstyScarletFran = 230
+    CommunistIndigoAnjanette = "Why is Peter Pan always flying? Because he Neverlands."
+    InterestingAmberOdilia = true
+    PlannedRedRosalie = "Why did the tomato blush? Because it saw the salad dressing."
+    DesirableLavenderMaryjo = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SupremeGrayIlka = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    ToughMagentaMaggee = "Why do birds fly south for the winter? Because it's too far to walk."
+    ArtificialCoffeeKori = false
+    OutdoorGoldKassey = 592
+    HotGreenCatriona = false
+    SystematicMagentaJacynth = "Im only familiar with 25 letters in the English language. I dont know why."
+    DisabledChocolateShandy = false
+    UnsightlyTurquoiseRuthi = "Why did the kid cross the playground? To get to the other slide."
+    MarkedLimeKellyann = 409
+    ShinySilverFey = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  hidden_boolean OralCrimsonHailee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingGreenNari {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json OverallGrayKamillah {
+    _hidden_value = true
+  }
+  OverallBlushRebecka = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DisabledAmberCristie = "A steak pun is a rare medium well done."
+  TerribleBronzeRosina = "Im only familiar with 25 letters in the English language. I dont know why."
+  XenophobicBrownDarlleen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NorthernMagentaIngunna = 441
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MushyOrangeSteffane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GrubbyOliveDaniella"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "JuicyCyanPhil"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OverallGrayKamillah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpiritualBeigeWrennie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NorthernMagentaIngunna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OverallBlushRebecka"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

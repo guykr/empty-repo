@@ -1,0 +1,71 @@
+type dummy.MinimalIndigoAmberly {
+  annotations {
+    boolean SoftPlumBerta {
+    }
+    string FondPlumVivi {
+    }
+    serviceid_number AlliedIvoryPearline {
+    }
+    boolean DamagedVioletAshely {
+    }
+    serviceid DeterminedSapphireKatharina {
+    }
+    serviceid_number NormalPeachEtta {
+    }
+  }
+  serviceid EagerGreenChristie {
+    _hidden_value = true
+  }
+  boolean DreadfulAquaWaneta {
+    _hidden_value = true
+  }
+  hidden_boolean ShortEmeraldCaril {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PureBronzeMilicent {
+    _hidden_value = true
+  }
+  number DelightedYellowChristian {
+    _hidden_value = true
+  }
+  string RipeMoccasinMurielle {
+    _hidden_value = true
+  }
+  number FaintSalmonArabel {
+    _hidden_value = true
+  }
+  boolean PatientCyanBenedikta {
+    _hidden_value = true
+  }
+  string SillyScarletLydia {
+    _hidden_value = true
+  }
+  json ShortPurpleRonnie {
+    _hidden_value = true
+  }
+  string SocialistBronzeCharmane {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WanderingPurpleNetta {
+    _hidden_value = true
+  }
+  json BoredTanJaneczka {
+    _hidden_value = true
+  }
+  SoftPlumBerta = false
+  FondPlumVivi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AlliedIvoryPearline = 681
+  DamagedVioletAshely = false
+  DeterminedSapphireKatharina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NormalPeachEtta = 575
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DelightedYellowChristian"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

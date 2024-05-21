@@ -1,0 +1,7 @@
+type dummy.UnderlyingVioletCristabel {
+  hidden_boolean PricklyCrimsonNara {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

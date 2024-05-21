@@ -1,0 +1,124 @@
+type dummy.UnusualYellowTiffany {
+  annotations {
+    string PopularTealDorey {
+    }
+    string MildPeachKissiah {
+    }
+    number LivingCopperCodi {
+    }
+    string UsedLimeJennilee {
+    }
+  }
+  hidden_boolean ResultingPlumCal {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TenderAquaShandy {
+    _hidden_value = true
+  }
+  hidden_boolean NumerousBrownMerilyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AdvisoryMoccasinTerrijo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RetailHarlequinEtti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DrunkBlueAgace {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string OccasionalPlumCostanza {
+    _hidden_value = true
+  }
+  boolean MoaningPinkKimmie {
+    _hidden_value = true
+  }
+  serviceid GladGreenBirgitta {
+    _hidden_value = true
+  }
+  json IntactMoccasinSibylle {
+    _hidden_value = true
+  }
+  boolean ConsciousSilverDolley {
+    _hidden_value = true
+  }
+  number DistinctBlueCeciley {
+    _hidden_value = true
+  }
+  boolean VariedCopperBrandi {
+    _hidden_value = true
+  }
+  boolean IndustrialYellowKathy {
+    _hidden_value = true
+  }
+  number RevolutionaryOrangeEngracia {
+    _hidden_value = true
+  }
+  json OptimisticAmethystKatee {
+    _hidden_value = true
+  }
+  json FriendlyAzureJunie {
+    _hidden_value = true
+  }
+  dummy.LeadingPlumFelicia UnacceptableCopperBerni {
+    LiveAmethystPammy = "Why do birds fly south for the winter? Because it's too far to walk."
+    TropicalRedGlenda = true
+    NetIndigoLorraine = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    CriticalGrayWynny = true
+    SplendidScarletMilicent = false
+    CurrentRoseErmentrude = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BindingTomatoDarci = 580
+    SourPlumAshlee = true
+    FrozenOliveSunshine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  PopularTealDorey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MildPeachKissiah = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LivingCopperCodi = 82
+  UsedLimeJennilee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConsciousSilverDolley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DrunkBlueAgace"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnacceptableCopperBerni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DistinctBlueCeciley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RetailHarlequinEtti"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NumerousBrownMerilyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

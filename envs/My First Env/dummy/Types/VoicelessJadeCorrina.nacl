@@ -1,0 +1,82 @@
+type dummy.VoicelessJadeCorrina {
+  annotations {
+    number ElectricOliveJanelle {
+    }
+    json OlympicTanDolley {
+    }
+    serviceid NumerousAquaJustine {
+    }
+    serviceid_number GrossFuchsiaNovelia {
+    }
+    serviceid FlexibleAquaCoralyn {
+    }
+    string ForwardTomatoAvie {
+    }
+  }
+  boolean PrivateScarletShelby {
+    _hidden_value = true
+  }
+  serviceid SurprisingRedAllis {
+    _hidden_value = true
+  }
+  serviceid_number NosyGrayBetty {
+    _hidden_value = true
+  }
+  string StupidGrayTerrijo {
+    _hidden_value = true
+  }
+  boolean ComingPinkNita {
+    _hidden_value = true
+  }
+  hidden_boolean GastricPurpleMarti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UsefulCyanGrazia {
+    _hidden_value = true
+  }
+  hidden_boolean SurvivingSalmonKath {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number GradualGrayLenna {
+    _hidden_value = true
+  }
+  hidden_boolean ToxicAquamarineHerminia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string MilitaryVioletChloette {
+    _hidden_value = true
+  }
+  hidden_boolean PresentJadePetronilla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EthicalIvoryStorm {
+    _hidden_value = true
+  }
+  ElectricOliveJanelle = 70
+  OlympicTanDolley = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NumerousAquaJustine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GrossFuchsiaNovelia = 404
+  FlexibleAquaCoralyn = "Slept like a log last night  woke up in the fireplace."
+  ForwardTomatoAvie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FlexibleAquaCoralyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GrossFuchsiaNovelia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

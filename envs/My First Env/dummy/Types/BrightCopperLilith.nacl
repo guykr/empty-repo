@@ -1,0 +1,34 @@
+type dummy.BrightCopperLilith {
+  annotations {
+    serviceid PeculiarTomatoStarr {
+    }
+    serviceid BeneficialGoldFay {
+    }
+    hidden_boolean ZealousOliveBryn {
+    }
+    string RoughTanVonny {
+    }
+    dummy.DEFAULT ManagingFuchsiaVernice {
+    }
+    json SpontaneousIvoryConcettina {
+    }
+  }
+  number LoudTurquoisePris {
+    _hidden_value = true
+  }
+  PeculiarTomatoStarr = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BeneficialGoldFay = "Why did the kid cross the playground? To get to the other slide."
+  RoughTanVonny = "Why did the kid cross the playground? To get to the other slide."
+  ManagingFuchsiaVernice = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  SpontaneousIvoryConcettina = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SpontaneousIvoryConcettina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

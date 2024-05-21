@@ -1,0 +1,41 @@
+type dummy.LinearMagentaCynthia {
+  annotations {
+    number LikePurpleJacquie {
+    }
+    string SilentAquamarineHanny {
+    }
+    serviceid_number DistantAmethystFlory {
+    }
+    json DevotedBlackDemetra {
+    }
+    number StructuralBlueLisha {
+    }
+    serviceid HonBlushOpalina {
+    }
+    serviceid_number ZestfulGoldNelli {
+    }
+  }
+  serviceid_number LiquidPlumBarbey {
+    _hidden_value = true
+  }
+  LikePurpleJacquie = 690
+  SilentAquamarineHanny = "I'll tell you what often gets over looked... garden fences."
+  DistantAmethystFlory = 700
+  DevotedBlackDemetra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StructuralBlueLisha = 325
+  HonBlushOpalina = "Why is Peter Pan always flying? Because he Neverlands."
+  ZestfulGoldNelli = 400
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DistantAmethystFlory"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DevotedBlackDemetra"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

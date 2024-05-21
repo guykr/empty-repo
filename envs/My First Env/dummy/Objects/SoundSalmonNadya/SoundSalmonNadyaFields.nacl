@@ -1,0 +1,9 @@
+type dummy.SoundSalmonNadya {
+  hidden_boolean SmallBrownHephzibah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number StiffTomatoRois {
+  }
+}

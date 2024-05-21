@@ -1,0 +1,36 @@
+type dummy.ChristianGrayGlen is boolean {
+  annotations {
+    hidden_boolean PoliticalGrayElisabeth {
+    }
+    boolean XenaciousSalmonMaddalena {
+    }
+    serviceid StraightAmethystLuciana {
+    }
+    serviceid SmallBlushEmmalyn {
+    }
+    json SuperbPurpleFayth {
+    }
+    serviceid_number WorryingOrangeLonna {
+    }
+    serviceid DustyMoccasinClaribel {
+    }
+    json HistoricPurpleGaby {
+    }
+    string UptightCoffeeHarri {
+    }
+    boolean ObnoxiousIvoryBill {
+    }
+    serviceid RubberJadeLexis {
+    }
+  }
+  XenaciousSalmonMaddalena = true
+  StraightAmethystLuciana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SmallBlushEmmalyn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SuperbPurpleFayth = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WorryingOrangeLonna = 531
+  DustyMoccasinClaribel = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HistoricPurpleGaby = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UptightCoffeeHarri = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ObnoxiousIvoryBill = false
+  RubberJadeLexis = "Why didnt the skeleton cross the road? Because he had no guts."
+}

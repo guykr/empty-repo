@@ -1,0 +1,78 @@
+type dummy.EverydayPurpleEloise {
+  annotations {
+    json MuteSilverRheta {
+    }
+    hidden_boolean SophisticatedVioletCathyleen {
+    }
+    number MildFuchsiaMella {
+    }
+    dummy.UptightPlumWynne MilitaryLimeNetti {
+    }
+    dummy.DEFAULT UnhappyCrimsonJeralee {
+    }
+  }
+  boolean SevereJadeFred {
+    _hidden_value = true
+  }
+  hidden_boolean LiberalChocolateBrook {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean VitalBronzeAmabelle {
+    _hidden_value = true
+  }
+  serviceid_number SouthernCoffeeFidelity {
+    _hidden_value = true
+  }
+  string EasyAmberMelosa {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyLimeMerrily {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StillOlivePhillie {
+    _hidden_value = true
+  }
+  serviceid KindSapphireBerta {
+    _hidden_value = true
+  }
+  MuteSilverRheta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MildFuchsiaMella = 619
+  MilitaryLimeNetti = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnhappyCrimsonJeralee = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "KindSapphireBerta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SevereJadeFred"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StillOlivePhillie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SouthernCoffeeFidelity"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnhappyCrimsonJeralee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

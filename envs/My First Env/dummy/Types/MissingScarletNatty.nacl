@@ -1,0 +1,40 @@
+type dummy.MissingScarletNatty {
+  annotations {
+    string SupportingOliveRubie {
+    }
+    json PotentialIvoryCollete {
+    }
+    hidden_boolean TastelessYellowBarrie {
+    }
+    json LatinSilverAnthia {
+    }
+    serviceid FlutteringTomatoRosemaria {
+    }
+    hidden_boolean SpontaneousPurpleIzabel {
+    }
+  }
+  boolean HollowPeachAilis {
+    _hidden_value = true
+  }
+  serviceid UnfairSapphireLula {
+    _hidden_value = true
+  }
+  serviceid GivenAquamarineEllie {
+    _hidden_value = true
+  }
+  json DearTomatoLea {
+    _hidden_value = true
+  }
+  SupportingOliveRubie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PotentialIvoryCollete = "Why was it called the dark ages? Because of all the knights. "
+  LatinSilverAnthia = "To be Frank, I'd have to change my name."
+  FlutteringTomatoRosemaria = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PotentialIvoryCollete"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

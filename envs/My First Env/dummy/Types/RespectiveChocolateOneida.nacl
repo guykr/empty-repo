@@ -1,0 +1,68 @@
+type dummy.RespectiveChocolateOneida {
+  annotations {
+    hidden_boolean ExplicitAmethystJeniece {
+    }
+    boolean RareTanOlly {
+    }
+    hidden_boolean VitreousCoralAdi {
+    }
+    serviceid SilentApricotMadelon {
+    }
+  }
+  hidden_boolean CleanSilverJaquenette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeAquaNyssa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.YappyMaroonSioux CollectivePinkMerl {
+    WorryingIndigoDevi = "I'll tell you what often gets over looked... garden fences."
+    KnownMagentaRosa = "I'll tell you what often gets over looked... garden fences."
+    WearyEmeraldErinna = 411
+    IntimatePlumGerti = 311
+    ScatteredBronzeCaye = false
+    CapitalistRedUlrike = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PrivateAmethystRicky = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    AbundantMaroonFrancoise = 513
+    FilthyLavenderAngela = 957
+    TotalAquamarineGodiva = 969
+    QuickestIvoryStefania = 893
+    WastefulIvoryEvelina = 438
+    IndirectIndigoCarey = 96
+    RelievedIvoryLinda = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    RoastedCoffeeLurette = false
+    DeepSalmonGabey = "Slept like a log last night  woke up in the fireplace."
+    GeneticAmethystDevora = 337
+    ChosenVioletCandy = true
+    IdealScarletCorabella = false
+    _hidden_value = true
+  }
+  serviceid AdorableSapphireBernadette {
+    _hidden_value = true
+  }
+  RareTanOlly = false
+  SilentApricotMadelon = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CollectivePinkMerl"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RareTanOlly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,17 @@
+type dummy.HostileAmethystAlta is boolean {
+  annotations {
+    hidden_boolean SelectedLavenderZandra {
+    }
+    boolean ObligedHarlequinEmmie {
+    }
+    number DifferentMagentaOphelie {
+    }
+    hidden_boolean SharpFuchsiaPru {
+    }
+    boolean RidiculousRoseGretchen {
+    }
+  }
+  ObligedHarlequinEmmie = true
+  DifferentMagentaOphelie = 351
+  RidiculousRoseGretchen = true
+}

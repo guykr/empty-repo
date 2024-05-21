@@ -1,0 +1,122 @@
+type dummy.LabourPurpleAurelia {
+  annotations {
+    json SingleRedMella {
+    }
+    serviceid GrowingTanMadelina {
+    }
+    dummy.DEFAULT ApplicableRedBlair {
+    }
+    serviceid_number UnusualPeachShelli {
+    }
+    serviceid TechnologicalYellowJulietta {
+    }
+    serviceid_number ImmenseFuchsiaRanique {
+    }
+  }
+  json ContinentalTurquoiseMerola {
+    _hidden_value = true
+  }
+  serviceid_number CalmLavenderCorina {
+    _hidden_value = true
+  }
+  json ExistingAzureFrancene {
+    _hidden_value = true
+  }
+  serviceid_number PositiveBronzeCori {
+    _hidden_value = true
+  }
+  string SurprisingGreenJerrie {
+    _hidden_value = true
+  }
+  serviceid WesternBronzeBarbra {
+    _hidden_value = true
+  }
+  serviceid_number AccusedSilverCollete {
+    _hidden_value = true
+  }
+  dummy.BlindAmaranthCari ResponsibleRoseTish {
+    SportingMagentaRos = 140
+    BewilderedCoralAtlante = "Why was it called the dark ages? Because of all the knights. "
+    SpecifiedPinkMildred = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ComplexGrayBernardine = 287
+    NakedCrimsonNatalina = 734
+    StillLavenderDehlia = 998
+    ExcessTurquoiseCody = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CuddlyTanLisha = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HushedLimeFaun = false
+    LeadingBlueBarbie = 922
+    BraveTanKaroly = "Im only familiar with 25 letters in the English language. I dont know why."
+    TopApricotLaurette = "Im only familiar with 25 letters in the English language. I dont know why."
+    ContinuedAzureNoami = true
+    _hidden_value = true
+  }
+  hidden_boolean MedicalLimeGiustina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExperimentalAmethystDodie {
+    _hidden_value = true
+  }
+  serviceid_number XenogeneicEmeraldDaphene {
+    _hidden_value = true
+  }
+  boolean FuriousTealKarrie {
+    _hidden_value = true
+  }
+  json ActivePinkJan {
+    _hidden_value = true
+  }
+  number BigIndigoZarah {
+    _hidden_value = true
+  }
+  serviceid_number CompactTomatoBabita {
+    _hidden_value = true
+  }
+  serviceid BoringRedConstancy {
+    _hidden_value = true
+  }
+  string SorryEmeraldMaddie {
+    _hidden_value = true
+  }
+  serviceid_number ContemporaryIndigoLydia {
+    _hidden_value = true
+  }
+  serviceid PayableChocolateAngel {
+    _hidden_value = true
+  }
+  number TheoreticalYellowLivvyy {
+    _hidden_value = true
+  }
+  string SmallGreenSissy {
+    _hidden_value = true
+  }
+  SingleRedMella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GrowingTanMadelina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ApplicableRedBlair = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  UnusualPeachShelli = 546
+  TechnologicalYellowJulietta = "Whoever invented the knock-knock joke should get a no bell prize."
+  ImmenseFuchsiaRanique = 708
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CalmLavenderCorina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ImmenseFuchsiaRanique"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TechnologicalYellowJulietta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

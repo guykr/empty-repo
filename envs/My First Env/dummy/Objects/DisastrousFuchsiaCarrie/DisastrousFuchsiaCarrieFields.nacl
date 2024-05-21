@@ -1,0 +1,71 @@
+type dummy.DisastrousFuchsiaCarrie {
+  hidden_boolean RightVioletDemetria {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CombinedBronzeKrystal {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FeministAzureDionis {
+  }
+  dummy.NearbyPurpleDita NewMagentaAnnemarie {
+    FirmBlueBernadine = 960
+    RemarkableLimeCorrina = true
+    MolecularTealRaven = 774
+    StatisticalAzureCatina = 201
+    FinancialHarlequinJayne = "Why is Peter Pan always flying? Because he Neverlands."
+    SteadyFuchsiaKit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  boolean DisciplinaryAmberTamqrah {
+  }
+  json SelectedSapphireDaune {
+  }
+  hidden_boolean SuddenScarletKirbee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GladTanKevyn {
+  }
+  hidden_boolean QuarrelsomeTanCharlean {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SafeTomatoHelge WorthwhileAzureGuendolen {
+    ExclusiveBlueTarra = "To be Frank, I'd have to change my name."
+    GiantPinkGisela = true
+    PoisedWhiteDella = 948
+  }
+  hidden_boolean InformalCrimsonRowena {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  number MathematicalEmeraldChryste {
+  }
+  boolean WorryingSalmonOdette {
+  }
+  hidden_boolean NutritiousRedBertha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DutchRoseCathlene {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid CourageousGrayJennee {
+  }
+  hidden_boolean ComfortableBrownMerola {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ViolentAmberJanifer {
+  }
+}

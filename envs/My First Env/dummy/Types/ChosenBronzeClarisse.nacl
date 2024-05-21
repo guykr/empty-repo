@@ -1,0 +1,24 @@
+type dummy.ChosenBronzeClarisse {
+  annotations {
+    hidden_boolean WorriedBronzeAdeline {
+    }
+    number GloriousAquamarineDamara {
+    }
+    string IrrelevantFuchsiaMelony {
+    }
+    serviceid ParallelEmeraldRoslyn {
+    }
+  }
+  hidden_boolean DepressedAquamarineEdee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean XenaciousWhitePatty {
+    _hidden_value = true
+  }
+  GloriousAquamarineDamara = 957
+  IrrelevantFuchsiaMelony = "Dad Im hungry  Hi hungry Im dad"
+  ParallelEmeraldRoslyn = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

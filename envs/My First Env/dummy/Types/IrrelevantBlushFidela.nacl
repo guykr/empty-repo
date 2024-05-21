@@ -1,0 +1,89 @@
+type dummy.IrrelevantBlushFidela {
+  annotations {
+    boolean WildIvoryNatala {
+    }
+    string UselessOrangeGabbie {
+    }
+    boolean DampTomatoElnora {
+    }
+    serviceid PrivatePinkKaila {
+    }
+    string DailyAzureBettye {
+    }
+  }
+  string YouthfulPeachMichaella {
+    _hidden_value = true
+  }
+  string DueBlushDeane {
+    _hidden_value = true
+  }
+  hidden_boolean QualifiedGrayLilian {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousAzureGeorgia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number EntireAmethystBrittney {
+    _hidden_value = true
+  }
+  serviceid SweetCopperMalynda {
+    _hidden_value = true
+  }
+  serviceid YappyMoccasinManon {
+    _hidden_value = true
+  }
+  serviceid_number YuckyBronzeRosella {
+    _hidden_value = true
+  }
+  serviceid WearyJadeOndrea {
+    _hidden_value = true
+  }
+  boolean ProtectiveIndigoGeorgeanne {
+    _hidden_value = true
+  }
+  serviceid_number ClumsyOlivePauletta {
+    _hidden_value = true
+  }
+  serviceid CorporateMaroonDasie {
+    _hidden_value = true
+  }
+  string FashionableIvoryMargaretta {
+    _hidden_value = true
+  }
+  dummy.RedundantBrownFanni CausalJadeMargaux {
+    PetiteBrownJulienne = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExpectedPlumMavra = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    HandicappedChocolateOla = "Why didnt the skeleton cross the road? Because he had no guts."
+    NationalGrayGerri = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  WildIvoryNatala = true
+  UselessOrangeGabbie = "Why didnt the skeleton cross the road? Because he had no guts."
+  DampTomatoElnora = true
+  PrivatePinkKaila = "A steak pun is a rare medium well done."
+  DailyAzureBettye = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YappyMoccasinManon"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DisastrousAzureGeorgia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DueBlushDeane"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

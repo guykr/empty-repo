@@ -1,0 +1,188 @@
+type dummy.RealisticVioletMerci {
+  annotations {
+    json YappiestScarletNikoletta {
+    }
+    serviceid LonelyEmeraldRay {
+    }
+    string LeadingEmeraldVera {
+    }
+    hidden_boolean ManyLimeNolie {
+    }
+    boolean PrettyBronzeVida {
+    }
+    json SlipperyScarletBarbey {
+    }
+  }
+  serviceid_number ShockedApricotMadelin {
+    _hidden_value = true
+  }
+  serviceid_number UnlikelyWhiteKimberlee {
+    _hidden_value = true
+  }
+  serviceid_number WellBeigeGloriane {
+    _hidden_value = true
+  }
+  string HollowBrownRaquel {
+    _hidden_value = true
+  }
+  json LongMaroonGiulietta {
+    _hidden_value = true
+  }
+  hidden_boolean VivaciousGoldNonah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ExcessiveApricotViviana {
+    _hidden_value = true
+  }
+  serviceid_number FluffyTomatoFrederica {
+    _hidden_value = true
+  }
+  number IndependentAquamarineRow {
+    _hidden_value = true
+  }
+  boolean RareAmberRoana {
+    _hidden_value = true
+  }
+  "List<serviceid>" AcceptableWhiteHonor {
+    _hidden_value = true
+  }
+  serviceid_number UrgentMagentaAnthe {
+    _hidden_value = true
+  }
+  string SovietEmeraldBertie {
+    _hidden_value = true
+  }
+  string XericPurpleShoshanna {
+    _hidden_value = true
+  }
+  boolean VicariousSalmonKip {
+    _hidden_value = true
+  }
+  serviceid NovelPeachTeena {
+    _hidden_value = true
+  }
+  hidden_boolean FatHarlequinNadine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FrozenCrimsonEnrika {
+    _hidden_value = true
+  }
+  serviceid CurlyMaroonNelie {
+    _hidden_value = true
+  }
+  string StrategicTomatoElana {
+    _hidden_value = true
+  }
+  boolean OutstandingCopperShawn {
+    _hidden_value = true
+  }
+  boolean GoverningSalmonArline {
+    _hidden_value = true
+  }
+  string FilthyBlushLanna {
+    _hidden_value = true
+  }
+  string SorryScarletSophey {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ObligedHarlequinMadelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AdvisoryPlumJane {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.VoluminousSilverHermina RealApricotMalissa {
+    BetterSilverHedda = false
+    AcceptedOrangeStephi = 152
+    HeavyVioletGwennie = 577
+    DarkAquaDorine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NavalSalmonBrittne = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EthicalLimeGriselda = true
+    NutritiousIvoryKoressa = true
+    NastyFuchsiaBianca = 904
+    UncertainAmethystImelda = 780
+    ProminentBlackTish = 659
+    AdvancedOrangeGuglielma = 31
+    LoyalIndigoEleonora = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  serviceid DistinctiveCyanSonia {
+    _hidden_value = true
+  }
+  json BumpyCrimsonElfrieda {
+    _hidden_value = true
+  }
+  serviceid_number SovietBrownCelie {
+    _hidden_value = true
+  }
+  serviceid DramaticBrownTorrie {
+    _hidden_value = true
+  }
+  serviceid SophisticatedGoldPetunia {
+    _hidden_value = true
+  }
+  serviceid SquareOrangeEmelyne {
+    _hidden_value = true
+  }
+  YappiestScarletNikoletta = "Slept like a log last night  woke up in the fireplace."
+  LonelyEmeraldRay = "Why was it called the dark ages? Because of all the knights. "
+  LeadingEmeraldVera = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PrettyBronzeVida = false
+  SlipperyScarletBarbey = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AcceptableWhiteHonor"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DramaticBrownTorrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HollowBrownRaquel"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RareAmberRoana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RealApricotMalissa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FluffyTomatoFrederica"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UrgentMagentaAnthe"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "XericPurpleShoshanna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SorryScarletSophey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

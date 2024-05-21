@@ -1,0 +1,150 @@
+type dummy.ConfidentialYellowGeorgetta {
+  annotations {
+    string NeutralLimeGavrielle {
+    }
+    serviceid JuniorBlushLinzy {
+    }
+    serviceid DisgustedPeachRosemarie {
+    }
+    boolean SecondaryCopperCelestia {
+    }
+  }
+  json BeautifulMaroonClem {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardCopperJen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GeneralPlumMargaret {
+    _hidden_value = true
+  }
+  string PregnantChocolateHenrietta {
+    _hidden_value = true
+  }
+  string RelievedAquamarineDrusy {
+    _hidden_value = true
+  }
+  dummy.UsefulRoseIbbie ExtendedBronzeAriadne {
+    ComingMoccasinUmeko = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ExuberantBlushKimmy = 522
+    FrontBrownCorrina = 981
+    FancyOliveCorny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CloudyBronzeCasi = true
+    ShyBlackIssie = 448
+    MuddyJadeRosemonde = 117
+    RivalTanLilli = 5
+    RegulatoryLimeElsinore = true
+    ComingEmeraldRow = 370
+    TenseOliveBelva = true
+    SmoothChocolateAretha = 810
+    ConstantAmaranthStephannie = 518
+    _hidden_value = true
+  }
+  number InformalAquamarineErtha {
+    _hidden_value = true
+  }
+  string MilitaryBlueHollie {
+    _hidden_value = true
+  }
+  json ExcitedAquamarineCelie {
+    _hidden_value = true
+  }
+  dummy.OverseasTealHayley LinguisticOrangeMarisa {
+    ArtisticLimeThea = 1
+    SharedCopperDavina = false
+    SimilarTealSheena = "Why didnt the skeleton cross the road? Because he had no guts."
+    SickJadeLanette = "Why did the kid cross the playground? To get to the other slide."
+    WearyPeachDelly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RetiredIndigoLynda = "To be Frank, I'd have to change my name."
+    StrictSapphireLil = 667
+    ContinuingGoldLanita = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    ShrillCyanRivy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FirmEmeraldJanet = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  json SecondaryLimeIlene {
+    _hidden_value = true
+  }
+  serviceid PreviousSapphireRomona {
+    _hidden_value = true
+  }
+  serviceid LoyalMoccasinMary {
+    _hidden_value = true
+  }
+  hidden_boolean EldestOrangeNonna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AverageVioletBessy {
+    _hidden_value = true
+  }
+  serviceid LocalScarletDeeanne {
+    _hidden_value = true
+  }
+  boolean DevotedAquaRosina {
+    _hidden_value = true
+  }
+  string PromisingBronzeKaleena {
+    _hidden_value = true
+  }
+  hidden_boolean WildPinkOralla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ImmenseCoffeeAnnalise {
+    _hidden_value = true
+  }
+  serviceid_number NationalBlackLulu {
+    _hidden_value = true
+  }
+  number AnnoyedAmaranthAlanah {
+    _hidden_value = true
+  }
+  serviceid SpontaneousGoldLicha {
+    _hidden_value = true
+  }
+  serviceid_number DrabPlumCharmane {
+    _hidden_value = true
+  }
+  string SystematicAmethystMona {
+    _hidden_value = true
+  }
+  NeutralLimeGavrielle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  JuniorBlushLinzy = "How come the stadium got hot after the game? Because all of the fans left."
+  DisgustedPeachRosemarie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SecondaryCopperCelestia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EldestOrangeNonna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AverageVioletBessy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NationalBlackLulu"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AnnoyedAmaranthAlanah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LoyalMoccasinMary"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

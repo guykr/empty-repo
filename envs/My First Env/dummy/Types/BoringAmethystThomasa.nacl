@@ -1,0 +1,23 @@
+type dummy.BoringAmethystThomasa {
+  annotations {
+    serviceid GrowingAquaLishe {
+    }
+    string VoluntaryPurpleKristi {
+    }
+    boolean UniversalPurpleLorinda {
+    }
+    json RollingMoccasinAlvera {
+    }
+    number GlamorousMaroonVilhelmina {
+    }
+  }
+  serviceid MelodicPurpleEdna {
+    _hidden_value = true
+  }
+  GrowingAquaLishe = "Why did the tomato blush? Because it saw the salad dressing."
+  VoluntaryPurpleKristi = "A steak pun is a rare medium well done."
+  UniversalPurpleLorinda = true
+  RollingMoccasinAlvera = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GlamorousMaroonVilhelmina = 680
+  _hidden_value = true
+}

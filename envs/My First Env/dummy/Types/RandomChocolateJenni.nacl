@@ -1,0 +1,53 @@
+type dummy.RandomChocolateJenni {
+  annotations {
+    number StrikingBronzeAudra {
+    }
+    boolean SuccessfulCoralNicola {
+    }
+    boolean RollingMaroonKyle {
+    }
+    json MonetaryRoseHedi {
+    }
+    json LexicalBlueJillayne {
+    }
+    boolean WellVioletDyan {
+    }
+  }
+  dummy.BoredAquaCorilla WidespreadRoseBerta {
+    SacredRedFlo = "Why was it called the dark ages? Because of all the knights. "
+    CommercialIndigoNorina = 161
+    TrickyPinkBeryle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ContemporaryScarletNicoli = 327
+    DustyCoralBelva = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SilkyPeachCharlene = "Why did the kid cross the playground? To get to the other slide."
+    WorryingBlushCharmaine = 239
+    HonChocolateMorna = true
+    RunningRedDido = 739
+    ScrawnyCyanLu = "My first time using an elevator was an uplifting experience. The second time let me down."
+    VariedPinkSerena = 841
+    WeeGreenPerl = "Slept like a log last night  woke up in the fireplace."
+    BiologicalGrayHarlie = "To be Frank, I'd have to change my name."
+    SaltyBlackGabbie = "Did you know that protons have mass? I didn't even know they were catholic."
+    FeministWhiteCamellia = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  StrikingBronzeAudra = 342
+  SuccessfulCoralNicola = true
+  RollingMaroonKyle = true
+  MonetaryRoseHedi = "A steak pun is a rare medium well done."
+  LexicalBlueJillayne = "To be Frank, I'd have to change my name."
+  WellVioletDyan = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MonetaryRoseHedi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RollingMaroonKyle"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

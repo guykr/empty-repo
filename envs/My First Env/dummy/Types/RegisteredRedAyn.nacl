@@ -1,0 +1,36 @@
+type dummy.RegisteredRedAyn {
+  annotations {
+    string GradualPurpleSeka {
+    }
+    hidden_boolean SignificantGrayFarand {
+    }
+    serviceid InternalCoralElianore {
+    }
+    string FunnyBlueBertine {
+    }
+    serviceid UnderlyingCopperGilbertine {
+    }
+  }
+  serviceid_number RaspyCyanMarysa {
+    _hidden_value = true
+  }
+  hidden_boolean WarmYellowMarget {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number MonetaryFuchsiaHarriot {
+    _hidden_value = true
+  }
+  json ParallelSilverFelicdad {
+    _hidden_value = true
+  }
+  boolean TropicalJadeWallie {
+    _hidden_value = true
+  }
+  GradualPurpleSeka = "Why didnt the skeleton cross the road? Because he had no guts."
+  InternalCoralElianore = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FunnyBlueBertine = "Slept like a log last night  woke up in the fireplace."
+  UnderlyingCopperGilbertine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type dummy.JuicyCoralSimonne {
+  annotations {
+    serviceid_number RedundantMaroonGiralda {
+    }
+    json AmbitiousYellowNertie {
+    }
+    serviceid_number PracticalIndigoRicca {
+    }
+    json AccurateHarlequinIleane {
+    }
+    json DisturbedBlueIzabel {
+    }
+  }
+  dummy.DEFAULT AdorableAmberAuguste {
+    _hidden_value = true
+  }
+  number ProperIvoryFlorri {
+    _hidden_value = true
+  }
+  string PoliticalTealVanessa {
+    _hidden_value = true
+  }
+  dummy.SharpCopperFlossy AmateurLimeAndrei {
+    ScaredFuchsiaEvangelin = false
+    DevelopedEmeraldBecki = false
+    IntegratedTomatoMin = "Why did the tomato blush? Because it saw the salad dressing."
+    ZygoticMagentaSilva = 757
+    DigitalIndigoSusan = 243
+    CuddlyLimeYolane = true
+    RollingBronzeAurore = 509
+    NarrowVioletMeg = true
+    IcyCoralGlory = 857
+    PurringPlumKalinda = true
+    CivilianChocolateAnthea = false
+    TrickyChocolateGlory = "What do you do on a remote island? Try and find the TV island it belongs to."
+    InadequateBronzeMichel = "A steak pun is a rare medium well done."
+    PopularJadeCasi = 693
+    YeastyBlackRosella = "Slept like a log last night  woke up in the fireplace."
+    SecureIvoryDionis = 989
+    _hidden_value = true
+  }
+  string CurlyGrayCorrianne {
+    _hidden_value = true
+  }
+  boolean SuperiorLavenderLuciana {
+    _hidden_value = true
+  }
+  string SeriousCopperJanna {
+    _hidden_value = true
+  }
+  RedundantMaroonGiralda = 924
+  AmbitiousYellowNertie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PracticalIndigoRicca = 931
+  AccurateHarlequinIleane = "Dad Im hungry  Hi hungry Im dad"
+  DisturbedBlueIzabel = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProperIvoryFlorri"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

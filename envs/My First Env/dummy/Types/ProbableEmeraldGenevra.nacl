@@ -1,0 +1,71 @@
+type dummy.ProbableEmeraldGenevra {
+  annotations {
+    hidden_boolean ResonantPeachArabela {
+    }
+    number ChubbyCopperDede {
+    }
+    serviceid_number RubberApricotTaffy {
+    }
+    hidden_boolean CorrespondingCopperGlynnis {
+    }
+  }
+  hidden_boolean StiffAquaErica {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string UnderlyingMaroonGeorgianne {
+    _hidden_value = true
+  }
+  serviceid PopularChocolateKellia {
+    _hidden_value = true
+  }
+  boolean BeneficialBeigeJanela {
+    _hidden_value = true
+  }
+  number DelightfulCoralWynn {
+    _hidden_value = true
+  }
+  string LocalMaroonBrynn {
+    _hidden_value = true
+  }
+  "List<number>" HappyBeigeZorine {
+    _hidden_value = true
+  }
+  hidden_boolean VeryIndigoEtti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnfairAzureJoline {
+    _hidden_value = true
+  }
+  boolean SimilarPinkAlleen {
+    _hidden_value = true
+  }
+  serviceid_number SmoggyIndigoArdeen {
+    _hidden_value = true
+  }
+  ChubbyCopperDede = 538
+  RubberApricotTaffy = 334
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StiffAquaErica"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VeryIndigoEtti"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RubberApricotTaffy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

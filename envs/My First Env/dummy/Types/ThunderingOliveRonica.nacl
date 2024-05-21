@@ -1,0 +1,122 @@
+type dummy.ThunderingOliveRonica {
+  annotations {
+    serviceid_number FrontCoffeeCyb {
+    }
+    string HorizontalIvoryMireille {
+    }
+    hidden_boolean AblePinkRosy {
+    }
+    hidden_boolean SunnyCoffeeDottie {
+    }
+    serviceid ExtraLavenderBillye {
+    }
+    json ArtificialSapphireElbertina {
+    }
+  }
+  boolean ChubbyCopperInger {
+    _hidden_value = true
+  }
+  serviceid_number LocalApricotSallee {
+    _hidden_value = true
+  }
+  serviceid DyingOliveStacy {
+    _hidden_value = true
+  }
+  hidden_boolean SouthernAmberDolorita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number TemporaryVioletDyna {
+    _hidden_value = true
+  }
+  serviceid InvolvedOrangeKrystalle {
+    _hidden_value = true
+  }
+  boolean TragicApricotIona {
+    _hidden_value = true
+  }
+  dummy.AngryLimeTiphani CivilianBronzeAntonella {
+    WorriedChocolateKim = "Why did the tomato blush? Because it saw the salad dressing."
+    LongApricotAngelia = true
+    GlobalCoffeeMalinda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    VagueCopperElita = 707
+    SovietPlumRegan = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    RationalTurquoiseAlix = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid_number UncertainLimeRosalyn {
+    _hidden_value = true
+  }
+  serviceid_number ImmediateChocolateJanet {
+    _hidden_value = true
+  }
+  "List<number>" SmoggyOliveDona {
+    _hidden_value = true
+  }
+  string ToughJadeMikaela {
+    _hidden_value = true
+  }
+  serviceid DefiniteBlueJeni {
+    _hidden_value = true
+  }
+  dummy.DutchGreenOlva FitCrimsonJessa {
+    FederalTurquoiseVanessa = "How come the stadium got hot after the game? Because all of the fans left."
+    ShakyApricotAnastasie = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    CriminalWhiteKessiah = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    BusyMaroonLucie = "How come the stadium got hot after the game? Because all of the fans left."
+    AppallingBrownAnny = "Why is Peter Pan always flying? Because he Neverlands."
+    FlatTanLinnie = "Why did the kid cross the playground? To get to the other slide."
+    ThoroughCoffeeCorrine = 216
+    ColossalFuchsiaJulianna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    XenialVioletVallie = 793
+    CapitalistMaroonRebe = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WillingVioletDana = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    _hidden_value = true
+  }
+  hidden_boolean NeighbouringLavenderBernete {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SwiftAzureBryn BrainyCrimsonRosetta {
+    VoluntaryGoldAinslie = 292
+    PreviousBlueAmi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MentalIvoryDania = "What creature is smarter than a talking parrot? A spelling bee."
+    XerothermicAquamarineCariotta = 783
+    _hidden_value = true
+  }
+  string PoorRedAlexandra {
+    _hidden_value = true
+  }
+  hidden_boolean SeparateRedTerrye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  FrontCoffeeCyb = 425
+  HorizontalIvoryMireille = "What do you call two barracuda fish?  A Pairacuda!"
+  ExtraLavenderBillye = "Did you know that protons have mass? I didn't even know they were catholic."
+  ArtificialSapphireElbertina = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CivilianBronzeAntonella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InvolvedOrangeKrystalle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

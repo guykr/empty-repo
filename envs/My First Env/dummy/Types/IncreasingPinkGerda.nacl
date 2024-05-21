@@ -1,0 +1,156 @@
+type dummy.IncreasingPinkGerda {
+  annotations {
+    number ExtensiveRoseDaisie {
+    }
+    string InformalGoldLila {
+    }
+    dummy.DEFAULT LuckyAquaCorina {
+    }
+    number CarefulTanRandy {
+    }
+    number UsefulBlueAnjela {
+    }
+    string DesirableYellowColline {
+    }
+  }
+  hidden_boolean PureBlushNanny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" HungryJadePattie {
+    _hidden_value = true
+  }
+  string ParallelPlumSavina {
+    _hidden_value = true
+  }
+  hidden_boolean PetiteIndigoJanelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AnnualCyanZorine {
+    _hidden_value = true
+  }
+  json ComparativeHarlequinGerri {
+    _hidden_value = true
+  }
+  number IntactVioletMariellen {
+    _hidden_value = true
+  }
+  boolean HonestScarletRowe {
+    _hidden_value = true
+  }
+  serviceid_number CurrentCrimsonSusanne {
+    _hidden_value = true
+  }
+  json RuralMaroonAudi {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalWhiteCaria {
+    _hidden_value = true
+  }
+  hidden_boolean ShyOliveBeverley {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number OptimisticRoseNicole {
+    _hidden_value = true
+  }
+  hidden_boolean InnovativeTanKailey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT FrequentApricotDotti {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRoseMarie {
+    _hidden_value = true
+  }
+  serviceid RelaxedLimeZonnya {
+    _hidden_value = true
+  }
+  boolean FreeMaroonJanaya {
+    _hidden_value = true
+  }
+  string CombativeIndigoLinda {
+    _hidden_value = true
+  }
+  hidden_boolean FeministGrayAlbina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SquealingChocolateMead {
+    _hidden_value = true
+  }
+  string ExtraPlumBryna {
+    _hidden_value = true
+  }
+  serviceid PassiveFuchsiaDarda {
+    _hidden_value = true
+  }
+  boolean RoughIndigoMaisie {
+    _hidden_value = true
+  }
+  serviceid UnfairAquamarineEva {
+    _hidden_value = true
+  }
+  json WitteringTurquoiseKimmie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FiscalIndigoAurea {
+    _hidden_value = true
+  }
+  boolean AbsoluteOliveAlfi {
+    _hidden_value = true
+  }
+  hidden_boolean SuitableLimeCrista {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean IncredibleWhiteMeris {
+    _hidden_value = true
+  }
+  serviceid_number IntermediateSapphireHalli {
+    _hidden_value = true
+  }
+  serviceid FollowingBrownReine {
+    _hidden_value = true
+  }
+  json ProfitableBlueSharyl {
+    _hidden_value = true
+  }
+  string PreliminaryBeigeLouise {
+    _hidden_value = true
+  }
+  string SorryYellowPennie {
+    _hidden_value = true
+  }
+  ExtensiveRoseDaisie = 700
+  InformalGoldLila = "Why did the tomato blush? Because it saw the salad dressing."
+  LuckyAquaCorina = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  CarefulTanRandy = 306
+  UsefulBlueAnjela = 919
+  DesirableYellowColline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FollowingBrownReine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CarefulTanRandy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

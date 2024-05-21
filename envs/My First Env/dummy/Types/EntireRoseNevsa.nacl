@@ -1,0 +1,29 @@
+type dummy.EntireRoseNevsa {
+  annotations {
+    string IntermediateAquaVeriee {
+    }
+    dummy.RareScarletEllyn InsufficientBlushRosita {
+    }
+    serviceid_number SelectedBlushJuditha {
+    }
+    serviceid MidChocolateMarian {
+    }
+    number SunnyYellowLuci {
+    }
+    serviceid EconomicAquamarineAustine {
+    }
+    serviceid IntegratedJadeAeriel {
+    }
+  }
+  serviceid UnfairAmaranthRonna {
+    _hidden_value = true
+  }
+  IntermediateAquaVeriee = "Why did the tomato blush? Because it saw the salad dressing."
+  InsufficientBlushRosita = "Slept like a log last night  woke up in the fireplace."
+  SelectedBlushJuditha = 945
+  MidChocolateMarian = "Slept like a log last night  woke up in the fireplace."
+  SunnyYellowLuci = 502
+  EconomicAquamarineAustine = "Did you know that protons have mass? I didn't even know they were catholic."
+  IntegratedJadeAeriel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

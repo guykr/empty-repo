@@ -1,0 +1,102 @@
+type dummy.ReadyBlueLouella {
+  annotations {
+    dummy.DEFAULT CorporateTomatoMerle {
+    }
+    number KindIndigoRobin {
+    }
+    string CooingScarletBeverlee {
+    }
+    hidden_boolean ExceptionalApricotGerry {
+    }
+    hidden_boolean SuperbPlumNaomi {
+    }
+    dummy.SharpCopperFlossy SuddenTomatoAnatola {
+    }
+  }
+  json InformalRoseSiana {
+    _hidden_value = true
+  }
+  dummy.RunningPlumCasi WickedCopperRubina {
+    ComparableTurquoiseGenni = true
+    SensitiveIndigoTedda = 763
+    RecentPeachNesta = "Im only familiar with 25 letters in the English language. I dont know why."
+    ProgressiveBlueBrandea = 940
+    AliveEmeraldLonna = true
+    WhisperingGreenDyanne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RightScarletJoella = false
+    CivilScarletRani = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FarLavenderNeila = 284
+    BriefSalmonDeloris = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    _hidden_value = true
+  }
+  serviceid InnocentJadeBethanne {
+    _hidden_value = true
+  }
+  serviceid_number LegitimateGoldRaf {
+    _hidden_value = true
+  }
+  hidden_boolean FamousTomatoDebor {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MiserableLimeEzmeralda {
+    _hidden_value = true
+  }
+  hidden_boolean ToxicPinkHildy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SillyPurpleEllen {
+    _hidden_value = true
+  }
+  json ObnoxiousVioletMarge {
+    _hidden_value = true
+  }
+  serviceid_number TopTomatoEleonora {
+    _hidden_value = true
+  }
+  string DeafeningAzureShanon {
+    _hidden_value = true
+  }
+  serviceid LabourGreenBecki {
+    _hidden_value = true
+  }
+  serviceid_number MagnificentEmeraldLadonna {
+    _hidden_value = true
+  }
+  CorporateTomatoMerle = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  KindIndigoRobin = 46
+  CooingScarletBeverlee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuddenTomatoAnatola = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MagnificentEmeraldLadonna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LegitimateGoldRaf"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DeafeningAzureShanon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CorporateTomatoMerle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

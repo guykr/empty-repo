@@ -1,0 +1,80 @@
+type dummy.InnocentLimeZilvia {
+  annotations {
+    string RuralOliveLethia {
+    }
+    dummy.ForwardBlackNata WrittenLavenderCandice {
+    }
+    hidden_boolean UnhappyHarlequinGlynis {
+    }
+    string GorgeousScarletDamara {
+    }
+    serviceid ThickGrayLucila {
+    }
+    string AssistantGreenFawne {
+    }
+    json MereSilverCele {
+    }
+  }
+  serviceid ContinuedTanMicki {
+    _hidden_value = true
+  }
+  number UpsetAmberPamella {
+    _hidden_value = true
+  }
+  serviceid_number TerriblePlumVin {
+    _hidden_value = true
+  }
+  "List<string>" DarkAquaKetty {
+    _hidden_value = true
+  }
+  serviceid_number MarvellousTanGloria {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CreepyAquamarineOdelia {
+    _hidden_value = true
+  }
+  serviceid_number LoyalCrimsonKorry {
+    _hidden_value = true
+  }
+  "List<number>" SoftCopperBrigida {
+    _hidden_value = true
+  }
+  string SolarBlackEmmalyn {
+    _hidden_value = true
+  }
+  string ReasonableApricotPiper {
+    _hidden_value = true
+  }
+  serviceid_number AgreedSalmonAngela {
+    _hidden_value = true
+  }
+  serviceid_number LegalBeigeElizabet {
+    _hidden_value = true
+  }
+  RuralOliveLethia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WrittenLavenderCandice = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GorgeousScarletDamara = "Im only familiar with 25 letters in the English language. I dont know why."
+  ThickGrayLucila = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AssistantGreenFawne = "A steak pun is a rare medium well done."
+  MereSilverCele = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ReasonableApricotPiper"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LoyalCrimsonKorry"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AssistantGreenFawne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

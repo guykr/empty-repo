@@ -1,0 +1,107 @@
+type dummy.IntegratedHarlequinLesya {
+  annotations {
+    string UnchangedIvoryMelony {
+    }
+    serviceid_number VerbalWhiteCamile {
+    }
+    string OccasionalFuchsiaEsmeralda {
+    }
+    dummy.UniqueCoralTiffie AdditionalJadeJacklin {
+    }
+    json PricklyAquamarineTara {
+    }
+  }
+  number AcceptedBlackKiele {
+    _hidden_value = true
+  }
+  serviceid UrgentOrangeEaster {
+    _hidden_value = true
+  }
+  boolean ConfidentJadeAurilia {
+    _hidden_value = true
+  }
+  string SureBlushEmmye {
+    _hidden_value = true
+  }
+  number ArbitrarySapphireIrita {
+    _hidden_value = true
+  }
+  boolean ObedientScarletCarlynne {
+    _hidden_value = true
+  }
+  serviceid_number NeutralAmethystMelva {
+    _hidden_value = true
+  }
+  string SunnyAmberMariellen {
+    _hidden_value = true
+  }
+  boolean GivenCopperElset {
+    _hidden_value = true
+  }
+  string QuarrelsomeMaroonInesita {
+    _hidden_value = true
+  }
+  string InternationalTomatoJeannette {
+    _hidden_value = true
+  }
+  string FastAmberCherrita {
+    _hidden_value = true
+  }
+  boolean SlightTurquoiseBobbee {
+    _hidden_value = true
+  }
+  "List<number>" TechnologicalGrayDesiri {
+    _hidden_value = true
+  }
+  hidden_boolean LeadingAmethystJulee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string UpsetIndigoChryste {
+    _hidden_value = true
+  }
+  number WearyLimeNicole {
+    _hidden_value = true
+  }
+  UnchangedIvoryMelony = "How come the stadium got hot after the game? Because all of the fans left."
+  VerbalWhiteCamile = 7
+  OccasionalFuchsiaEsmeralda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AdditionalJadeJacklin = true
+  PricklyAquamarineTara = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UpsetIndigoChryste"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ArbitrarySapphireIrita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ObedientScarletCarlynne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TechnologicalGrayDesiri"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OccasionalFuchsiaEsmeralda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PricklyAquamarineTara"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

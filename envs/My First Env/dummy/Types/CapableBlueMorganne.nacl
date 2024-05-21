@@ -1,0 +1,47 @@
+type dummy.CapableBlueMorganne {
+  annotations {
+    hidden_boolean ImperialBlackDalia {
+    }
+    json LeftIvoryBrit {
+    }
+    serviceid EndlessOrangeMinetta {
+    }
+    string RespectiveBronzeEsma {
+    }
+  }
+  string IntegralPlumTyne {
+    _hidden_value = true
+  }
+  serviceid IntegralMaroonKylie {
+    _hidden_value = true
+  }
+  dummy.GayTealFredi DailyLavenderJaneczka {
+    _hidden_value = true
+  }
+  string InclinedPlumCynthea {
+    _hidden_value = true
+  }
+  serviceid_number RubberPlumLeese {
+    _hidden_value = true
+  }
+  serviceid_number CheapCoffeeCristie {
+    _hidden_value = true
+  }
+  "List<string>" SharedPlumSimone {
+    _hidden_value = true
+  }
+  string StrategicMoccasinSindee {
+    _hidden_value = true
+  }
+  LeftIvoryBrit = "What do you call two barracuda fish?  A Pairacuda!"
+  EndlessOrangeMinetta = "I'll tell you what often gets over looked... garden fences."
+  RespectiveBronzeEsma = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InclinedPlumCynthea"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

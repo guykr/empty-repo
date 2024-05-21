@@ -1,0 +1,89 @@
+type dummy.ModestCoffeeDevan {
+  annotations {
+    hidden_boolean DirectPlumDanyette {
+    }
+    number UnacceptableAmethystMaurizia {
+    }
+    boolean TastelessBrownHetty {
+    }
+    string ConvincingBrownKelley {
+    }
+    dummy.DEFAULT TastelessIvoryAjay {
+    }
+    boolean BlankIndigoLindy {
+    }
+  }
+  number ArbitraryRoseBrandais {
+    _hidden_value = true
+  }
+  serviceid_number YummyApricotCallida {
+    _hidden_value = true
+  }
+  hidden_boolean CleanApricotCindi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MobileTomatoDrusy {
+    _hidden_value = true
+  }
+  number VastAquamarineNannie {
+    _hidden_value = true
+  }
+  hidden_boolean SubjectiveCyanRhoda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ClassicalPlumNadiya {
+    _hidden_value = true
+  }
+  serviceid AmateurTurquoiseChanda {
+    _hidden_value = true
+  }
+  boolean WrittenLimeRosie {
+    _hidden_value = true
+  }
+  string DailyTomatoGuinna {
+    _hidden_value = true
+  }
+  hidden_boolean IndirectMagentaJolynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SacredTealEllie {
+    _hidden_value = true
+  }
+  serviceid ImpossibleTurquoiseMurial {
+    _hidden_value = true
+  }
+  boolean WorryingBrownChandra {
+    _hidden_value = true
+  }
+  string PublicTurquoisePammi {
+    _hidden_value = true
+  }
+  json BloodyAzureChristye {
+    _hidden_value = true
+  }
+  number WoodenWhiteBeret {
+    _hidden_value = true
+  }
+  serviceid MelodicMoccasinNoelyn {
+    _hidden_value = true
+  }
+  hidden_boolean SubjectiveCoffeeEma {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UnacceptableAmethystMaurizia = 379
+  TastelessBrownHetty = false
+  ConvincingBrownKelley = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TastelessIvoryAjay = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  BlankIndigoLindy = true
+  _hidden_value = true
+}

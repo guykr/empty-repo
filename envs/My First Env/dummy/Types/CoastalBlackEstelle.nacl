@@ -1,0 +1,34 @@
+type dummy.CoastalBlackEstelle {
+  annotations {
+    number ExistingPlumGianna {
+    }
+    boolean InfluentialBlushAmalia {
+    }
+    number ExactOliveArabele {
+    }
+    hidden_boolean BoredRoseSydel {
+    }
+    serviceid ExcellentAquaDedie {
+    }
+  }
+  boolean LovelyOliveEtti {
+    _hidden_value = true
+  }
+  ExistingPlumGianna = 871
+  InfluentialBlushAmalia = true
+  ExactOliveArabele = 662
+  ExcellentAquaDedie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ExactOliveArabele"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcellentAquaDedie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

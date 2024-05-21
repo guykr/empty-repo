@@ -1,0 +1,69 @@
+type dummy.SupposedBeigeMadel {
+  annotations {
+    serviceid_number SpatialSalmonDemeter {
+    }
+    number VictoriousSalmonPavla {
+    }
+    number ForwardGrayDian {
+    }
+    serviceid QuickestTanCal {
+    }
+    json ThoroughVioletDeerdre {
+    }
+  }
+  dummy.UniqueCoralTiffie DecisiveCopperJocelyne {
+    RealisticEmeraldAurlie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NetJadeCarolina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SoundTanKayle = "Why was it called the dark ages? Because of all the knights. "
+    ThirstyScarletFran = 37
+    CommunistIndigoAnjanette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    InterestingAmberOdilia = true
+    PlannedRedRosalie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DesirableLavenderMaryjo = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SupremeGrayIlka = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    ToughMagentaMaggee = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ArtificialCoffeeKori = false
+    OutdoorGoldKassey = 120
+    HotGreenCatriona = true
+    SystematicMagentaJacynth = "Why did the tomato blush? Because it saw the salad dressing."
+    DisabledChocolateShandy = false
+    UnsightlyTurquoiseRuthi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MarkedLimeKellyann = 836
+    ShinySilverFey = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  number PreciseGoldJaquelyn {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RattyMaroonInger {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BareGoldMollee {
+    _hidden_value = true
+  }
+  serviceid_number ProfitableGreenLibbey {
+    _hidden_value = true
+  }
+  number AestheticMagentaFredelia {
+    _hidden_value = true
+  }
+  serviceid_number ConstitutionalCoffeeZondra {
+    _hidden_value = true
+  }
+  serviceid_number ResidentialFuchsiaYasmeen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoughIvoryDorree {
+    _hidden_value = true
+  }
+  SpatialSalmonDemeter = 663
+  VictoriousSalmonPavla = 721
+  ForwardGrayDian = 904
+  QuickestTanCal = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ThoroughVioletDeerdre = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

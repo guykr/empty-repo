@@ -1,0 +1,27 @@
+type dummy.UsedRedGaynor {
+  annotations {
+    number SurroundingIndigoCollen {
+    }
+    json StatisticalCrimsonPrudi {
+    }
+    json ProgressiveRoseMercie {
+    }
+    number FormidableSilverMerridie {
+    }
+    json PrimaryTanLyndsie {
+    }
+    hidden_boolean YelpingBronzeGleda {
+    }
+    hidden_boolean TraditionalSapphireMeaghan {
+    }
+  }
+  number RunningCopperTootsie {
+    _hidden_value = true
+  }
+  SurroundingIndigoCollen = 836
+  StatisticalCrimsonPrudi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ProgressiveRoseMercie = "To be Frank, I'd have to change my name."
+  FormidableSilverMerridie = 286
+  PrimaryTanLyndsie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,160 @@
+type dummy.UncertainTurquoiseJolynn {
+  annotations {
+    hidden_boolean ExactBlueLida {
+    }
+    serviceid_number TerribleMoccasinLetizia {
+    }
+    number StrangeLavenderSheilakathryn {
+    }
+    serviceid FrequentAzureMinette {
+    }
+    json HelpfulCyanAida {
+    }
+  }
+  hidden_boolean QuerulousScarletCaryn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PriorTanOfella {
+    _hidden_value = true
+  }
+  number OperationalCrimsonRobbi {
+    _hidden_value = true
+  }
+  dummy.DutchGreenOlva AmazingAmethystMyranda {
+    FederalTurquoiseVanessa = "Slept like a log last night  woke up in the fireplace."
+    ShakyApricotAnastasie = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    CriminalWhiteKessiah = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    BusyMaroonLucie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AppallingBrownAnny = "To be Frank, I'd have to change my name."
+    FlatTanLinnie = "Why is Peter Pan always flying? Because he Neverlands."
+    ThoroughCoffeeCorrine = 747
+    ColossalFuchsiaJulianna = "Why did the tomato blush? Because it saw the salad dressing."
+    XenialVioletVallie = 458
+    CapitalistMaroonRebe = "How come the stadium got hot after the game? Because all of the fans left."
+    WillingVioletDana = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    _hidden_value = true
+  }
+  serviceid_number RecentCoralAdore {
+    _hidden_value = true
+  }
+  boolean InitialBeigeGenovera {
+    _hidden_value = true
+  }
+  boolean LazySilverOla {
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentGoldDion {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FundamentalBlushDulcy {
+    _hidden_value = true
+  }
+  number ValidCyanElva {
+    _hidden_value = true
+  }
+  dummy.DutchGreenOlva ExcitingAmberLivy {
+    FederalTurquoiseVanessa = "Slept like a log last night  woke up in the fireplace."
+    ShakyApricotAnastasie = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    CriminalWhiteKessiah = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    BusyMaroonLucie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AppallingBrownAnny = "Why do birds fly south for the winter? Because it's too far to walk."
+    FlatTanLinnie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ThoroughCoffeeCorrine = 254
+    ColossalFuchsiaJulianna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    XenialVioletVallie = 171
+    CapitalistMaroonRebe = "Slept like a log last night  woke up in the fireplace."
+    WillingVioletDana = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    _hidden_value = true
+  }
+  serviceid CharacteristicTurquoiseLorena {
+    _hidden_value = true
+  }
+  boolean DeliciousYellowJulee {
+    _hidden_value = true
+  }
+  hidden_boolean NationalYellowSean {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PerfectBlackSaraann {
+    _hidden_value = true
+  }
+  hidden_boolean DoubtfulBlackBrana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AggregateChocolateLissie {
+    _hidden_value = true
+  }
+  json ImpressedPurpleMaureen {
+    _hidden_value = true
+  }
+  serviceid_number HelplessPeachPhoebe {
+    _hidden_value = true
+  }
+  hidden_boolean FriendlyYellowMariska {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  TerribleMoccasinLetizia = 734
+  StrangeLavenderSheilakathryn = 258
+  FrequentAzureMinette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HelpfulCyanAida = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ImpressedPurpleMaureen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ValidCyanElva"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InitialBeigeGenovera"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FriendlyYellowMariska"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AggregateChocolateLissie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HelplessPeachPhoebe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AdjacentGoldDion"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

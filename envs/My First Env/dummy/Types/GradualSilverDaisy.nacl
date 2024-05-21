@@ -1,0 +1,101 @@
+type dummy.GradualSilverDaisy {
+  annotations {
+    number SelectedEmeraldBetty {
+    }
+    json LikeBronzeAtalanta {
+    }
+    hidden_boolean EndlessBeigeMarya {
+    }
+    hidden_boolean TeenageLavenderJosselyn {
+    }
+    serviceid BigHarlequinQuentin {
+    }
+    string CausalPlumDaloris {
+    }
+  }
+  number BoldLimeJoanie {
+    _hidden_value = true
+  }
+  number FollowingScarletDoti {
+    _hidden_value = true
+  }
+  json ShakyAzureGeorgeanne {
+    _hidden_value = true
+  }
+  boolean RandomYellowAdrianna {
+    _hidden_value = true
+  }
+  dummy.SharpCopperFlossy CarefulCoffeeOona {
+    ScaredFuchsiaEvangelin = true
+    DevelopedEmeraldBecki = true
+    IntegratedTomatoMin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ZygoticMagentaSilva = 23
+    DigitalIndigoSusan = 834
+    CuddlyLimeYolane = false
+    RollingBronzeAurore = 920
+    NarrowVioletMeg = true
+    IcyCoralGlory = 84
+    PurringPlumKalinda = false
+    CivilianChocolateAnthea = true
+    TrickyChocolateGlory = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InadequateBronzeMichel = "Why did the tomato blush? Because it saw the salad dressing."
+    PopularJadeCasi = 804
+    YeastyBlackRosella = "Why didnt the skeleton cross the road? Because he had no guts."
+    SecureIvoryDionis = 256
+    _hidden_value = true
+  }
+  string RenewedPinkBabette {
+    _hidden_value = true
+  }
+  json TypicalCopperRuby {
+    _hidden_value = true
+  }
+  serviceid ExcellentEmeraldHalli {
+    _hidden_value = true
+  }
+  serviceid YammeringPlumLeta {
+    _hidden_value = true
+  }
+  string MagneticAquamarineHelen {
+    _hidden_value = true
+  }
+  hidden_boolean TensePurpleMaren {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ComparativeRoseElaina {
+    _hidden_value = true
+  }
+  number UpsetHarlequinAlfreda {
+    _hidden_value = true
+  }
+  json VivaciousGrayMelicent {
+    _hidden_value = true
+  }
+  number TremendousSapphireSamara {
+    _hidden_value = true
+  }
+  SelectedEmeraldBetty = 203
+  LikeBronzeAtalanta = "How come the stadium got hot after the game? Because all of the fans left."
+  BigHarlequinQuentin = "Why didnt the skeleton cross the road? Because he had no guts."
+  CausalPlumDaloris = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExcellentEmeraldHalli"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VivaciousGrayMelicent"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TensePurpleMaren"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

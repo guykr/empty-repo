@@ -1,0 +1,99 @@
+type dummy.PopularMaroonRobbie {
+  annotations {
+    serviceid_number DamagedSapphireDeeanne {
+    }
+    json MaleLimeSibeal {
+    }
+    number CompulsoryTurquoiseValaree {
+    }
+    string ClumsyPeachErnestine {
+    }
+  }
+  serviceid DisciplinaryFuchsiaGrazia {
+    _hidden_value = true
+  }
+  serviceid StraightforwardPurplePoppy {
+    _hidden_value = true
+  }
+  string SpatialCrimsonNorah {
+    _hidden_value = true
+  }
+  number DiverseChocolateRivy {
+    _hidden_value = true
+  }
+  serviceid BareAzureBlinnie {
+    _hidden_value = true
+  }
+  number AlternativeAquaLaverne {
+    _hidden_value = true
+  }
+  string BlondeAmberValentia {
+    _hidden_value = true
+  }
+  string UnderlyingCoffeeHally {
+    _hidden_value = true
+  }
+  boolean CentralTealHyacinthe {
+    _hidden_value = true
+  }
+  number NativeApricotPietra {
+    _hidden_value = true
+  }
+  dummy.UsefulRoseIbbie ChangingAmberTrudey {
+    ComingMoccasinUmeko = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ExuberantBlushKimmy = 835
+    FrontBrownCorrina = 915
+    FancyOliveCorny = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CloudyBronzeCasi = false
+    ShyBlackIssie = 854
+    MuddyJadeRosemonde = 165
+    RivalTanLilli = 82
+    RegulatoryLimeElsinore = false
+    ComingEmeraldRow = 899
+    TenseOliveBelva = false
+    SmoothChocolateAretha = 128
+    ConstantAmaranthStephannie = 72
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbsoluteBlushSharon {
+    _hidden_value = true
+  }
+  hidden_boolean CompactChocolateShayne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ContinuousBronzeLiane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DangerousOliveWinonah {
+    _hidden_value = true
+  }
+  string AverageBronzePerry {
+    _hidden_value = true
+  }
+  DamagedSapphireDeeanne = 843
+  MaleLimeSibeal = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CompulsoryTurquoiseValaree = 506
+  ClumsyPeachErnestine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CentralTealHyacinthe"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnderlyingCoffeeHally"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StraightforwardPurplePoppy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,136 @@
+type dummy.IntegratedSilverGarland {
+  annotations {
+    serviceid ConvincingOliveHyacinthe {
+    }
+    json CarefulHarlequinAnastasia {
+    }
+    serviceid_number InclinedPlumLolita {
+    }
+  }
+  number ExperiencedPurpleEdeline {
+    _hidden_value = true
+  }
+  json EligibleOliveNaomi {
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeAzureMarijo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ColonialCoralMarlane {
+    _hidden_value = true
+  }
+  json GiganticScarletRennie {
+    _hidden_value = true
+  }
+  serviceid_number PresentAzureAurilia {
+    _hidden_value = true
+  }
+  dummy.NastyGoldJordana LiberalTanDaisy {
+    ProtectiveBrownLyndsay = 204
+    BizarreHarlequinBab = 847
+    PromisingIndigoDarelle = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlyingPinkMarge {
+    _hidden_value = true
+  }
+  dummy.GayTealFredi AwareYellowLisha {
+    _hidden_value = true
+  }
+  serviceid_number SlimTealChelsey {
+    _hidden_value = true
+  }
+  hidden_boolean MidIndigoLuciana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json InstitutionalBeigeJaquelin {
+    _hidden_value = true
+  }
+  string TightApricotMariejeanne {
+    _hidden_value = true
+  }
+  serviceid_number CautiousHarlequinBetteann {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InnerHarlequinJohanna {
+    _hidden_value = true
+  }
+  string SmoggyTanLane {
+    _hidden_value = true
+  }
+  serviceid_number DigitalRedAurore {
+    _hidden_value = true
+  }
+  number ThinApricotDoloritas {
+    _hidden_value = true
+  }
+  boolean ConsiderableAmethystCoretta {
+    _hidden_value = true
+  }
+  string AmazingCyanJacquelynn {
+    _hidden_value = true
+  }
+  serviceid HugeBlackOdella {
+    _hidden_value = true
+  }
+  json OddCopperConchita {
+    _hidden_value = true
+  }
+  ConvincingOliveHyacinthe = "Why did the kid cross the playground? To get to the other slide."
+  CarefulHarlequinAnastasia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InclinedPlumLolita = 985
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LiberalTanDaisy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlimTealChelsey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SmoggyTanLane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PresentAzureAurilia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TightApricotMariejeanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ColonialCoralMarlane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConsiderableAmethystCoretta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GiganticScarletRennie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConvincingOliveHyacinthe"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

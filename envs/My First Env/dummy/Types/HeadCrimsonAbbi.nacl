@@ -1,0 +1,33 @@
+type dummy.HeadCrimsonAbbi {
+  annotations {
+    serviceid_number LooseRoseVida {
+    }
+    dummy.DEFAULT PuzzledAmethystAloysia {
+    }
+    serviceid MedicalCoralAshli {
+    }
+    hidden_boolean DomesticMoccasinLaraine {
+    }
+    serviceid_number DevelopingTomatoOndrea {
+    }
+  }
+  hidden_boolean EnthusiasticTealChristel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  LooseRoseVida = 206
+  PuzzledAmethystAloysia = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  MedicalCoralAshli = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DevelopingTomatoOndrea = 280
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DomesticMoccasinLaraine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

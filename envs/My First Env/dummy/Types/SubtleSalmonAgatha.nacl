@@ -1,0 +1,64 @@
+type dummy.SubtleSalmonAgatha {
+  annotations {
+    hidden_boolean MiniatureCrimsonPatience {
+    }
+    string AlrightScarletKissiah {
+    }
+    number SufficientFuchsiaAlvina {
+    }
+    hidden_boolean RecentFuchsiaDeni {
+    }
+    boolean RacialTurquoiseCherlyn {
+    }
+    json SuitableTanStacey {
+    }
+  }
+  boolean WideCopperGabriellia {
+    _hidden_value = true
+  }
+  json EmbarrassingCyanDoralynne {
+    _hidden_value = true
+  }
+  boolean WrongLimeAdriana {
+    _hidden_value = true
+  }
+  serviceid VoluntaryAzureLonnie {
+    _hidden_value = true
+  }
+  serviceid_number AppallingAquamarineLou {
+    _hidden_value = true
+  }
+  serviceid ProfoundCoralTerza {
+    _hidden_value = true
+  }
+  serviceid_number AdvisoryPinkHattie {
+    _hidden_value = true
+  }
+  serviceid CharmingCopperPhylis {
+    _hidden_value = true
+  }
+  AlrightScarletKissiah = "A steak pun is a rare medium well done."
+  SufficientFuchsiaAlvina = 277
+  RacialTurquoiseCherlyn = true
+  SuitableTanStacey = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WrongLimeAdriana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RecentFuchsiaDeni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SuitableTanStacey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

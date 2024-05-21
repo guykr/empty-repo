@@ -1,0 +1,81 @@
+type dummy.ReducedOrangeMignonne {
+  annotations {
+    string FormalSapphireTiffie {
+    }
+    serviceid MassCopperEaster {
+    }
+    number DefensiveRedTheressa {
+    }
+    json LikelyBeigeChloris {
+    }
+    serviceid MagicAmethystNatalie {
+    }
+  }
+  number ChangingRedStevena {
+    _hidden_value = true
+  }
+  boolean GrubbyAzureAngelina {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentPlumHulda {
+    _hidden_value = true
+  }
+  string VerticalCoralDanyette {
+    _hidden_value = true
+  }
+  json UnacceptableAquamarineShelba {
+    _hidden_value = true
+  }
+  number WelcomeScarletRaynell {
+    _hidden_value = true
+  }
+  boolean YeastyEmeraldGusti {
+    _hidden_value = true
+  }
+  hidden_boolean DeafCyanSissie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TroubledCoralBiddie {
+    _hidden_value = true
+  }
+  serviceid SunnyRedOlenka {
+    _hidden_value = true
+  }
+  FormalSapphireTiffie = "Whoever invented the knock-knock joke should get a no bell prize."
+  MassCopperEaster = "Why do birds fly south for the winter? Because it's too far to walk."
+  DefensiveRedTheressa = 372
+  LikelyBeigeChloris = "Why did the tomato blush? Because it saw the salad dressing."
+  MagicAmethystNatalie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnacceptableAquamarineShelba"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExcellentPlumHulda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WelcomeScarletRaynell"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MagicAmethystNatalie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MassCopperEaster"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

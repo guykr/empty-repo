@@ -1,0 +1,136 @@
+type dummy.ClinicalCyanKayley {
+  annotations {
+    json DualRedCoraline {
+    }
+    serviceid_number AbundantTanJoella {
+    }
+    boolean CapitalistVioletGabriella {
+    }
+    number ScaryHarlequinLanie {
+    }
+    json SystematicPeachChristiane {
+    }
+    number XenophobicTurquoiseBuffy {
+    }
+    hidden_boolean IncreasingWhiteRobin {
+    }
+  }
+  number SpectacularOliveCorey {
+    _hidden_value = true
+  }
+  serviceid UncertainAmethystKaryn {
+    _hidden_value = true
+  }
+  serviceid_number InevitableAzureJoby {
+    _hidden_value = true
+  }
+  serviceid LowVioletAurelea {
+    _hidden_value = true
+  }
+  serviceid_number PoliteMaroonBerrie {
+    _hidden_value = true
+  }
+  boolean EndlessAmethystJilli {
+    _hidden_value = true
+  }
+  number PayableCoralClarice {
+    _hidden_value = true
+  }
+  serviceid EnergeticAmaranthRachel {
+    _hidden_value = true
+  }
+  serviceid_number BrilliantAmaranthJosee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ViciousCyanShelby {
+    _hidden_value = true
+  }
+  hidden_boolean CriticalMaroonSophey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DearAmberDorian {
+    _hidden_value = true
+  }
+  json ModernSapphireKarol {
+    _hidden_value = true
+  }
+  serviceid TerribleGreenEvie {
+    _hidden_value = true
+  }
+  string ShinyCoffeePhilly {
+    _hidden_value = true
+  }
+  serviceid_number StatisticalAzureMillie {
+    _hidden_value = true
+  }
+  json HealthyEmeraldErna {
+    _hidden_value = true
+  }
+  serviceid_number GoverningRoseOlive {
+    _hidden_value = true
+  }
+  hidden_boolean TrickyIndigoValencia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number LegislativeHarlequinDianna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YieldingOliveKathie {
+    _hidden_value = true
+  }
+  serviceid WorthwhileCoffeeMerline {
+    _hidden_value = true
+  }
+  serviceid_number RequiredMaroonChristan {
+    _hidden_value = true
+  }
+  number LoyalBlueVyky {
+    _hidden_value = true
+  }
+  json GoldenBlueLetty {
+    _hidden_value = true
+  }
+  hidden_boolean EconomicTurquoiseAdelina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FaithfulTanRebeca {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SuitableBrownEdeline {
+    _hidden_value = true
+  }
+  DualRedCoraline = "Whoever invented the knock-knock joke should get a no bell prize."
+  AbundantTanJoella = 523
+  CapitalistVioletGabriella = true
+  ScaryHarlequinLanie = 257
+  SystematicPeachChristiane = "My first time using an elevator was an uplifting experience. The second time let me down."
+  XenophobicTurquoiseBuffy = 233
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EndlessAmethystJilli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PayableCoralClarice"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CapitalistVioletGabriella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

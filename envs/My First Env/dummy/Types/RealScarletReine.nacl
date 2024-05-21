@@ -1,0 +1,145 @@
+type dummy.RealScarletReine {
+  annotations {
+    serviceid DistinctivePlumBrigid {
+    }
+    number LatinPlumKissee {
+    }
+    serviceid_number MoralBlushOlga {
+    }
+    hidden_boolean LimitedAquaBrittaney {
+    }
+    serviceid NewJadeMelina {
+    }
+  }
+  hidden_boolean FierceRedBenni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RomanticTomatoAdrian {
+    _hidden_value = true
+  }
+  boolean EmptyScarletJaquelin {
+    _hidden_value = true
+  }
+  serviceid_number IndustrialIvoryLeigha {
+    _hidden_value = true
+  }
+  json PermanentSapphireAmargo {
+    _hidden_value = true
+  }
+  boolean ElegantIvoryElizabet {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" YappiestTomatoAlma {
+    _hidden_value = true
+  }
+  json ColourfulBronzeLexy {
+    _hidden_value = true
+  }
+  dummy.InappropriateIvoryVanna CognitiveBlushCorina {
+    FragileEmeraldAlia = 402
+    PreliminaryVioletAthene = 385
+    StrangeCyanCristen = 933
+    OnlyPlumAnitra = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    UsefulSilverLurleen = false
+    DisastrousCoralBrittan = 408
+    RegularWhiteFawnia = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonIsabelita {
+    _hidden_value = true
+  }
+  boolean OrthodoxCyanBunny {
+    _hidden_value = true
+  }
+  boolean SillyGoldKrystal {
+    _hidden_value = true
+  }
+  number MinisterialSapphireStephannie {
+    _hidden_value = true
+  }
+  boolean BurningAmberBilli {
+    _hidden_value = true
+  }
+  hidden_boolean MaximumChocolateBendite {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AssociatedPinkDixie {
+    _hidden_value = true
+  }
+  dummy.ScrawnyTomatoBamby FellowPurpleMandie {
+    CarefulMaroonIssi = 239
+    SparklingBlackBambie = 40
+    SpecificBrownWren = "To be Frank, I'd have to change my name."
+    ForwardCopperKristina = 379
+    PricklyAmethystKaile = "Why do birds fly south for the winter? Because it's too far to walk."
+    FavouriteFuchsiaHolly = 53
+    _hidden_value = true
+  }
+  json StickyAquamarineTamiko {
+    _hidden_value = true
+  }
+  hidden_boolean CorrectGreenDulcie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ElaborateTealMilicent {
+    _hidden_value = true
+  }
+  serviceid YappiestBlueJosy {
+    _hidden_value = true
+  }
+  json DeadGrayKatie {
+    _hidden_value = true
+  }
+  hidden_boolean AlrightLavenderJoline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FaithfulTurquoiseJoeann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HolyMaroonMandy {
+    _hidden_value = true
+  }
+  hidden_boolean SmoggyLimeSallee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  DistinctivePlumBrigid = "To be Frank, I'd have to change my name."
+  LatinPlumKissee = 887
+  MoralBlushOlga = 353
+  NewJadeMelina = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeadGrayKatie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IndustrialIvoryLeigha"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LimitedAquaBrittaney"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

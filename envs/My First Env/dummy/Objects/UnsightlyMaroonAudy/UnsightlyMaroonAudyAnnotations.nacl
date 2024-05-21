@@ -1,0 +1,86 @@
+type dummy.UnsightlyMaroonAudy {
+  annotations {
+    serviceid_number SystematicAquamarineRhoda {
+    }
+    number FarPeachDasi {
+    }
+    serviceid_number ManagingCopperCarma {
+    }
+    dummy.ChubbyGreenJuliana MarkedCoffeeHenryetta {
+    }
+    boolean ContentPinkPhylis {
+    }
+    json CombativeTealLiza {
+    }
+    dummy.NastyGoldJordana InfluentialAquamarineJacquie {
+    }
+    serviceid PastPlumJaine {
+    }
+    json VerbalPurpleAurel {
+    }
+    serviceid_number FamousGrayDido {
+    }
+    dummy.SharpCopperFlossy ArbitraryCopperFae {
+    }
+    boolean YoungestPlumDulciana {
+    }
+    number OrdinaryLimeCheryl {
+    }
+    dummy.AgriculturalGrayKarin SuspiciousAquaHalette {
+    }
+    dummy.NumerousHarlequinMerrill WispyEmeraldMadelin {
+    }
+    dummy.SupportingTomatoPansie FancyCyanGeorgine {
+    }
+    json SkinnyPeachMarys {
+    }
+    boolean CooperativeMaroonKarlen {
+    }
+    dummy.SadTurquoiseMay TestyCyanCorrie {
+    }
+    dummy.InformalTomatoPeria StripedCopperCairistiona {
+    }
+  }
+  SystematicAquamarineRhoda = 779
+  FarPeachDasi = 521
+  ManagingCopperCarma = 838
+  ContentPinkPhylis = false
+  CombativeTealLiza = "I'll tell you what often gets over looked... garden fences."
+  InfluentialAquamarineJacquie = 945
+  PastPlumJaine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VerbalPurpleAurel = "I'll tell you what often gets over looked... garden fences."
+  FamousGrayDido = 151
+  ArbitraryCopperFae = file("DeepBlueRosabelle.txt")
+  YoungestPlumDulciana = false
+  OrdinaryLimeCheryl = 552
+  SkinnyPeachMarys = "Why did the kid cross the playground? To get to the other slide."
+  CooperativeMaroonKarlen = false
+  _self_important_values = [
+    {
+      value = "TestyCyanCorrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YoungestPlumDulciana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PastPlumJaine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SuspiciousAquaHalette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OrdinaryLimeCheryl"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "UnsightlyMaroonAudy_alias"
+}

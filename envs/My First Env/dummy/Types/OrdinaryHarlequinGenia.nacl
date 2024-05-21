@@ -1,0 +1,54 @@
+type dummy.OrdinaryHarlequinGenia {
+  annotations {
+    dummy.DEFAULT MistyCoffeePatrica {
+    }
+    number HomelyRedAshleigh {
+    }
+    json ComparableYellowValaree {
+    }
+    boolean CleverScarletAnthia {
+    }
+    boolean TheoreticalCrimsonMarietta {
+    }
+    serviceid_number ShockedIndigoBlake {
+    }
+  }
+  json WellMoccasinMab {
+    _hidden_value = true
+  }
+  hidden_boolean YearningCoralPamella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT IncreasingGrayBab {
+    _hidden_value = true
+  }
+  json PastVioletDayna {
+    _hidden_value = true
+  }
+  serviceid_number LegitimateYellowNellie {
+    _hidden_value = true
+  }
+  json YawningSapphireAddy {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCyanJoana {
+    _hidden_value = true
+  }
+  string AllegedGreenLeanor {
+    _hidden_value = true
+  }
+  json EvidentAquamarineHarriette {
+    _hidden_value = true
+  }
+  MistyCoffeePatrica = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  HomelyRedAshleigh = 483
+  ComparableYellowValaree = "What creature is smarter than a talking parrot? A spelling bee."
+  CleverScarletAnthia = false
+  TheoreticalCrimsonMarietta = false
+  ShockedIndigoBlake = 687
+  _hidden_value = true
+}

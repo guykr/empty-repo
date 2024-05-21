@@ -1,0 +1,53 @@
+type dummy.PopularRedVilma {
+  string OrdinaryBrownElsi {
+  }
+  hidden_boolean InherentVioletBliss {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid QuintessentialPlumMareah {
+  }
+  dummy.DreadfulCoralCassandre FarMoccasinAdda {
+  }
+  serviceid_number TartWhiteTanitansy {
+  }
+  dummy.EnvironmentalCrimsonKarol InvisibleBronzeFlory {
+    DistantCrimsonLyndy = "Why do birds fly south for the winter? Because it's too far to walk."
+    EnvironmentalPlumOdelle = true
+    LiberalGreenMarylynne = "Dad Im hungry  Hi hungry Im dad"
+    NormalTealLuciana = 270
+    AccuratePinkChelsey = 534
+  }
+  json HostileBeigeNanette {
+  }
+  json GentleGreenMozelle {
+  }
+  serviceid NobleCoralBerget {
+  }
+  hidden_boolean PowerfulLimeVictoria {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid ColouredWhiteKiley {
+  }
+  json DreadfulTurquoiseVanna {
+  }
+  boolean LivingLimeKaren {
+  }
+  serviceid SmallMagentaClarette {
+  }
+  json CoolBrownSofie {
+  }
+  boolean MeanIndigoShanta {
+  }
+  string HomelessTomatoFlorentia {
+  }
+  number ScientificCoralBryana {
+  }
+  boolean AnonymousPinkMeredith {
+  }
+  boolean DoubleLimeFeodora {
+  }
+}

@@ -1,0 +1,38 @@
+type dummy.FilthyPlumKristine is number {
+  annotations {
+    number VocationalYellowJori {
+    }
+    serviceid ImpressedPurpleJennette {
+    }
+    serviceid_number StrangeTomatoKelsy {
+    }
+    string UnwillingWhiteValma {
+    }
+    json ApplicableApricotFlor {
+    }
+    json OnlyBlueKatha {
+    }
+    json PregnantLavenderFrederica {
+    }
+    string SwiftAzureSandi {
+    }
+    dummy.DEFAULT MadMagentaKarrah {
+    }
+    string BusyPeachMelissa {
+    }
+    hidden_boolean SmallAquamarineMargy {
+    }
+  }
+  VocationalYellowJori = 343
+  ImpressedPurpleJennette = "What creature is smarter than a talking parrot? A spelling bee."
+  StrangeTomatoKelsy = 75
+  UnwillingWhiteValma = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ApplicableApricotFlor = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OnlyBlueKatha = "What do you call two barracuda fish?  A Pairacuda!"
+  PregnantLavenderFrederica = "Why did the kid cross the playground? To get to the other slide."
+  SwiftAzureSandi = "Did you know that protons have mass? I didn't even know they were catholic."
+  MadMagentaKarrah = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  BusyPeachMelissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

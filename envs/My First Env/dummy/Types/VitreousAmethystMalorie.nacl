@@ -1,0 +1,180 @@
+type dummy.VitreousAmethystMalorie {
+  annotations {
+    boolean DomesticGraySydel {
+    }
+    number VictoriousAmberKyla {
+    }
+    hidden_boolean ClassicMoccasinTamqrah {
+    }
+    dummy.DEFAULT EstablishedAmethystGratiana {
+    }
+  }
+  json RelaxedBeigeAlvira {
+    _hidden_value = true
+  }
+  json SpontaneousSilverRaquel {
+    _hidden_value = true
+  }
+  json MoralCoralMarilyn {
+    _hidden_value = true
+  }
+  boolean IrrelevantIndigoNicole {
+    _hidden_value = true
+  }
+  number OkayAmethystKerianne {
+    _hidden_value = true
+  }
+  serviceid ConstantRoseBeulah {
+    _hidden_value = true
+  }
+  number TastelessSilverInes {
+    _hidden_value = true
+  }
+  hidden_boolean HighCoralLoretta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BottomCoffeeVirgina {
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientCopperLivvyy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BroadSapphireRobenia {
+    _hidden_value = true
+  }
+  serviceid ShallowLavenderGinger {
+    _hidden_value = true
+  }
+  number UniversalEmeraldDevina {
+    _hidden_value = true
+  }
+  hidden_boolean OlympicGoldCherin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string TallTurquoiseJenifer {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicChocolatePeta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json DryAmberNyssa {
+    _hidden_value = true
+  }
+  serviceid ResultingCopperAllie {
+    _hidden_value = true
+  }
+  dummy.ChristianGrayGlen FemaleAzureMolly {
+    XenaciousSalmonMaddalena = true
+    StraightAmethystLuciana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmallBlushEmmalyn = "Why did the kid cross the playground? To get to the other slide."
+    SuperbPurpleFayth = "Why was it called the dark ages? Because of all the knights. "
+    WorryingOrangeLonna = 455
+    DustyMoccasinClaribel = "Why did the tomato blush? Because it saw the salad dressing."
+    HistoricPurpleGaby = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UptightCoffeeHarri = "Why is Peter Pan always flying? Because he Neverlands."
+    ObnoxiousIvoryBill = false
+    RubberJadeLexis = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  number ConsistentMagentaRoz {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColorfulSilverLynea {
+    _hidden_value = true
+  }
+  json BewilderedOrangeConstancy {
+    _hidden_value = true
+  }
+  serviceid_number NearPlumAnita {
+    _hidden_value = true
+  }
+  serviceid ExpectedLimeAnnis {
+    _hidden_value = true
+  }
+  string PsychiatricAmethystRickie {
+    _hidden_value = true
+  }
+  serviceid_number WilfulBronzeErina {
+    _hidden_value = true
+  }
+  string RandomMaroonJosephine {
+    _hidden_value = true
+  }
+  hidden_boolean JuniorAmberCarry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ChristianGrayGlen RarePeachJoellyn {
+    XenaciousSalmonMaddalena = false
+    StraightAmethystLuciana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SmallBlushEmmalyn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SuperbPurpleFayth = "Why didnt the skeleton cross the road? Because he had no guts."
+    WorryingOrangeLonna = 553
+    DustyMoccasinClaribel = "A steak pun is a rare medium well done."
+    HistoricPurpleGaby = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UptightCoffeeHarri = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ObnoxiousIvoryBill = true
+    RubberJadeLexis = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  boolean HumanApricotOlia {
+    _hidden_value = true
+  }
+  number UnwillingVioletTobye {
+    _hidden_value = true
+  }
+  DomesticGraySydel = false
+  VictoriousAmberKyla = 391
+  EstablishedAmethystGratiana = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ResultingCopperAllie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RelaxedBeigeAlvira"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConvenientCopperLivvyy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FemaleAzureMolly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BottomCoffeeVirgina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EstablishedAmethystGratiana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ClassicMoccasinTamqrah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

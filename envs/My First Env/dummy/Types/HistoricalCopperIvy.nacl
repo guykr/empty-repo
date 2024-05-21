@@ -1,0 +1,76 @@
+type dummy.HistoricalCopperIvy {
+  annotations {
+    serviceid BraveSalmonChandal {
+    }
+    boolean ImpressedBlueFrancoise {
+    }
+    hidden_boolean CheapCrimsonLeisha {
+    }
+    string AboveBeigeEstel {
+    }
+  }
+  number DailyCrimsonRomona {
+    _hidden_value = true
+  }
+  serviceid PurringApricotMarketa {
+    _hidden_value = true
+  }
+  string ItchySilverJanette {
+    _hidden_value = true
+  }
+  boolean MarriedAquaClarabelle {
+    _hidden_value = true
+  }
+  boolean OnlyGrayMelisent {
+    _hidden_value = true
+  }
+  boolean SevereMoccasinFloris {
+    _hidden_value = true
+  }
+  string FragileGoldRobbin {
+    _hidden_value = true
+  }
+  number SelfishAmaranthBerti {
+    _hidden_value = true
+  }
+  string OuterChocolateJeannie {
+    _hidden_value = true
+  }
+  hidden_boolean LivingRedDelinda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MarriedBeigeMichaella {
+    _hidden_value = true
+  }
+  json EmbarrassedTomatoDiana {
+    _hidden_value = true
+  }
+  json UnwillingOliveAllison {
+    _hidden_value = true
+  }
+  BraveSalmonChandal = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ImpressedBlueFrancoise = false
+  AboveBeigeEstel = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ItchySilverJanette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnwillingOliveAllison"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BraveSalmonChandal"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

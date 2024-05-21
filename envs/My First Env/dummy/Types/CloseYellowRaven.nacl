@@ -1,0 +1,36 @@
+type dummy.CloseYellowRaven {
+  annotations {
+    string EffectiveTealJulietta {
+    }
+    json LargeAmethystMargaux {
+    }
+    boolean SouthernTealErnesta {
+    }
+    number ElatedAmberJena {
+    }
+  }
+  hidden_boolean OverseasRosePersis {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" ManagingCopperCrista {
+    _hidden_value = true
+  }
+  hidden_boolean DefensiveAzureNelie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ThirstyIvoryAmalita {
+    _hidden_value = true
+  }
+  string VisitingOrangeEmalia {
+    _hidden_value = true
+  }
+  EffectiveTealJulietta = "Whoever invented the knock-knock joke should get a no bell prize."
+  LargeAmethystMargaux = "What do you call two barracuda fish?  A Pairacuda!"
+  SouthernTealErnesta = true
+  ElatedAmberJena = 918
+  _hidden_value = true
+}

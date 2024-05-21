@@ -1,0 +1,86 @@
+type dummy.SmoothJadeViola {
+  annotations {
+    serviceid_number ComparativeGreenAlanna {
+    }
+    dummy.UptightPlumWynne ActualFuchsiaTalya {
+    }
+    json CertainAquamarineAngie {
+    }
+    boolean SelectivePeachZorine {
+    }
+    serviceid_number InterestedEmeraldDonnamarie {
+    }
+    boolean ProfessionalIvoryLoralee {
+    }
+    string TallScarletDarcee {
+    }
+    dummy.SquareRedBlithe UnfortunateSapphireElinor {
+    }
+    boolean ImpressiveBeigeRebeca {
+    }
+    string IrrelevantTomatoKeri {
+    }
+    string NearbyTomatoAnnalise {
+    }
+    serviceid_number EducationalOrangeBlithe {
+    }
+    string FuzzyGoldAndriette {
+    }
+    serviceid_number OccasionalPeachAbbie {
+    }
+    serviceid EverydayAquaRivi {
+    }
+    serviceid ImaginativeAzureRenata {
+    }
+  }
+  ComparativeGreenAlanna = 305
+  ActualFuchsiaTalya = file("StatutorySapphireZilvia.txt")
+  CertainAquamarineAngie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SelectivePeachZorine = false
+  InterestedEmeraldDonnamarie = 603
+  ProfessionalIvoryLoralee = true
+  TallScarletDarcee = "Why do birds fly south for the winter? Because it's too far to walk."
+  ImpressiveBeigeRebeca = true
+  IrrelevantTomatoKeri = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NearbyTomatoAnnalise = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EducationalOrangeBlithe = 335
+  FuzzyGoldAndriette = "A steak pun is a rare medium well done."
+  OccasionalPeachAbbie = 801
+  EverydayAquaRivi = "What do you call two barracuda fish?  A Pairacuda!"
+  ImaginativeAzureRenata = "What do you call two barracuda fish?  A Pairacuda!"
+  _important_values = [
+    {
+      value = "BasicTurquoiseToby"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FranticJadeCarine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DamagedAzureAnnecorinne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FranticPurpleCloe"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DistinctiveFuchsiaClementia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OccasionalPeachAbbie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "SmoothJadeViola_alias"
+}

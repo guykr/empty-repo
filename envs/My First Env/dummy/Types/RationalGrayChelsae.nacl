@@ -1,0 +1,31 @@
+type dummy.RationalGrayChelsae {
+  annotations {
+    boolean GiganticTealTommie {
+    }
+    string SuperiorAmethystRori {
+    }
+    string ControversialPeachEsmeralda {
+    }
+    hidden_boolean OverallCoralYolande {
+    }
+    serviceid RearRedEdy {
+    }
+  }
+  hidden_boolean NosyAzureShana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  GiganticTealTommie = true
+  SuperiorAmethystRori = "Dad Im hungry  Hi hungry Im dad"
+  ControversialPeachEsmeralda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RearRedEdy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GiganticTealTommie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

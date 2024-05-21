@@ -1,0 +1,89 @@
+type dummy.ExistingEmeraldCassandre {
+  annotations {
+    boolean CurlyBlushAmelie {
+    }
+    json ElderlyTomatoSibelle {
+    }
+    json MinorOrangeGermain {
+    }
+    serviceid_number ConcreteGrayBrianna {
+    }
+    json JitteryMoccasinDayle {
+    }
+    serviceid SpecialGoldRebeka {
+    }
+  }
+  hidden_boolean SupremeMoccasinYalonda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CentralOliveDannie {
+    _hidden_value = true
+  }
+  serviceid_number JitteryGreenValerie {
+    _hidden_value = true
+  }
+  json MightyRedShandy {
+    _hidden_value = true
+  }
+  serviceid_number ScatteredTanRevkah {
+    _hidden_value = true
+  }
+  boolean OfficialTomatoDaryn {
+    _hidden_value = true
+  }
+  serviceid_number ShockedTanOfilia {
+    _hidden_value = true
+  }
+  boolean ResidentCyanDaniele {
+    _hidden_value = true
+  }
+  hidden_boolean SuitableSapphireDeloria {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CarefulChocolateStephenie {
+    _hidden_value = true
+  }
+  serviceid BlankHarlequinAlana {
+    _hidden_value = true
+  }
+  CurlyBlushAmelie = true
+  ElderlyTomatoSibelle = "What creature is smarter than a talking parrot? A spelling bee."
+  MinorOrangeGermain = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConcreteGrayBrianna = 128
+  JitteryMoccasinDayle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SpecialGoldRebeka = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlankHarlequinAlana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CarefulChocolateStephenie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SupremeMoccasinYalonda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ElderlyTomatoSibelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ConcreteGrayBrianna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

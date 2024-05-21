@@ -1,0 +1,74 @@
+type dummy.CloseRedSharyl {
+  annotations {
+    number NutritiousPurpleClarinda {
+    }
+    json ColonialBrownBridget {
+    }
+    boolean SympatheticCyanAlina {
+    }
+    number RemainingPinkSeka {
+    }
+    serviceid_number IntelligentIndigoLenka {
+    }
+    dummy.VoluminousSilverHermina DisgustedAmberZorana {
+    }
+    json PoliteLavenderJunie {
+    }
+    string ExperimentalLavenderCherilynn {
+    }
+    string EnergeticScarletTerese {
+    }
+    serviceid_number CommonCopperElyse {
+    }
+    string AvailableAquaFeliza {
+    }
+    string InformalRoseKarry {
+    }
+    json PaleTanAmabel {
+    }
+    serviceid WeirdMoccasinShawnee {
+    }
+    number ResidentialBrownMora {
+    }
+    dummy.BoringAmethystThomasa UndergroundFuchsiaGuillema {
+    }
+    serviceid InnerTealDore {
+    }
+    string TiredBronzeMel {
+    }
+    serviceid NeatHarlequinChiquia {
+    }
+    json SorryOliveRonna {
+    }
+    boolean RandomSalmonCynthea {
+    }
+  }
+  NutritiousPurpleClarinda = 608
+  ColonialBrownBridget = "Im only familiar with 25 letters in the English language. I dont know why."
+  SympatheticCyanAlina = true
+  RemainingPinkSeka = 176
+  IntelligentIndigoLenka = 218
+  DisgustedAmberZorana = 443
+  PoliteLavenderJunie = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExperimentalLavenderCherilynn = "Why do birds fly south for the winter? Because it's too far to walk."
+  EnergeticScarletTerese = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CommonCopperElyse = 967
+  AvailableAquaFeliza = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InformalRoseKarry = "Why did the tomato blush? Because it saw the salad dressing."
+  PaleTanAmabel = "Whoever invented the knock-knock joke should get a no bell prize."
+  WeirdMoccasinShawnee = "Why do birds fly south for the winter? Because it's too far to walk."
+  ResidentialBrownMora = 325
+  InnerTealDore = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TiredBronzeMel = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NeatHarlequinChiquia = "Why did the tomato blush? Because it saw the salad dressing."
+  SorryOliveRonna = "Why was it called the dark ages? Because of all the knights. "
+  RandomSalmonCynthea = false
+  _self_important_values = [
+    {
+      value = "SympatheticCyanAlina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "CloseRedSharyl_alias"
+}

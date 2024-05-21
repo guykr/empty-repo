@@ -1,0 +1,31 @@
+type dummy.InappropriateIvoryVanna is string {
+  annotations {
+    number FragileEmeraldAlia {
+    }
+    serviceid_number PreliminaryVioletAthene {
+    }
+    number StrangeCyanCristen {
+    }
+    dummy.DEFAULT OnlyPlumAnitra {
+    }
+    boolean UsefulSilverLurleen {
+    }
+    serviceid_number DisastrousCoralBrittan {
+    }
+    hidden_boolean NiceOliveDulciana {
+    }
+    dummy.DEFAULT RegularWhiteFawnia {
+    }
+  }
+  FragileEmeraldAlia = 11
+  PreliminaryVioletAthene = 80
+  StrangeCyanCristen = 309
+  OnlyPlumAnitra = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  UsefulSilverLurleen = true
+  DisastrousCoralBrittan = 518
+  RegularWhiteFawnia = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+}

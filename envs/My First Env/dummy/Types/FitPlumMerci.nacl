@@ -1,0 +1,127 @@
+type dummy.FitPlumMerci {
+  annotations {
+    serviceid TroubledWhiteElva {
+    }
+    json BetterCrimsonAngeline {
+    }
+    serviceid VocationalJadeRois {
+    }
+    number PatientSilverCarilyn {
+    }
+    hidden_boolean RearCyanMarney {
+    }
+  }
+  serviceid_number PurringPeachNoellyn {
+    _hidden_value = true
+  }
+  serviceid OutdoorGoldLeslie {
+    _hidden_value = true
+  }
+  json JointTanNita {
+    _hidden_value = true
+  }
+  serviceid_number FunctionalTomatoJoellyn {
+    _hidden_value = true
+  }
+  number ZygoticPurpleLaural {
+    _hidden_value = true
+  }
+  hidden_boolean EthicalMoccasinNelly {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ClinicalYellowRosetta {
+    _hidden_value = true
+  }
+  json ProfessionalBeigeCelinka {
+    _hidden_value = true
+  }
+  json AccusedGreenHatti {
+    _hidden_value = true
+  }
+  number OuterCyanAdrea {
+    _hidden_value = true
+  }
+  boolean ScaredYellowShelagh {
+    _hidden_value = true
+  }
+  dummy.ScrawnyTomatoBamby GrossSilverGenny {
+    CarefulMaroonIssi = 2
+    SparklingBlackBambie = 145
+    SpecificBrownWren = "Why was it called the dark ages? Because of all the knights. "
+    ForwardCopperKristina = 35
+    PricklyAmethystKaile = "Why is Peter Pan always flying? Because he Neverlands."
+    FavouriteFuchsiaHolly = 301
+    _hidden_value = true
+  }
+  hidden_boolean DistinguishedJadeLivy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT WorthwhileGreenAmbur {
+    _hidden_value = true
+  }
+  hidden_boolean ChangingYellowHadria {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConvincingPurpleCollete {
+    _hidden_value = true
+  }
+  number YieldingMagentaKacey {
+    _hidden_value = true
+  }
+  serviceid_number ReliableScarletEvy {
+    _hidden_value = true
+  }
+  hidden_boolean ClearYellowCarolyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  TroubledWhiteElva = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BetterCrimsonAngeline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  VocationalJadeRois = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PatientSilverCarilyn = 562
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YieldingMagentaKacey"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ReliableScarletEvy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChangingYellowHadria"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OuterCyanAdrea"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WorthwhileGreenAmbur"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PurringPeachNoellyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JointTanNita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

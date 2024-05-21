@@ -1,0 +1,57 @@
+type dummy.ProperBlueAnnette {
+  annotations {
+    serviceid DeafeningIvoryPapagena {
+    }
+    serviceid_number AshamedTomatoCorrianne {
+    }
+  }
+  json RedundantTurquoiseFredelia {
+    _hidden_value = true
+  }
+  serviceid WeakEmeraldPeta {
+    _hidden_value = true
+  }
+  boolean RelatedYellowPaulie {
+    _hidden_value = true
+  }
+  serviceid_number AmateurOliveMyrta {
+    _hidden_value = true
+  }
+  serviceid SubsequentBlackSelle {
+    _hidden_value = true
+  }
+  serviceid_number GothicGrayCelina {
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn MarxistScarletDanna {
+    FlutteringVioletNinnette = 5
+    ScreechingRoseDorise = "I'll tell you what often gets over looked... garden fences."
+    RunningLimeJillie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    QuietTurquoiseKristine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SharpMaroonStesha = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    AlternativeAmaranthEileen = 191
+    RudeRoseJillie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ProperApricotFarrah = "Dad Im hungry  Hi hungry Im dad"
+    MelodicBronzeEda = 126
+    _hidden_value = true
+  }
+  DeafeningIvoryPapagena = "A steak pun is a rare medium well done."
+  AshamedTomatoCorrianne = 188
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AmateurOliveMyrta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DeafeningIvoryPapagena"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

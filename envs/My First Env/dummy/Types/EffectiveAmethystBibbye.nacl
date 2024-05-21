@@ -1,0 +1,61 @@
+type dummy.EffectiveAmethystBibbye {
+  annotations {
+    serviceid_number CertainBlueRosy {
+    }
+    dummy.LikeTurquoiseMarisa QuickestGrayBobbye {
+    }
+    hidden_boolean TeenageTurquoiseShae {
+    }
+    serviceid_number DreadfulGreenMeta {
+    }
+    boolean SimpleLimeBrinn {
+    }
+    serviceid ModestTomatoSofia {
+    }
+  }
+  boolean ResponsibleBlackTammie {
+    _hidden_value = true
+  }
+  number EnergeticGreenEdee {
+    _hidden_value = true
+  }
+  json MinimumApricotJuliette {
+    _hidden_value = true
+  }
+  serviceid IndividualAmethystDevin {
+    _hidden_value = true
+  }
+  number RightTanRenata {
+    _hidden_value = true
+  }
+  number XenaciousAmaranthAnn {
+    _hidden_value = true
+  }
+  serviceid StupidMoccasinLayne {
+    _hidden_value = true
+  }
+  serviceid_number TiredChocolateNani {
+    _hidden_value = true
+  }
+  string BiologicalPlumJorey {
+    _hidden_value = true
+  }
+  CertainBlueRosy = 426
+  QuickestGrayBobbye = "Did you know that protons have mass? I didn't even know they were catholic."
+  DreadfulGreenMeta = 266
+  SimpleLimeBrinn = true
+  ModestTomatoSofia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IndividualAmethystDevin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StupidMoccasinLayne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

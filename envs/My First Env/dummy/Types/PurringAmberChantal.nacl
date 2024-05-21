@@ -1,0 +1,120 @@
+type dummy.PurringAmberChantal {
+  annotations {
+    number StillCopperLilah {
+    }
+    string FairGoldTeddie {
+    }
+    serviceid_number RelievedTurquoiseJandy {
+    }
+    dummy.DEFAULT PoliteTealDayle {
+    }
+    json FriendlyCopperMalory {
+    }
+  }
+  "List<boolean>" DistantAzureAdrianna {
+    _hidden_value = true
+  }
+  dummy.UptightIndigoSydelle ConstantGreenOlivie {
+    SheerCoralJolynn = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ImpossibleScarletColline = "Whoever invented the knock-knock joke should get a no bell prize."
+    InvolvedPurpleFaith = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ModestTurquoiseVonni = "What creature is smarter than a talking parrot? A spelling bee."
+    CautiousJadeTrish = false
+    SecureHarlequinMarylee = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    ResidentialPinkOthelia = true
+    FrequentYellowBetsy = false
+    InnocentAquamarineHollie = "How come the stadium got hot after the game? Because all of the fans left."
+    RepresentativeAmberEda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RichLimeDalila = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DecisiveChocolateSadye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BurningYellowBelvia = 805
+    WiseAmberAdore = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EasyMoccasinKorney = "Why did the kid cross the playground? To get to the other slide."
+    VividAzureWilletta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MinisterialBeigeMaitilde = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  json ChubbyChocolateLorri {
+    _hidden_value = true
+  }
+  string MaximumMaroonCyndi {
+    _hidden_value = true
+  }
+  hidden_boolean StandardMaroonDorelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MaleTanCecilla {
+    _hidden_value = true
+  }
+  hidden_boolean GastricPlumGwenneth {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number JitteryAmberLin {
+    _hidden_value = true
+  }
+  hidden_boolean WillowyAzureShelagh {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ScientificOrangeRosella {
+    _hidden_value = true
+  }
+  serviceid IndirectLimeMadalena {
+    _hidden_value = true
+  }
+  string ScaredOliveEricha {
+    _hidden_value = true
+  }
+  boolean SignificantFuchsiaBelle {
+    _hidden_value = true
+  }
+  dummy.RedundantBrownFanni PersistentScarletLily {
+    PetiteBrownJulienne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExpectedPlumMavra = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    HandicappedChocolateOla = "Did you know that protons have mass? I didn't even know they were catholic."
+    NationalGrayGerri = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean ExtremeApricotGrata {
+    _hidden_value = true
+  }
+  hidden_boolean PoisedTurquoiseSabina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GlamorousLavenderOlia {
+    _hidden_value = true
+  }
+  StillCopperLilah = 349
+  FairGoldTeddie = "Did you know that protons have mass? I didn't even know they were catholic."
+  RelievedTurquoiseJandy = 799
+  PoliteTealDayle = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  FriendlyCopperMalory = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PoisedTurquoiseSabina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StandardMaroonDorelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

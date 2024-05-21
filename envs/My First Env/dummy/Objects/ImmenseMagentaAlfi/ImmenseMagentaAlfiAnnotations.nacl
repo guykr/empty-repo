@@ -1,0 +1,146 @@
+type dummy.ImmenseMagentaAlfi {
+  annotations {
+    string SpecifiedAmaranthKyrstin {
+    }
+    dummy.ArmedSilverMargalit DisturbingChocolateConsolata {
+    }
+    string ExpectedMaroonGrier {
+    }
+    boolean PassingVioletGenni {
+    }
+    hidden_boolean StingyOrangeCharla {
+    }
+    serviceid_number AncientGreenMilli {
+    }
+    json HollowIvoryWileen {
+    }
+    hidden_boolean StrategicEmeraldRozella {
+    }
+    dummy.CompulsoryJadeAndromache AmazingRedCynthy {
+    }
+    json YeastyPlumWinona {
+    }
+    hidden_boolean HealthyFuchsiaBellina {
+    }
+    boolean ChiefAmberHyacinthia {
+    }
+    dummy.VastLimeCon ZippyTomatoLatisha {
+    }
+    json FunVioletTeodora {
+    }
+    serviceid_number EncouragingSapphireRalina {
+    }
+    dummy.ChristianGrayGlen ObligedPurpleAdore {
+    }
+    dummy.LikeGreenNicoline ModerateMagentaLaurel {
+    }
+    json ShortMaroonRee {
+    }
+    serviceid ReadyCyanRoxanne {
+    }
+    number PassingTomatoDody {
+    }
+    serviceid_number FrailPlumAshli {
+    }
+    json IdenticalOrangeLil {
+    }
+    serviceid ManagerialCopperGrace {
+    }
+  }
+  SpecifiedAmaranthKyrstin = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExpectedMaroonGrier = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PassingVioletGenni = false
+  AncientGreenMilli = 767
+  HollowIvoryWileen = "Slept like a log last night  woke up in the fireplace."
+  YeastyPlumWinona = "How come the stadium got hot after the game? Because all of the fans left."
+  ChiefAmberHyacinthia = false
+  FunVioletTeodora = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EncouragingSapphireRalina = 231
+  ObligedPurpleAdore = false
+  ShortMaroonRee = "Dad Im hungry  Hi hungry Im dad"
+  ReadyCyanRoxanne = "How come the stadium got hot after the game? Because all of the fans left."
+  PassingTomatoDody = 602
+  FrailPlumAshli = 976
+  IdenticalOrangeLil = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ManagerialCopperGrace = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _important_values = [
+    {
+      value = "EmotionalGrayLuella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UniversalApricotBrenna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UrbanCopperDaria"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PreviousSapphireChandal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "JoyousTealJermaine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DistantLimeEmmy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BeautifulIvoryAnnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PeacefulSalmonElberta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GreasyBlueLea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EducationalScarletDeane"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AmazingRedCynthy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisturbingChocolateConsolata"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AncientGreenMilli"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EncouragingSapphireRalina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IdenticalOrangeLil"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ImmenseMagentaAlfi_alias"
+}

@@ -1,0 +1,84 @@
+type dummy.WeeklyBlackTrula {
+  annotations {
+    serviceid_number QuaintCopperTerza {
+    }
+    number DoubleBlushDaisi {
+    }
+    serviceid ApparentOrangeTrixie {
+    }
+    dummy.UptightIndigoSydelle PastRedGenvieve {
+    }
+    hidden_boolean WearyCyanKenna {
+    }
+  }
+  json RacialGoldMeris {
+    _hidden_value = true
+  }
+  serviceid SlowGoldLoren {
+    _hidden_value = true
+  }
+  string MonthlyBlueAlane {
+    _hidden_value = true
+  }
+  string AlertAmaranthBibbie {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTomatoSelinda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid OutrageousTealFerne {
+    _hidden_value = true
+  }
+  serviceid TenderCrimsonKyle {
+    _hidden_value = true
+  }
+  serviceid_number SoreBlushAriela {
+    _hidden_value = true
+  }
+  string YummyCoralTheresina {
+    _hidden_value = true
+  }
+  dummy.RareScarletEllyn CalmCopperNatalina {
+    DecisiveAzureClemmie = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    HissingAquaBilly = "Dad Im hungry  Hi hungry Im dad"
+    AggregatePinkPauline = 171
+    ReadyCopperMariam = "Why did the kid cross the playground? To get to the other slide."
+    DirectOrangeDorotea = false
+    MightyChocolateElicia = 94
+    ParallelBronzeFlori = true
+    ControlledOrangeAvis = 939
+    FuzzyGreenBinny = 707
+    _hidden_value = true
+  }
+  hidden_boolean HonestGreenJoella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  QuaintCopperTerza = 634
+  DoubleBlushDaisi = 859
+  ApparentOrangeTrixie = "To be Frank, I'd have to change my name."
+  PastRedGenvieve = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RacialGoldMeris"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MonthlyBlueAlane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CalmCopperNatalina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

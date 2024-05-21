@@ -1,0 +1,80 @@
+type dummy.JuicyGreenAngelique {
+  annotations {
+    serviceid_number WorkingScarletGlenine {
+    }
+    json ContinentalTanOralla {
+    }
+    boolean RareAmaranthAstrix {
+    }
+    boolean GeneticJadeGoldia {
+    }
+  }
+  serviceid VerbalTomatoKaralynn {
+    _hidden_value = true
+  }
+  number ZippySalmonGelya {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompatibleIndigoMartica {
+    _hidden_value = true
+  }
+  boolean FluffyTomatoPriscella {
+    _hidden_value = true
+  }
+  serviceid_number AshamedOliveCharmaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntensiveLimeCandy {
+    _hidden_value = true
+  }
+  serviceid SkilledWhiteVally {
+    _hidden_value = true
+  }
+  boolean SurprisedMoccasinTasha {
+    _hidden_value = true
+  }
+  hidden_boolean ExternalRedPrudence {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TechnologicalTomatoKayla {
+    _hidden_value = true
+  }
+  number OperationalApricotTeressa {
+    _hidden_value = true
+  }
+  number StickyWhiteAugustine {
+    _hidden_value = true
+  }
+  number DreadfulMagentaBelva {
+    _hidden_value = true
+  }
+  serviceid_number HighBeigeAudrey {
+    _hidden_value = true
+  }
+  WorkingScarletGlenine = 654
+  ContinentalTanOralla = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RareAmaranthAstrix = false
+  GeneticJadeGoldia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SurprisedMoccasinTasha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StickyWhiteAugustine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WorkingScarletGlenine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

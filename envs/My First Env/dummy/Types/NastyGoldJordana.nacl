@@ -1,0 +1,13 @@
+type dummy.NastyGoldJordana is number {
+  annotations {
+    serviceid_number ProtectiveBrownLyndsay {
+    }
+    number BizarreHarlequinBab {
+    }
+    json PromisingIndigoDarelle {
+    }
+  }
+  ProtectiveBrownLyndsay = 5
+  BizarreHarlequinBab = 531
+  PromisingIndigoDarelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

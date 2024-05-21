@@ -1,0 +1,59 @@
+type dummy.AcceptedGoldBilly {
+  annotations {
+    boolean EnergeticPlumCaty {
+    }
+    boolean RepulsiveSapphireBritta {
+    }
+    serviceid TechnologicalGrayNadeen {
+    }
+    string SymbolicPurpleHalette {
+    }
+    boolean IncTealMaisey {
+    }
+  }
+  hidden_boolean UnusualCoffeeBeverie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FaithfulBeigeAlli {
+    _hidden_value = true
+  }
+  number PriorOrangeLorry {
+    _hidden_value = true
+  }
+  boolean CompulsoryBronzeWileen {
+    _hidden_value = true
+  }
+  serviceid_number RoyalBrownMeryl {
+    _hidden_value = true
+  }
+  json WiseCoffeeEaster {
+    _hidden_value = true
+  }
+  hidden_boolean SolidCopperAilene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CorrectBlackBeryl {
+    _hidden_value = true
+  }
+  string AccessibleOrangePapagena {
+    _hidden_value = true
+  }
+  hidden_boolean RobustYellowRochette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnwillingTealMelisande {
+    _hidden_value = true
+  }
+  EnergeticPlumCaty = false
+  RepulsiveSapphireBritta = false
+  TechnologicalGrayNadeen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SymbolicPurpleHalette = "Why did the tomato blush? Because it saw the salad dressing."
+  IncTealMaisey = false
+  _hidden_value = true
+}

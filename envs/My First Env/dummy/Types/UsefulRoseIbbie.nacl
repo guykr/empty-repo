@@ -1,0 +1,45 @@
+type dummy.UsefulRoseIbbie is boolean {
+  annotations {
+    json ComingMoccasinUmeko {
+    }
+    serviceid_number ExuberantBlushKimmy {
+    }
+    serviceid_number FrontBrownCorrina {
+    }
+    hidden_boolean RidiculousAzureEricka {
+    }
+    string FancyOliveCorny {
+    }
+    boolean CloudyBronzeCasi {
+    }
+    serviceid_number ShyBlackIssie {
+    }
+    number MuddyJadeRosemonde {
+    }
+    serviceid_number RivalTanLilli {
+    }
+    boolean RegulatoryLimeElsinore {
+    }
+    number ComingEmeraldRow {
+    }
+    boolean TenseOliveBelva {
+    }
+    number SmoothChocolateAretha {
+    }
+    number ConstantAmaranthStephannie {
+    }
+  }
+  ComingMoccasinUmeko = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ExuberantBlushKimmy = 788
+  FrontBrownCorrina = 583
+  FancyOliveCorny = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CloudyBronzeCasi = false
+  ShyBlackIssie = 6
+  MuddyJadeRosemonde = 214
+  RivalTanLilli = 789
+  RegulatoryLimeElsinore = false
+  ComingEmeraldRow = 49
+  TenseOliveBelva = true
+  SmoothChocolateAretha = 971
+  ConstantAmaranthStephannie = 519
+}

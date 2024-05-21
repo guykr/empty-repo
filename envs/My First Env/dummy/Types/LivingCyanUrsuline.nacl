@@ -1,0 +1,95 @@
+type dummy.LivingCyanUrsuline {
+  annotations {
+    json CarefulTanMercedes {
+    }
+    boolean ControlledPeachAnica {
+    }
+    string UglyAquamarineGert {
+    }
+    string ReasonableTomatoAili {
+    }
+    serviceid_number RipeAquamarineRafaela {
+    }
+    json MixedAmethystEvita {
+    }
+  }
+  boolean HurtMoccasinCodee {
+    _hidden_value = true
+  }
+  dummy.OverseasTealHayley ScornfulPurpleDavida {
+    ArtisticLimeThea = 323
+    SharedCopperDavina = true
+    SimilarTealSheena = '''
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+'''
+    SickJadeLanette = "What do you call two barracuda fish?  A Pairacuda!"
+    WearyPeachDelly = "Why do birds fly south for the winter? Because it's too far to walk."
+    RetiredIndigoLynda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StrictSapphireLil = 95
+    ContinuingGoldLanita = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    ShrillCyanRivy = "To be Frank, I'd have to change my name."
+    FirmEmeraldJanet = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  dummy.BewilderedPurpleAlie QuaintTomatoGina {
+    UnitedIvoryDannye = 682
+    MarxistPeachNeille = 45
+    RunningCoralPamella = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HomelessTurquoiseBerty = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SuccessiveBlueDixie = 28
+    MushyCyanVeronike = 686
+    CooperativePinkKyrstin = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  string ZygomorphicAmethystCindi {
+    _hidden_value = true
+  }
+  serviceid FuturePurpleBibbye {
+    _hidden_value = true
+  }
+  serviceid_number MammothCrimsonAggy {
+    _hidden_value = true
+  }
+  number MarineAquamarineSherline {
+    _hidden_value = true
+  }
+  number UniformGreenNeille {
+    _hidden_value = true
+  }
+  number CreativeBronzeGwenora {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WholeBlushLeyla {
+    _hidden_value = true
+  }
+  serviceid_number InsufficientBeigeRosanne {
+    _hidden_value = true
+  }
+  hidden_boolean ProtectiveCrimsonShea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ColdChocolateAlis {
+    _hidden_value = true
+  }
+  CarefulTanMercedes = "I'll tell you what often gets over looked... garden fences."
+  ControlledPeachAnica = false
+  UglyAquamarineGert = "What do you call two barracuda fish?  A Pairacuda!"
+  ReasonableTomatoAili = "Why do birds fly south for the winter? Because it's too far to walk."
+  RipeAquamarineRafaela = 281
+  MixedAmethystEvita = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ColdChocolateAlis"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

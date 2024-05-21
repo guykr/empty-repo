@@ -1,0 +1,49 @@
+type dummy.RelativeWhiteLouise {
+  annotations {
+    json VulnerableCoffeeDrusilla {
+    }
+    serviceid_number ThoughtlessPinkHedvige {
+    }
+    serviceid_number ArtisticScarletJean {
+    }
+    number ManagingAquamarineAmara {
+    }
+    number QuietMagentaRobinett {
+    }
+    json LatinCoralMariann {
+    }
+  }
+  serviceid UpperLimeAlyssa {
+    _hidden_value = true
+  }
+  number PracticalRedFreda {
+    _hidden_value = true
+  }
+  number GeneticTurquoiseCaterina {
+    _hidden_value = true
+  }
+  serviceid_number MarineWhiteBobette {
+    _hidden_value = true
+  }
+  VulnerableCoffeeDrusilla = "Why was it called the dark ages? Because of all the knights. "
+  ThoughtlessPinkHedvige = 659
+  ArtisticScarletJean = 689
+  ManagingAquamarineAmara = 463
+  QuietMagentaRobinett = 865
+  LatinCoralMariann = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UpperLimeAlyssa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LatinCoralMariann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

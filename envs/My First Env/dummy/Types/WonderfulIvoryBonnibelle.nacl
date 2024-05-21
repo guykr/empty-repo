@@ -1,0 +1,102 @@
+type dummy.WonderfulIvoryBonnibelle {
+  annotations {
+    serviceid_number DualChocolateOlva {
+    }
+    json ImaginativeMoccasinSamantha {
+    }
+    serviceid GastricCyanTiffany {
+    }
+    json ObnoxiousAmethystArleta {
+    }
+    hidden_boolean StructuralAmberFaye {
+    }
+  }
+  dummy.DEFAULT WorthwhileScarletMonica {
+    _hidden_value = true
+  }
+  "List<serviceid>" AdministrativePinkAdaline {
+    _hidden_value = true
+  }
+  boolean LivingSapphireMissie {
+    _hidden_value = true
+  }
+  number TemporaryWhiteCarin {
+    _hidden_value = true
+  }
+  boolean FutureSapphireLindi {
+    _hidden_value = true
+  }
+  number DefiantApricotBarb {
+    _hidden_value = true
+  }
+  serviceid ShallowBlueDebby {
+    _hidden_value = true
+  }
+  serviceid PassiveGrayBlinni {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" VoicelessOrangeJillane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LivingOrangeCam {
+    _hidden_value = true
+  }
+  serviceid MilitaryAquaWillette {
+    _hidden_value = true
+  }
+  json PrivateCopperAmelia {
+    _hidden_value = true
+  }
+  serviceid_number BadAmethystJobina {
+    _hidden_value = true
+  }
+  number MysteriousScarletCass {
+    _hidden_value = true
+  }
+  DualChocolateOlva = 239
+  ImaginativeMoccasinSamantha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GastricCyanTiffany = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ObnoxiousAmethystArleta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BadAmethystJobina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShallowBlueDebby"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VoicelessOrangeJillane"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PassiveGrayBlinni"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MysteriousScarletCass"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StructuralAmberFaye"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ImaginativeMoccasinSamantha"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

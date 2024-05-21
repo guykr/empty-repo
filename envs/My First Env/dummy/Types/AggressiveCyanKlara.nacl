@@ -1,0 +1,22 @@
+type dummy.AggressiveCyanKlara {
+  annotations {
+    string OppositeAquamarineQuintina {
+    }
+    boolean ThirstyAmaranthDanna {
+    }
+    number SweetTomatoLeese {
+    }
+    number CertainVioletChrissy {
+    }
+    hidden_boolean SteadyGoldBarbey {
+    }
+  }
+  serviceid TemporaryTomatoDulcea {
+    _hidden_value = true
+  }
+  OppositeAquamarineQuintina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ThirstyAmaranthDanna = false
+  SweetTomatoLeese = 769
+  CertainVioletChrissy = 641
+  _hidden_value = true
+}

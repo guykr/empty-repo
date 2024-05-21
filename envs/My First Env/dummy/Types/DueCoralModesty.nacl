@@ -1,0 +1,22 @@
+type dummy.DueCoralModesty {
+  annotations {
+    hidden_boolean InherentChocolateChryste {
+    }
+    json ColonialGrayMireille {
+    }
+    number HighYellowMellicent {
+    }
+    dummy.AdequateLimeCherice TameGreenMelisse {
+    }
+    dummy.AdequateLimeCherice EnergeticVioletOralla {
+    }
+  }
+  json AdequateSalmonCarlye {
+    _hidden_value = true
+  }
+  ColonialGrayMireille = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HighYellowMellicent = 146
+  TameGreenMelisse = "Why did the tomato blush? Because it saw the salad dressing."
+  EnergeticVioletOralla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

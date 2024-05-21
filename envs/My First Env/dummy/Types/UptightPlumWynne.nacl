@@ -1,0 +1,55 @@
+type dummy.UptightPlumWynne is string {
+  annotations {
+    number SelectedAmaranthMarleen {
+    }
+    number DepressedApricotDanell {
+    }
+    json PublicRedMelinde {
+    }
+    serviceid SpottyPeachBinny {
+    }
+    hidden_boolean NewMoccasinJaneva {
+    }
+    serviceid GoodMagentaTami {
+    }
+    serviceid_number SlimScarletMelisenda {
+    }
+    number WeeScarletCatlin {
+    }
+    serviceid_number HonAmethystBertha {
+    }
+    boolean AbstractAmberJosey {
+    }
+    string BoilingAquaTim {
+    }
+    serviceid_number RealYellowFaye {
+    }
+    hidden_boolean ThirstyOliveCasandra {
+    }
+    boolean HorribleAmethystFifi {
+    }
+    serviceid_number BoredCrimsonZaria {
+    }
+    string UnfortunateCrimsonLeelah {
+    }
+    hidden_boolean RespectableAquamarineBianca {
+    }
+    serviceid_number EnergeticApricotBelinda {
+    }
+  }
+  SelectedAmaranthMarleen = 56
+  DepressedApricotDanell = 696
+  PublicRedMelinde = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpottyPeachBinny = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GoodMagentaTami = "Why did the kid cross the playground? To get to the other slide."
+  SlimScarletMelisenda = 425
+  WeeScarletCatlin = 955
+  HonAmethystBertha = 788
+  AbstractAmberJosey = false
+  BoilingAquaTim = "Whoever invented the knock-knock joke should get a no bell prize."
+  RealYellowFaye = 888
+  HorribleAmethystFifi = true
+  BoredCrimsonZaria = 160
+  UnfortunateCrimsonLeelah = "To be Frank, I'd have to change my name."
+  EnergeticApricotBelinda = 114
+}

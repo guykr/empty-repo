@@ -1,0 +1,158 @@
+type dummy.ShallowAmethystRosemaria {
+  annotations {
+    json BrokenIndigoAmi {
+    }
+    serviceid_number InnocentJadeJaclyn {
+    }
+    serviceid ZanySalmonAnissa {
+    }
+    serviceid GlamorousOliveBarbie {
+    }
+  }
+  dummy.LikeTurquoiseMarisa JollyBrownAddie {
+    InternalPurpleIrina = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StraightforwardPlumLillis = 722
+    CoherentScarletLanna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    VastAzureOthella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MutualMaroonDelores = 553
+    WidespreadIvoryHettie = 740
+    HistoricalSalmonLuise = 240
+    _hidden_value = true
+  }
+  dummy.RealCrimsonMichaelina GracefulBeigeAmi {
+    ModernGrayAllison = 805
+    BizarreAquaFlorance = true
+    HissingLavenderTybi = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AlertCyanMary = "Why was it called the dark ages? Because of all the knights. "
+    DisgustedSapphireMerrie = "To be Frank, I'd have to change my name."
+    YieldingEmeraldGustie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ChronicBlushJacintha = 59
+    WelcomeYellowEllette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NakedIndigoGinevra = "Im only familiar with 25 letters in the English language. I dont know why."
+    MilitaryBlushCatrina = 651
+    SymbolicAmaranthUla = 913
+    CarefulCoralLucinda = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  string WispyWhiteEddi {
+    _hidden_value = true
+  }
+  dummy.ImportantMaroonJeane MassiveAzureSherline {
+    LazyCyanAime = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FatalGrayWilli = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    JudicialBeigeMilicent = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    IntellectualSilverLibbey = true
+    YappiestCopperNerissa = 616
+    GradualBronzeNinon = 958
+    FamiliarBrownEnid = 830
+    HorizontalTurquoiseLynde = "What do you do on a remote island? Try and find the TV island it belongs to."
+    JoyousChocolateSalomi = "Why was it called the dark ages? Because of all the knights. "
+    RealTomatoMarilee = "Whoever invented the knock-knock joke should get a no bell prize."
+    AnxiousRoseTommi = true
+    _hidden_value = true
+  }
+  boolean ElegantJadeRuperta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImprovedSalmonMiran {
+    _hidden_value = true
+  }
+  number GrotesqueAquaAlison {
+    _hidden_value = true
+  }
+  number ArbitraryFuchsiaRuthie {
+    _hidden_value = true
+  }
+  boolean RandomGoldDion {
+    _hidden_value = true
+  }
+  hidden_boolean DelightedTurquoiseAbigael {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StormyJadeAmaleta {
+    _hidden_value = true
+  }
+  boolean ReluctantEmeraldBarbi {
+    _hidden_value = true
+  }
+  string AggregateGreenVina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MisleadingOrangeZara {
+    _hidden_value = true
+  }
+  number RespectableMoccasinJenda {
+    _hidden_value = true
+  }
+  json ImpossibleSalmonConstance {
+    _hidden_value = true
+  }
+  boolean StripedYellowAntonietta {
+    _hidden_value = true
+  }
+  hidden_boolean CautiousJadeTricia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EthicalJadeCordie {
+    _hidden_value = true
+  }
+  serviceid ColorfulJadeOralla {
+    _hidden_value = true
+  }
+  serviceid_number EfficientCrimsonMicaela {
+    _hidden_value = true
+  }
+  dummy.TightChocolateMinta AverageEmeraldSam {
+    EnviousOrangeCherin = true
+    PeacefulAzureTheresina = "Why do birds fly south for the winter? Because it's too far to walk."
+    ScientificIvoryOthilia = "To be Frank, I'd have to change my name."
+    SpottyYellowAubrey = "Im only familiar with 25 letters in the English language. I dont know why."
+    SeriousGrayAndriette = 417
+    InherentOliveRobena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CurrentAmethystAngel = "To be Frank, I'd have to change my name."
+    MissingGoldCinnamon = 641
+    SpecificBrownHarriot = false
+    ColouredEmeraldFelicity = true
+    SevereAmethystDinnie = "Whoever invented the knock-knock joke should get a no bell prize."
+    LargeMagentaCymbre = true
+    _hidden_value = true
+  }
+  BrokenIndigoAmi = "Why didnt the skeleton cross the road? Because he had no guts."
+  InnocentJadeJaclyn = 765
+  ZanySalmonAnissa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GlamorousOliveBarbie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MassiveAzureSherline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ReluctantEmeraldBarbi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DelightedTurquoiseAbigael"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ArbitraryFuchsiaRuthie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InnocentJadeJaclyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

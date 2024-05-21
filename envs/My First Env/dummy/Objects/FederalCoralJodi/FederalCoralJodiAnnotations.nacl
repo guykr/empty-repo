@@ -1,0 +1,85 @@
+type dummy.FederalCoralJodi {
+  annotations {
+    boolean EarlyLimeLeda {
+    }
+    number LevelAmaranthLura {
+    }
+    serviceid FewAquamarineColeen {
+    }
+    string OralGraySharron {
+    }
+    dummy.YappyMaroonSioux RoundCyanRasia {
+    }
+    json CreepyFuchsiaJuliana {
+    }
+    hidden_boolean ReadyCopperEmelda {
+    }
+    boolean MiddleRedEvita {
+    }
+    serviceid_number HarshRoseCarmel {
+    }
+    json LazyBronzeAgnesse {
+    }
+    json YearningPlumAlyssa {
+    }
+    string CivilAquaVanessa {
+    }
+    number NeutralLimePauletta {
+    }
+    hidden_boolean ColossalCrimsonLeyla {
+    }
+    serviceid JustWhiteElsinore {
+    }
+    string FinalScarletPhylys {
+    }
+  }
+  EarlyLimeLeda = true
+  LevelAmaranthLura = 245
+  FewAquamarineColeen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OralGraySharron = "Why didnt the skeleton cross the road? Because he had no guts."
+  RoundCyanRasia = file("PracticalWhiteCarolina.txt")
+  CreepyFuchsiaJuliana = "What do you call two barracuda fish?  A Pairacuda!"
+  MiddleRedEvita = false
+  HarshRoseCarmel = 855
+  LazyBronzeAgnesse = "To be Frank, I'd have to change my name."
+  YearningPlumAlyssa = "To be Frank, I'd have to change my name."
+  CivilAquaVanessa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NeutralLimePauletta = 262
+  JustWhiteElsinore = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FinalScarletPhylys = "Dad Im hungry  Hi hungry Im dad"
+  _important_values = [
+    {
+      value = "RegisteredJadeJoanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CrudePinkFarrah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YearningPlumAlyssa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JustWhiteElsinore"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OralGraySharron"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LevelAmaranthLura"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "FederalCoralJodi_alias"
+}

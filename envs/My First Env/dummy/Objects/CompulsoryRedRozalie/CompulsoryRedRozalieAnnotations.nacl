@@ -1,0 +1,115 @@
+type dummy.CompulsoryRedRozalie {
+  annotations {
+    serviceid CulturalOrangeJessa {
+    }
+    serviceid ImpressedCoffeeHattie {
+    }
+    hidden_boolean EerieSalmonMellicent {
+    }
+    number DampWhiteDelores {
+    }
+    json NearMagentaLiana {
+    }
+    serviceid_number IntegratedAmaranthCarolyne {
+    }
+    serviceid ContinuousCyanBrynn {
+    }
+    serviceid LeftCopperDomeniga {
+    }
+    hidden_boolean GrowingSalmonTandie {
+    }
+    serviceid_number MinisterialBlackOdella {
+    }
+    hidden_boolean DelightedTurquoiseJoelynn {
+    }
+    serviceid SubtleMagentaKesley {
+    }
+    hidden_boolean EnchantingMaroonBritney {
+    }
+    json AnonymousMoccasinMikaela {
+    }
+    json IntelligentAmaranthTheressa {
+    }
+    serviceid_number DirectSapphireKiah {
+    }
+    json IdealCyanJaynell {
+    }
+    hidden_boolean EnergeticGoldMyrtia {
+    }
+    serviceid ParliamentaryAmberMadelon {
+    }
+    dummy.ElectricScarletEzmeralda StrictRoseMarcy {
+    }
+    serviceid_number SeniorScarletLindi {
+    }
+    string ParticularRedAuberta {
+    }
+    number ExperiencedOliveCary {
+    }
+    serviceid_number CompulsoryCoralOnida {
+    }
+    hidden_boolean FinalBeigeDeirdre {
+    }
+    json DefiantAzureMichaeline {
+    }
+  }
+  CulturalOrangeJessa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ImpressedCoffeeHattie = "Why is Peter Pan always flying? Because he Neverlands."
+  DampWhiteDelores = 511
+  NearMagentaLiana = "How come the stadium got hot after the game? Because all of the fans left."
+  IntegratedAmaranthCarolyne = 652
+  ContinuousCyanBrynn = "Why do birds fly south for the winter? Because it's too far to walk."
+  LeftCopperDomeniga = "How come the stadium got hot after the game? Because all of the fans left."
+  MinisterialBlackOdella = 217
+  SubtleMagentaKesley = "To be Frank, I'd have to change my name."
+  AnonymousMoccasinMikaela = "Why is Peter Pan always flying? Because he Neverlands."
+  IntelligentAmaranthTheressa = "Why did the tomato blush? Because it saw the salad dressing."
+  DirectSapphireKiah = 722
+  IdealCyanJaynell = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ParliamentaryAmberMadelon = "Whoever invented the knock-knock joke should get a no bell prize."
+  SeniorScarletLindi = 251
+  ParticularRedAuberta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExperiencedOliveCary = 801
+  CompulsoryCoralOnida = 438
+  DefiantAzureMichaeline = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _important_values = [
+    {
+      value = "UpsetPeachCelestina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HistoricalGrayDanyette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ShallowGreenJamima"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DirectSapphireKiah"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MinisterialBlackOdella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImpressedCoffeeHattie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ParliamentaryAmberMadelon"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "CompulsoryRedRozalie_alias"
+}

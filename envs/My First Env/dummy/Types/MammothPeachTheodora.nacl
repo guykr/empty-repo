@@ -1,0 +1,103 @@
+type dummy.MammothPeachTheodora {
+  annotations {
+    boolean InstantChocolateCorliss {
+    }
+    hidden_boolean RaspyAquaShelley {
+    }
+    hidden_boolean PresidentialTealCharlene {
+    }
+    serviceid LongGoldLyndell {
+    }
+    serviceid_number RollingRoseMyrilla {
+    }
+    json XenogeneicCrimsonShelia {
+    }
+  }
+  number RegulatoryPlumLeodora {
+    _hidden_value = true
+  }
+  number PastAmaranthTracie {
+    _hidden_value = true
+  }
+  hidden_boolean InnerJadeAndeee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TopLavenderRobbi {
+    _hidden_value = true
+  }
+  number AdditionalCoffeeRiki {
+    _hidden_value = true
+  }
+  string WrittenTanMaggie {
+    _hidden_value = true
+  }
+  boolean SolidGrayScarlett {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HandsomeApricotFawnia {
+    _hidden_value = true
+  }
+  string MonthlyOrangeEudora {
+    _hidden_value = true
+  }
+  number AppallingIndigoCharlotta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelectiveBlueKatya {
+    _hidden_value = true
+  }
+  serviceid_number CombativeRoseDoe {
+    _hidden_value = true
+  }
+  json QuixoticTealVanna {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" VoluminousPurpleGoldi {
+    _hidden_value = true
+  }
+  serviceid VivaciousBlushSydelle {
+    _hidden_value = true
+  }
+  string FaithfulScarletLinell {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiteraryCrimsonTrudy {
+    _hidden_value = true
+  }
+  json CuddlyGrayRosaline {
+    _hidden_value = true
+  }
+  hidden_boolean MechanicalRoseTrudey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" MelodicBlushStevena {
+    _hidden_value = true
+  }
+  number PastIvoryBarb {
+    _hidden_value = true
+  }
+  json MissingJadeEva {
+    _hidden_value = true
+  }
+  InstantChocolateCorliss = true
+  LongGoldLyndell = "Slept like a log last night  woke up in the fireplace."
+  RollingRoseMyrilla = 91
+  XenogeneicCrimsonShelia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HandsomeApricotFawnia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MechanicalRoseTrudey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

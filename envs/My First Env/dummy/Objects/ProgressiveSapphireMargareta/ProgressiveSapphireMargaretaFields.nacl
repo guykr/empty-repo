@@ -1,0 +1,48 @@
+type dummy.ProgressiveSapphireMargareta {
+  number RelatedTealLynnell {
+  }
+  string SpontaneousSapphireBella {
+  }
+  boolean ApplicableCyanDorelle {
+  }
+  dummy.VerbalBlackVivyan BlondeBronzeSunny {
+    CrazyTealMonica = 837
+    ShinyAquaManda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    HappyEmeraldLegra = file("GrowingAquamarineHyacinthe.txt")
+  }
+  serviceid_number BlushingAmaranthRosita {
+  }
+  number MuddyAzureCeline {
+  }
+  string NegativeFuchsiaMariya {
+  }
+  hidden_boolean UsefulPeachKary {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<hidden_boolean>" GivenBeigeKarena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.GeneralRedCarmelita SpecialJadeCordie {
+    AssistantTealAtlante = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StuckPlumKora = "Why is Peter Pan always flying? Because he Neverlands."
+    CrucialLavenderElayne = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    AccurateGrayVernice = 376
+    GreatSilverDagmar = false
+    EvolutionaryJadeViviyan = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  dummy.PublicPlumHilde KindGrayLusa {
+    NationalCoralEvelina = 223
+    VividIndigoBarbabra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SeparateAquamarineSarah = 742
+    ValidYellowAryn = false
+    FrontYellowCorrinne = true
+  }
+  "List<boolean>" ScaryCoralJania {
+  }
+}

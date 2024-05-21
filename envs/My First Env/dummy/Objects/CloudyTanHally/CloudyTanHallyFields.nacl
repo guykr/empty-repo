@@ -1,0 +1,66 @@
+type dummy.CloudyTanHally {
+  string RelevantJadeElka {
+  }
+  "List<boolean>" ObnoxiousOrangeMichaelina {
+  }
+  number PartialGreenFelita {
+  }
+  json NursingAquaClaudetta {
+  }
+  boolean ConventionalPlumKarly {
+  }
+  serviceid RegulatoryChocolateMaure {
+  }
+  string PopularBlushRois {
+  }
+  string NovelScarletMarion {
+  }
+  serviceid PassiveSapphireMaryann {
+  }
+  number RottenBlushNerissa {
+  }
+  hidden_boolean PricklyMoccasinGwyneth {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string AssistantBlueLexine {
+  }
+  json BlondeMaroonAndy {
+  }
+  boolean StatisticalBrownAilyn {
+  }
+  dummy.LikeAzureJenda SupremeAquamarineLotta {
+    MarvellousMagentaGeorgianne = 321
+    FollowingCyanJean = 229
+    PrincipalAmaranthIlise = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MarvellousMagentaCharity = false
+  }
+  hidden_boolean LegalRoseWileen {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid ArrogantCopperMickie {
+  }
+  boolean PassingCoffeeVan {
+  }
+  hidden_boolean OuterEmeraldKizzee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BumpyLimeAurel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SlimAquaMyrlene {
+  }
+  json SurprisingFuchsiaGerhardine {
+  }
+  string UsefulAzureShell {
+  }
+  boolean MedicalPurpleAddi {
+  }
+}

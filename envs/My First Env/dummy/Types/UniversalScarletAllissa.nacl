@@ -1,0 +1,57 @@
+type dummy.UniversalScarletAllissa {
+  annotations {
+    json PuzzledLimeHesther {
+    }
+    hidden_boolean VisualWhiteDre {
+    }
+    string ScatteredChocolateEleanora {
+    }
+    hidden_boolean PossibleGreenOthelia {
+    }
+    boolean SubsequentTurquoiseEirena {
+    }
+    string ProbableAquamarineGinnifer {
+    }
+    number VisibleIndigoNovelia {
+    }
+  }
+  serviceid_number RequiredBlackDahlia {
+    _hidden_value = true
+  }
+  boolean MelodicTurquoiseEyde {
+    _hidden_value = true
+  }
+  serviceid BusyOliveKatalin {
+    _hidden_value = true
+  }
+  hidden_boolean QuickestYellowJuliana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ShinyCrimsonOlivette {
+    _hidden_value = true
+  }
+  number NecessarySilverDayna {
+    _hidden_value = true
+  }
+  json DefensiveCrimsonGeraldine {
+    _hidden_value = true
+  }
+  string UgliestRoseEudora {
+    _hidden_value = true
+  }
+  PuzzledLimeHesther = "Slept like a log last night  woke up in the fireplace."
+  ScatteredChocolateEleanora = "Why did the tomato blush? Because it saw the salad dressing."
+  SubsequentTurquoiseEirena = true
+  ProbableAquamarineGinnifer = "What creature is smarter than a talking parrot? A spelling bee."
+  VisibleIndigoNovelia = 932
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "QuickestYellowJuliana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

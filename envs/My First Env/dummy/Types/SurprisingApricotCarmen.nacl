@@ -1,0 +1,81 @@
+type dummy.SurprisingApricotCarmen {
+  annotations {
+    dummy.DEFAULT EntireScarletMaryrose {
+    }
+    hidden_boolean CognitiveTanStar {
+    }
+    number TragicMaroonDona {
+    }
+    serviceid_number AdvancedRoseOriana {
+    }
+    boolean SparklingScarletSamaria {
+    }
+    dummy.DEFAULT ChemicalGrayMyrtle {
+    }
+  }
+  json InitialMoccasinMichaeline {
+    _hidden_value = true
+  }
+  serviceid OverallBlackRuth {
+    _hidden_value = true
+  }
+  boolean DamagedCoffeeJoyann {
+    _hidden_value = true
+  }
+  number StrangeFuchsiaGilly {
+    _hidden_value = true
+  }
+  boolean ProgressiveTealCharlotta {
+    _hidden_value = true
+  }
+  string InformalIvoryUta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VoluntarySalmonJoanne {
+    _hidden_value = true
+  }
+  number HugeTanGerladina {
+    _hidden_value = true
+  }
+  serviceid_number NaughtyYellowNan {
+    _hidden_value = true
+  }
+  serviceid_number MentalOrangeAmeline {
+    _hidden_value = true
+  }
+  boolean FrightenedSilverHetty {
+    _hidden_value = true
+  }
+  hidden_boolean NervousIndigoFredrika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DueAmaranthKiri {
+    _hidden_value = true
+  }
+  EntireScarletMaryrose = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  TragicMaroonDona = 852
+  AdvancedRoseOriana = 52
+  SparklingScarletSamaria = true
+  ChemicalGrayMyrtle = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MentalOrangeAmeline"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SparklingScarletSamaria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

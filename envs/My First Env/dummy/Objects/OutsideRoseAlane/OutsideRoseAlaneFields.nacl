@@ -1,0 +1,62 @@
+type dummy.OutsideRoseAlane {
+  boolean PossibleTanEvvy {
+  }
+  string StickyIvoryNollie {
+  }
+  boolean MiserableHarlequinBessie {
+  }
+  json DeafIndigoArdelia {
+  }
+  hidden_boolean EldestPlumBlaire {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SmilingTomatoTyne {
+  }
+  json GrandTurquoiseLottie {
+  }
+  hidden_boolean SecretTanSybille {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  dummy.ClassicBeigeFelita VisibleIvoryCaryn {
+    RottenApricotShanon = true
+    HomelessApricotAndi = "Why was it called the dark ages? Because of all the knights. "
+    ModerateTealCarlyn = 600
+    GrievingBronzeDianna = 109
+    EthicalMagentaYvonne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ClinicalBlackVinita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    StraightforwardSilverFilide = 396
+  }
+  number HugeCrimsonMelisa {
+  }
+  boolean ParliamentaryScarletHildy {
+  }
+  serviceid_number LatinRoseJana {
+  }
+  string GoodCopperNeilla {
+  }
+  json SmilingAquaChristi {
+  }
+  dummy.PetiteLimeCorene CarefulAquaClaudia {
+    ScornfulCrimsonConstancia = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    NutritiousGrayShaine = "Why was it called the dark ages? Because of all the knights. "
+    InadequateMoccasinMichal = file("RunningChocolateCarlina.txt")
+  }
+  dummy.EthicalGoldSuzanne ProtectivePinkFenelia {
+    SeriousYellowKial = 779
+    EnvironmentalCoffeeNinette = true
+    ColorfulSilverJaney = true
+    ParliamentaryBronzeStormi = 190
+    PsychiatricMagentaJemimah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HilariousBlushRanique = true
+  }
+  serviceid_number EqualCopperLolly {
+  }
+  "List<serviceid>" MiddleMagentaFania {
+  }
+}

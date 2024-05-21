@@ -1,0 +1,59 @@
+type dummy.FixedWhiteDeeyn {
+  annotations {
+    boolean VaryingTomatoDyanna {
+    }
+    dummy.VoluminousSilverHermina OverallTealDionis {
+    }
+    hidden_boolean IncreasedPurpleMaryellen {
+    }
+  }
+  number IllPlumSheryl {
+    _hidden_value = true
+  }
+  boolean ShrillCrimsonLoralee {
+    _hidden_value = true
+  }
+  json EmotionalEmeraldFanchon {
+    _hidden_value = true
+  }
+  serviceid_number EnormousAzureSapphira {
+    _hidden_value = true
+  }
+  serviceid YouthfulGreenTarah {
+    _hidden_value = true
+  }
+  json TechnologicalCoralThekla {
+    _hidden_value = true
+  }
+  json InstitutionalJadeFerdinanda {
+    _hidden_value = true
+  }
+  string WittyLavenderKerri {
+    _hidden_value = true
+  }
+  serviceid SuperbScarletBarbaraanne {
+    _hidden_value = true
+  }
+  json UniqueAmaranthCristen {
+    _hidden_value = true
+  }
+  json SpontaneousVioletConstantine {
+    _hidden_value = true
+  }
+  string ScientificCrimsonZorana {
+    _hidden_value = true
+  }
+  serviceid TenseChocolateCamilla {
+    _hidden_value = true
+  }
+  VaryingTomatoDyanna = false
+  OverallTealDionis = 526
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SpontaneousVioletConstantine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

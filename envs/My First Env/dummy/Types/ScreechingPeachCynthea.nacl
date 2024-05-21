@@ -1,0 +1,130 @@
+type dummy.ScreechingPeachCynthea {
+  annotations {
+    dummy.DEFAULT FilthyScarletAlfi {
+    }
+    hidden_boolean InterestedMoccasinDebbie {
+    }
+    string PracticalPeachPauline {
+    }
+    serviceid SensibleCoffeeRebecka {
+    }
+    boolean MeanAmaranthSheri {
+    }
+    string CloseMoccasinOdette {
+    }
+    number ImmediateBronzeCrissie {
+    }
+    json ExceptionalBlueDanielle {
+    }
+  }
+  hidden_boolean ImaginativeBeigeAlyss {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HurtCoralBrear {
+    _hidden_value = true
+  }
+  json UselessSalmonDayle {
+    _hidden_value = true
+  }
+  serviceid SecondaryLimeJeniece {
+    _hidden_value = true
+  }
+  hidden_boolean LiableGoldDeb {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AppropriateGreenCathyleen {
+    _hidden_value = true
+  }
+  string RelaxedApricotLetitia {
+    _hidden_value = true
+  }
+  json WillowyBeigeStephana {
+    _hidden_value = true
+  }
+  dummy.BlindAmaranthCari ClosedTealSibyl {
+    SportingMagentaRos = 141
+    BewilderedCoralAtlante = "What creature is smarter than a talking parrot? A spelling bee."
+    SpecifiedPinkMildred = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ComplexGrayBernardine = 253
+    NakedCrimsonNatalina = 677
+    StillLavenderDehlia = 74
+    ExcessTurquoiseCody = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CuddlyTanLisha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HushedLimeFaun = true
+    LeadingBlueBarbie = 838
+    BraveTanKaroly = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TopApricotLaurette = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ContinuedAzureNoami = false
+    _hidden_value = true
+  }
+  serviceid_number OverallPinkShannon {
+    _hidden_value = true
+  }
+  boolean FlutteringRedRenelle {
+    _hidden_value = true
+  }
+  json EventualAquaCeil {
+    _hidden_value = true
+  }
+  boolean WorthwhileApricotLiana {
+    _hidden_value = true
+  }
+  json EnviousChocolateKelly {
+    _hidden_value = true
+  }
+  dummy.AngryLimeTiphani BoredPurpleBridie {
+    WorriedChocolateKim = "What creature is smarter than a talking parrot? A spelling bee."
+    LongApricotAngelia = false
+    GlobalCoffeeMalinda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    VagueCopperElita = 689
+    SovietPlumRegan = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    RationalTurquoiseAlix = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  json RenewedJadeMorganne {
+    _hidden_value = true
+  }
+  boolean GeographicalPurpleAlison {
+    _hidden_value = true
+  }
+  FilthyScarletAlfi = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  PracticalPeachPauline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SensibleCoffeeRebecka = "Why is Peter Pan always flying? Because he Neverlands."
+  MeanAmaranthSheri = true
+  CloseMoccasinOdette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImmediateBronzeCrissie = 152
+  ExceptionalBlueDanielle = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EnviousChocolateKelly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FilthyScarletAlfi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PracticalPeachPauline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MeanAmaranthSheri"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

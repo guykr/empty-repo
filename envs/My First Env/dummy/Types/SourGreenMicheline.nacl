@@ -1,0 +1,51 @@
+type dummy.SourGreenMicheline {
+  annotations {
+    json SoleTomatoRebe {
+    }
+    serviceid_number EthicalCopperNomi {
+    }
+    dummy.TightChocolateMinta NetTealBertine {
+    }
+    string DearMagentaArda {
+    }
+    dummy.DEFAULT SafeChocolateColetta {
+    }
+    string BigTanJilly {
+    }
+    dummy.DEFAULT EventualAmethystAnnabela {
+    }
+    hidden_boolean ConvincedAzureJori {
+    }
+  }
+  string JuniorMaroonYovonnda {
+    _hidden_value = true
+  }
+  serviceid PrettyCopperMavis {
+    _hidden_value = true
+  }
+  number AdjacentTomatoHermia {
+    _hidden_value = true
+  }
+  string CivilIndigoColleen {
+    _hidden_value = true
+  }
+  SoleTomatoRebe = "Why did the kid cross the playground? To get to the other slide."
+  EthicalCopperNomi = 487
+  NetTealBertine = false
+  DearMagentaArda = "To be Frank, I'd have to change my name."
+  SafeChocolateColetta = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  BigTanJilly = "Why didnt the skeleton cross the road? Because he had no guts."
+  EventualAmethystAnnabela = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdjacentTomatoHermia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,164 @@
+type dummy.PopularIvoryWilmette {
+  annotations {
+    serviceid_number ExpectedVioletKarlotta {
+    }
+    number MaleCoralManon {
+    }
+    number IllegalOrangeCarmon {
+    }
+    serviceid CoherentMaroonRea {
+    }
+    dummy.DreadfulCoralCassandre IndependentBrownLaurice {
+    }
+  }
+  string WhisperingGrayDella {
+    _hidden_value = true
+  }
+  json ContinuousCrimsonCarmon {
+    _hidden_value = true
+  }
+  number DullBrownAlyssa {
+    _hidden_value = true
+  }
+  number EmbarrassingRoseLorilee {
+    _hidden_value = true
+  }
+  hidden_boolean BasicGreenFlorina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AllegedGrayPerrine {
+    _hidden_value = true
+  }
+  serviceid_number PrintedWhiteNike {
+    _hidden_value = true
+  }
+  serviceid_number MonetaryWhiteKiele {
+    _hidden_value = true
+  }
+  json NumerousIndigoPatrizia {
+    _hidden_value = true
+  }
+  serviceid MisleadingRedLoria {
+    _hidden_value = true
+  }
+  serviceid DemocraticRedValery {
+    _hidden_value = true
+  }
+  serviceid_number YuckyTomatoSuki {
+    _hidden_value = true
+  }
+  serviceid JustLimeKatharine {
+    _hidden_value = true
+  }
+  number ContemporaryBlackJanaya {
+    _hidden_value = true
+  }
+  serviceid CircularPinkRaquel {
+    _hidden_value = true
+  }
+  serviceid QuietRedEmera {
+    _hidden_value = true
+  }
+  serviceid_number TopTanLindy {
+    _hidden_value = true
+  }
+  number SuddenTealValma {
+    _hidden_value = true
+  }
+  serviceid CrudeLavenderJunette {
+    _hidden_value = true
+  }
+  serviceid ControlledSalmonLaney {
+    _hidden_value = true
+  }
+  serviceid ScatteredPinkBuffy {
+    _hidden_value = true
+  }
+  "List<string>" PlasticCopperKirsteni {
+    _hidden_value = true
+  }
+  json LonelySilverMisti {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LoyalBlackLoralee {
+    _hidden_value = true
+  }
+  string CrowdedScarletChristy {
+    _hidden_value = true
+  }
+  boolean HilariousCoralHollyanne {
+    _hidden_value = true
+  }
+  json ExtraFuchsiaEloisa {
+    _hidden_value = true
+  }
+  boolean NativePeachLuz {
+    _hidden_value = true
+  }
+  json AcceptedAquaRois {
+    _hidden_value = true
+  }
+  hidden_boolean DigitalCoralPhebe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FormidableEmeraldJojo {
+    _hidden_value = true
+  }
+  ExpectedVioletKarlotta = 189
+  MaleCoralManon = 985
+  IllegalOrangeCarmon = 918
+  CoherentMaroonRea = "Why do birds fly south for the winter? Because it's too far to walk."
+  IndependentBrownLaurice = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ScatteredPinkBuffy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JustLimeKatharine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LoyalBlackLoralee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DullBrownAlyssa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NumerousIndigoPatrizia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PlasticCopperKirsteni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DigitalCoralPhebe"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EmbarrassingRoseLorilee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NativePeachLuz"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

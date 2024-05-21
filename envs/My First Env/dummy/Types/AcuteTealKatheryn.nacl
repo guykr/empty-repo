@@ -1,0 +1,180 @@
+type dummy.AcuteTealKatheryn {
+  annotations {
+    string ProspectiveAmberCaroljean {
+    }
+    json VagueGreenLoria {
+    }
+    serviceid CreepyTomatoErinna {
+    }
+    dummy.SpecificAmberAlicea BewilderedLavenderRhoda {
+    }
+    boolean GorgeousBrownLaurice {
+    }
+    hidden_boolean PremierIndigoElinore {
+    }
+    json OralTomatoBlancha {
+    }
+  }
+  dummy.GayTealFredi UncertainRoseJoye {
+    _hidden_value = true
+  }
+  json GradualPinkJourdan {
+    _hidden_value = true
+  }
+  dummy.SharpCopperFlossy PoliticalSilverNita {
+    ScaredFuchsiaEvangelin = true
+    DevelopedEmeraldBecki = true
+    IntegratedTomatoMin = "Did you know that protons have mass? I didn't even know they were catholic."
+    ZygoticMagentaSilva = 287
+    DigitalIndigoSusan = 899
+    CuddlyLimeYolane = false
+    RollingBronzeAurore = 788
+    NarrowVioletMeg = true
+    IcyCoralGlory = 102
+    PurringPlumKalinda = false
+    CivilianChocolateAnthea = false
+    TrickyChocolateGlory = "Did you know that protons have mass? I didn't even know they were catholic."
+    InadequateBronzeMichel = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PopularJadeCasi = 51
+    YeastyBlackRosella = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SecureIvoryDionis = 270
+    _hidden_value = true
+  }
+  json DeafeningAzureNeila {
+    _hidden_value = true
+  }
+  json SpottyBlushDollie {
+    _hidden_value = true
+  }
+  boolean OralApricotTildy {
+    _hidden_value = true
+  }
+  json RationalApricotHedy {
+    _hidden_value = true
+  }
+  serviceid_number ScatteredSapphireKarlotte {
+    _hidden_value = true
+  }
+  hidden_boolean WellSapphireValeria {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" AsleepBlackJacky {
+    _hidden_value = true
+  }
+  serviceid RunningAquamarineAuria {
+    _hidden_value = true
+  }
+  serviceid_number FancyTurquoiseNell {
+    _hidden_value = true
+  }
+  boolean FinancialPinkLisetta {
+    _hidden_value = true
+  }
+  string ZoophagousBrownSuzette {
+    _hidden_value = true
+  }
+  json FilthyAquaSherrie {
+    _hidden_value = true
+  }
+  json AnnoyedMagentaEsma {
+    _hidden_value = true
+  }
+  hidden_boolean UgliestBronzeDeloria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT OrthodoxCyanCalley {
+    _hidden_value = true
+  }
+  serviceid_number WideChocolateJoli {
+    _hidden_value = true
+  }
+  json ZippyTanMalinda {
+    _hidden_value = true
+  }
+  dummy.VoluminousSilverHermina ApparentYellowKiley {
+    BetterSilverHedda = false
+    AcceptedOrangeStephi = 118
+    HeavyVioletGwennie = 989
+    DarkAquaDorine = "Why do birds fly south for the winter? Because it's too far to walk."
+    NavalSalmonBrittne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EthicalLimeGriselda = true
+    NutritiousIvoryKoressa = true
+    NastyFuchsiaBianca = 866
+    UncertainAmethystImelda = 975
+    ProminentBlackTish = 456
+    AdvancedOrangeGuglielma = 621
+    LoyalIndigoEleonora = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  string TechnologicalBlushGeorgetta {
+    _hidden_value = true
+  }
+  serviceid_number BreezyAmethystTracy {
+    _hidden_value = true
+  }
+  hidden_boolean ProfoundGoldLisbeth {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ProspectiveAmberCaroljean = "Im only familiar with 25 letters in the English language. I dont know why."
+  VagueGreenLoria = "Slept like a log last night  woke up in the fireplace."
+  CreepyTomatoErinna = "Why did the kid cross the playground? To get to the other slide."
+  BewilderedLavenderRhoda = 660
+  GorgeousBrownLaurice = false
+  OralTomatoBlancha = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SpottyBlushDollie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FinancialPinkLisetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WellSapphireValeria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ScatteredSapphireKarlotte"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AsleepBlackJacky"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BreezyAmethystTracy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZoophagousBrownSuzette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProspectiveAmberCaroljean"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CreepyTomatoErinna"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

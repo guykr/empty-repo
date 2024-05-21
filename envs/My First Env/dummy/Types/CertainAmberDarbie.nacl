@@ -1,0 +1,32 @@
+type dummy.CertainAmberDarbie {
+  annotations {
+    number CuteYellowGenvieve {
+    }
+    serviceid EmptyGreenPhaidra {
+    }
+    serviceid RadicalGreenLynnett {
+    }
+    json IndividualBlushJacquetta {
+    }
+    serviceid AppallingJadeMargaret {
+    }
+  }
+  hidden_boolean IntegratedBrownHeloise {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CuteYellowGenvieve = 243
+  EmptyGreenPhaidra = "Did you know that protons have mass? I didn't even know they were catholic."
+  RadicalGreenLynnett = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  IndividualBlushJacquetta = "Why did the tomato blush? Because it saw the salad dressing."
+  AppallingJadeMargaret = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EmptyGreenPhaidra"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

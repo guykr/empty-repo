@@ -1,0 +1,42 @@
+type dummy.TightChocolateMinta is boolean {
+  annotations {
+    boolean EnviousOrangeCherin {
+    }
+    json PeacefulAzureTheresina {
+    }
+    serviceid ScientificIvoryOthilia {
+    }
+    serviceid SpottyYellowAubrey {
+    }
+    number SeriousGrayAndriette {
+    }
+    json InherentOliveRobena {
+    }
+    serviceid CurrentAmethystAngel {
+    }
+    number MissingGoldCinnamon {
+    }
+    boolean SpecificBrownHarriot {
+    }
+    hidden_boolean ClassicalCrimsonWilhelmina {
+    }
+    boolean ColouredEmeraldFelicity {
+    }
+    string SevereAmethystDinnie {
+    }
+    boolean LargeMagentaCymbre {
+    }
+  }
+  EnviousOrangeCherin = true
+  PeacefulAzureTheresina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ScientificIvoryOthilia = "Why was it called the dark ages? Because of all the knights. "
+  SpottyYellowAubrey = "Dad Im hungry  Hi hungry Im dad"
+  SeriousGrayAndriette = 590
+  InherentOliveRobena = "Dad Im hungry  Hi hungry Im dad"
+  CurrentAmethystAngel = "What do you call two barracuda fish?  A Pairacuda!"
+  MissingGoldCinnamon = 187
+  SpecificBrownHarriot = true
+  ColouredEmeraldFelicity = false
+  SevereAmethystDinnie = "Why is Peter Pan always flying? Because he Neverlands."
+  LargeMagentaCymbre = false
+}

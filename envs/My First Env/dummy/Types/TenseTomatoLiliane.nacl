@@ -1,0 +1,126 @@
+type dummy.TenseTomatoLiliane {
+  annotations {
+    boolean NearbyPinkBlondelle {
+    }
+    hidden_boolean WittyAquaGlenine {
+    }
+    hidden_boolean DryJadeMariellen {
+    }
+    dummy.DEFAULT ExtendedEmeraldMyrle {
+    }
+    string PassingBronzeShena {
+    }
+    serviceid CriminalCopperWinnie {
+    }
+  }
+  number InternalAquaConstance {
+    _hidden_value = true
+  }
+  boolean GleamingChocolateArabelle {
+    _hidden_value = true
+  }
+  serviceid_number EnchantingRedLoni {
+    _hidden_value = true
+  }
+  string SexualHarlequinNerta {
+    _hidden_value = true
+  }
+  string LowRoseChelsey {
+    _hidden_value = true
+  }
+  hidden_boolean LevelScarletGermain {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FinePurpleHannis {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulEmeraldZorine {
+    _hidden_value = true
+  }
+  boolean SheerAzureDeb {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicGrayLexie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PregnantAmaranthRhianna {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryTurquoisePattie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WitteringMagentaRoxana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MeaningfulLimeFarrah {
+    _hidden_value = true
+  }
+  boolean LostSalmonCatrina {
+    _hidden_value = true
+  }
+  number ColouredBlueGinnifer {
+    _hidden_value = true
+  }
+  "List<json>" BurningSilverFerdinande {
+    _hidden_value = true
+  }
+  number UsedAmaranthNinnette {
+    _hidden_value = true
+  }
+  boolean ExoticSapphireBrigid {
+    _hidden_value = true
+  }
+  serviceid SuspiciousAquaFreida {
+    _hidden_value = true
+  }
+  number EmotionalGreenCordelia {
+    _hidden_value = true
+  }
+  hidden_boolean EffectiveSilverDre {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  NearbyPinkBlondelle = true
+  ExtendedEmeraldMyrle = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  PassingBronzeShena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CriminalCopperWinnie = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InternalAquaConstance"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PregnantAmaranthRhianna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BurningSilverFerdinande"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EnchantingRedLoni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StatutoryTurquoisePattie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,52 @@
+type dummy.RepresentativeChocolateAntonella {
+  annotations {
+    boolean CrookedMoccasinLucila {
+    }
+    dummy.DEFAULT WidespreadSapphireGolda {
+    }
+    serviceid DryMoccasinJeanne {
+    }
+    boolean ViciousLimeLaney {
+    }
+    serviceid_number CorrespondingGoldDulcinea {
+    }
+  }
+  "List<number>" AccessibleLavenderElva {
+    _hidden_value = true
+  }
+  number FineSapphireFrancine {
+    _hidden_value = true
+  }
+  number WorldwideMaroonDaria {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcuteMaroonTracy {
+    _hidden_value = true
+  }
+  json PrimeTomatoConny {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubjectiveVioletVannie {
+    _hidden_value = true
+  }
+  CrookedMoccasinLucila = false
+  WidespreadSapphireGolda = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  DryMoccasinJeanne = "How come the stadium got hot after the game? Because all of the fans left."
+  ViciousLimeLaney = false
+  CorrespondingGoldDulcinea = 33
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WidespreadSapphireGolda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CrookedMoccasinLucila"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,80 @@
+type dummy.TestyAzureAnastasie {
+  annotations {
+    serviceid_number SmartAmberCarry {
+    }
+    number ActualVioletTiphanie {
+    }
+    number GenuineTanMissie {
+    }
+    json AdvancedTanFrancesca {
+    }
+    boolean WeakScarletShantee {
+    }
+  }
+  json CautiousRoseConstancia {
+    _hidden_value = true
+  }
+  number QuickCoffeeGabriela {
+    _hidden_value = true
+  }
+  json DrunkLimeRevkah {
+    _hidden_value = true
+  }
+  dummy.UsefulRoseIbbie DelightfulYellowFayette {
+    ComingMoccasinUmeko = "How come the stadium got hot after the game? Because all of the fans left."
+    ExuberantBlushKimmy = 473
+    FrontBrownCorrina = 122
+    FancyOliveCorny = "Why was it called the dark ages? Because of all the knights. "
+    CloudyBronzeCasi = false
+    ShyBlackIssie = 97
+    MuddyJadeRosemonde = 492
+    RivalTanLilli = 130
+    RegulatoryLimeElsinore = false
+    ComingEmeraldRow = 360
+    TenseOliveBelva = true
+    SmoothChocolateAretha = 125
+    ConstantAmaranthStephannie = 267
+    _hidden_value = true
+  }
+  dummy.RareScarletEllyn EnvironmentalTomatoOdelinda {
+    DecisiveAzureClemmie = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    HissingAquaBilly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AggregatePinkPauline = 343
+    ReadyCopperMariam = "Why do birds fly south for the winter? Because it's too far to walk."
+    DirectOrangeDorotea = false
+    MightyChocolateElicia = 736
+    ParallelBronzeFlori = false
+    ControlledOrangeAvis = 958
+    FuzzyGreenBinny = 837
+    _hidden_value = true
+  }
+  hidden_boolean DryEmeraldLara {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WidespreadPeachMarylin {
+    _hidden_value = true
+  }
+  string FaintAmethystSibeal {
+    _hidden_value = true
+  }
+  number YellingHarlequinNat {
+    _hidden_value = true
+  }
+  SmartAmberCarry = 243
+  ActualVioletTiphanie = 187
+  GenuineTanMissie = 527
+  AdvancedTanFrancesca = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WeakScarletShantee = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SmartAmberCarry"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

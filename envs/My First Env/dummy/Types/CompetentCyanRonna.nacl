@@ -1,0 +1,91 @@
+type dummy.CompetentCyanRonna {
+  annotations {
+    serviceid_number SilentTomatoSuzie {
+    }
+    json IntenseRoseErtha {
+    }
+    dummy.BlindAmaranthCari NearbyCoffeeDarell {
+    }
+    dummy.RunningPlumCasi HorizontalGraySileas {
+    }
+    hidden_boolean IncreasingAmethystBetteann {
+    }
+  }
+  serviceid CentralSapphireCalypso {
+    _hidden_value = true
+  }
+  serviceid_number AncientRoseDemeter {
+    _hidden_value = true
+  }
+  json SpecialYellowValentia {
+    _hidden_value = true
+  }
+  number SuitableGrayRhody {
+    _hidden_value = true
+  }
+  json RetailFuchsiaKizzee {
+    _hidden_value = true
+  }
+  serviceid_number AngryCyanTobi {
+    _hidden_value = true
+  }
+  json VerbalBrownAnnemarie {
+    _hidden_value = true
+  }
+  boolean DeepYellowMissie {
+    _hidden_value = true
+  }
+  hidden_boolean MedicalOrangeMerrily {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number EmpiricalAquamarineCaro {
+    _hidden_value = true
+  }
+  serviceid_number SplendidLimeJacquette {
+    _hidden_value = true
+  }
+  serviceid ReluctantLavenderPearla {
+    _hidden_value = true
+  }
+  string WorkingPurpleMegan {
+    _hidden_value = true
+  }
+  number CharacteristicOrangeAudrie {
+    _hidden_value = true
+  }
+  serviceid_number FamiliarScarletAmalea {
+    _hidden_value = true
+  }
+  boolean AttractiveIvoryLynnette {
+    _hidden_value = true
+  }
+  number PrimeAmaranthJoete {
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousBlueEdwina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SilentTomatoSuzie = 55
+  IntenseRoseErtha = "Why is Peter Pan always flying? Because he Neverlands."
+  NearbyCoffeeDarell = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HorizontalGraySileas = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WorkingPurpleMegan"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IntenseRoseErtha"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

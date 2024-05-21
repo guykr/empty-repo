@@ -1,0 +1,45 @@
+type dummy.UsualTurquoiseRoxine {
+  annotations {
+    boolean NavalPinkRuthanne {
+    }
+    serviceid_number PlannedTealSybila {
+    }
+    number PureJadeFederica {
+    }
+    boolean DarkApricotGennifer {
+    }
+    string ImpressedLavenderLeland {
+    }
+    hidden_boolean InnovativeRoseMyrta {
+    }
+    serviceid_number HilariousCopperCarlotta {
+    }
+  }
+  dummy.DEFAULT ParallelGoldWillamina {
+    _hidden_value = true
+  }
+  NavalPinkRuthanne = false
+  PlannedTealSybila = 456
+  PureJadeFederica = 198
+  DarkApricotGennifer = false
+  ImpressedLavenderLeland = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HilariousCopperCarlotta = 329
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DarkApricotGennifer"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NavalPinkRuthanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PureJadeFederica"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

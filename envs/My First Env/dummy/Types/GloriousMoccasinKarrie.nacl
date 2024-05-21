@@ -1,0 +1,100 @@
+type dummy.GloriousMoccasinKarrie {
+  annotations {
+    boolean ToughGoldEthelin {
+    }
+    hidden_boolean ImpossibleLavenderWaly {
+    }
+    string RelievedBlushErica {
+    }
+    json ExtendedGoldAnnadiana {
+    }
+    hidden_boolean NavalTanBeryle {
+    }
+  }
+  serviceid_number WorldwideTomatoWinna {
+    _hidden_value = true
+  }
+  serviceid_number UnchangedLavenderCandra {
+    _hidden_value = true
+  }
+  string ConfusedSapphireRoselle {
+    _hidden_value = true
+  }
+  serviceid_number EasternOliveZulema {
+    _hidden_value = true
+  }
+  boolean EvilAmaranthSibylle {
+    _hidden_value = true
+  }
+  hidden_boolean ShrillAzureLib {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LovelyScarletGwendolyn {
+    _hidden_value = true
+  }
+  json StormyPlumHarriott {
+    _hidden_value = true
+  }
+  "List<json>" InclinedCoffeeLarisa {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialAzureCourtenay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn SpareBlackEssy {
+    FlutteringVioletNinnette = 364
+    ScreechingRoseDorise = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RunningLimeJillie = "Why didnt the skeleton cross the road? Because he had no guts."
+    QuietTurquoiseKristine = "I'll tell you what often gets over looked... garden fences."
+    SharpMaroonStesha = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    AlternativeAmaranthEileen = 389
+    RudeRoseJillie = "I'll tell you what often gets over looked... garden fences."
+    ProperApricotFarrah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MelodicBronzeEda = 66
+    _hidden_value = true
+  }
+  number MobileScarletMaisie {
+    _hidden_value = true
+  }
+  number ColossalBeigeAngelique {
+    _hidden_value = true
+  }
+  serviceid RelativeTomatoCalla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShiveringLavenderLane {
+    _hidden_value = true
+  }
+  serviceid TheoreticalMagentaJena {
+    _hidden_value = true
+  }
+  string HighVioletLorie {
+    _hidden_value = true
+  }
+  boolean IntelligentRedGavra {
+    _hidden_value = true
+  }
+  boolean ParliamentaryAmaranthDella {
+    _hidden_value = true
+  }
+  serviceid FranticLavenderMozelle {
+    _hidden_value = true
+  }
+  ToughGoldEthelin = false
+  RelievedBlushErica = "Dad Im hungry  Hi hungry Im dad"
+  ExtendedGoldAnnadiana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShiveringLavenderLane"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

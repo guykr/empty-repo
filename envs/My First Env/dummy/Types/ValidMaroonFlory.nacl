@@ -1,0 +1,13 @@
+type dummy.ValidMaroonFlory is number {
+  annotations {
+    serviceid_number HistoricRedArlyne {
+    }
+    serviceid_number SelectedAzurePetronia {
+    }
+    number WispyJadeAline {
+    }
+  }
+  HistoricRedArlyne = 861
+  SelectedAzurePetronia = 693
+  WispyJadeAline = 179
+}

@@ -1,0 +1,71 @@
+type dummy.YellingFuchsiaSandy {
+  serviceid ElderlyOliveVinny {
+  }
+  json ShrillTealQuintana {
+  }
+  boolean ConceptualTomatoMirabelle {
+  }
+  boolean HuskyTurquoiseCrista {
+  }
+  dummy.BrilliantAmethystShannah MadVioletCamila {
+    ConcernedApricotMariel = "Did you know that protons have mass? I didn't even know they were catholic."
+    CharacteristicSapphireMichele = true
+    ScatteredGreenFrankie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DigitalCrimsonRosella = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  number DiplomaticOrangeLuce {
+  }
+  json PassingAmaranthDebee {
+  }
+  hidden_boolean NuttySapphireRhea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AppallingAmberPammi {
+  }
+  boolean DiplomaticLimeWendi {
+  }
+  string CalmYellowYoko {
+  }
+  boolean YodellingTealPetunia {
+  }
+  string AdverseCyanCecil {
+  }
+  hidden_boolean MixedAmaranthMarquita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SuspiciousTomatoMorgana {
+  }
+  string RelativeAquamarineRoxana {
+  }
+  hidden_boolean SymbolicVioletGale {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json NovelSilverMarleen {
+  }
+  boolean JuniorGoldVivie {
+  }
+  "List<boolean>" FlutteringIndigoAmie {
+  }
+  hidden_boolean RelievedGreenAmeline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RegionalVioletDawn {
+  }
+  serviceid_number FortunateGoldFrankie {
+  }
+  hidden_boolean HandicappedBlueBonita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SpareAzureJoane {
+  }
+}

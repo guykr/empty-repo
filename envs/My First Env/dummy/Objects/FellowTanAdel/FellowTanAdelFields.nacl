@@ -1,0 +1,27 @@
+type dummy.FellowTanAdel {
+  hidden_boolean SuspiciousPeachLuelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CooingTanOrelee {
+  }
+  hidden_boolean AdequateYellowAleece {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn DepressedAmethystLinnie {
+    FlutteringVioletNinnette = 37
+    ScreechingRoseDorise = "Did you know that protons have mass? I didn't even know they were catholic."
+    RunningLimeJillie = "What creature is smarter than a talking parrot? A spelling bee."
+    QuietTurquoiseKristine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SharpMaroonStesha = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    AlternativeAmaranthEileen = 1
+    RudeRoseJillie = "Im only familiar with 25 letters in the English language. I dont know why."
+    ProperApricotFarrah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MelodicBronzeEda = 603
+  }
+}

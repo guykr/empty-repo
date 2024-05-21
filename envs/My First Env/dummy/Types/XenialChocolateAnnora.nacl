@@ -1,0 +1,36 @@
+type dummy.XenialChocolateAnnora {
+  annotations {
+    serviceid_number CrudePinkThekla {
+    }
+    string WorryingBlueSilvia {
+    }
+    json OpenTealKaye {
+    }
+    hidden_boolean IntegralCopperCosetta {
+    }
+    json PaleTealBobbie {
+    }
+    hidden_boolean UnevenLimeNikoletta {
+    }
+  }
+  number EconomicAmberMadella {
+    _hidden_value = true
+  }
+  CrudePinkThekla = 372
+  WorryingBlueSilvia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OpenTealKaye = "Why did the tomato blush? Because it saw the salad dressing."
+  PaleTealBobbie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IntegralCopperCosetta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PaleTealBobbie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

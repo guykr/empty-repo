@@ -1,0 +1,30 @@
+type dummy.DeliberatePeachBambie {
+  annotations {
+    boolean DisabledYellowLethia {
+    }
+    string OriginalEmeraldSelinda {
+    }
+    boolean LexicalGrayUta {
+    }
+    json ClearIndigoPriscella {
+    }
+    boolean UnderlyingAmethystChelsae {
+    }
+  }
+  serviceid ThoughtlessIvoryLindsy {
+    _hidden_value = true
+  }
+  DisabledYellowLethia = false
+  OriginalEmeraldSelinda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LexicalGrayUta = true
+  ClearIndigoPriscella = "A steak pun is a rare medium well done."
+  UnderlyingAmethystChelsae = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LexicalGrayUta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

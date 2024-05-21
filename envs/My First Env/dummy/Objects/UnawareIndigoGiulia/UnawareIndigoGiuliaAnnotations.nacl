@@ -1,0 +1,77 @@
+type dummy.UnawareIndigoGiulia {
+  annotations {
+    json MarineBronzeIlyssa {
+    }
+    dummy.ProgressiveAmethystCeil IntellectualPinkBrinn {
+    }
+    number UrbanBlushLisetta {
+    }
+    serviceid DualLimeKorie {
+    }
+    dummy.IsolatedCrimsonWaly IdealOliveMiran {
+    }
+    serviceid InteriorCoffeeJacquelyn {
+    }
+    serviceid SwiftTurquoiseAileen {
+    }
+    json ApparentAzureJessalin {
+    }
+    number PunyCopperEvy {
+    }
+    number FreeBlackTrenna {
+    }
+    json ImpressiveIvoryAlena {
+    }
+    boolean VoluntaryLimeModesta {
+    }
+    boolean CompulsoryPurpleAllys {
+    }
+    string SoftSilverGui {
+    }
+    hidden_boolean CharacteristicPinkKerrin {
+    }
+    dummy.VerticalHarlequinCelka MusicalCoralLesley {
+    }
+    serviceid_number InadequateLavenderThekla {
+    }
+    boolean RaspyMaroonMarni {
+    }
+    string PrimeAquaDeidre {
+    }
+    boolean CrookedRedMyrtice {
+    }
+    hidden_boolean UninterestedIvoryZita {
+    }
+    dummy.BlindCyanMarita ConsistentAmethystAmargo {
+    }
+  }
+  MarineBronzeIlyssa = "How come the stadium got hot after the game? Because all of the fans left."
+  UrbanBlushLisetta = 602
+  DualLimeKorie = '''
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+What creature is smarter than a talking parrot? A spelling bee.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+'''
+  InteriorCoffeeJacquelyn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SwiftTurquoiseAileen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ApparentAzureJessalin = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PunyCopperEvy = 147
+  FreeBlackTrenna = 222
+  ImpressiveIvoryAlena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  VoluntaryLimeModesta = false
+  CompulsoryPurpleAllys = false
+  SoftSilverGui = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MusicalCoralLesley = true
+  InadequateLavenderThekla = 579
+  RaspyMaroonMarni = true
+  PrimeAquaDeidre = "What creature is smarter than a talking parrot? A spelling bee."
+  CrookedRedMyrtice = false
+  _self_important_values = [
+    {
+      value = "RaspyMaroonMarni"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "UnawareIndigoGiulia_alias"
+}

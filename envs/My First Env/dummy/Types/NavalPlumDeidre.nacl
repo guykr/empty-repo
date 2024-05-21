@@ -1,0 +1,99 @@
+type dummy.NavalPlumDeidre {
+  annotations {
+    dummy.DEFAULT ConvincingBrownKaty {
+    }
+    dummy.FoolishJadeSharon SunnyEmeraldKatharyn {
+    }
+    dummy.BewilderedPurpleAlie XenogeneicMagentaTerrie {
+    }
+    string CurrentPurpleEdiva {
+    }
+    serviceid UnsightlyBlushCelisse {
+    }
+  }
+  string ComparativeIvoryPat {
+    _hidden_value = true
+  }
+  serviceid SpatialFuchsiaAmy {
+    _hidden_value = true
+  }
+  number ScaryGrayJennilee {
+    _hidden_value = true
+  }
+  boolean UnacceptableTanJaquenetta {
+    _hidden_value = true
+  }
+  string ImpressiveBrownHarlene {
+    _hidden_value = true
+  }
+  serviceid_number EqualChocolateMelli {
+    _hidden_value = true
+  }
+  dummy.ImportantMaroonJeane BoringVioletKynthia {
+    LazyCyanAime = "Why did the kid cross the playground? To get to the other slide."
+    FatalGrayWilli = "Slept like a log last night  woke up in the fireplace."
+    JudicialBeigeMilicent = "Whoever invented the knock-knock joke should get a no bell prize."
+    IntellectualSilverLibbey = true
+    YappiestCopperNerissa = 144
+    GradualBronzeNinon = 734
+    FamiliarBrownEnid = 737
+    HorizontalTurquoiseLynde = "To be Frank, I'd have to change my name."
+    JoyousChocolateSalomi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RealTomatoMarilee = "I'll tell you what often gets over looked... garden fences."
+    AnxiousRoseTommi = false
+    _hidden_value = true
+  }
+  hidden_boolean AwakeIndigoDorice {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WanderingGrayMarsiella {
+    _hidden_value = true
+  }
+  serviceid ContinuousTanJudith {
+    _hidden_value = true
+  }
+  dummy.FilthyPlumKristine ProfitableCyanAsia {
+    VocationalYellowJori = 595
+    ImpressedPurpleJennette = "How come the stadium got hot after the game? Because all of the fans left."
+    StrangeTomatoKelsy = 919
+    UnwillingWhiteValma = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ApplicableApricotFlor = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OnlyBlueKatha = "Did you know that protons have mass? I didn't even know they were catholic."
+    PregnantLavenderFrederica = "Why did the kid cross the playground? To get to the other slide."
+    SwiftAzureSandi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MadMagentaKarrah = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    BusyPeachMelissa = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  serviceid MaximumSapphireMagdaia {
+    _hidden_value = true
+  }
+  number PreciousCoffeeLacey {
+    _hidden_value = true
+  }
+  boolean WeeklySalmonDanice {
+    _hidden_value = true
+  }
+  string ConsistentBronzeSharl {
+    _hidden_value = true
+  }
+  ConvincingBrownKaty = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  SunnyEmeraldKatharyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  XenogeneicMagentaTerrie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CurrentPurpleEdiva = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UnsightlyBlushCelisse = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SpatialFuchsiaAmy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

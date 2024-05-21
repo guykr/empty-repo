@@ -1,0 +1,24 @@
+type dummy.CuteCrimsonRoze {
+  annotations {
+    hidden_boolean AppropriateGrayVikki {
+    }
+    hidden_boolean EducationalGreenJayne {
+    }
+  }
+  serviceid DecentAquamarineDebra {
+    _hidden_value = true
+  }
+  boolean ShortBlushMillicent {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExcitingSapphireHelene {
+    _hidden_value = true
+  }
+  boolean SoftBlackGlenda {
+    _hidden_value = true
+  }
+  json YabberingIndigoAngel {
+    _hidden_value = true
+  }
+  _hidden_value = true
+}

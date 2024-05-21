@@ -1,0 +1,82 @@
+type dummy.NotableTomatoGillie {
+  annotations {
+    dummy.EmbarrassedFuchsiaIormina TremendousYellowRahal {
+    }
+    dummy.ProspectiveTomatoReggi MerePinkDulcia {
+    }
+    hidden_boolean SuccessiveMaroonConnie {
+    }
+    serviceid_number ChangingMaroonBlakeley {
+    }
+    serviceid WelcomeHarlequinSheeree {
+    }
+    serviceid_number PetiteIvoryRoxanna {
+    }
+    json JustScarletJuliane {
+    }
+    boolean SubjectiveGrayAlvera {
+    }
+    serviceid SymbolicBeigeStacy {
+    }
+    serviceid_number ConceptualPlumJannelle {
+    }
+    hidden_boolean UrgentPlumCarlyn {
+    }
+    hidden_boolean JitteryJadeKrissy {
+    }
+    dummy.RunningPlumCasi PerfectJadeTisha {
+    }
+    serviceid_number InlandEmeraldKaralynn {
+    }
+    hidden_boolean PersistentCoffeeMillisent {
+    }
+    string ShockedMaroonLynnette {
+    }
+    dummy.OutsideIvoryAshely CrookedYellowJoanna {
+    }
+    serviceid_number DeterminedPeachAnnmarie {
+    }
+    boolean YoungScarletCarline {
+    }
+    json ChristianVioletBrigida {
+    }
+    serviceid_number GrowingIndigoCarlynn {
+    }
+    serviceid_number UselessPlumDulcea {
+    }
+  }
+  ChangingMaroonBlakeley = 16
+  WelcomeHarlequinSheeree = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PetiteIvoryRoxanna = 496
+  JustScarletJuliane = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SubjectiveGrayAlvera = true
+  SymbolicBeigeStacy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConceptualPlumJannelle = 772
+  PerfectJadeTisha = false
+  InlandEmeraldKaralynn = 749
+  ShockedMaroonLynnette = "To be Frank, I'd have to change my name."
+  CrookedYellowJoanna = false
+  DeterminedPeachAnnmarie = 413
+  YoungScarletCarline = true
+  ChristianVioletBrigida = "To be Frank, I'd have to change my name."
+  GrowingIndigoCarlynn = 665
+  UselessPlumDulcea = 169
+  _self_important_values = [
+    {
+      value = "SubjectiveGrayAlvera"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShockedMaroonLynnette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MerePinkDulcia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "NotableTomatoGillie_alias"
+}

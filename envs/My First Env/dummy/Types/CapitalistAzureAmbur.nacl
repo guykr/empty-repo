@@ -1,0 +1,40 @@
+type dummy.CapitalistAzureAmbur {
+  annotations {
+    number ForthcomingFuchsiaSydelle {
+    }
+    json RottenBlushPennie {
+    }
+    number InitialHarlequinAdela {
+    }
+    serviceid_number CompactYellowBarrie {
+    }
+    boolean TenderApricotKirby {
+    }
+  }
+  string DistinctiveTurquoiseAshley {
+    _hidden_value = true
+  }
+  string ProminentTomatoCarmen {
+    _hidden_value = true
+  }
+  hidden_boolean QuixoticCrimsonJoanie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ReligiousLavenderFawnia {
+    _hidden_value = true
+  }
+  boolean RevolutionaryBlushTate {
+    _hidden_value = true
+  }
+  string YammeringFuchsiaElicia {
+    _hidden_value = true
+  }
+  ForthcomingFuchsiaSydelle = 416
+  RottenBlushPennie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InitialHarlequinAdela = 827
+  CompactYellowBarrie = 901
+  TenderApricotKirby = false
+  _hidden_value = true
+}

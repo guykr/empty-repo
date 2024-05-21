@@ -1,0 +1,83 @@
+type dummy.SupremeFuchsiaBethanne {
+  annotations {
+    serviceid IntegralVioletEricha {
+    }
+    serviceid_number StormyBeigeStepha {
+    }
+    hidden_boolean SimilarBlueJenni {
+    }
+    json DyingVioletDrucill {
+    }
+    serviceid MedicalTurquoiseThomasa {
+    }
+    serviceid ProposedMoccasinEsmaria {
+    }
+  }
+  boolean BiologicalOrangeMavis {
+    _hidden_value = true
+  }
+  json PreciousTomatoJaquith {
+    _hidden_value = true
+  }
+  json PermanentAmaranthGaylene {
+    _hidden_value = true
+  }
+  hidden_boolean TremendousIndigoNicolle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InitialCyanLuciana {
+    _hidden_value = true
+  }
+  boolean ProbableRoseNessa {
+    _hidden_value = true
+  }
+  boolean HurtIvoryZenia {
+    _hidden_value = true
+  }
+  hidden_boolean NationalMagentaBlanca {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GeographicalCoffeeBevvy {
+    _hidden_value = true
+  }
+  "List<serviceid>" NavalCoralFlor {
+    _hidden_value = true
+  }
+  serviceid RareAmberViv {
+    _hidden_value = true
+  }
+  string CriminalTanCassandre {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeMagentaElyssa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json GreasyAmethystVickie {
+    _hidden_value = true
+  }
+  serviceid_number ThinGreenSena {
+    _hidden_value = true
+  }
+  number JuniorRedGwenette {
+    _hidden_value = true
+  }
+  IntegralVioletEricha = "What do you call two barracuda fish?  A Pairacuda!"
+  StormyBeigeStepha = 164
+  DyingVioletDrucill = "Slept like a log last night  woke up in the fireplace."
+  MedicalTurquoiseThomasa = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProposedMoccasinEsmaria = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TremendousIndigoNicolle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

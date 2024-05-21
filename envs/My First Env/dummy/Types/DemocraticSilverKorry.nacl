@@ -1,0 +1,113 @@
+type dummy.DemocraticSilverKorry {
+  annotations {
+    serviceid_number ProminentPeachKirstin {
+    }
+    serviceid_number IsolatedApricotAnnnora {
+    }
+    hidden_boolean ToxicApricotVeronika {
+    }
+    serviceid_number IntermediateSalmonAgathe {
+    }
+    serviceid_number WesternHarlequinRaquela {
+    }
+    boolean InfluentialSilverMildrid {
+    }
+  }
+  serviceid MarineIvoryNorene {
+    _hidden_value = true
+  }
+  number MarkedHarlequinLoella {
+    _hidden_value = true
+  }
+  number CoherentOliveWinifred {
+    _hidden_value = true
+  }
+  number YellingMaroonDasya {
+    _hidden_value = true
+  }
+  hidden_boolean LegislativeMoccasinKippy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SpiritualIndigoSteffie {
+    _hidden_value = true
+  }
+  serviceid ParliamentarySilverDyna {
+    _hidden_value = true
+  }
+  json NearbyGoldKarla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ZonalCyanSonny {
+    _hidden_value = true
+  }
+  serviceid_number AggressiveGoldClaudette {
+    _hidden_value = true
+  }
+  string IntimateCoffeeCinnamon {
+    _hidden_value = true
+  }
+  hidden_boolean QuietFuchsiaFaustine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DeterminedCopperMarys {
+    _hidden_value = true
+  }
+  serviceid ResidentialWhiteMichaelina {
+    _hidden_value = true
+  }
+  json GorgeousEmeraldFawne {
+    _hidden_value = true
+  }
+  serviceid DoubleEmeraldLaurene {
+    _hidden_value = true
+  }
+  ProminentPeachKirstin = 180
+  IsolatedApricotAnnnora = 838
+  IntermediateSalmonAgathe = 250
+  WesternHarlequinRaquela = 177
+  InfluentialSilverMildrid = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CoherentOliveWinifred"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YellingMaroonDasya"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpiritualIndigoSteffie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AggressiveGoldClaudette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IsolatedApricotAnnnora"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntermediateSalmonAgathe"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InfluentialSilverMildrid"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

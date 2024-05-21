@@ -1,0 +1,153 @@
+type dummy.SatisfactoryBlueSandye {
+  annotations {
+    serviceid RoastedSalmonAshla {
+    }
+    string DigitalGrayIleane {
+    }
+    json NaughtyAzureZorana {
+    }
+    serviceid ExternalSapphireCallida {
+    }
+    serviceid_number QuixoticChocolateLouisa {
+    }
+  }
+  dummy.UniqueCoralTiffie StaleGoldJamima {
+    RealisticEmeraldAurlie = "Why did the tomato blush? Because it saw the salad dressing."
+    NetJadeCarolina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SoundTanKayle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ThirstyScarletFran = 859
+    CommunistIndigoAnjanette = "What did one nut say as he chased another nut?  I'm a cashew!"
+    InterestingAmberOdilia = false
+    PlannedRedRosalie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DesirableLavenderMaryjo = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SupremeGrayIlka = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ToughMagentaMaggee = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ArtificialCoffeeKori = true
+    OutdoorGoldKassey = 581
+    HotGreenCatriona = true
+    SystematicMagentaJacynth = "Did you know that protons have mass? I didn't even know they were catholic."
+    DisabledChocolateShandy = false
+    UnsightlyTurquoiseRuthi = "Why do birds fly south for the winter? Because it's too far to walk."
+    MarkedLimeKellyann = 77
+    ShinySilverFey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  number EstablishedRedBibi {
+    _hidden_value = true
+  }
+  boolean FilthyRoseMariquilla {
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn GivenCrimsonEssa {
+    FlutteringVioletNinnette = 696
+    ScreechingRoseDorise = "What creature is smarter than a talking parrot? A spelling bee."
+    RunningLimeJillie = "What do you call two barracuda fish?  A Pairacuda!"
+    QuietTurquoiseKristine = "Whoever invented the knock-knock joke should get a no bell prize."
+    SharpMaroonStesha = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    AlternativeAmaranthEileen = 571
+    RudeRoseJillie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ProperApricotFarrah = "Why do birds fly south for the winter? Because it's too far to walk."
+    MelodicBronzeEda = 528
+    _hidden_value = true
+  }
+  serviceid ProfoundTealCarry {
+    _hidden_value = true
+  }
+  string OrthodoxPurpleAllyce {
+    _hidden_value = true
+  }
+  json ProfoundFuchsiaHonoria {
+    _hidden_value = true
+  }
+  dummy.ForwardBlackNata GoodPeachCecile {
+    UpsetWhiteMeta = 298
+    SharedSilverAnnalee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    OverwhelmingAmaranthMitzi = "Why was it called the dark ages? Because of all the knights. "
+    FragileTomatoDebbi = 21
+    IrrelevantRedLynnell = 911
+    CorporateBeigeTatiania = "A steak pun is a rare medium well done."
+    ZerothAzureEsther = 450
+    DevotedSapphireRosabelle = false
+    RainyLimeLoralie = 971
+    HardPeachJacqueline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  json YappiestCrimsonBerta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FollowingAmethystBettye {
+    _hidden_value = true
+  }
+  number OkBeigeSigrid {
+    _hidden_value = true
+  }
+  hidden_boolean WellOliveBert {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DustyAzureColeen {
+    _hidden_value = true
+  }
+  string FranticPeachDottie {
+    _hidden_value = true
+  }
+  dummy.HostileAmethystAlta StripedOrangeDulci {
+    ObligedHarlequinEmmie = false
+    DifferentMagentaOphelie = 307
+    RidiculousRoseGretchen = false
+    _hidden_value = true
+  }
+  string DrivingTomatoHillary {
+    _hidden_value = true
+  }
+  string HonMoccasinZenia {
+    _hidden_value = true
+  }
+  number LiquidBlushMaribelle {
+    _hidden_value = true
+  }
+  number ManagerialIvoryDelores {
+    _hidden_value = true
+  }
+  serviceid_number CompetentIndigoFeliza {
+    _hidden_value = true
+  }
+  "List<json>" UnlikelyBeigeSusannah {
+    _hidden_value = true
+  }
+  string MolecularBlackModestine {
+    _hidden_value = true
+  }
+  string SteadyLimeMariette {
+    _hidden_value = true
+  }
+  serviceid_number GayOliveClaude {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnnecessaryTurquoiseCathy {
+    _hidden_value = true
+  }
+  RoastedSalmonAshla = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DigitalGrayIleane = "Why was it called the dark ages? Because of all the knights. "
+  NaughtyAzureZorana = "What creature is smarter than a talking parrot? A spelling bee."
+  ExternalSapphireCallida = "A steak pun is a rare medium well done."
+  QuixoticChocolateLouisa = 53
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YappiestCrimsonBerta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StaleGoldJamima"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

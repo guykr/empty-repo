@@ -1,0 +1,107 @@
+type dummy.ObviousCrimsonAurel {
+  annotations {
+    boolean FellowOrangeGodiva {
+    }
+    json YuckyGrayWillyt {
+    }
+    serviceid UptightSapphireDacy {
+    }
+    number ScrawnyCopperGladys {
+    }
+    number VoicelessApricotCaitrin {
+    }
+    serviceid AbstractGreenJanith {
+    }
+    hidden_boolean TemporaryBrownGianina {
+    }
+  }
+  hidden_boolean OverwhelmingGoldMarnia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindSapphireGerty {
+    _hidden_value = true
+  }
+  json PhysicalPeachSean {
+    _hidden_value = true
+  }
+  serviceid_number IrrelevantTanAgnesse {
+    _hidden_value = true
+  }
+  json BigMoccasinGiulietta {
+    _hidden_value = true
+  }
+  boolean GentleTomatoDora {
+    _hidden_value = true
+  }
+  serviceid ContinuingCoffeePamella {
+    _hidden_value = true
+  }
+  json UnconsciousMoccasinAdena {
+    _hidden_value = true
+  }
+  serviceid SatisfiedOliveCathrine {
+    _hidden_value = true
+  }
+  hidden_boolean WorkingIndigoGael {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ThickLavenderMaighdiln {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LowAquamarineMarianne {
+    _hidden_value = true
+  }
+  number PeacefulMaroonKaylee {
+    _hidden_value = true
+  }
+  boolean EerieGoldJewel {
+    _hidden_value = true
+  }
+  json PersonalGoldWilie {
+    _hidden_value = true
+  }
+  json ProspectiveIndigoKendra {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" DefeatedVioletLeonora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ImmenseCyanDemetris {
+    _hidden_value = true
+  }
+  FellowOrangeGodiva = false
+  YuckyGrayWillyt = "Im only familiar with 25 letters in the English language. I dont know why."
+  UptightSapphireDacy = "What creature is smarter than a talking parrot? A spelling bee."
+  ScrawnyCopperGladys = 164
+  VoicelessApricotCaitrin = 731
+  AbstractGreenJanith = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SatisfiedOliveCathrine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThickLavenderMaighdiln"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BlindSapphireGerty"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BigMoccasinGiulietta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,18 @@
+type dummy.ActiveCoffeeMerl {
+  hidden_boolean DefinitePlumCherie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PeacefulOliveMellisa {
+  }
+  hidden_boolean YoungCyanCatlaina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DeafSalmonBriny {
+  }
+  boolean PrincipalVioletCarmencita {
+  }
+}

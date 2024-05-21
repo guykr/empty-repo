@@ -1,0 +1,80 @@
+type dummy.GloriousCopperAnet {
+  annotations {
+    serviceid_number QuietLavenderFreddy {
+    }
+    serviceid VisualBrownPenelope {
+    }
+    serviceid_number RollingSalmonFelita {
+    }
+    serviceid SouthernMaroonOdele {
+    }
+    number AlrightMoccasinGenni {
+    }
+    serviceid SurprisingAquamarineFrancisca {
+    }
+    number ResidentialCopperVerna {
+    }
+  }
+  number CompulsoryCoralJoye {
+    _hidden_value = true
+  }
+  serviceid LivingBrownKalli {
+    _hidden_value = true
+  }
+  json CloseChocolateMelantha {
+    _hidden_value = true
+  }
+  json RealBeigeBrittne {
+    _hidden_value = true
+  }
+  number SatisfactoryJadeRenata {
+    _hidden_value = true
+  }
+  "List<string>" ConsiderableLimeLacy {
+    _hidden_value = true
+  }
+  boolean IntactRoseEsmeralda {
+    _hidden_value = true
+  }
+  hidden_boolean FantasticBlueRickie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number OutsideBlackCandide {
+    _hidden_value = true
+  }
+  "List<string>" StillCoffeeShane {
+    _hidden_value = true
+  }
+  number RadicalBlackBea {
+    _hidden_value = true
+  }
+  QuietLavenderFreddy = 907
+  VisualBrownPenelope = "What do you call two barracuda fish?  A Pairacuda!"
+  RollingSalmonFelita = 448
+  SouthernMaroonOdele = "Why did the kid cross the playground? To get to the other slide."
+  AlrightMoccasinGenni = 183
+  SurprisingAquamarineFrancisca = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResidentialCopperVerna = 531
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RadicalBlackBea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CompulsoryCoralJoye"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ResidentialCopperVerna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,23 @@
+type dummy.MassiveOliveCelle {
+  annotations {
+    number ChosenCoralKathrine {
+    }
+    boolean JuniorAquaInessa {
+    }
+    number UnconsciousIndigoLoreen {
+    }
+    string ReducedSalmonSelma {
+    }
+    boolean GeneticAquamarineJeniece {
+    }
+  }
+  json MarvellousOrangeFarrah {
+    _hidden_value = true
+  }
+  ChosenCoralKathrine = 556
+  JuniorAquaInessa = true
+  UnconsciousIndigoLoreen = 354
+  ReducedSalmonSelma = "Im only familiar with 25 letters in the English language. I dont know why."
+  GeneticAquamarineJeniece = true
+  _hidden_value = true
+}

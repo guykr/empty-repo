@@ -1,0 +1,28 @@
+type dummy.NewTealKathy {
+  annotations {
+    dummy.RedundantBrownFanni FierceChocolateLeda {
+    }
+    string ChillyIndigoNita {
+    }
+    dummy.DEFAULT FormalAmaranthBarbie {
+    }
+    number PrincipalIndigoErma {
+    }
+    serviceid DistinctWhiteDarcie {
+    }
+    serviceid OpenGreenIna {
+    }
+  }
+  string MolecularPurpleCarey {
+    _hidden_value = true
+  }
+  FierceChocolateLeda = true
+  ChillyIndigoNita = "Why was it called the dark ages? Because of all the knights. "
+  FormalAmaranthBarbie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PrincipalIndigoErma = 249
+  DistinctWhiteDarcie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OpenGreenIna = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,28 @@
+type dummy.EmbarrassedFuchsiaIormina {
+  annotations {
+    serviceid_number JuicyChocolateHarmony {
+    }
+    hidden_boolean SurvivingTurquoisePauline {
+    }
+    dummy.DEFAULT EnergeticBlueGwen {
+    }
+    string FlatYellowAlisun {
+    }
+  }
+  boolean RidiculousLavenderRicki {
+    _hidden_value = true
+  }
+  JuicyChocolateHarmony = 169
+  EnergeticBlueGwen = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  FlatYellowAlisun = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SurvivingTurquoisePauline"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,135 @@
+type dummy.NativeIndigoCathrin {
+  annotations {
+    serviceid_number BreezyEmeraldHilde {
+    }
+    string IntegratedCopperAustin {
+    }
+    dummy.HostileAmethystAlta BareJadeYnes {
+    }
+    number FierceJadeDonella {
+    }
+    json IntermediateBlushCarolee {
+    }
+    serviceid NastyAmethystBendite {
+    }
+  }
+  dummy.DEFAULT AnxiousSapphireTerza {
+    _hidden_value = true
+  }
+  hidden_boolean StrictAzureLorette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SeparatePeachDarrelle {
+    _hidden_value = true
+  }
+  string AgriculturalVioletWallie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UpsetBrownFlorri {
+    _hidden_value = true
+  }
+  serviceid_number IllegalBlueJanaya {
+    _hidden_value = true
+  }
+  hidden_boolean ShortYellowMurielle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json VocationalGoldDasha {
+    _hidden_value = true
+  }
+  serviceid_number HeadAzureViola {
+    _hidden_value = true
+  }
+  hidden_boolean FuriousApricotKaril {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SupportingBlackCaritta {
+    _hidden_value = true
+  }
+  hidden_boolean InherentSalmonErmengarde {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExtraAmaranthJoy {
+    _hidden_value = true
+  }
+  string EstimatedSapphireCalla {
+    _hidden_value = true
+  }
+  serviceid_number JuicyAquamarineNora {
+    _hidden_value = true
+  }
+  number AwareSalmonErmina {
+    _hidden_value = true
+  }
+  serviceid SlightLavenderHattie {
+    _hidden_value = true
+  }
+  string SmilingEmeraldMavis {
+    _hidden_value = true
+  }
+  number PuzzledIvoryNicki {
+    _hidden_value = true
+  }
+  hidden_boolean WiseWhiteShaun {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ResidentRedBelva {
+    _hidden_value = true
+  }
+  BreezyEmeraldHilde = 618
+  IntegratedCopperAustin = "Slept like a log last night  woke up in the fireplace."
+  BareJadeYnes = true
+  FierceJadeDonella = 467
+  IntermediateBlushCarolee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NastyAmethystBendite = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SmilingEmeraldMavis"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SupportingBlackCaritta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InherentSalmonErmengarde"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShortYellowMurielle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VocationalGoldDasha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JuicyAquamarineNora"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NastyAmethystBendite"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,79 @@
+type dummy.QualifiedTomatoBrett {
+  annotations {
+    hidden_boolean CheerfulRoseCaron {
+    }
+    hidden_boolean UnawareBeigeEolanda {
+    }
+    boolean LikelyAmberMinnnie {
+    }
+  }
+  string SovietTomatoSimonne {
+    _hidden_value = true
+  }
+  dummy.RevolutionaryWhiteHannah SelectedPinkRosette {
+    WickedCyanMaureene = false
+    ElectoralSapphireDevonne = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UncomfortableMaroonMeara = false
+    EmptyCoralDynah = 962
+    FreshAquamarineOrsa = true
+    CasualGreenDaniella = 637
+    FranticIvoryWinnifred = 215
+    NeighbouringAmaranthJacquelin = 77
+    RemoteBeigeCandi = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean TremendousMagentaMag {
+    _hidden_value = true
+  }
+  boolean UnevenIvoryLexis {
+    _hidden_value = true
+  }
+  serviceid EventualMagentaKissee {
+    _hidden_value = true
+  }
+  string ElectronicAmethystPamelina {
+    _hidden_value = true
+  }
+  "Map<number>" PunyCoralCandie {
+    _hidden_value = true
+  }
+  boolean FierceLavenderDeni {
+    _hidden_value = true
+  }
+  number CompetitiveOrangeCaril {
+    _hidden_value = true
+  }
+  hidden_boolean FunnyAquamarineGertruda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnitedTealDi {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulMoccasinCaroljean {
+    _hidden_value = true
+  }
+  number GentleBronzeTiffani {
+    _hidden_value = true
+  }
+  LikelyAmberMinnnie = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PunyCoralCandie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GentleBronzeTiffani"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TremendousMagentaMag"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,106 @@
+type dummy.GayWhiteLaural {
+  annotations {
+    serviceid FutureLavenderEvangelia {
+    }
+    json RoundAmberLora {
+    }
+    json MinorAmberAlvinia {
+    }
+    number PremierIvoryLiza {
+    }
+    boolean DefensiveSapphireDehlia {
+    }
+  }
+  hidden_boolean UselessFuchsiaLiza {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn FatPinkClaude {
+    FlutteringVioletNinnette = 657
+    ScreechingRoseDorise = "What creature is smarter than a talking parrot? A spelling bee."
+    RunningLimeJillie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    QuietTurquoiseKristine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SharpMaroonStesha = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    AlternativeAmaranthEileen = 90
+    RudeRoseJillie = "Why was it called the dark ages? Because of all the knights. "
+    ProperApricotFarrah = "What do you call two barracuda fish?  A Pairacuda!"
+    MelodicBronzeEda = 597
+    _hidden_value = true
+  }
+  json HistoricMoccasinGiacinta {
+    _hidden_value = true
+  }
+  json RadicalBronzeGlyn {
+    _hidden_value = true
+  }
+  serviceid_number EnviousEmeraldAnnabelle {
+    _hidden_value = true
+  }
+  json LightSalmonJoyan {
+    _hidden_value = true
+  }
+  string OfficialPlumIdell {
+    _hidden_value = true
+  }
+  hidden_boolean GratefulBeigeOlia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CleanBrownSimonette {
+    _hidden_value = true
+  }
+  boolean OrganisationalTurquoiseAndrei {
+    _hidden_value = true
+  }
+  string AliveBronzeOdilia {
+    _hidden_value = true
+  }
+  hidden_boolean GrumpyAquamarineHildegarde {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EmbarrassedAquaLoraine {
+    _hidden_value = true
+  }
+  hidden_boolean TypicalTurquoiseChristina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DisturbedMagentaKimberli {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ModestJadeNeila {
+    _hidden_value = true
+  }
+  FutureLavenderEvangelia = "Why is Peter Pan always flying? Because he Neverlands."
+  RoundAmberLora = "Slept like a log last night  woke up in the fireplace."
+  MinorAmberAlvinia = "Dad Im hungry  Hi hungry Im dad"
+  PremierIvoryLiza = 489
+  DefensiveSapphireDehlia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OrganisationalTurquoiseAndrei"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CleanBrownSimonette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FutureLavenderEvangelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

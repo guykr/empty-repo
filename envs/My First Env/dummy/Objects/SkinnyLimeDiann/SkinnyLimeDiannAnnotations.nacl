@@ -1,0 +1,54 @@
+type dummy.SkinnyLimeDiann {
+  annotations {
+    serviceid YammeringAmethystKris {
+    }
+    hidden_boolean LittleTealNissy {
+    }
+    hidden_boolean DisgustedCopperVivi {
+    }
+    serviceid_number FrailPeachMurial {
+    }
+    json BumpyRoseKerianne {
+    }
+    number DetailedAmaranthWini {
+    }
+    serviceid_number SeparateMaroonMorissa {
+    }
+    serviceid_number WastefulSapphireChrysler {
+    }
+    number AngrySilverGlory {
+    }
+    dummy.FascinatingCoffeeMarilin CapableRoseOdelia {
+    }
+    json InvolvedFuchsiaIdalina {
+    }
+    boolean NormalAquamarineGabbi {
+    }
+    serviceid SadTurquoiseTamma {
+    }
+    string BeneficialAmaranthJessalyn {
+    }
+    json OppositeWhiteSherri {
+    }
+    hidden_boolean ShrillMoccasinMarchelle {
+    }
+    dummy.SubtleSalmonAgatha DemocraticBrownDeerdre {
+    }
+    json GladScarletBernadine {
+    }
+  }
+  YammeringAmethystKris = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FrailPeachMurial = 29
+  BumpyRoseKerianne = "Why did the kid cross the playground? To get to the other slide."
+  DetailedAmaranthWini = 706
+  SeparateMaroonMorissa = 971
+  WastefulSapphireChrysler = 322
+  AngrySilverGlory = 815
+  InvolvedFuchsiaIdalina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NormalAquamarineGabbi = true
+  SadTurquoiseTamma = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BeneficialAmaranthJessalyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OppositeWhiteSherri = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GladScarletBernadine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _alias = "SkinnyLimeDiann_alias"
+}

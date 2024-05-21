@@ -1,0 +1,55 @@
+type dummy.FederalCoralJodi {
+  string ConstantMagentaDebor {
+  }
+  number RetiredCrimsonKirby {
+  }
+  string PricklyLavenderKizzee {
+  }
+  hidden_boolean DevelopingChocolateDeidre {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number ThirstyGoldAlane {
+  }
+  hidden_boolean CrudePinkFarrah {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean RegisteredJadeJoanne {
+  }
+  boolean HugePeachTerese {
+  }
+  number FixedPlumBarbi {
+  }
+  json DailyOliveGiralda {
+  }
+  string MarvellousRoseBrandea {
+  }
+  number DesirableGreenKali {
+  }
+  json VastSilverBrinn {
+  }
+  serviceid_number PoliteSalmonLynette {
+  }
+  serviceid SlimyAmberClaudette {
+  }
+  hidden_boolean KnownApricotFredelia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number HorriblePeachTess {
+  }
+  string SupposedPurpleJermaine {
+  }
+  json ContemporaryRedFlori {
+  }
+  number CuriousRoseWaneta {
+  }
+  boolean StatisticalAmberChandal {
+  }
+  string TinyPeachMareah {
+  }
+}

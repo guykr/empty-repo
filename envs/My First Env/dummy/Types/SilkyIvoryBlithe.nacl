@@ -1,0 +1,134 @@
+type dummy.SilkyIvoryBlithe {
+  annotations {
+    serviceid_number UniformPinkAdel {
+    }
+    dummy.DEFAULT FewSalmonIrena {
+    }
+    serviceid_number IrrelevantAmberSande {
+    }
+    hidden_boolean OutdoorScarletSherill {
+    }
+    serviceid_number SpontaneousEmeraldSelina {
+    }
+  }
+  dummy.ScrawnyTomatoBamby RedundantCyanAdrianna {
+    CarefulMaroonIssi = 149
+    SparklingBlackBambie = 486
+    SpecificBrownWren = "Whoever invented the knock-knock joke should get a no bell prize."
+    ForwardCopperKristina = 882
+    PricklyAmethystKaile = "Why was it called the dark ages? Because of all the knights. "
+    FavouriteFuchsiaHolly = 20
+    _hidden_value = true
+  }
+  string DisastrousAquamarineCollette {
+    _hidden_value = true
+  }
+  json MassApricotShell {
+    _hidden_value = true
+  }
+  number RawChocolateKaroly {
+    _hidden_value = true
+  }
+  serviceid YoungestTealAdaline {
+    _hidden_value = true
+  }
+  json RunningMaroonFranciska {
+    _hidden_value = true
+  }
+  string HollowPeachJanka {
+    _hidden_value = true
+  }
+  dummy.AngryLimeTiphani ModestTurquoiseGabbey {
+    WorriedChocolateKim = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LongApricotAngelia = true
+    GlobalCoffeeMalinda = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VagueCopperElita = 383
+    SovietPlumRegan = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    RationalTurquoiseAlix = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  json ResonantCopperHannie {
+    _hidden_value = true
+  }
+  json UnusualBeigeReyna {
+    _hidden_value = true
+  }
+  string ColonialBrownDavine {
+    _hidden_value = true
+  }
+  serviceid LittleAquamarineAnderea {
+    _hidden_value = true
+  }
+  json SensibleHarlequinJeannette {
+    _hidden_value = true
+  }
+  hidden_boolean VagueOrangeCecil {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ExistingPeachPhoebe {
+    _hidden_value = true
+  }
+  boolean SharedMoccasinStephi {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingMagentaEugenie {
+    _hidden_value = true
+  }
+  dummy.FilthyPlumKristine EmbarrassingOrangeLea {
+    VocationalYellowJori = 152
+    ImpressedPurpleJennette = "I'll tell you what often gets over looked... garden fences."
+    StrangeTomatoKelsy = 153
+    UnwillingWhiteValma = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ApplicableApricotFlor = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OnlyBlueKatha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PregnantLavenderFrederica = "Why was it called the dark ages? Because of all the knights. "
+    SwiftAzureSandi = "Why was it called the dark ages? Because of all the knights. "
+    MadMagentaKarrah = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    BusyPeachMelissa = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  serviceid_number ProminentRoseKit {
+    _hidden_value = true
+  }
+  serviceid SpecifiedPeachStefania {
+    _hidden_value = true
+  }
+  serviceid_number ExcessivePeachHollyanne {
+    _hidden_value = true
+  }
+  UniformPinkAdel = 586
+  FewSalmonIrena = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  IrrelevantAmberSande = 525
+  SpontaneousEmeraldSelina = 62
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DisastrousAquamarineCollette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SharedMoccasinStephi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MassApricotShell"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResonantCopperHannie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,166 @@
+type dummy.VitreousCyanLina {
+  annotations {
+    json FantasticRoseSula {
+    }
+    string SpecialAzureDyanna {
+    }
+    string RandomJadeAnnelise {
+    }
+    json PracticalTealEimile {
+    }
+    boolean XenophobicBrownDoralynne {
+    }
+    json SubtleLavenderWrennie {
+    }
+    number DangerousBlushAloisia {
+    }
+  }
+  boolean HardBronzeBrunhilde {
+    _hidden_value = true
+  }
+  string QuixoticSalmonHynda {
+    _hidden_value = true
+  }
+  string ViolentCopperPippy {
+    _hidden_value = true
+  }
+  number RequiredTomatoJanenna {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalLimeEleanore {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string GayVioletCharline {
+    _hidden_value = true
+  }
+  serviceid_number ExpectedSapphireAntoinette {
+    _hidden_value = true
+  }
+  number IrrelevantFuchsiaMelosa {
+    _hidden_value = true
+  }
+  serviceid SexualIvoryMarthena {
+    _hidden_value = true
+  }
+  hidden_boolean ScaredOliveGinnifer {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RoundGoldEustacia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SpecificAmberAlicea IncredibleMagentaKimberlyn {
+    PassiveWhiteEloisa = "Why did the tomato blush? Because it saw the salad dressing."
+    SmallOliveBridie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CircularCyanDevinne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HorizontalGreenAurilia = true
+    NaturalApricotBlakeley = 1
+    EquivalentBrownBrook = true
+    _hidden_value = true
+  }
+  serviceid FundamentalBrownConstantina {
+    _hidden_value = true
+  }
+  number SemanticOliveGlenn {
+    _hidden_value = true
+  }
+  serviceid_number FormidableTanCorenda {
+    _hidden_value = true
+  }
+  hidden_boolean VerbalCoralBernie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean QuerulousPlumAndrea {
+    _hidden_value = true
+  }
+  number SpicyBlushMaribelle {
+    _hidden_value = true
+  }
+  boolean ContinentalTomatoFey {
+    _hidden_value = true
+  }
+  hidden_boolean TropicalTomatoSalome {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StrikingCrimsonDeane {
+    _hidden_value = true
+  }
+  dummy.OverseasTealHayley ResidentScarletAnnabel {
+    ArtisticLimeThea = 386
+    SharedCopperDavina = true
+    SimilarTealSheena = "I'll tell you what often gets over looked... garden fences."
+    SickJadeLanette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WearyPeachDelly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RetiredIndigoLynda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    StrictSapphireLil = 72
+    ContinuingGoldLanita = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ShrillCyanRivy = "How come the stadium got hot after the game? Because all of the fans left."
+    FirmEmeraldJanet = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  hidden_boolean ComplicatedSalmonAmitie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AcceptedBrownLoralie {
+    _hidden_value = true
+  }
+  number TopLimeHoney {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedBrownPammy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT TastelessTurquoiseVeriee {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" VeryBlackFernanda {
+    _hidden_value = true
+  }
+  serviceid_number DirtyApricotFlorri {
+    _hidden_value = true
+  }
+  number MaximumMagentaSalaidh {
+    _hidden_value = true
+  }
+  string RationalScarletNara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT XenaciousCopperThomasina {
+    _hidden_value = true
+  }
+  FantasticRoseSula = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpecialAzureDyanna = "I'll tell you what often gets over looked... garden fences."
+  RandomJadeAnnelise = "I'll tell you what often gets over looked... garden fences."
+  PracticalTealEimile = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  XenophobicBrownDoralynne = true
+  SubtleLavenderWrennie = "Why do birds fly south for the winter? Because it's too far to walk."
+  DangerousBlushAloisia = 786
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IrrelevantFuchsiaMelosa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FundamentalBrownConstantina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,126 @@
+type dummy.ExclusivePinkHelen {
+  annotations {
+    json AgreedFuchsiaJoann {
+    }
+    json SelectIndigoBriny {
+    }
+    serviceid_number RandomMagentaMaria {
+    }
+    dummy.GayTealFredi GleamingTanDebbie {
+    }
+    boolean KnownTanUta {
+    }
+  }
+  json OperationalYellowRaynell {
+    _hidden_value = true
+  }
+  string WorriedSilverAurel {
+    _hidden_value = true
+  }
+  hidden_boolean InclinedTealKissiah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SparklingBlushKristan {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReluctantBeigeSharline {
+    _hidden_value = true
+  }
+  hidden_boolean UnitedBeigeRyann {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantWhiteChrysler {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CausalAquamarineBabara {
+    _hidden_value = true
+  }
+  json FitScarletWinnifred {
+    _hidden_value = true
+  }
+  hidden_boolean FavourableFuchsiaBritteny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CharacteristicLavenderHarmonie {
+    _hidden_value = true
+  }
+  serviceid_number BindingTanEmalee {
+    _hidden_value = true
+  }
+  string SpecialVioletFawnia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FormidableAmberLeonie {
+    _hidden_value = true
+  }
+  dummy.DistinctWhiteAdi CostlyYellowLuise {
+    UncomfortableFuchsiaCosetta = 370
+    _hidden_value = true
+  }
+  dummy.DEFAULT PopularTurquoiseHelge {
+    _hidden_value = true
+  }
+  boolean CooperativeMaroonArlene {
+    _hidden_value = true
+  }
+  boolean EstimatedMaroonGenvieve {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NaturalAzureLaryssa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliticalFuchsiaLindy {
+    _hidden_value = true
+  }
+  boolean BlindScarletCassey {
+    _hidden_value = true
+  }
+  AgreedFuchsiaJoann = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SelectIndigoBriny = "How come the stadium got hot after the game? Because all of the fans left."
+  RandomMagentaMaria = 465
+  GleamingTanDebbie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  KnownTanUta = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WorriedSilverAurel"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProtestantWhiteChrysler"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CooperativeMaroonArlene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CharacteristicLavenderHarmonie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CostlyYellowLuise"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "KnownTanUta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

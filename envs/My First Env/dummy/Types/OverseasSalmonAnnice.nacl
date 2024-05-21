@@ -1,0 +1,21 @@
+type dummy.OverseasSalmonAnnice {
+  annotations {
+    serviceid_number YabberingMaroonClaudine {
+    }
+    boolean VicariousBlushArdisj {
+    }
+    hidden_boolean ChemicalTanNell {
+    }
+    number HarshOliveKetti {
+    }
+    hidden_boolean YelpingApricotGayleen {
+    }
+  }
+  serviceid UglyOliveAdrea {
+    _hidden_value = true
+  }
+  YabberingMaroonClaudine = 608
+  VicariousBlushArdisj = true
+  HarshOliveKetti = 444
+  _hidden_value = true
+}

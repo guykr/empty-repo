@@ -1,0 +1,118 @@
+type dummy.UncomfortableBeigeDrusilla {
+  annotations {
+    serviceid NetMaroonReba {
+    }
+    serviceid SoleMagentaLana {
+    }
+    serviceid_number EasyIndigoJaquelin {
+    }
+    json ClinicalGoldVivian {
+    }
+    serviceid SaltyPeachArlee {
+    }
+  }
+  number MajorLimeSalomi {
+    _hidden_value = true
+  }
+  hidden_boolean SelfishCopperDelly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string UnableSalmonMeggi {
+    _hidden_value = true
+  }
+  serviceid_number WesternMagentaAleece {
+    _hidden_value = true
+  }
+  hidden_boolean CleanPurpleFilia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalAquaMarjy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json EmptyRoseCharis {
+    _hidden_value = true
+  }
+  serviceid_number CruelBlushCalla {
+    _hidden_value = true
+  }
+  serviceid_number SpotlessMoccasinBlythe {
+    _hidden_value = true
+  }
+  boolean SilkyTomatoGiovanna {
+    _hidden_value = true
+  }
+  boolean RawLimeMei {
+    _hidden_value = true
+  }
+  serviceid FamiliarTomatoSelinda {
+    _hidden_value = true
+  }
+  number NecessaryTurquoiseRosaleen {
+    _hidden_value = true
+  }
+  dummy.RareScarletEllyn CharacteristicApricotTierney {
+    DecisiveAzureClemmie = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    HissingAquaBilly = "Whoever invented the knock-knock joke should get a no bell prize."
+    AggregatePinkPauline = 375
+    ReadyCopperMariam = "What do you call two barracuda fish?  A Pairacuda!"
+    DirectOrangeDorotea = false
+    MightyChocolateElicia = 25
+    ParallelBronzeFlori = false
+    ControlledOrangeAvis = 321
+    FuzzyGreenBinny = 801
+    _hidden_value = true
+  }
+  string SensitiveLavenderMaddie {
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedCopperAnnmarie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number YearningPeachBliss {
+    _hidden_value = true
+  }
+  serviceid MainAquaLin {
+    _hidden_value = true
+  }
+  serviceid_number YellingBrownKellsie {
+    _hidden_value = true
+  }
+  boolean CarefulEmeraldEmelina {
+    _hidden_value = true
+  }
+  NetMaroonReba = "Dad Im hungry  Hi hungry Im dad"
+  SoleMagentaLana = "Im only familiar with 25 letters in the English language. I dont know why."
+  EasyIndigoJaquelin = 744
+  ClinicalGoldVivian = "Why was it called the dark ages? Because of all the knights. "
+  SaltyPeachArlee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RawLimeMei"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MajorLimeSalomi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EasyIndigoJaquelin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

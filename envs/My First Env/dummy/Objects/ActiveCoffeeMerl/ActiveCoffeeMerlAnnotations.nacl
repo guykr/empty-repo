@@ -1,0 +1,99 @@
+type dummy.ActiveCoffeeMerl {
+  annotations {
+    dummy.ValidMaroonFlory PayableSilverSteffane {
+    }
+    boolean CriticalPurpleSacha {
+    }
+    serviceid ComparableGreenKaylil {
+    }
+    serviceid_number ManualTealSheilakathryn {
+    }
+    string UnawareAquamarineHattie {
+    }
+    hidden_boolean OddJadeMilicent {
+    }
+    serviceid_number ProspectiveCrimsonAshely {
+    }
+    serviceid BareYellowNinon {
+    }
+    boolean NursingPurpleKalinda {
+    }
+    serviceid_number SymbolicAmberKatuscha {
+    }
+    json SovietEmeraldLynette {
+    }
+    json UnusualApricotTasha {
+    }
+    dummy.ProbableEmeraldGenevra GlobalWhiteShandeigh {
+    }
+    serviceid SmoggyAquamarineLira {
+    }
+    json SilentBronzeMatilde {
+    }
+    hidden_boolean YoungestHarlequinFelice {
+    }
+    hidden_boolean VastCoralShauna {
+    }
+    number GreasyMoccasinRoseanna {
+    }
+  }
+  PayableSilverSteffane = 365
+  CriticalPurpleSacha = false
+  ComparableGreenKaylil = "Did you know that protons have mass? I didn't even know they were catholic."
+  ManualTealSheilakathryn = 104
+  UnawareAquamarineHattie = "What do you call two barracuda fish?  A Pairacuda!"
+  ProspectiveCrimsonAshely = 557
+  BareYellowNinon = "Why did the kid cross the playground? To get to the other slide."
+  NursingPurpleKalinda = false
+  SymbolicAmberKatuscha = 772
+  SovietEmeraldLynette = "A steak pun is a rare medium well done."
+  UnusualApricotTasha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SmoggyAquamarineLira = "What do you call two barracuda fish?  A Pairacuda!"
+  SilentBronzeMatilde = "A steak pun is a rare medium well done."
+  GreasyMoccasinRoseanna = 294
+  _important_values = [
+    {
+      value = "PrincipalVioletCarmencita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PayableSilverSteffane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NursingPurpleKalinda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ComparableGreenKaylil"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GreasyMoccasinRoseanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnusualApricotTasha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OddJadeMilicent"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GlobalWhiteShandeigh"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ActiveCoffeeMerl_alias"
+}

@@ -1,0 +1,20 @@
+type dummy.BrilliantAmethystShannah is number {
+  annotations {
+    json ConcernedApricotMariel {
+    }
+    boolean CharacteristicSapphireMichele {
+    }
+    string ScatteredGreenFrankie {
+    }
+    hidden_boolean ValidIndigoTybie {
+    }
+    hidden_boolean FlexibleCrimsonArabele {
+    }
+    serviceid DigitalCrimsonRosella {
+    }
+  }
+  ConcernedApricotMariel = "Im only familiar with 25 letters in the English language. I dont know why."
+  CharacteristicSapphireMichele = false
+  ScatteredGreenFrankie = "A steak pun is a rare medium well done."
+  DigitalCrimsonRosella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

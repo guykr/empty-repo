@@ -1,0 +1,22 @@
+type dummy.MisleadingTurquoiseKathleen {
+  annotations {
+    serviceid EvidentCrimsonKalli {
+    }
+    json HelpfulCrimsonCarissa {
+    }
+    serviceid GothicChocolateFlorri {
+    }
+    boolean RelatedMoccasinElyssa {
+    }
+  }
+  hidden_boolean HissingIndigoKameko {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  EvidentCrimsonKalli = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HelpfulCrimsonCarissa = "Why did the tomato blush? Because it saw the salad dressing."
+  GothicChocolateFlorri = "How come the stadium got hot after the game? Because all of the fans left."
+  RelatedMoccasinElyssa = false
+  _hidden_value = true
+}

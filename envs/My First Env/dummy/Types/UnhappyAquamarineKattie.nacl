@@ -1,0 +1,146 @@
+type dummy.UnhappyAquamarineKattie {
+  annotations {
+    boolean MarkedBeigeAdi {
+    }
+    serviceid_number DramaticChocolateDaisi {
+    }
+    serviceid ResponsibleChocolateTobe {
+    }
+    serviceid UnnecessarySalmonLula {
+    }
+    serviceid_number XenophobicWhiteLadonna {
+    }
+    dummy.FilthyPlumKristine FaithfulTealIormina {
+    }
+    boolean ModernBrownWindy {
+    }
+  }
+  json ProfitableVioletChrystal {
+    _hidden_value = true
+  }
+  string GorgeousOliveRobinette {
+    _hidden_value = true
+  }
+  serviceid_number BurningEmeraldFancie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UpperGoldRayna {
+    _hidden_value = true
+  }
+  json NationalSilverJoleen {
+    _hidden_value = true
+  }
+  number AmazingGreenDamara {
+    _hidden_value = true
+  }
+  dummy.DreadfulCoralCassandre IntenseBlushVania {
+    _hidden_value = true
+  }
+  hidden_boolean IncredibleMagentaKirsti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SpatialCrimsonAlfi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.UniqueCoralTiffie BadCrimsonAndra {
+    RealisticEmeraldAurlie = "Why did the kid cross the playground? To get to the other slide."
+    NetJadeCarolina = "Why was it called the dark ages? Because of all the knights. "
+    SoundTanKayle = "Why was it called the dark ages? Because of all the knights. "
+    ThirstyScarletFran = 724
+    CommunistIndigoAnjanette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    InterestingAmberOdilia = true
+    PlannedRedRosalie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DesirableLavenderMaryjo = "Why is Peter Pan always flying? Because he Neverlands."
+    SupremeGrayIlka = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ToughMagentaMaggee = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ArtificialCoffeeKori = true
+    OutdoorGoldKassey = 828
+    HotGreenCatriona = true
+    SystematicMagentaJacynth = "Why did the tomato blush? Because it saw the salad dressing."
+    DisabledChocolateShandy = true
+    UnsightlyTurquoiseRuthi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MarkedLimeKellyann = 901
+    ShinySilverFey = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  serviceid_number FeministIndigoLatashia {
+    _hidden_value = true
+  }
+  number WillingLimeCori {
+    _hidden_value = true
+  }
+  serviceid_number FunLavenderDorene {
+    _hidden_value = true
+  }
+  number TraditionalJadeAllegra {
+    _hidden_value = true
+  }
+  boolean StrangeBeigeSeka {
+    _hidden_value = true
+  }
+  number SpecifiedGrayTessy {
+    _hidden_value = true
+  }
+  number IsolatedPeachShari {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyOrangeTeddi {
+    _hidden_value = true
+  }
+  json ProudAzureCatherina {
+    _hidden_value = true
+  }
+  MarkedBeigeAdi = false
+  DramaticChocolateDaisi = 358
+  ResponsibleChocolateTobe = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnnecessarySalmonLula = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  XenophobicWhiteLadonna = 876
+  FaithfulTealIormina = 135
+  ModernBrownWindy = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WillingLimeCori"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProfitableVioletChrystal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FeministIndigoLatashia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BurningEmeraldFancie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DramaticChocolateDaisi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ModernBrownWindy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "XenophobicWhiteLadonna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

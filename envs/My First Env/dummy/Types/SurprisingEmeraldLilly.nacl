@@ -1,0 +1,55 @@
+type dummy.SurprisingEmeraldLilly {
+  annotations {
+    serviceid SeniorVioletTheda {
+    }
+    string XenialLavenderArlena {
+    }
+    serviceid BewilderedIvoryMarty {
+    }
+    number SevereAmethystMaurene {
+    }
+    json EqualAzurePatricia {
+    }
+  }
+  dummy.UniqueCoralTiffie SubstantialCrimsonShawna {
+    RealisticEmeraldAurlie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    NetJadeCarolina = "Why was it called the dark ages? Because of all the knights. "
+    SoundTanKayle = "How come the stadium got hot after the game? Because all of the fans left."
+    ThirstyScarletFran = 159
+    CommunistIndigoAnjanette = "Why did the tomato blush? Because it saw the salad dressing."
+    InterestingAmberOdilia = false
+    PlannedRedRosalie = "How come the stadium got hot after the game? Because all of the fans left."
+    DesirableLavenderMaryjo = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SupremeGrayIlka = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ToughMagentaMaggee = "What do you call two barracuda fish?  A Pairacuda!"
+    ArtificialCoffeeKori = false
+    OutdoorGoldKassey = 828
+    HotGreenCatriona = true
+    SystematicMagentaJacynth = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DisabledChocolateShandy = false
+    UnsightlyTurquoiseRuthi = "Why is Peter Pan always flying? Because he Neverlands."
+    MarkedLimeKellyann = 185
+    ShinySilverFey = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  SeniorVioletTheda = "What creature is smarter than a talking parrot? A spelling bee."
+  XenialLavenderArlena = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BewilderedIvoryMarty = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SevereAmethystMaurene = 618
+  EqualAzurePatricia = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "XenialLavenderArlena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BewilderedIvoryMarty"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

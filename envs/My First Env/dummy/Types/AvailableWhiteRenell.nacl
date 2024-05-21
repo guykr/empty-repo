@@ -1,0 +1,82 @@
+type dummy.AvailableWhiteRenell {
+  annotations {
+    number TartGreenEloisa {
+    }
+    number NoisyCopperKarena {
+    }
+    json UltimateBlackBari {
+    }
+    number ConceptualPlumKrista {
+    }
+    json AccurateGrayBunni {
+    }
+  }
+  json InvolvedPinkMoira {
+    _hidden_value = true
+  }
+  serviceid_number ZealousBeigeElaine {
+    _hidden_value = true
+  }
+  serviceid AvailableLavenderAllx {
+    _hidden_value = true
+  }
+  string CoherentOliveOrelie {
+    _hidden_value = true
+  }
+  number ExcessiveOliveBeverlee {
+    _hidden_value = true
+  }
+  serviceid SacredBrownShantee {
+    _hidden_value = true
+  }
+  serviceid_number StructuralRedDevan {
+    _hidden_value = true
+  }
+  serviceid_number WeakEmeraldLinnie {
+    _hidden_value = true
+  }
+  number SeniorCopperValaree {
+    _hidden_value = true
+  }
+  serviceid RelaxedChocolateGeorgena {
+    _hidden_value = true
+  }
+  hidden_boolean CausalLavenderOralie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IncredibleAzureKetti {
+    _hidden_value = true
+  }
+  TartGreenEloisa = 921
+  NoisyCopperKarena = 144
+  UltimateBlackBari = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ConceptualPlumKrista = 654
+  AccurateGrayBunni = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SeniorCopperValaree"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WeakEmeraldLinnie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NoisyCopperKarena"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UltimateBlackBari"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

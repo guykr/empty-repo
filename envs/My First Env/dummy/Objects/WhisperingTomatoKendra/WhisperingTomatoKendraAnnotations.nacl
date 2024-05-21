@@ -1,0 +1,71 @@
+type dummy.WhisperingTomatoKendra {
+  annotations {
+    hidden_boolean ReasonableBrownYolane {
+    }
+    string CommercialBeigeAlfie {
+    }
+    dummy.VoluminousSilverHermina MinimumRedJoan {
+    }
+    string UniformPurplePaulina {
+    }
+    dummy.OrganicTomatoIndira StaticBeigeTrenna {
+    }
+    boolean ProtectiveYellowKata {
+    }
+    string AddedYellowChandal {
+    }
+    string DemocraticCyanGiselle {
+    }
+    hidden_boolean ExactBeigeJaneva {
+    }
+    string ConstitutionalMagentaRisa {
+    }
+    serviceid_number RespectiveOrangeElaina {
+    }
+    number MagnificentHarlequinJemima {
+    }
+    hidden_boolean HomelyApricotPauletta {
+    }
+    serviceid_number DefeatedAquaBertie {
+    }
+    boolean SmoggyAmethystLexine {
+    }
+    number WastefulVioletFrieda {
+    }
+  }
+  CommercialBeigeAlfie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MinimumRedJoan = 962
+  UniformPurplePaulina = "Dad Im hungry  Hi hungry Im dad"
+  ProtectiveYellowKata = true
+  AddedYellowChandal = "What do you call two barracuda fish?  A Pairacuda!"
+  DemocraticCyanGiselle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConstitutionalMagentaRisa = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RespectiveOrangeElaina = 669
+  MagnificentHarlequinJemima = 18
+  DefeatedAquaBertie = 282
+  SmoggyAmethystLexine = true
+  WastefulVioletFrieda = 842
+  _self_important_values = [
+    {
+      value = "MinimumRedJoan"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WastefulVioletFrieda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProtectiveYellowKata"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CommercialBeigeAlfie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "WhisperingTomatoKendra_alias"
+}

@@ -1,0 +1,112 @@
+type dummy.NastyGrayGenny {
+  annotations {
+    string AttractiveAzureAnatola {
+    }
+    dummy.DEFAULT NewVioletEalasaid {
+    }
+    serviceid_number DeafBrownYolanthe {
+    }
+    boolean ForwardCoffeeFrayda {
+    }
+    dummy.TightChocolateMinta HotMagentaCristi {
+    }
+  }
+  boolean CoolTurquoiseHelge {
+    _hidden_value = true
+  }
+  hidden_boolean ExtendedJadeLuce {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid JuniorLimeMichell {
+    _hidden_value = true
+  }
+  serviceid_number InitialScarletRochelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlternativePlumTommy {
+    _hidden_value = true
+  }
+  serviceid LtdPlumMelisenda {
+    _hidden_value = true
+  }
+  hidden_boolean ChillyOrangeAlmira {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number EnthusiasticGrayFlori {
+    _hidden_value = true
+  }
+  number CommunistCrimsonDarryl {
+    _hidden_value = true
+  }
+  hidden_boolean LeftTurquoiseHortense {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" CriticalChocolateBekki {
+    _hidden_value = true
+  }
+  serviceid_number UnexpectedAmethystBianka {
+    _hidden_value = true
+  }
+  number ThoughtlessPeachCarolann {
+    _hidden_value = true
+  }
+  hidden_boolean InitialScarletDevan {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DeafTurquoiseGinni {
+    _hidden_value = true
+  }
+  hidden_boolean RigidAquamarineLissa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LiteraryScarletNicoline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ExtraordinaryScarletViviana {
+    _hidden_value = true
+  }
+  AttractiveAzureAnatola = "Why is Peter Pan always flying? Because he Neverlands."
+  NewVioletEalasaid = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  DeafBrownYolanthe = 637
+  ForwardCoffeeFrayda = true
+  HotMagentaCristi = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InitialScarletDevan"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThoughtlessPeachCarolann"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExtraordinaryScarletViviana"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AttractiveAzureAnatola"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

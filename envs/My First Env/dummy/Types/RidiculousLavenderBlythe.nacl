@@ -1,0 +1,39 @@
+type dummy.RidiculousLavenderBlythe {
+  annotations {
+    dummy.ValidMaroonFlory GlobalRoseAveryl {
+    }
+    serviceid WiseAquamarineMaddalena {
+    }
+    boolean YawningBrownKathryne {
+    }
+    hidden_boolean RepresentativeBeigeLivvy {
+    }
+    boolean SmoothGrayGarnette {
+    }
+    json OptimisticBlushCiel {
+    }
+    hidden_boolean MassiveLimeYevette {
+    }
+  }
+  number StraightBronzeAurore {
+    _hidden_value = true
+  }
+  GlobalRoseAveryl = 956
+  WiseAquamarineMaddalena = "Im only familiar with 25 letters in the English language. I dont know why."
+  YawningBrownKathryne = false
+  SmoothGrayGarnette = false
+  OptimisticBlushCiel = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WiseAquamarineMaddalena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RepresentativeBeigeLivvy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

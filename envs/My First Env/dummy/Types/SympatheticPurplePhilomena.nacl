@@ -1,0 +1,79 @@
+type dummy.SympatheticPurplePhilomena {
+  annotations {
+    json ChosenPurpleRanna {
+    }
+    boolean AdequateAzureAggy {
+    }
+    json ToxicEmeraldJoanne {
+    }
+    serviceid MarkedTurquoiseTheresita {
+    }
+  }
+  dummy.NastyGoldJordana FlutteringPlumArdyce {
+    ProtectiveBrownLyndsay = 57
+    BizarreHarlequinBab = 579
+    PromisingIndigoDarelle = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid ConfidentRoseLoleta {
+    _hidden_value = true
+  }
+  hidden_boolean InjuredBlushRheba {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid NeutralBronzeSimone {
+    _hidden_value = true
+  }
+  dummy.DistinctWhiteAdi AwkwardCoralTracee {
+    UncomfortableFuchsiaCosetta = 233
+    _hidden_value = true
+  }
+  boolean FragileYellowMeaghan {
+    _hidden_value = true
+  }
+  string ExistingChocolateMariana {
+    _hidden_value = true
+  }
+  dummy.BlindAmaranthCari DiverseRedJerrine {
+    SportingMagentaRos = 404
+    BewilderedCoralAtlante = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SpecifiedPinkMildred = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ComplexGrayBernardine = 500
+    NakedCrimsonNatalina = 996
+    StillLavenderDehlia = 311
+    ExcessTurquoiseCody = "What do you call two barracuda fish?  A Pairacuda!"
+    CuddlyTanLisha = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HushedLimeFaun = true
+    LeadingBlueBarbie = 524
+    BraveTanKaroly = "Slept like a log last night  woke up in the fireplace."
+    TopApricotLaurette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ContinuedAzureNoami = false
+    _hidden_value = true
+  }
+  ChosenPurpleRanna = "Why did the tomato blush? Because it saw the salad dressing."
+  AdequateAzureAggy = false
+  ToxicEmeraldJoanne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MarkedTurquoiseTheresita = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DiverseRedJerrine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AdequateAzureAggy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MarkedTurquoiseTheresita"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

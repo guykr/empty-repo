@@ -1,0 +1,75 @@
+type dummy.SophisticatedPurpleRosamond {
+  annotations {
+    string FirmRoseBeverlee {
+    }
+    json ConvenientSalmonGloriana {
+    }
+    hidden_boolean AcceptedYellowLucretia {
+    }
+    json DeterminedIndigoBrooks {
+    }
+    hidden_boolean OkTurquoiseLeonore {
+    }
+    dummy.TenseTomatoLiliane InternalSapphireStafani {
+    }
+    serviceid ItchyBlueSusanna {
+    }
+    serviceid_number MildIndigoJosefina {
+    }
+    serviceid MarvellousOliveShanna {
+    }
+    boolean XerothermicAquamarineLucia {
+    }
+    serviceid OnlyAmethystKandace {
+    }
+    hidden_boolean SeniorCoralVenus {
+    }
+    boolean PregnantGrayAdriana {
+    }
+    dummy.GayTealFredi UglyVioletAdella {
+    }
+    serviceid ItchyScarletCarita {
+    }
+    number IndependentPurpleCeciley {
+    }
+    serviceid_number BriefCrimsonEthyl {
+    }
+    json PopularCrimsonDonielle {
+    }
+    dummy.TightChocolateMinta LiberalBlueSophey {
+    }
+    serviceid ForthcomingPurpleHildegarde {
+    }
+    hidden_boolean OrganisationalBlackIzabel {
+    }
+  }
+  FirmRoseBeverlee = "Why was it called the dark ages? Because of all the knights. "
+  ConvenientSalmonGloriana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DeterminedIndigoBrooks = "Slept like a log last night  woke up in the fireplace."
+  ItchyBlueSusanna = "Why did the kid cross the playground? To get to the other slide."
+  MildIndigoJosefina = 305
+  MarvellousOliveShanna = "A steak pun is a rare medium well done."
+  XerothermicAquamarineLucia = false
+  OnlyAmethystKandace = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  PregnantGrayAdriana = true
+  UglyVioletAdella = file("TopYellowVivian.txt")
+  ItchyScarletCarita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IndependentPurpleCeciley = 141
+  BriefCrimsonEthyl = 365
+  PopularCrimsonDonielle = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LiberalBlueSophey = false
+  ForthcomingPurpleHildegarde = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _self_important_values = [
+    {
+      value = "IndependentPurpleCeciley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AcceptedYellowLucretia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "SophisticatedPurpleRosamond_alias"
+}

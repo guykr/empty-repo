@@ -1,0 +1,22 @@
+type dummy.FederalRoseAlika {
+  annotations {
+    number ColonialCopperJeanelle {
+    }
+    hidden_boolean TemporaryRoseAlbina {
+    }
+    json AcademicOrangeDaniella {
+    }
+    serviceid RelativeMagentaCorly {
+    }
+    serviceid BackAmethystVivianna {
+    }
+  }
+  dummy.DEFAULT HushedEmeraldNoni {
+    _hidden_value = true
+  }
+  ColonialCopperJeanelle = 75
+  AcademicOrangeDaniella = "Did you know that protons have mass? I didn't even know they were catholic."
+  RelativeMagentaCorly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BackAmethystVivianna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

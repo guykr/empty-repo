@@ -1,0 +1,31 @@
+type dummy.PuzzledAmberMarlene {
+  annotations {
+    hidden_boolean DramaticLimeBetteann {
+    }
+    json ApparentRoseElisabeth {
+    }
+    serviceid LtdGrayLulita {
+    }
+    json DeliciousBlackJeri {
+    }
+    dummy.SwiftAzureBryn ParentalCrimsonGermain {
+    }
+  }
+  hidden_boolean RealisticAzureBarbee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ApparentRoseElisabeth = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LtdGrayLulita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DeliciousBlackJeri = "Why was it called the dark ages? Because of all the knights. "
+  ParentalCrimsonGermain = 13
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DeliciousBlackJeri"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

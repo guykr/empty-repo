@@ -1,0 +1,20 @@
+type dummy.StaleCyanNancie {
+  annotations {
+    number SolarGreenHeidi {
+    }
+    json MightyAquaCathie {
+    }
+    json LesserBrownDre {
+    }
+    json ShortSalmonNertie {
+    }
+  }
+  string HistoricalHarlequinMerrielle {
+    _hidden_value = true
+  }
+  SolarGreenHeidi = 431
+  MightyAquaCathie = "Slept like a log last night  woke up in the fireplace."
+  LesserBrownDre = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShortSalmonNertie = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

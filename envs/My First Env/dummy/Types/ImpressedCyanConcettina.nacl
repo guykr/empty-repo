@@ -1,0 +1,28 @@
+type dummy.ImpressedCyanConcettina {
+  annotations {
+    number NaturalBlushLetizia {
+    }
+    hidden_boolean UnacceptableBeigeTalyah {
+    }
+    serviceid_number TartPurpleHilary {
+    }
+    string MainCopperDrusy {
+    }
+  }
+  hidden_boolean ExcitedRoseAlly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  NaturalBlushLetizia = 878
+  TartPurpleHilary = 207
+  MainCopperDrusy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UnacceptableBeigeTalyah"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

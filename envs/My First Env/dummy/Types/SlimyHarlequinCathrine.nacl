@@ -1,0 +1,35 @@
+type dummy.SlimyHarlequinCathrine {
+  annotations {
+    boolean ImpressiveBrownEmily {
+    }
+    json ViolentEmeraldMarigold {
+    }
+    serviceid SinglePinkGayle {
+    }
+    serviceid_number CompactMagentaChristal {
+    }
+  }
+  string DetailedBlackShirlee {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalEmeraldBeulah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string WillingCopperMyra {
+    _hidden_value = true
+  }
+  ImpressiveBrownEmily = true
+  ViolentEmeraldMarigold = "I'll tell you what often gets over looked... garden fences."
+  SinglePinkGayle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CompactMagentaChristal = 660
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SinglePinkGayle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

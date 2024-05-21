@@ -1,0 +1,23 @@
+type dummy.ControversialScarletNicolle {
+  annotations {
+    hidden_boolean ModestMaroonKaja {
+    }
+    json RealJadeCalida {
+    }
+    boolean MarginalHarlequinSophi {
+    }
+  }
+  number HonestRedMinnnie {
+    _hidden_value = true
+  }
+  RealJadeCalida = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MarginalHarlequinSophi = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ModestMaroonKaja"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

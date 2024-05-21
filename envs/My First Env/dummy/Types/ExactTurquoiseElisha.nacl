@@ -1,0 +1,24 @@
+type dummy.ExactTurquoiseElisha {
+  annotations {
+    serviceid PowerfulCoralSacha {
+    }
+    json YuckySalmonTed {
+    }
+    string SympatheticPlumFerne {
+    }
+    hidden_boolean CompleteHarlequinEolanda {
+    }
+    dummy.GayTealFredi GuiltyBlackMarijo {
+    }
+    hidden_boolean GrimCyanJobie {
+    }
+  }
+  string ArtisticBeigeViv {
+    _hidden_value = true
+  }
+  PowerfulCoralSacha = "Why did the kid cross the playground? To get to the other slide."
+  YuckySalmonTed = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SympatheticPlumFerne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GuiltyBlackMarijo = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

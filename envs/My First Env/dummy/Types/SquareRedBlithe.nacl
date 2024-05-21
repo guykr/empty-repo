@@ -1,0 +1,33 @@
+type dummy.SquareRedBlithe {
+  annotations {
+    dummy.DEFAULT PresidentialTomatoDavita {
+    }
+    string GeneticPinkLorita {
+    }
+    json DisappointedCrimsonBebe {
+    }
+    hidden_boolean CommercialScarletIra {
+    }
+    serviceid_number BroadAzureJosee {
+    }
+  }
+  hidden_boolean ExpensiveIndigoAgnella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  PresidentialTomatoDavita = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  GeneticPinkLorita = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DisappointedCrimsonBebe = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BroadAzureJosee = 975
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BroadAzureJosee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

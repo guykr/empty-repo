@@ -1,0 +1,55 @@
+type dummy.UsualGreenPage {
+  annotations {
+    dummy.OverseasTealHayley YouthfulLimeMadelle {
+    }
+    serviceid_number StraightforwardTanMarris {
+    }
+    json HurtPurpleArdisj {
+    }
+    hidden_boolean StrangeCoralMallissa {
+    }
+  }
+  "List<hidden_boolean>" NursingAmberOrsola {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" EverydayLavenderCollette {
+    _hidden_value = true
+  }
+  hidden_boolean ZanyHarlequinBobbi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LegislativeBlueJulietta {
+    _hidden_value = true
+  }
+  serviceid_number TerritorialGrayLetitia {
+    _hidden_value = true
+  }
+  number SevereIvoryHoratia {
+    _hidden_value = true
+  }
+  json CommonMoccasinBerenice {
+    _hidden_value = true
+  }
+  dummy.DistinctWhiteAdi CriminalIvoryNatka {
+    UncomfortableFuchsiaCosetta = 222
+    _hidden_value = true
+  }
+  dummy.DEFAULT SocialistCoralLibbey {
+    _hidden_value = true
+  }
+  YouthfulLimeMadelle = "Did you know that protons have mass? I didn't even know they were catholic."
+  StraightforwardTanMarris = 926
+  HurtPurpleArdisj = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StraightforwardTanMarris"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,75 @@
+type dummy.ScaryApricotMariann {
+  annotations {
+    hidden_boolean EntireSapphireBellanca {
+    }
+    serviceid ComplexRoseLeigh {
+    }
+    boolean OrganisationalMoccasinJacqui {
+    }
+    hidden_boolean ViciousRedKirsten {
+    }
+    hidden_boolean GenerousYellowAllina {
+    }
+    hidden_boolean ApparentPlumChrissie {
+    }
+    hidden_boolean ConfusedPlumElysha {
+    }
+    hidden_boolean ViolentApricotNatala {
+    }
+    boolean AbundantOrangeAnallese {
+    }
+    serviceid BrokenOliveChristiane {
+    }
+    hidden_boolean CruelTomatoFreddy {
+    }
+    serviceid_number MixedHarlequinBabb {
+    }
+    boolean BeneficialTomatoWilma {
+    }
+    boolean VoluminousScarletAnnamaria {
+    }
+    number FairHarlequinKerry {
+    }
+    boolean FluffyTomatoGayel {
+    }
+    number EventualCyanGracia {
+    }
+    json MilitaryPinkLavinie {
+    }
+    serviceid_number EmbarrassingGrayMargo {
+    }
+    json MobileTealRosmunda {
+    }
+    boolean SlightPlumNonah {
+    }
+    hidden_boolean YelpingOrangeShanta {
+    }
+  }
+  ComplexRoseLeigh = "To be Frank, I'd have to change my name."
+  OrganisationalMoccasinJacqui = true
+  AbundantOrangeAnallese = true
+  BrokenOliveChristiane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MixedHarlequinBabb = 588
+  BeneficialTomatoWilma = false
+  VoluminousScarletAnnamaria = true
+  FairHarlequinKerry = 995
+  FluffyTomatoGayel = true
+  EventualCyanGracia = 327
+  MilitaryPinkLavinie = "Slept like a log last night  woke up in the fireplace."
+  EmbarrassingGrayMargo = 886
+  MobileTealRosmunda = "How come the stadium got hot after the game? Because all of the fans left."
+  SlightPlumNonah = true
+  _important_values = [
+    {
+      value = "PeacefulLavenderCarmelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StraightforwardRoseJillian"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ScaryApricotMariann_alias"
+}

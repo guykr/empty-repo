@@ -1,0 +1,13 @@
+type dummy.ExceptionalGrayMarjie {
+  number SplendidBronzeNerti {
+  }
+  json InclinedOrangeKipp {
+  }
+  serviceid_number SuperiorAmberPierrette {
+  }
+  hidden_boolean RespectableCoffeePhylis {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

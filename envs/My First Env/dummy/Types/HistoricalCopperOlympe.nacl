@@ -1,0 +1,38 @@
+type dummy.HistoricalCopperOlympe {
+  annotations {
+    hidden_boolean FantasticSilverLizzie {
+    }
+    dummy.DEFAULT PrimeAquamarineIngrid {
+    }
+    hidden_boolean BottomCrimsonGermana {
+    }
+    string SleepyPeachLila {
+    }
+    hidden_boolean FluffyCrimsonSusannah {
+    }
+    dummy.VoluminousSilverHermina EntitledTealAlmire {
+    }
+    serviceid FriendlySalmonAthene {
+    }
+    serviceid AdditionalAmaranthCarolee {
+    }
+  }
+  serviceid_number InteriorScarletSada {
+    _hidden_value = true
+  }
+  PrimeAquamarineIngrid = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  SleepyPeachLila = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EntitledTealAlmire = 940
+  FriendlySalmonAthene = "Slept like a log last night  woke up in the fireplace."
+  AdditionalAmaranthCarolee = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SleepyPeachLila"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

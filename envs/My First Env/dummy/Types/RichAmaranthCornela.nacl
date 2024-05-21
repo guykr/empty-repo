@@ -1,0 +1,130 @@
+type dummy.RichAmaranthCornela {
+  annotations {
+    json ElectricAmaranthNora {
+    }
+    serviceid_number TenseSapphireMargo {
+    }
+    number SpicyBrownEmelita {
+    }
+    serviceid_number SecondaryYellowIdalia {
+    }
+    serviceid PoliteAquaMariette {
+    }
+  }
+  dummy.AdequateLimeCherice WickedMoccasinGenevra {
+    TightGrayConny = 738
+    RollingBrownCassaundra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    NearCoralGiovanna = "Why did the tomato blush? Because it saw the salad dressing."
+    CognitiveGreenSeline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ImplicitFuchsiaThomasine = 206
+    FragileRoseFarica = "Why was it called the dark ages? Because of all the knights. "
+    ThoughtfulChocolateTootsie = "How come the stadium got hot after the game? Because all of the fans left."
+    EssentialOliveKaterina = "Why was it called the dark ages? Because of all the knights. "
+    ToryBrownClaretta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StaticSalmonSibylle = "A steak pun is a rare medium well done."
+    MaximumEmeraldTory = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    IntermediateWhiteHettie = 3
+    AbsentAquaLorelle = false
+    AfraidOrangeDollie = 793
+    PerfectSalmonMarketa = true
+    SoreGoldJinny = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    _hidden_value = true
+  }
+  number PregnantTanDeloris {
+    _hidden_value = true
+  }
+  hidden_boolean MarriedJadeCourtnay {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LabourAmberSibel {
+    _hidden_value = true
+  }
+  string YawningPeachKelci {
+    _hidden_value = true
+  }
+  number SorePlumCherilyn {
+    _hidden_value = true
+  }
+  hidden_boolean FinalGreenMarcela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number EthnicTurquoiseDorothee {
+    _hidden_value = true
+  }
+  number VerbalCopperChantalle {
+    _hidden_value = true
+  }
+  serviceid NewTomatoKassia {
+    _hidden_value = true
+  }
+  serviceid BraveMagentaCorrina {
+    _hidden_value = true
+  }
+  dummy.LeadingPlumFelicia GrossMaroonIvy {
+    LiveAmethystPammy = "Why is Peter Pan always flying? Because he Neverlands."
+    TropicalRedGlenda = true
+    NetIndigoLorraine = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    CriticalGrayWynny = true
+    SplendidScarletMilicent = true
+    CurrentRoseErmentrude = "Dad Im hungry  Hi hungry Im dad"
+    BindingTomatoDarci = 493
+    SourPlumAshlee = false
+    FrozenOliveSunshine = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  hidden_boolean ElatedBrownHedvig {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ImpressiveBluePippy {
+    _hidden_value = true
+  }
+  serviceid SpecialTomatoDagmar {
+    _hidden_value = true
+  }
+  boolean ProfessionalBlackConsuela {
+    _hidden_value = true
+  }
+  boolean WillingEmeraldSella {
+    _hidden_value = true
+  }
+  hidden_boolean PreliminaryWhiteAngela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ElectricAmaranthNora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TenseSapphireMargo = 264
+  SpicyBrownEmelita = 948
+  SecondaryYellowIdalia = 997
+  PoliteAquaMariette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FinalGreenMarcela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LabourAmberSibel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ElectricAmaranthNora"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

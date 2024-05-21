@@ -1,0 +1,22 @@
+type dummy.QuintessentialCopperMei {
+  annotations {
+    hidden_boolean SelfishLimeKrystal {
+    }
+    serviceid OrganicRoseAnnelise {
+    }
+    number DivineMagentaConnie {
+    }
+    json VoluntaryHarlequinRaphaela {
+    }
+    string TallChocolateFlorida {
+    }
+  }
+  number ParticularEmeraldRomonda {
+    _hidden_value = true
+  }
+  OrganicRoseAnnelise = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DivineMagentaConnie = 680
+  VoluntaryHarlequinRaphaela = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TallChocolateFlorida = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

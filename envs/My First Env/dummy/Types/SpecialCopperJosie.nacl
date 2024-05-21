@@ -1,0 +1,101 @@
+type dummy.SpecialCopperJosie {
+  annotations {
+    hidden_boolean CrowdedLimeAndreana {
+    }
+    hidden_boolean AppropriateLavenderMelonie {
+    }
+    number CorrespondingMaroonCristine {
+    }
+    json VoicelessTanAustine {
+    }
+    string InnocentEmeraldRaeann {
+    }
+  }
+  boolean InvisibleTurquoiseSallyann {
+    _hidden_value = true
+  }
+  string WiseRedSophey {
+    _hidden_value = true
+  }
+  dummy.BlindAmaranthCari MoralRedMallory {
+    SportingMagentaRos = 326
+    BewilderedCoralAtlante = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SpecifiedPinkMildred = "A steak pun is a rare medium well done."
+    ComplexGrayBernardine = 693
+    NakedCrimsonNatalina = 902
+    StillLavenderDehlia = 510
+    ExcessTurquoiseCody = "What creature is smarter than a talking parrot? A spelling bee."
+    CuddlyTanLisha = "Im only familiar with 25 letters in the English language. I dont know why."
+    HushedLimeFaun = true
+    LeadingBlueBarbie = 503
+    BraveTanKaroly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    TopApricotLaurette = "How come the stadium got hot after the game? Because all of the fans left."
+    ContinuedAzureNoami = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" NovelAquamarineMarlane {
+    _hidden_value = true
+  }
+  string JuniorChocolateCeleste {
+    _hidden_value = true
+  }
+  dummy.RedundantBrownFanni BrightYellowDulciana {
+    PetiteBrownJulienne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ExpectedPlumMavra = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    HandicappedChocolateOla = "Im only familiar with 25 letters in the English language. I dont know why."
+    NationalGrayGerri = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  boolean UnusualAmaranthEunice {
+    _hidden_value = true
+  }
+  number SteadyYellowWendi {
+    _hidden_value = true
+  }
+  string ContinuingYellowMadalena {
+    _hidden_value = true
+  }
+  json ColourfulAmberGussy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VisitingAmethystOlympe {
+    _hidden_value = true
+  }
+  json FunctionalChocolateEstella {
+    _hidden_value = true
+  }
+  hidden_boolean AdjacentWhiteKalinda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number GenerousAzureAida {
+    _hidden_value = true
+  }
+  hidden_boolean ContinentalAquamarineCarlynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CasualTanAnnadiane {
+    _hidden_value = true
+  }
+  serviceid_number ResidentialSapphireHannis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WateryTealLaurena {
+    _hidden_value = true
+  }
+  number RulingPinkRebeca {
+    _hidden_value = true
+  }
+  json LeftEmeraldWilow {
+    _hidden_value = true
+  }
+  CorrespondingMaroonCristine = 503
+  VoicelessTanAustine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  InnocentEmeraldRaeann = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

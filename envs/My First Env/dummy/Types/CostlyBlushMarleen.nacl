@@ -1,0 +1,74 @@
+type dummy.CostlyBlushMarleen {
+  annotations {
+    json WholeVioletAmabelle {
+    }
+    string UpsetIvoryDarla {
+    }
+    json RudeEmeraldGreer {
+    }
+    serviceid_number LateRosePamela {
+    }
+  }
+  serviceid ColossalBlueStefanie {
+    _hidden_value = true
+  }
+  json ZestfulChocolateRenell {
+    _hidden_value = true
+  }
+  dummy.VoluminousSilverHermina AssistantGrayWrennie {
+    BetterSilverHedda = false
+    AcceptedOrangeStephi = 98
+    HeavyVioletGwennie = 324
+    DarkAquaDorine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    NavalSalmonBrittne = "Im only familiar with 25 letters in the English language. I dont know why."
+    EthicalLimeGriselda = false
+    NutritiousIvoryKoressa = true
+    NastyFuchsiaBianca = 791
+    UncertainAmethystImelda = 697
+    ProminentBlackTish = 234
+    AdvancedOrangeGuglielma = 733
+    LoyalIndigoEleonora = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  string WorkingSilverCati {
+    _hidden_value = true
+  }
+  json BoredWhiteStephani {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolidRedAstrid {
+    _hidden_value = true
+  }
+  json RelievedAmethystChickie {
+    _hidden_value = true
+  }
+  number JuicyBronzeTilda {
+    _hidden_value = true
+  }
+  dummy.RedundantBrownFanni SurvivingRoseDierdre {
+    PetiteBrownJulienne = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExpectedPlumMavra = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    HandicappedChocolateOla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NationalGrayGerri = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean ClinicalCopperNadine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WholeVioletAmabelle = "How come the stadium got hot after the game? Because all of the fans left."
+  UpsetIvoryDarla = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RudeEmeraldGreer = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LateRosePamela = 566
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WholeVioletAmabelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

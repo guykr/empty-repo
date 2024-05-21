@@ -1,0 +1,80 @@
+type dummy.ResultingEmeraldOfilia {
+  annotations {
+    string StrangeCoralDanni {
+    }
+    dummy.DEFAULT WilyBlackDianne {
+    }
+    serviceid_number MuteBeigeJazmin {
+    }
+    string ApparentCoffeeMarcela {
+    }
+    serviceid PracticalCopperCharil {
+    }
+    boolean CourageousChocolateRoseanna {
+    }
+  }
+  number FaintTealBlakelee {
+    _hidden_value = true
+  }
+  "List<serviceid>" IntermediatePinkStarlene {
+    _hidden_value = true
+  }
+  serviceid PayableBlackElfrida {
+    _hidden_value = true
+  }
+  string NearbyTealTarra {
+    _hidden_value = true
+  }
+  serviceid_number ElatedFuchsiaDarcy {
+    _hidden_value = true
+  }
+  json DuePeachMadlin {
+    _hidden_value = true
+  }
+  string WilfulRedDeb {
+    _hidden_value = true
+  }
+  boolean YearlingBlackVikki {
+    _hidden_value = true
+  }
+  json IntelligentTomatoSusana {
+    _hidden_value = true
+  }
+  json CognitiveRedHortensia {
+    _hidden_value = true
+  }
+  number SeparatePurpleSallyann {
+    _hidden_value = true
+  }
+  StrangeCoralDanni = "What creature is smarter than a talking parrot? A spelling bee."
+  WilyBlackDianne = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  MuteBeigeJazmin = 168
+  ApparentCoffeeMarcela = "Why didnt the skeleton cross the road? Because he had no guts."
+  PracticalCopperCharil = "Did you know that protons have mass? I didn't even know they were catholic."
+  CourageousChocolateRoseanna = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CognitiveRedHortensia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntelligentTomatoSusana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PayableBlackElfrida"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WilfulRedDeb"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

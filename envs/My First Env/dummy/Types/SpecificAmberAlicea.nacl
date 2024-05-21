@@ -1,0 +1,24 @@
+type dummy.SpecificAmberAlicea is number {
+  annotations {
+    json PassiveWhiteEloisa {
+    }
+    json SmallOliveBridie {
+    }
+    json CircularCyanDevinne {
+    }
+    boolean HorizontalGreenAurilia {
+    }
+    number NaturalApricotBlakeley {
+    }
+    boolean EquivalentBrownBrook {
+    }
+    hidden_boolean GentleSalmonJemmy {
+    }
+  }
+  PassiveWhiteEloisa = "What creature is smarter than a talking parrot? A spelling bee."
+  SmallOliveBridie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CircularCyanDevinne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HorizontalGreenAurilia = false
+  NaturalApricotBlakeley = 257
+  EquivalentBrownBrook = true
+}

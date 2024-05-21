@@ -1,0 +1,45 @@
+type dummy.GoverningCrimsonFlo {
+  annotations {
+    serviceid_number SelectiveMoccasinLaney {
+    }
+    serviceid_number ProvincialHarlequinRomy {
+    }
+    string SubstantialCrimsonOdille {
+    }
+    boolean WildWhiteCathrine {
+    }
+    boolean FavouriteChocolateKetty {
+    }
+    serviceid SelectedAmaranthNorah {
+    }
+  }
+  hidden_boolean TheoreticalSalmonEllene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SelectiveMoccasinLaney = 666
+  ProvincialHarlequinRomy = 889
+  SubstantialCrimsonOdille = "Im only familiar with 25 letters in the English language. I dont know why."
+  WildWhiteCathrine = false
+  FavouriteChocolateKetty = false
+  SelectedAmaranthNorah = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FavouriteChocolateKetty"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SelectedAmaranthNorah"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SubstantialCrimsonOdille"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

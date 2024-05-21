@@ -1,0 +1,98 @@
+type dummy.OkVioletSorcha {
+  annotations {
+    serviceid XenialCoralCaren {
+    }
+    serviceid_number InappropriateLavenderIsobel {
+    }
+    hidden_boolean ExcitedIvoryClemmy {
+    }
+    serviceid_number AlivePinkFaina {
+    }
+    serviceid LeadingJadeDelinda {
+    }
+    string DistinctCopperTheresita {
+    }
+    serviceid_number StableBlackLynsey {
+    }
+    dummy.PoisedBeigeIlse ComparableTealMelloney {
+    }
+    json ThickOrangeStevena {
+    }
+    boolean DisciplinaryMoccasinMelanie {
+    }
+    dummy.RevolutionaryWhiteHannah PermanentCrimsonElana {
+    }
+    serviceid_number ConfidentialCoralLeilah {
+    }
+    json AwkwardCyanMerl {
+    }
+    json DrabTanRosmunda {
+    }
+    boolean WideIndigoLouisa {
+    }
+    boolean BrokenEmeraldElyse {
+    }
+    number NormalApricotPhoebe {
+    }
+  }
+  XenialCoralCaren = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InappropriateLavenderIsobel = 783
+  AlivePinkFaina = 55
+  LeadingJadeDelinda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DistinctCopperTheresita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StableBlackLynsey = 986
+  ThickOrangeStevena = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DisciplinaryMoccasinMelanie = false
+  PermanentCrimsonElana = true
+  ConfidentialCoralLeilah = 777
+  AwkwardCyanMerl = "What do you call two barracuda fish?  A Pairacuda!"
+  DrabTanRosmunda = "What creature is smarter than a talking parrot? A spelling bee."
+  WideIndigoLouisa = true
+  BrokenEmeraldElyse = false
+  NormalApricotPhoebe = 551
+  _important_values = [
+    {
+      value = "AdorableVioletCissy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AgreedFuchsiaClara"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LegislativeAzurePenni"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExcitedIvoryClemmy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ComparableTealMelloney"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ThickOrangeStevena"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DrabTanRosmunda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisciplinaryMoccasinMelanie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "OkVioletSorcha_alias"
+}

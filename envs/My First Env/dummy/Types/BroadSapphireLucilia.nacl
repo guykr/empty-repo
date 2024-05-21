@@ -1,0 +1,68 @@
+type dummy.BroadSapphireLucilia {
+  annotations {
+    dummy.DEFAULT CoherentGrayValaria {
+    }
+    json NuttyRedAilsun {
+    }
+    json ModestCoralMaura {
+    }
+    boolean MeltedGreenPage {
+    }
+    number BareCyanGerrie {
+    }
+  }
+  string UnconsciousBronzeAbbie {
+    _hidden_value = true
+  }
+  number IntellectualPinkRhoda {
+    _hidden_value = true
+  }
+  json TiredMagentaOralle {
+    _hidden_value = true
+  }
+  boolean SupremeCopperFidelia {
+    _hidden_value = true
+  }
+  string UnderlyingSapphireTate {
+    _hidden_value = true
+  }
+  json VulnerableLavenderDarcy {
+    _hidden_value = true
+  }
+  number AwareOrangeAmi {
+    _hidden_value = true
+  }
+  serviceid FrequentTanGladi {
+    _hidden_value = true
+  }
+  serviceid_number WholeCrimsonDiandra {
+    _hidden_value = true
+  }
+  CoherentGrayValaria = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  NuttyRedAilsun = "Dad Im hungry  Hi hungry Im dad"
+  ModestCoralMaura = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MeltedGreenPage = true
+  BareCyanGerrie = 346
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnderlyingSapphireTate"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnconsciousBronzeAbbie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ModestCoralMaura"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

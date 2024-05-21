@@ -1,0 +1,29 @@
+type dummy.EarlyTomatoCyndie {
+  annotations {
+    hidden_boolean AcuteSalmonNadine {
+    }
+    json DefiantOliveDorelia {
+    }
+    serviceid IntimateSalmonDania {
+    }
+    number ScreechingCyanGabriel {
+    }
+    hidden_boolean ElectricSapphirePattie {
+    }
+  }
+  serviceid ReligiousSilverBebe {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingAquaAnnabelle {
+    _hidden_value = true
+  }
+  hidden_boolean RapidTurquoiseFarra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DefiantOliveDorelia = "Why didnt the skeleton cross the road? Because he had no guts."
+  IntimateSalmonDania = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ScreechingCyanGabriel = 280
+  _hidden_value = true
+}

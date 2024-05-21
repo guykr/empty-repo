@@ -1,0 +1,86 @@
+type dummy.XerothermicVioletHettie {
+  annotations {
+    number LevelPeachConsolata {
+    }
+    dummy.UptightIndigoSydelle GothicYellowElana {
+    }
+    dummy.AdequateLimeCherice SteadyHarlequinAnnecorinne {
+    }
+    boolean DailyPlumDebby {
+    }
+  }
+  "List<boolean>" DifficultOrangeAngelina {
+    _hidden_value = true
+  }
+  serviceid_number DustyBlushAurilia {
+    _hidden_value = true
+  }
+  "List<json>" ConvenientWhiteRobinette {
+    _hidden_value = true
+  }
+  serviceid MultipleMagentaFiorenze {
+    _hidden_value = true
+  }
+  string EerieJadeAprilette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ForeignBrownNancy {
+    _hidden_value = true
+  }
+  string EarlyPeachLeisha {
+    _hidden_value = true
+  }
+  serviceid ArbitrarySapphireYnes {
+    _hidden_value = true
+  }
+  serviceid_number LatinTanSukey {
+    _hidden_value = true
+  }
+  boolean DueAquamarineRosina {
+    _hidden_value = true
+  }
+  json ExperimentalGoldTeirtza {
+    _hidden_value = true
+  }
+  hidden_boolean HostileSapphireChristie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SmallAmberLorrie {
+    _hidden_value = true
+  }
+  serviceid UsedBeigeDemetria {
+    _hidden_value = true
+  }
+  string WeakTomatoIngaborg {
+    _hidden_value = true
+  }
+  serviceid PoisedRedMireielle {
+    _hidden_value = true
+  }
+  LevelPeachConsolata = 469
+  GothicYellowElana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SteadyHarlequinAnnecorinne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DailyPlumDebby = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SmallAmberLorrie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DifficultOrangeAngelina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DailyPlumDebby"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

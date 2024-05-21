@@ -1,0 +1,27 @@
+type dummy.FortunateYellowFredericka {
+  annotations {
+    serviceid_number FondFuchsiaHyacintha {
+    }
+    serviceid_number MagneticScarletAnita {
+    }
+    boolean EstablishedBlackEulalie {
+    }
+    boolean WearyCyanLinet {
+    }
+  }
+  number QuerulousSalmonMaggee {
+    _hidden_value = true
+  }
+  FondFuchsiaHyacintha = 551
+  MagneticScarletAnita = 18
+  EstablishedBlackEulalie = true
+  WearyCyanLinet = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MagneticScarletAnita"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,97 @@
+type dummy.StrikingSilverDanella {
+  annotations {
+    number ExtensiveHarlequinDollie {
+    }
+    serviceid_number OutrageousCrimsonLainey {
+    }
+    hidden_boolean HollowPurpleAbbi {
+    }
+    boolean AmbitiousOliveSelma {
+    }
+    serviceid LivingCrimsonKaitlynn {
+    }
+  }
+  boolean FiscalSilverAubrie {
+    _hidden_value = true
+  }
+  string LeadingOliveArlena {
+    _hidden_value = true
+  }
+  hidden_boolean ResponsibleTurquoiseNorah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ThinYellowCoralie {
+    _hidden_value = true
+  }
+  hidden_boolean GrievingAquamarineKetty {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number AccessibleAmaranthRochella {
+    _hidden_value = true
+  }
+  hidden_boolean CurvedLimeRici {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PlainOrangeFanny {
+    _hidden_value = true
+  }
+  json ImprovedLimeSidoney {
+    _hidden_value = true
+  }
+  dummy.SpecificAmberAlicea HumanScarletUna {
+    PassiveWhiteEloisa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SmallOliveBridie = "Why do birds fly south for the winter? Because it's too far to walk."
+    CircularCyanDevinne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HorizontalGreenAurilia = false
+    NaturalApricotBlakeley = 671
+    EquivalentBrownBrook = false
+    _hidden_value = true
+  }
+  number HandsomeCrimsonChristalle {
+    _hidden_value = true
+  }
+  string ToxicTomatoBrandie {
+    _hidden_value = true
+  }
+  json AestheticSapphireCherida {
+    _hidden_value = true
+  }
+  boolean QuickBlackArabela {
+    _hidden_value = true
+  }
+  ExtensiveHarlequinDollie = 228
+  OutrageousCrimsonLainey = 136
+  AmbitiousOliveSelma = true
+  LivingCrimsonKaitlynn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FiscalSilverAubrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "QuickBlackArabela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AestheticSapphireCherida"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OutrageousCrimsonLainey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

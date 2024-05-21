@@ -1,0 +1,62 @@
+type dummy.SplendidLavenderSimona {
+  annotations {
+    serviceid FormidableCopperKessiah {
+    }
+    hidden_boolean CommunistAmberTerza {
+    }
+    dummy.ImportantMaroonJeane ShakyScarletLynn {
+    }
+    string TroubledTealCaprice {
+    }
+  }
+  number MoralMagentaJaime {
+    _hidden_value = true
+  }
+  boolean JuicyPurpleWendye {
+    _hidden_value = true
+  }
+  number FortunateTurquoiseRubie {
+    _hidden_value = true
+  }
+  boolean AcceptableLimeBennie {
+    _hidden_value = true
+  }
+  string ElaborateBrownJilleen {
+    _hidden_value = true
+  }
+  serviceid AccurateBeigeRobbin {
+    _hidden_value = true
+  }
+  string NaughtyIvoryHeath {
+    _hidden_value = true
+  }
+  boolean CreepyBeigeHelsa {
+    _hidden_value = true
+  }
+  json ParallelAzureIsabelle {
+    _hidden_value = true
+  }
+  number BoredScarletStarlin {
+    _hidden_value = true
+  }
+  boolean GiantVioletBerta {
+    _hidden_value = true
+  }
+  number ComfortableCoralHynda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RelevantTurquoiseRobinet {
+    _hidden_value = true
+  }
+  FormidableCopperKessiah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ShakyScarletLynn = false
+  TroubledTealCaprice = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CommunistAmberTerza"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

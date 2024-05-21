@@ -1,0 +1,65 @@
+type dummy.YappyMagentaDyann {
+  annotations {
+    hidden_boolean PreciseBeigeKellen {
+    }
+    serviceid_number ElegantCoralChristabella {
+    }
+    dummy.EthicalGoldSuzanne ImperialWhiteJennette {
+    }
+    number NutritiousSalmonColleen {
+    }
+    serviceid_number IntegralPeachRiane {
+    }
+    dummy.CompulsoryJadeAndromache UnevenTanArlyne {
+    }
+    string AngryLimeRomonda {
+    }
+    number YellingBronzeTracy {
+    }
+    serviceid_number UnsightlyGreenBrooks {
+    }
+    json GrubbyRedHildagard {
+    }
+    string SpottyIndigoLicha {
+    }
+    boolean AmazingOliveDeirdre {
+    }
+    string AmazingBlackMela {
+    }
+    string ViolentRoseLeoline {
+    }
+    string WilfulSapphireValry {
+    }
+    serviceid_number GleamingRedConstance {
+    }
+    json UnhappyGrayMattie {
+    }
+    hidden_boolean JollyAmberJan {
+    }
+    string PopularGoldNelli {
+    }
+  }
+  ElegantCoralChristabella = 175
+  NutritiousSalmonColleen = 842
+  IntegralPeachRiane = 526
+  AngryLimeRomonda = "Im only familiar with 25 letters in the English language. I dont know why."
+  YellingBronzeTracy = 98
+  UnsightlyGreenBrooks = 974
+  GrubbyRedHildagard = "Whoever invented the knock-knock joke should get a no bell prize."
+  SpottyIndigoLicha = "Why do birds fly south for the winter? Because it's too far to walk."
+  AmazingOliveDeirdre = false
+  AmazingBlackMela = "Did you know that protons have mass? I didn't even know they were catholic."
+  ViolentRoseLeoline = "Why is Peter Pan always flying? Because he Neverlands."
+  WilfulSapphireValry = "To be Frank, I'd have to change my name."
+  GleamingRedConstance = 546
+  UnhappyGrayMattie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PopularGoldNelli = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _self_important_values = [
+    {
+      value = "SpottyIndigoLicha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "YappyMagentaDyann_alias"
+}

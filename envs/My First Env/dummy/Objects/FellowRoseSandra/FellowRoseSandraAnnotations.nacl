@@ -1,0 +1,85 @@
+type dummy.FellowRoseSandra {
+  annotations {
+    serviceid_number GentleAmethystClarine {
+    }
+    dummy.CuteCrimsonRoze JuniorChocolateJoya {
+    }
+    boolean PrettyCoralPat {
+    }
+    serviceid SpectacularTomatoJacinta {
+    }
+    dummy.SharpCopperFlossy CarefulPlumAnni {
+    }
+    number ZerothOliveValerie {
+    }
+    hidden_boolean DelightfulApricotFeliza {
+    }
+    serviceid ExactPurpleBeverlie {
+    }
+    number ChangingRoseMillisent {
+    }
+    dummy.DrivingTealKarisa WittyCopperVin {
+    }
+    number RemainingBronzeTaffy {
+    }
+    string LesserGoldLindsy {
+    }
+    json OrthodoxFuchsiaAmelita {
+    }
+    serviceid_number SwiftAquamarineLucine {
+    }
+    serviceid PerfectCoralEmmie {
+    }
+    serviceid_number ExuberantYellowCherilyn {
+    }
+    boolean TremendousPlumCordelie {
+    }
+    hidden_boolean RadicalHarlequinNorene {
+    }
+    serviceid AcademicAzureGrier {
+    }
+    number AdvisoryMagentaRhianon {
+    }
+    hidden_boolean BindingMoccasinLilli {
+    }
+  }
+  GentleAmethystClarine = 945
+  PrettyCoralPat = true
+  SpectacularTomatoJacinta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CarefulPlumAnni = file("ShaggyCoralVivyanne.txt")
+  ZerothOliveValerie = 222
+  ExactPurpleBeverlie = "What do you call two barracuda fish?  A Pairacuda!"
+  ChangingRoseMillisent = 817
+  RemainingBronzeTaffy = 268
+  LesserGoldLindsy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OrthodoxFuchsiaAmelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SwiftAquamarineLucine = 686
+  PerfectCoralEmmie = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExuberantYellowCherilyn = 758
+  TremendousPlumCordelie = false
+  AcademicAzureGrier = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AdvisoryMagentaRhianon = 424
+  _self_important_values = [
+    {
+      value = "PrettyCoralPat"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LesserGoldLindsy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExuberantYellowCherilyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpectacularTomatoJacinta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "FellowRoseSandra_alias"
+}

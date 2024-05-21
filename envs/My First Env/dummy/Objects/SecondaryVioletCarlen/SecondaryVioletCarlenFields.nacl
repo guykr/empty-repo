@@ -1,0 +1,110 @@
+type dummy.SecondaryVioletCarlen {
+  serviceid ContemporaryPeachElaine {
+  }
+  dummy.RedundantBrownFanni RegularAzureJody {
+    PetiteBrownJulienne = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExpectedPlumMavra = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    HandicappedChocolateOla = "Dad Im hungry  Hi hungry Im dad"
+    NationalGrayGerri = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  hidden_boolean MeanBlushChris {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  number PrintedAquamarineLexy {
+  }
+  serviceid_number HistoricCoffeeRosabella {
+  }
+  dummy.LegitimateHarlequinKirbee MaleSalmonNickie {
+    SplendidCyanRamona = 14
+    SadMagentaKristy = false
+    UpsetFuchsiaChastity = "What do you call two barracuda fish?  A Pairacuda!"
+    ForeignAzureVallie = "Why did the kid cross the playground? To get to the other slide."
+    PowerfulVioletIdette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  json BreezyMagentaMartynne {
+  }
+  boolean BlondeSalmonTheo {
+  }
+  json IntellectualCopperCissy {
+  }
+  hidden_boolean AdorableGreenYvonne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<dummy.ScreechingPeachCynthea>" ExtensiveIvorySuzette {
+    FilthyScarletAlfi = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    PracticalPeachPauline = "How come the stadium got hot after the game? Because all of the fans left."
+    SensibleCoffeeRebecka = "Why did the tomato blush? Because it saw the salad dressing."
+    MeanAmaranthSheri = false
+    CloseMoccasinOdette = "What creature is smarter than a talking parrot? A spelling bee."
+    ImmediateBronzeCrissie = 883
+    ExceptionalBlueDanielle = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  dummy.UncertainTurquoiseJolynn WeirdLavenderKellie {
+    TerribleMoccasinLetizia = 94
+    StrangeLavenderSheilakathryn = 44
+    FrequentAzureMinette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HelpfulCyanAida = "I'll tell you what often gets over looked... garden fences."
+  }
+  boolean RareAmberDoralin {
+  }
+  hidden_boolean TerritorialGrayGilly {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean ViciousPinkJaquenette {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean MechanicalChocolateSherill {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean YappiestPlumNerita {
+  }
+  serviceid DisturbingGoldFlor {
+  }
+  "List<dummy.OverseasTealHayley>" ResponsibleVioletMirna {
+    ArtisticLimeThea = 303
+    SharedCopperDavina = true
+    SimilarTealSheena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SickJadeLanette = "What creature is smarter than a talking parrot? A spelling bee."
+    WearyPeachDelly = "Dad Im hungry  Hi hungry Im dad"
+    RetiredIndigoLynda = "My first time using an elevator was an uplifting experience. The second time let me down."
+    StrictSapphireLil = 79
+    ContinuingGoldLanita = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    ShrillCyanRivy = "What do you call two barracuda fish?  A Pairacuda!"
+    FirmEmeraldJanet = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  boolean NuclearTurquoisePearline {
+  }
+  boolean UnhappyAquaDonia {
+  }
+  serviceid_number FatMagentaKerrie {
+  }
+  serviceid VerbalLavenderBarbe {
+  }
+  serviceid AssistantBlackTeodora {
+  }
+  hidden_boolean RelievedSilverKaterina {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  json PublicCoffeeUmeko {
+  }
+  number ChiefAmethystLenee {
+  }
+}

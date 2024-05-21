@@ -1,0 +1,54 @@
+type dummy.WildGreenTrixi {
+  annotations {
+    serviceid_number RepresentativeSapphireKelsy {
+    }
+    json TallCoralHollyanne {
+    }
+    serviceid ConservativeMagentaAura {
+    }
+    serviceid ExoticBlushGoldia {
+    }
+    hidden_boolean DisgustedGreenMerry {
+    }
+    serviceid_number HotCoffeeXena {
+    }
+  }
+  serviceid_number MistyEmeraldCacilie {
+    _hidden_value = true
+  }
+  json SmoothPinkLarine {
+    _hidden_value = true
+  }
+  json RoughFuchsiaAlyssa {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalTanMellicent {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SlightCoffeeKynthia {
+    _hidden_value = true
+  }
+  number RelievedBeigeNerte {
+    _hidden_value = true
+  }
+  RepresentativeSapphireKelsy = 667
+  TallCoralHollyanne = "What do you call two barracuda fish?  A Pairacuda!"
+  ConservativeMagentaAura = "Why did the tomato blush? Because it saw the salad dressing."
+  ExoticBlushGoldia = "Why did the kid cross the playground? To get to the other slide."
+  HotCoffeeXena = 374
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SmoothPinkLarine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ElectricalTanMellicent"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

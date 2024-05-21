@@ -1,0 +1,48 @@
+type dummy.SpiritualCyanMollie {
+  annotations {
+    serviceid_number TheoreticalAquamarinePippy {
+    }
+    json SlightEmeraldDinnie {
+    }
+    boolean UnemployedSapphireJanetta {
+    }
+    serviceid_number AfraidChocolateJacky {
+    }
+    json UnlikelyTurquoiseMollie {
+    }
+    json ObjectiveOliveFlorette {
+    }
+    hidden_boolean ZygoticCyanStephanie {
+    }
+  }
+  serviceid QuintessentialIndigoDell {
+    _hidden_value = true
+  }
+  json ProbableCopperDania {
+    _hidden_value = true
+  }
+  TheoreticalAquamarinePippy = 777
+  SlightEmeraldDinnie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnemployedSapphireJanetta = false
+  AfraidChocolateJacky = 331
+  UnlikelyTurquoiseMollie = "Why did the kid cross the playground? To get to the other slide."
+  ObjectiveOliveFlorette = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SlightEmeraldDinnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnemployedSapphireJanetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AfraidChocolateJacky"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,97 @@
+type dummy.RelevantLavenderJuliane {
+  annotations {
+    dummy.DEFAULT AnonymousRoseMathilda {
+    }
+    string ConstantAquaGeorgianna {
+    }
+    json MotionlessOrangeAva {
+    }
+    serviceid VictoriousOliveMerralee {
+    }
+    serviceid GratefulTanGabriell {
+    }
+    serviceid_number FitMagentaBrandie {
+    }
+  }
+  serviceid_number JoyousAquamarineGloriane {
+    _hidden_value = true
+  }
+  hidden_boolean KeyPlumCharisse {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.LocalSalmonAmanda StatisticalBlueBrittani {
+    StupidGreenCam = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RelevantPeachMissie = "Whoever invented the knock-knock joke should get a no bell prize."
+    FilthyBeigeAeriel = "Dad Im hungry  Hi hungry Im dad"
+    CleanBlueMinette = "I'll tell you what often gets over looked... garden fences."
+    ThoughtfulBlackMelisent = false
+    BiologicalBeigeSherrie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RollingPlumRobin = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GayAmaranthRachel = "Did you know that protons have mass? I didn't even know they were catholic."
+    CoastalAquamarineSharlene = "What did one nut say as he chased another nut?  I'm a cashew!"
+    InteriorAmaranthAdelice = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    ForeignApricotLeena = "Why is Peter Pan always flying? Because he Neverlands."
+    ThoughtlessCopperKerri = 961
+    FortunateCyanDeb = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    SteadyCoralOlympe = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExclusiveChocolateOpal = true
+    SuperbMoccasinTheresita = 770
+    FlakyIvoryTerrye = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  hidden_boolean IndependentTealAddi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SwiftAzureBryn ItchyCoralSallyann {
+    VoluntaryGoldAinslie = 203
+    PreviousBlueAmi = "Dad Im hungry  Hi hungry Im dad"
+    MentalIvoryDania = "What creature is smarter than a talking parrot? A spelling bee."
+    XerothermicAquamarineCariotta = 80
+    _hidden_value = true
+  }
+  serviceid_number YodellingCopperDrona {
+    _hidden_value = true
+  }
+  json ShiveringSapphireRafaelia {
+    _hidden_value = true
+  }
+  number AdvancedPurpleJoyann {
+    _hidden_value = true
+  }
+  AnonymousRoseMathilda = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  ConstantAquaGeorgianna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MotionlessOrangeAva = "What creature is smarter than a talking parrot? A spelling bee."
+  VictoriousOliveMerralee = "What do you call two barracuda fish?  A Pairacuda!"
+  GratefulTanGabriell = "Slept like a log last night  woke up in the fireplace."
+  FitMagentaBrandie = 562
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "KeyPlumCharisse"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ItchyCoralSallyann"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "VictoriousOliveMerralee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

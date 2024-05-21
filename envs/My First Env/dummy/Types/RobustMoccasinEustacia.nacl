@@ -1,0 +1,40 @@
+type dummy.RobustMoccasinEustacia {
+  annotations {
+    hidden_boolean CapitalistYellowMinnaminnie {
+    }
+    serviceid UnfairAquaPhelia {
+    }
+    string YellingCoffeeBilly {
+    }
+    boolean GuiltyGrayMarita {
+    }
+    number ConsistentPinkQuintana {
+    }
+    boolean WastefulWhiteVi {
+    }
+    boolean LiberalCoffeeYvonne {
+    }
+  }
+  dummy.DEFAULT RegularScarletGreta {
+    _hidden_value = true
+  }
+  UnfairAquaPhelia = "Why is Peter Pan always flying? Because he Neverlands."
+  YellingCoffeeBilly = "Did you know that protons have mass? I didn't even know they were catholic."
+  GuiltyGrayMarita = false
+  ConsistentPinkQuintana = 817
+  WastefulWhiteVi = false
+  LiberalCoffeeYvonne = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConsistentPinkQuintana"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CapitalistYellowMinnaminnie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,108 @@
+type dummy.WittyOrangeZondra {
+  annotations {
+    number CostlyGrayJoelynn {
+    }
+    serviceid_number KindIvoryLavina {
+    }
+    boolean HungryFuchsiaEdin {
+    }
+    number DelightedGrayAdriena {
+    }
+    json MarginalBronzeJennica {
+    }
+  }
+  serviceid_number ConfusedBronzeFloria {
+    _hidden_value = true
+  }
+  string DifficultJadeOrelee {
+    _hidden_value = true
+  }
+  hidden_boolean ProgressiveTanKiele {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid JuicyCoralLatrina {
+    _hidden_value = true
+  }
+  serviceid_number AnonymousLavenderLatisha {
+    _hidden_value = true
+  }
+  string ProposedSalmonSorcha {
+    _hidden_value = true
+  }
+  string SeparateLavenderCristie {
+    _hidden_value = true
+  }
+  serviceid_number AlternativeGoldLatisha {
+    _hidden_value = true
+  }
+  number CalmTomatoAnnadiane {
+    _hidden_value = true
+  }
+  serviceid UndergroundIndigoJordan {
+    _hidden_value = true
+  }
+  serviceid_number FlyingSalmonLindsey {
+    _hidden_value = true
+  }
+  json NoisyAquamarineCyndy {
+    _hidden_value = true
+  }
+  hidden_boolean SlightTealNissy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BareIndigoArleta {
+    _hidden_value = true
+  }
+  number InclinedTurquoiseHatty {
+    _hidden_value = true
+  }
+  serviceid_number OutsideRoseSonya {
+    _hidden_value = true
+  }
+  number ScrawnyPlumDacy {
+    _hidden_value = true
+  }
+  json AshamedAmberMorgen {
+    _hidden_value = true
+  }
+  serviceid_number SpontaneousIndigoNeely {
+    _hidden_value = true
+  }
+  CostlyGrayJoelynn = 224
+  KindIvoryLavina = 70
+  HungryFuchsiaEdin = true
+  DelightedGrayAdriena = 173
+  MarginalBronzeJennica = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "JuicyCoralLatrina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CalmTomatoAnnadiane"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProposedSalmonSorcha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpontaneousIndigoNeely"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConfusedBronzeFloria"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

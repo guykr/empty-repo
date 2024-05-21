@@ -1,0 +1,38 @@
+type dummy.ImprovedAquamarineTheadora {
+  annotations {
+    boolean CleverCoffeeKristan {
+    }
+    string ViolentWhiteCassondra {
+    }
+  }
+  serviceid_number SlightGreenJeralee {
+    _hidden_value = true
+  }
+  hidden_boolean ExoticSalmonSunshine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HorizontalSilverTansy {
+    _hidden_value = true
+  }
+  string BeautifulGreenSal {
+    _hidden_value = true
+  }
+  string ClumsyCrimsonDorothea {
+    _hidden_value = true
+  }
+  string ComingRoseGisella {
+    _hidden_value = true
+  }
+  CleverCoffeeKristan = false
+  ViolentWhiteCassondra = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ClumsyCrimsonDorothea"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

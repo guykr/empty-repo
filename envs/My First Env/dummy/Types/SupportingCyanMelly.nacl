@@ -1,0 +1,53 @@
+type dummy.SupportingCyanMelly {
+  annotations {
+    boolean BareScarletNaomi {
+    }
+    boolean PublicOrangeLeda {
+    }
+    json ConservativeAmaranthKevyn {
+    }
+    number ObnoxiousAquaLorain {
+    }
+    dummy.ForwardBlackNata ZonalPeachRorie {
+    }
+  }
+  string AmateurCopperSalaidh {
+    _hidden_value = true
+  }
+  serviceid ProfitablePurpleBobbette {
+    _hidden_value = true
+  }
+  serviceid_number HealthyApricotGlori {
+    _hidden_value = true
+  }
+  string HistoricScarletStephannie {
+    _hidden_value = true
+  }
+  serviceid CuteCoralLoreen {
+    _hidden_value = true
+  }
+  string IncredibleGreenSib {
+    _hidden_value = true
+  }
+  string YieldingPeachUmeko {
+    _hidden_value = true
+  }
+  BareScarletNaomi = true
+  PublicOrangeLeda = true
+  ConservativeAmaranthKevyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ObnoxiousAquaLorain = 410
+  ZonalPeachRorie = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ZonalPeachRorie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PublicOrangeLeda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

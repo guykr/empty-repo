@@ -1,0 +1,31 @@
+type dummy.RevolutionaryWhiteHannah is boolean {
+  annotations {
+    boolean WickedCyanMaureene {
+    }
+    json ElectoralSapphireDevonne {
+    }
+    boolean UncomfortableMaroonMeara {
+    }
+    number EmptyCoralDynah {
+    }
+    boolean FreshAquamarineOrsa {
+    }
+    serviceid_number CasualGreenDaniella {
+    }
+    number FranticIvoryWinnifred {
+    }
+    serviceid_number NeighbouringAmaranthJacquelin {
+    }
+    serviceid RemoteBeigeCandi {
+    }
+  }
+  WickedCyanMaureene = true
+  ElectoralSapphireDevonne = "Why do birds fly south for the winter? Because it's too far to walk."
+  UncomfortableMaroonMeara = false
+  EmptyCoralDynah = 665
+  FreshAquamarineOrsa = false
+  CasualGreenDaniella = 409
+  FranticIvoryWinnifred = 788
+  NeighbouringAmaranthJacquelin = 389
+  RemoteBeigeCandi = "What do you call two barracuda fish?  A Pairacuda!"
+}

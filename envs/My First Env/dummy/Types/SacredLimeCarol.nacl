@@ -1,0 +1,75 @@
+type dummy.SacredLimeCarol {
+  annotations {
+    serviceid IllBlueTina {
+    }
+    json SensitiveSapphireMellisent {
+    }
+    hidden_boolean MonetaryJadeAudry {
+    }
+    number DelightfulTanSandy {
+    }
+    boolean FederalTurquoiseEdiva {
+    }
+  }
+  string ContinuedCoffeeRebbecca {
+    _hidden_value = true
+  }
+  serviceid_number UnusualBlackGratia {
+    _hidden_value = true
+  }
+  serviceid InherentApricotMaurine {
+    _hidden_value = true
+  }
+  serviceid ShortAmaranthCristabel {
+    _hidden_value = true
+  }
+  hidden_boolean AssistantSalmonDorita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ValuableTanJanenna {
+    _hidden_value = true
+  }
+  number MammothAzureSharla {
+    _hidden_value = true
+  }
+  boolean WonderfulCoffeeRaine {
+    _hidden_value = true
+  }
+  "List<serviceid>" BurningCyanAleece {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SickIndigoCilka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PurringJadeRiva {
+    _hidden_value = true
+  }
+  IllBlueTina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SensitiveSapphireMellisent = "Why didnt the skeleton cross the road? Because he had no guts."
+  DelightfulTanSandy = 630
+  FederalTurquoiseEdiva = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ValuableTanJanenna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IllBlueTina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FederalTurquoiseEdiva"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

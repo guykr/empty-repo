@@ -1,0 +1,96 @@
+type dummy.MildGreenValina {
+  annotations {
+    string TenseBeigeElianore {
+    }
+    hidden_boolean ClosedAmaranthSherrie {
+    }
+    string GastricMaroonClaudette {
+    }
+  }
+  json AmusedAquaGreta {
+    _hidden_value = true
+  }
+  json DetailedTealAlina {
+    _hidden_value = true
+  }
+  number JudicialGreenGeorgette {
+    _hidden_value = true
+  }
+  serviceid_number BrokenRedCayla {
+    _hidden_value = true
+  }
+  hidden_boolean FollowingBeigeHannah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExcellentCyanJoanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InnerPeachAriel {
+    _hidden_value = true
+  }
+  hidden_boolean EnormousOliveRomonda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HelplessSilverVania {
+    _hidden_value = true
+  }
+  number ConventionalLimeLoutitia {
+    _hidden_value = true
+  }
+  string IndependentMaroonVittoria {
+    _hidden_value = true
+  }
+  json RadicalTurquoiseBell {
+    _hidden_value = true
+  }
+  boolean ZonalCyanTootsie {
+    _hidden_value = true
+  }
+  hidden_boolean HonestBlackHelyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SmoggyRoseCristal {
+    _hidden_value = true
+  }
+  number UnemployedIvoryBabette {
+    _hidden_value = true
+  }
+  TenseBeigeElianore = "Why do birds fly south for the winter? Because it's too far to walk."
+  GastricMaroonClaudette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HonestBlackHelyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InnerPeachAriel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BrokenRedCayla"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConventionalLimeLoutitia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GastricMaroonClaudette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

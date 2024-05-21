@@ -1,0 +1,93 @@
+type dummy.OldPeachFleurette {
+  annotations {
+    serviceid_number LinearAmethystZitella {
+    }
+    serviceid ActivePurpleDelly {
+    }
+    serviceid_number YouthfulAmethystElectra {
+    }
+    serviceid_number EmptyTomatoBernette {
+    }
+    json UglyTealHelli {
+    }
+    serviceid_number FierceJadeRahal {
+    }
+    hidden_boolean UnwillingGrayVirgina {
+    }
+    string SwiftYellowVonni {
+    }
+    hidden_boolean BoldApricotWinifred {
+    }
+    serviceid GrumpyMoccasinFayette {
+    }
+    dummy.FatCoffeeAlbertine CivilBeigeCarole {
+    }
+    dummy.StatisticalPurpleTish ChiefSilverBrandice {
+    }
+    serviceid_number ActualMagentaNicola {
+    }
+    serviceid_number CrowdedAmaranthCammy {
+    }
+    boolean SpareTomatoJosy {
+    }
+    boolean HushedBlackAnabel {
+    }
+    string ExtraAmberNanete {
+    }
+    number IndirectTealIsabel {
+    }
+    number FilthyIvoryRodi {
+    }
+    dummy.SharpCopperFlossy PositiveCoffeeRosamund {
+    }
+  }
+  LinearAmethystZitella = 645
+  ActivePurpleDelly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  YouthfulAmethystElectra = 831
+  EmptyTomatoBernette = 154
+  UglyTealHelli = "A steak pun is a rare medium well done."
+  FierceJadeRahal = 5
+  SwiftYellowVonni = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GrumpyMoccasinFayette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ActualMagentaNicola = 204
+  CrowdedAmaranthCammy = 520
+  SpareTomatoJosy = false
+  HushedBlackAnabel = true
+  ExtraAmberNanete = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IndirectTealIsabel = 720
+  FilthyIvoryRodi = 81
+  PositiveCoffeeRosamund = file("ReadyGreenAundrea.txt")
+  _self_important_values = [
+    {
+      value = "FilthyIvoryRodi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IndirectTealIsabel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PositiveCoffeeRosamund"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CivilBeigeCarole"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ActivePurpleDelly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChiefSilverBrandice"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "OldPeachFleurette_alias"
+}

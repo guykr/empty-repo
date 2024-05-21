@@ -1,0 +1,34 @@
+type dummy.UnwillingApricotGriselda {
+  annotations {
+    serviceid RemainingScarletAdina {
+    }
+    hidden_boolean SteadyPinkGwenneth {
+    }
+    json ThickPinkAtalanta {
+    }
+    number PastAzureMalvina {
+    }
+    boolean WildTanChristian {
+    }
+  }
+  serviceid SilentChocolateMaressa {
+    _hidden_value = true
+  }
+  RemainingScarletAdina = "To be Frank, I'd have to change my name."
+  ThickPinkAtalanta = "Slept like a log last night  woke up in the fireplace."
+  PastAzureMalvina = 853
+  WildTanChristian = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ThickPinkAtalanta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WildTanChristian"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

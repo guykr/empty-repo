@@ -1,0 +1,7 @@
+type dummy.WhisperingTomatoKendra {
+  hidden_boolean AnnoyedOrangeAdeline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+}

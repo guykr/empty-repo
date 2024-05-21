@@ -1,0 +1,41 @@
+type dummy.MainCopperBobbie {
+  annotations {
+    dummy.TightChocolateMinta CombativeCopperLindsey {
+    }
+    serviceid_number FriendlySapphireAleda {
+    }
+    string YodellingOliveRebecca {
+    }
+    dummy.DEFAULT DefeatedPlumMalinde {
+    }
+    hidden_boolean AdverseRoseCicely {
+    }
+    hidden_boolean PsychologicalGreenGratia {
+    }
+    number VocalScarletLaina {
+    }
+  }
+  json YoungFuchsiaAurie {
+    _hidden_value = true
+  }
+  CombativeCopperLindsey = false
+  FriendlySapphireAleda = 149
+  YodellingOliveRebecca = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DefeatedPlumMalinde = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  VocalScarletLaina = 652
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PsychologicalGreenGratia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FriendlySapphireAleda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

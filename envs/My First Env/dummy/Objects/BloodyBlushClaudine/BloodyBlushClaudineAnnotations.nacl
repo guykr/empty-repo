@@ -1,0 +1,91 @@
+type dummy.BloodyBlushClaudine {
+  annotations {
+    json CuteAmaranthOrel {
+    }
+    json SurprisingMagentaAnnabell {
+    }
+    hidden_boolean SuperiorAquamarineGene {
+    }
+    hidden_boolean ScrawnyEmeraldChelsey {
+    }
+    number RepulsiveAmberAnabel {
+    }
+    serviceid SourPurpleChad {
+    }
+    number HostileSapphireRosalia {
+    }
+    string ToxicPlumShana {
+    }
+    boolean SemanticGreenElora {
+    }
+    string UnemployedWhiteJackquelin {
+    }
+    boolean OddChocolateAuroora {
+    }
+    string NearWhiteEllissa {
+    }
+    number YellingBrownBunni {
+    }
+    boolean ValuableGrayBrietta {
+    }
+    serviceid_number SmoothCyanMirabelle {
+    }
+    json ZygomorphicBronzeAleece {
+    }
+    hidden_boolean SpecialMoccasinChere {
+    }
+    boolean DivineMagentaAudrye {
+    }
+    number LonelyAzureClarinda {
+    }
+    serviceid_number FantasticMaroonAdi {
+    }
+  }
+  CuteAmaranthOrel = "How come the stadium got hot after the game? Because all of the fans left."
+  SurprisingMagentaAnnabell = "Dad Im hungry  Hi hungry Im dad"
+  RepulsiveAmberAnabel = 6
+  SourPurpleChad = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HostileSapphireRosalia = 386
+  ToxicPlumShana = "Why was it called the dark ages? Because of all the knights. "
+  SemanticGreenElora = true
+  UnemployedWhiteJackquelin = "Why didnt the skeleton cross the road? Because he had no guts."
+  OddChocolateAuroora = true
+  NearWhiteEllissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  YellingBrownBunni = 813
+  ValuableGrayBrietta = false
+  SmoothCyanMirabelle = 657
+  ZygomorphicBronzeAleece = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DivineMagentaAudrye = false
+  LonelyAzureClarinda = 213
+  FantasticMaroonAdi = 631
+  _important_values = [
+    {
+      value = "UnsightlyAmberKatha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YellingBrownBunni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpecialMoccasinChere"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ZygomorphicBronzeAleece"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SemanticGreenElora"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "BloodyBlushClaudine_alias"
+}

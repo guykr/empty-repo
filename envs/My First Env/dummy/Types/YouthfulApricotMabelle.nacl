@@ -1,0 +1,31 @@
+type dummy.YouthfulApricotMabelle {
+  annotations {
+    json CivicApricotCatie {
+    }
+    serviceid ConvincingLavenderThomasa {
+    }
+    dummy.DEFAULT TraditionalRoseKass {
+    }
+    serviceid_number OrganicScarletCelle {
+    }
+    boolean MelodicPlumRenae {
+    }
+    boolean SuccessiveGrayShelia {
+    }
+    boolean BloodyBlueMalva {
+    }
+  }
+  boolean YodellingBeigeMadlen {
+    _hidden_value = true
+  }
+  CivicApricotCatie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConvincingLavenderThomasa = "Why did the kid cross the playground? To get to the other slide."
+  TraditionalRoseKass = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  OrganicScarletCelle = 540
+  MelodicPlumRenae = false
+  SuccessiveGrayShelia = false
+  BloodyBlueMalva = true
+  _hidden_value = true
+}

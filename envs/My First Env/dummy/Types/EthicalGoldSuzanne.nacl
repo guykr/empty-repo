@@ -1,0 +1,57 @@
+type dummy.EthicalGoldSuzanne {
+  annotations {
+    number SeriousYellowKial {
+    }
+    boolean EnvironmentalCoffeeNinette {
+    }
+    boolean ColorfulSilverJaney {
+    }
+    number ParliamentaryBronzeStormi {
+    }
+    hidden_boolean StuckApricotPetra {
+    }
+    serviceid PsychiatricMagentaJemimah {
+    }
+    boolean HilariousBlushRanique {
+    }
+  }
+  serviceid_number PregnantPlumTessi {
+    _hidden_value = true
+  }
+  hidden_boolean BlondeAmberTerra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.BrilliantAmethystShannah AggregateTanHilary {
+    ConcernedApricotMariel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CharacteristicSapphireMichele = false
+    ScatteredGreenFrankie = "Why is Peter Pan always flying? Because he Neverlands."
+    DigitalCrimsonRosella = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  boolean ConventionalEmeraldCorabella {
+    _hidden_value = true
+  }
+  SeriousYellowKial = 919
+  EnvironmentalCoffeeNinette = false
+  ColorfulSilverJaney = true
+  ParliamentaryBronzeStormi = 758
+  PsychiatricMagentaJemimah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HilariousBlushRanique = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConventionalEmeraldCorabella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EnvironmentalCoffeeNinette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

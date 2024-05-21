@@ -1,0 +1,44 @@
+type dummy.OverseasTealHayley is string {
+  annotations {
+    number ArtisticLimeThea {
+    }
+    hidden_boolean WorldwideChocolateEvita {
+    }
+    boolean SharedCopperDavina {
+    }
+    json SimilarTealSheena {
+    }
+    serviceid SickJadeLanette {
+    }
+    string WearyPeachDelly {
+    }
+    json RetiredIndigoLynda {
+    }
+    hidden_boolean LegalVioletJulienne {
+    }
+    hidden_boolean CasualPlumMargaux {
+    }
+    number StrictSapphireLil {
+    }
+    dummy.DEFAULT ContinuingGoldLanita {
+    }
+    serviceid ShrillCyanRivy {
+    }
+    json FirmEmeraldJanet {
+    }
+    hidden_boolean ImmenseBlushBonni {
+    }
+  }
+  ArtisticLimeThea = 246
+  SharedCopperDavina = false
+  SimilarTealSheena = "Did you know that protons have mass? I didn't even know they were catholic."
+  SickJadeLanette = "Whoever invented the knock-knock joke should get a no bell prize."
+  WearyPeachDelly = "Im only familiar with 25 letters in the English language. I dont know why."
+  RetiredIndigoLynda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StrictSapphireLil = 391
+  ContinuingGoldLanita = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ShrillCyanRivy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FirmEmeraldJanet = "Why do birds fly south for the winter? Because it's too far to walk."
+}

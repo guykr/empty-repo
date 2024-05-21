@@ -1,0 +1,21 @@
+type dummy.AcuteJadeGertrude {
+  annotations {
+    number DetailedJadeEmmaline {
+    }
+    number EnergeticSalmonKarlie {
+    }
+    hidden_boolean MentalAmberAleda {
+    }
+    serviceid StatisticalOrangePhilis {
+    }
+    hidden_boolean ImpressedWhiteTrudy {
+    }
+  }
+  number CompulsoryAmethystGlenna {
+    _hidden_value = true
+  }
+  DetailedJadeEmmaline = 566
+  EnergeticSalmonKarlie = 555
+  StatisticalOrangePhilis = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

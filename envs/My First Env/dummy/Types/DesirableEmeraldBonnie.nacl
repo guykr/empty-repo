@@ -1,0 +1,32 @@
+type dummy.DesirableEmeraldBonnie {
+  annotations {
+    string DesirableMagentaHali {
+    }
+    json MajorApricotArabella {
+    }
+    number VaryingVioletElysee {
+    }
+    serviceid_number SoleCoralDel {
+    }
+    hidden_boolean RareCopperLisette {
+    }
+    serviceid YellingCoffeeKathye {
+    }
+  }
+  string RulingTealRobenia {
+    _hidden_value = true
+  }
+  dummy.BrilliantAmethystShannah VocationalVioletKatharine {
+    ConcernedApricotMariel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    CharacteristicSapphireMichele = false
+    ScatteredGreenFrankie = "Why is Peter Pan always flying? Because he Neverlands."
+    DigitalCrimsonRosella = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  DesirableMagentaHali = "Whoever invented the knock-knock joke should get a no bell prize."
+  MajorApricotArabella = "Why was it called the dark ages? Because of all the knights. "
+  VaryingVioletElysee = 493
+  SoleCoralDel = 784
+  YellingCoffeeKathye = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

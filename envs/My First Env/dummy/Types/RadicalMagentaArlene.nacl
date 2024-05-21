@@ -1,0 +1,34 @@
+type dummy.RadicalMagentaArlene {
+  annotations {
+    json BusyPeachTeressa {
+    }
+    serviceid_number FilthyBlackCissiee {
+    }
+    boolean CreativeSapphireMellisa {
+    }
+    hidden_boolean InterestedAmaranthDorothy {
+    }
+    string WetFuchsiaTrish {
+    }
+    hidden_boolean HelplessTurquoiseDianne {
+    }
+    number SpatialOliveDulcy {
+    }
+  }
+  json ColonialYellowDawna {
+    _hidden_value = true
+  }
+  BusyPeachTeressa = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FilthyBlackCissiee = 950
+  CreativeSapphireMellisa = false
+  WetFuchsiaTrish = "Why did the tomato blush? Because it saw the salad dressing."
+  SpatialOliveDulcy = 986
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CreativeSapphireMellisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

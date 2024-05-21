@@ -1,0 +1,62 @@
+type dummy.WildOrangeLynnelle {
+  annotations {
+    boolean EffectiveBrownPippy {
+    }
+    serviceid_number ConsiderableCopperMinny {
+    }
+    dummy.DEFAULT OfficialTurquoiseMadel {
+    }
+    hidden_boolean DeterminedWhiteAmabelle {
+    }
+    serviceid BizarreCrimsonLana {
+    }
+  }
+  hidden_boolean DisturbingCyanKristien {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PriorAzureBecki {
+    _hidden_value = true
+  }
+  serviceid SuccessiveAmaranthSadye {
+    _hidden_value = true
+  }
+  serviceid_number TerritorialIndigoFleurette {
+    _hidden_value = true
+  }
+  serviceid DevelopedAmaranthLynnet {
+    _hidden_value = true
+  }
+  string ScatteredWhiteSylvia {
+    _hidden_value = true
+  }
+  dummy.RareScarletEllyn UnwillingRedTabbie {
+    DecisiveAzureClemmie = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    HissingAquaBilly = "Why was it called the dark ages? Because of all the knights. "
+    AggregatePinkPauline = 465
+    ReadyCopperMariam = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DirectOrangeDorotea = false
+    MightyChocolateElicia = 7
+    ParallelBronzeFlori = true
+    ControlledOrangeAvis = 444
+    FuzzyGreenBinny = 33
+    _hidden_value = true
+  }
+  EffectiveBrownPippy = true
+  ConsiderableCopperMinny = 676
+  OfficialTurquoiseMadel = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  BizarreCrimsonLana = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BizarreCrimsonLana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,48 @@
+type dummy.RationalCyanPaloma {
+  annotations {
+    number SelectHarlequinGwenette {
+    }
+    hidden_boolean WrongLimeJoanie {
+    }
+    boolean ClassicalCrimsonAlexandra {
+    }
+    serviceid_number EthicalIvoryHenrie {
+    }
+    string ShallowTanLinell {
+    }
+    string LesserIndigoShelbi {
+    }
+  }
+  string PlannedMaroonRegine {
+    _hidden_value = true
+  }
+  number ProtectivePinkChristie {
+    _hidden_value = true
+  }
+  json ViciousGoldYnes {
+    _hidden_value = true
+  }
+  json QuickPinkVelvet {
+    _hidden_value = true
+  }
+  SelectHarlequinGwenette = 318
+  ClassicalCrimsonAlexandra = false
+  EthicalIvoryHenrie = 215
+  ShallowTanLinell = "Slept like a log last night  woke up in the fireplace."
+  LesserIndigoShelbi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProtectivePinkChristie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LesserIndigoShelbi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

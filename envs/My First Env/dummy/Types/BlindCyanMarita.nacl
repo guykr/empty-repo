@@ -1,0 +1,82 @@
+type dummy.BlindCyanMarita {
+  annotations {
+    serviceid_number WesternCrimsonChristabel {
+    }
+    string GrotesqueRoseMiquela {
+    }
+    serviceid_number DreadfulRoseKessia {
+    }
+    serviceid_number LooseGoldQuinta {
+    }
+    hidden_boolean TremendousLimeNollie {
+    }
+    string DisabledCoffeeNicole {
+    }
+  }
+  dummy.DistinctWhiteAdi CarefulBlushCristen {
+    UncomfortableFuchsiaCosetta = 502
+    _hidden_value = true
+  }
+  hidden_boolean DomesticLavenderKessia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DevotedTealSteffi {
+    _hidden_value = true
+  }
+  serviceid_number ArtificialAmethystAngil {
+    _hidden_value = true
+  }
+  dummy.SwiftAzureBryn VicariousCrimsonKandace {
+    VoluntaryGoldAinslie = 243
+    PreviousBlueAmi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MentalIvoryDania = "Why did the kid cross the playground? To get to the other slide."
+    XerothermicAquamarineCariotta = 898
+    _hidden_value = true
+  }
+  serviceid_number AcademicRedAloise {
+    _hidden_value = true
+  }
+  hidden_boolean NecessaryYellowInez {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MiddlePurpleAlbertine {
+    _hidden_value = true
+  }
+  serviceid_number InjuredBrownNinette {
+    _hidden_value = true
+  }
+  boolean DisgustedAzureFilide {
+    _hidden_value = true
+  }
+  serviceid_number SensibleCoralPaige {
+    _hidden_value = true
+  }
+  serviceid_number PopularYellowFidela {
+    _hidden_value = true
+  }
+  boolean BetterCyanRochella {
+    _hidden_value = true
+  }
+  WesternCrimsonChristabel = 642
+  GrotesqueRoseMiquela = "Why is Peter Pan always flying? Because he Neverlands."
+  DreadfulRoseKessia = 859
+  LooseGoldQuinta = 195
+  DisabledCoffeeNicole = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DomesticLavenderKessia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PopularYellowFidela"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

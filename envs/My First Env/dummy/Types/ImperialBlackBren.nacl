@@ -1,0 +1,125 @@
+type dummy.ImperialBlackBren {
+  annotations {
+    serviceid ObjectiveVioletMariska {
+    }
+    serviceid_number DynamicCopperLisette {
+    }
+    serviceid ImpressedBlushFloris {
+    }
+    serviceid_number FriendlyCyanMelita {
+    }
+    json UniformCopperColette {
+    }
+  }
+  json CorporateBronzeColette {
+    _hidden_value = true
+  }
+  number DefeatedBeigeAgneta {
+    _hidden_value = true
+  }
+  number OldBeigeBrunhilde {
+    _hidden_value = true
+  }
+  json VariousPeachClementine {
+    _hidden_value = true
+  }
+  serviceid_number QuarrelsomeBrownCarmine {
+    _hidden_value = true
+  }
+  number GrandBlushOralia {
+    _hidden_value = true
+  }
+  serviceid_number SharedIndigoMinny {
+    _hidden_value = true
+  }
+  serviceid_number PreparedWhiteMaribel {
+    _hidden_value = true
+  }
+  serviceid_number SupportingPlumDareen {
+    _hidden_value = true
+  }
+  serviceid_number CompetentTomatoGloriane {
+    _hidden_value = true
+  }
+  hidden_boolean ActualMagentaGlenna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid VocalChocolateCherilyn {
+    _hidden_value = true
+  }
+  number ManySalmonSissy {
+    _hidden_value = true
+  }
+  string CombativeHarlequinRuthe {
+    _hidden_value = true
+  }
+  string AmazingAmaranthGwenora {
+    _hidden_value = true
+  }
+  boolean SpareSapphireShoshana {
+    _hidden_value = true
+  }
+  hidden_boolean InnerSilverDomini {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GiganticCyanEmelita {
+    _hidden_value = true
+  }
+  ObjectiveVioletMariska = "How come the stadium got hot after the game? Because all of the fans left."
+  DynamicCopperLisette = 716
+  ImpressedBlushFloris = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FriendlyCyanMelita = 3
+  UniformCopperColette = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AmazingAmaranthGwenora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrandBlushOralia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DefeatedBeigeAgneta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CombativeHarlequinRuthe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CompetentTomatoGloriane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SharedIndigoMinny"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SupportingPlumDareen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VariousPeachClementine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ManySalmonSissy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

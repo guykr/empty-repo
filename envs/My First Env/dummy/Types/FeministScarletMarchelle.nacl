@@ -1,0 +1,118 @@
+type dummy.FeministScarletMarchelle {
+  annotations {
+    hidden_boolean RealisticRoseDaisey {
+    }
+    number SourCrimsonDionis {
+    }
+    dummy.GayTealFredi BreezyTanHayley {
+    }
+    serviceid YodellingTealGiralda {
+    }
+    hidden_boolean StiffRoseLolita {
+    }
+    serviceid HardCoffeeElfrida {
+    }
+    number ModernPinkLauryn {
+    }
+  }
+  json EthnicAquaEthel {
+    _hidden_value = true
+  }
+  serviceid_number WetApricotGabriellia {
+    _hidden_value = true
+  }
+  serviceid_number PromisingRoseRaye {
+    _hidden_value = true
+  }
+  serviceid ProtectiveRedZulema {
+    _hidden_value = true
+  }
+  boolean IllBlueFallon {
+    _hidden_value = true
+  }
+  serviceid UnacceptableMoccasinAlverta {
+    _hidden_value = true
+  }
+  string FitSapphireKalli {
+    _hidden_value = true
+  }
+  serviceid ClassicBlushLeeann {
+    _hidden_value = true
+  }
+  serviceid IndustrialHarlequinTabina {
+    _hidden_value = true
+  }
+  json CleanCyanMariejeanne {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalHarlequinKimberly {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariableHarlequinKaterina {
+    _hidden_value = true
+  }
+  boolean UsualCrimsonLucienne {
+    _hidden_value = true
+  }
+  string WittyScarletCarrissa {
+    _hidden_value = true
+  }
+  hidden_boolean BareCrimsonFulvia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HugeCrimsonAliza {
+    _hidden_value = true
+  }
+  serviceid_number WeeIndigoMinna {
+    _hidden_value = true
+  }
+  boolean ExternalPurpleEmilie {
+    _hidden_value = true
+  }
+  boolean EffectivePurpleMaude {
+    _hidden_value = true
+  }
+  hidden_boolean LostBlushSalli {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DiplomaticGoldFidelity {
+    _hidden_value = true
+  }
+  string TinyFuchsiaZena {
+    _hidden_value = true
+  }
+  string GreatPeachTimmi {
+    _hidden_value = true
+  }
+  SourCrimsonDionis = 166
+  BreezyTanHayley = "What do you do on a remote island? Try and find the TV island it belongs to."
+  YodellingTealGiralda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HardCoffeeElfrida = "Dad Im hungry  Hi hungry Im dad"
+  ModernPinkLauryn = 290
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LostBlushSalli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnacceptableMoccasinAlverta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BreezyTanHayley"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

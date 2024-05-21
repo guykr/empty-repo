@@ -1,0 +1,46 @@
+type dummy.ImportantFuchsiaBunni {
+  annotations {
+    boolean LeftMaroonAleta {
+    }
+    string BloodySalmonAdah {
+    }
+    dummy.DEFAULT ParentalWhiteBrittaney {
+    }
+    boolean PlainVioletChloe {
+    }
+  }
+  string NeighbouringOliveVonnie {
+    _hidden_value = true
+  }
+  boolean KindRoseIrina {
+    _hidden_value = true
+  }
+  boolean FierceJadeAggy {
+    _hidden_value = true
+  }
+  json ContinuousCoffeeIleane {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PermanentLimeEmelyne {
+    _hidden_value = true
+  }
+  LeftMaroonAleta = false
+  BloodySalmonAdah = "Why did the tomato blush? Because it saw the salad dressing."
+  ParentalWhiteBrittaney = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  PlainVioletChloe = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ContinuousCoffeeIleane"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PermanentLimeEmelyne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

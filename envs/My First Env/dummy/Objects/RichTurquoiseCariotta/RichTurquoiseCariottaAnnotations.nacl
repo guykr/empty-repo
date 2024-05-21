@@ -1,0 +1,92 @@
+type dummy.RichTurquoiseCariotta {
+  annotations {
+    json DefiniteApricotMillisent {
+    }
+    serviceid AlternativeSilverStephannie {
+    }
+    serviceid UptightTanMagda {
+    }
+    serviceid_number QuintessentialOrangeAmanda {
+    }
+    number ImprovedBlackViola {
+    }
+    dummy.YappyMaroonSioux ShinyPeachGilemette {
+    }
+    boolean AwfulVioletJoice {
+    }
+    serviceid_number InteriorTanTorrie {
+    }
+    hidden_boolean MarvellousCopperKiley {
+    }
+    string ProfoundBrownFrederique {
+    }
+    dummy.ForwardBlackNata ShortWhiteDeloris {
+    }
+    json LongPlumKandace {
+    }
+    boolean DevotedCopperSara {
+    }
+    boolean InjuredCyanDdene {
+    }
+    string ChillyCopperElianore {
+    }
+    dummy.FoolishJadeSharon LtdLavenderMozelle {
+    }
+    string InterestedScarletIsidora {
+    }
+    string RichAmberGenevieve {
+    }
+    serviceid_number GothicChocolateMargarette {
+    }
+    boolean OverwhelmingTurquoiseMelanie {
+    }
+    serviceid_number NearPlumCherilynn {
+    }
+    json NeighbouringAquamarineKelly {
+    }
+    string SovietBeigeArdella {
+    }
+    dummy.FrequentAmberCynde ScaryAmaranthMargi {
+    }
+  }
+  DefiniteApricotMillisent = "Why did the tomato blush? Because it saw the salad dressing."
+  AlternativeSilverStephannie = "How come the stadium got hot after the game? Because all of the fans left."
+  UptightTanMagda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  QuintessentialOrangeAmanda = 229
+  ImprovedBlackViola = 518
+  ShinyPeachGilemette = file("KeenBlueGarnet.txt")
+  AwfulVioletJoice = true
+  InteriorTanTorrie = 245
+  ProfoundBrownFrederique = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShortWhiteDeloris = file("DiverseOrangeUrsulina.txt")
+  LongPlumKandace = "How come the stadium got hot after the game? Because all of the fans left."
+  DevotedCopperSara = false
+  InjuredCyanDdene = false
+  ChillyCopperElianore = "What do you call two barracuda fish?  A Pairacuda!"
+  LtdLavenderMozelle = file("FrailOrangeMarquita.txt")
+  InterestedScarletIsidora = "A steak pun is a rare medium well done."
+  RichAmberGenevieve = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GothicChocolateMargarette = 630
+  OverwhelmingTurquoiseMelanie = false
+  NearPlumCherilynn = 775
+  NeighbouringAquamarineKelly = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SovietBeigeArdella = "Why is Peter Pan always flying? Because he Neverlands."
+  _self_important_values = [
+    {
+      value = "OverwhelmingTurquoiseMelanie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NeighbouringAquamarineKelly"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ShortWhiteDeloris"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "RichTurquoiseCariotta_alias"
+}

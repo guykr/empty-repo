@@ -1,0 +1,73 @@
+type dummy.LeftLavenderYetta {
+  annotations {
+    serviceid MixedMagentaAngel {
+    }
+    hidden_boolean FeministVioletShoshana {
+    }
+    serviceid ConceptualCopperYnes {
+    }
+    hidden_boolean ThoughtlessBlushIseabal {
+    }
+    json ContinuingAquaTabbie {
+    }
+    hidden_boolean ColossalYellowBrenda {
+    }
+    boolean CurvedPeachGabey {
+    }
+    serviceid FriendlyRoseGigi {
+    }
+    dummy.ProudBlushPolly LightAmethystJinny {
+    }
+    serviceid_number CrazyMagentaDarcy {
+    }
+    json SensibleHarlequinNona {
+    }
+    serviceid XerothermicBlushCindi {
+    }
+    serviceid_number LeadingEmeraldIlka {
+    }
+    dummy.RunningPlumCasi CurrentLavenderDorena {
+    }
+    json BadIndigoMadella {
+    }
+    dummy.ShaggyTomatoDorine EstablishedAmethystKorella {
+    }
+    serviceid_number StrangeSilverHana {
+    }
+    json WeakTealBrittni {
+    }
+  }
+  MixedMagentaAngel = "Slept like a log last night  woke up in the fireplace."
+  ConceptualCopperYnes = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ContinuingAquaTabbie = "Dad Im hungry  Hi hungry Im dad"
+  CurvedPeachGabey = true
+  FriendlyRoseGigi = "Why did the kid cross the playground? To get to the other slide."
+  CrazyMagentaDarcy = 604
+  SensibleHarlequinNona = "Why did the tomato blush? Because it saw the salad dressing."
+  XerothermicBlushCindi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LeadingEmeraldIlka = 904
+  CurrentLavenderDorena = true
+  BadIndigoMadella = "My first time using an elevator was an uplifting experience. The second time let me down."
+  StrangeSilverHana = 127
+  WeakTealBrittni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _important_values = [
+    {
+      value = "ExperimentalSapphireDari"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MilitaryAmethystFilide"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FeministVioletShoshana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "LeftLavenderYetta_alias"
+}

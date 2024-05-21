@@ -1,0 +1,140 @@
+type dummy.DustyApricotAlissa {
+  annotations {
+    json SlowTanEdeline {
+    }
+    string SolidScarletBerty {
+    }
+    hidden_boolean CondemnedBrownKarena {
+    }
+    string HungryOliveDeidre {
+    }
+    number ProvincialLimeAdela {
+    }
+    json ClassicTomatoGabriela {
+    }
+  }
+  string FlakyEmeraldPier {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DisturbedMagentaDemeter {
+    _hidden_value = true
+  }
+  serviceid MiniatureOliveIrene {
+    _hidden_value = true
+  }
+  serviceid_number WorthyBronzeMarabel {
+    _hidden_value = true
+  }
+  hidden_boolean ElectoralPlumLanni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ShrillIndigoCollete {
+    _hidden_value = true
+  }
+  dummy.ChristianGrayGlen WonderfulCyanGelya {
+    XenaciousSalmonMaddalena = true
+    StraightAmethystLuciana = "Why is Peter Pan always flying? Because he Neverlands."
+    SmallBlushEmmalyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SuperbPurpleFayth = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WorryingOrangeLonna = 315
+    DustyMoccasinClaribel = "What creature is smarter than a talking parrot? A spelling bee."
+    HistoricPurpleGaby = "What do you call two barracuda fish?  A Pairacuda!"
+    UptightCoffeeHarri = "What do you call two barracuda fish?  A Pairacuda!"
+    ObnoxiousIvoryBill = true
+    RubberJadeLexis = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  json AccessibleScarletAfton {
+    _hidden_value = true
+  }
+  hidden_boolean FrozenSalmonEustacia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number WhisperingGrayMary {
+    _hidden_value = true
+  }
+  boolean AssistantAquamarineCristal {
+    _hidden_value = true
+  }
+  string SleepyBeigeMariquilla {
+    _hidden_value = true
+  }
+  dummy.HostileAmethystAlta SuperiorTealErena {
+    ObligedHarlequinEmmie = true
+    DifferentMagentaOphelie = 924
+    RidiculousRoseGretchen = true
+    _hidden_value = true
+  }
+  hidden_boolean EssentialMoccasinCarmelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json HorizontalOrangeSusy {
+    _hidden_value = true
+  }
+  SlowTanEdeline = "What creature is smarter than a talking parrot? A spelling bee."
+  SolidScarletBerty = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HungryOliveDeidre = "How come the stadium got hot after the game? Because all of the fans left."
+  ProvincialLimeAdela = 817
+  ClassicTomatoGabriela = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrozenSalmonEustacia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FlakyEmeraldPier"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ShrillIndigoCollete"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WhisperingGrayMary"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WonderfulCyanGelya"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AccessibleScarletAfton"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SleepyBeigeMariquilla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CondemnedBrownKarena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SlowTanEdeline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SolidScarletBerty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

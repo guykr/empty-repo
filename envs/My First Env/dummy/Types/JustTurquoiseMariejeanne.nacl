@@ -1,0 +1,31 @@
+type dummy.JustTurquoiseMariejeanne {
+  annotations {
+    hidden_boolean WorriedAmethystGayla {
+    }
+    number ScientificTurquoiseEmmalynn {
+    }
+    boolean VoluntaryBronzeBabs {
+    }
+    serviceid_number HilariousBronzeDolley {
+    }
+    number AlternativeAzureJordain {
+    }
+    hidden_boolean TestyLavenderRozamond {
+    }
+  }
+  serviceid_number CrookedCrimsonGillian {
+    _hidden_value = true
+  }
+  ScientificTurquoiseEmmalynn = 39
+  VoluntaryBronzeBabs = true
+  HilariousBronzeDolley = 301
+  AlternativeAzureJordain = 565
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ScientificTurquoiseEmmalynn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

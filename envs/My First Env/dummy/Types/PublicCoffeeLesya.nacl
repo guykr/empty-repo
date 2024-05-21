@@ -1,0 +1,37 @@
+type dummy.PublicCoffeeLesya {
+  annotations {
+    string PunyLavenderFarrand {
+    }
+    boolean UninterestedScarletKarin {
+    }
+    boolean TypicalOliveHelaina {
+    }
+    string EasternJadeIlene {
+    }
+  }
+  boolean LiteraryGreenToinette {
+    _hidden_value = true
+  }
+  number ComparativeMagentaRisa {
+    _hidden_value = true
+  }
+  PunyLavenderFarrand = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UninterestedScarletKarin = false
+  TypicalOliveHelaina = false
+  EasternJadeIlene = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LiteraryGreenToinette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PunyLavenderFarrand"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

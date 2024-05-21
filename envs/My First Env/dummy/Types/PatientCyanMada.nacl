@@ -1,0 +1,77 @@
+type dummy.PatientCyanMada {
+  annotations {
+    number AutonomousBrownHarlie {
+    }
+    serviceid_number DisappointedBeigeGermana {
+    }
+    dummy.DEFAULT ConsiderableGreenTess {
+    }
+    boolean DrunkVioletMarian {
+    }
+    dummy.DEFAULT SoftMoccasinRuperta {
+    }
+  }
+  hidden_boolean WearyPurpleMaxie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CourageousCopperTricia {
+    _hidden_value = true
+  }
+  boolean ManagingGoldLillian {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingLimeMariel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ZerothAmaranthAllx {
+    _hidden_value = true
+  }
+  serviceid_number RandomRedMarrilee {
+    _hidden_value = true
+  }
+  serviceid_number InclinedGreenBarbi {
+    _hidden_value = true
+  }
+  string AdministrativeIvoryFlorenza {
+    _hidden_value = true
+  }
+  string AwareJadeTandie {
+    _hidden_value = true
+  }
+  serviceid_number GrossOliveGerta {
+    _hidden_value = true
+  }
+  AutonomousBrownHarlie = 81
+  DisappointedBeigeGermana = 805
+  ConsiderableGreenTess = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  DrunkVioletMarian = true
+  SoftMoccasinRuperta = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ZerothAmaranthAllx"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AwareJadeTandie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConsiderableGreenTess"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

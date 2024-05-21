@@ -1,0 +1,83 @@
+type dummy.ProtestantBlushDelilah {
+  annotations {
+    dummy.HostileAmethystAlta CivilCoffeeEvania {
+    }
+    serviceid WidespreadCoralKalli {
+    }
+    serviceid_number UncomfortableJadeLiuka {
+    }
+    serviceid FatalLimeDacia {
+    }
+    number CreepyAquaHilary {
+    }
+    serviceid ApparentApricotBrena {
+    }
+  }
+  string StormyPeachSharline {
+    _hidden_value = true
+  }
+  string FancyCopperEadith {
+    _hidden_value = true
+  }
+  serviceid_number ConfidentialCyanMeggi {
+    _hidden_value = true
+  }
+  json YouthfulSapphireAfton {
+    _hidden_value = true
+  }
+  serviceid_number BroadCopperAntonietta {
+    _hidden_value = true
+  }
+  boolean OkTanVonni {
+    _hidden_value = true
+  }
+  string ColouredSapphireDoretta {
+    _hidden_value = true
+  }
+  json CompulsoryTanPolly {
+    _hidden_value = true
+  }
+  serviceid_number RegisteredApricotShelley {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NeutralCoffeeIsa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShaggyAmethystLizzie {
+    _hidden_value = true
+  }
+  serviceid YtterbicAzureElianora {
+    _hidden_value = true
+  }
+  CivilCoffeeEvania = true
+  WidespreadCoralKalli = "Why is Peter Pan always flying? Because he Neverlands."
+  UncomfortableJadeLiuka = 333
+  FatalLimeDacia = "Why do birds fly south for the winter? Because it's too far to walk."
+  CreepyAquaHilary = 522
+  ApparentApricotBrena = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YtterbicAzureElianora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YouthfulSapphireAfton"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ApparentApricotBrena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CivilCoffeeEvania"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,110 @@
+type dummy.SystematicPurpleBrinna {
+  annotations {
+    serviceid_number OddTealChristie {
+    }
+    json InquisitiveSalmonHyacinthie {
+    }
+    string BoringWhiteGeorgiana {
+    }
+    serviceid OlympicCyanPatience {
+    }
+    hidden_boolean MarginalApricotAshli {
+    }
+    serviceid_number DistinctiveAmethystNicoline {
+    }
+    serviceid ConcernedMaroonAshlee {
+    }
+  }
+  number ColourfulCrimsonPearline {
+    _hidden_value = true
+  }
+  serviceid_number ProfessionalMagentaTamra {
+    _hidden_value = true
+  }
+  hidden_boolean TremendousLimeLinnet {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WorriedWhiteArlinda {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryIndigoLeticia {
+    _hidden_value = true
+  }
+  string OppositeBlueCristine {
+    _hidden_value = true
+  }
+  serviceid_number FascinatingMaroonRasia {
+    _hidden_value = true
+  }
+  hidden_boolean FlatBronzeEtheline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MolecularSilverClemmy {
+    _hidden_value = true
+  }
+  serviceid_number SufficientOliveMiguelita {
+    _hidden_value = true
+  }
+  string GiantApricotKatinka {
+    _hidden_value = true
+  }
+  boolean IntermediateGreenDarell {
+    _hidden_value = true
+  }
+  number SuperbSapphireInger {
+    _hidden_value = true
+  }
+  serviceid SportingGrayKelly {
+    _hidden_value = true
+  }
+  serviceid_number UninterestedYellowFlorance {
+    _hidden_value = true
+  }
+  serviceid PromisingCoralOdella {
+    _hidden_value = true
+  }
+  number GenuinePurpleTania {
+    _hidden_value = true
+  }
+  number GastricLimeFerdinanda {
+    _hidden_value = true
+  }
+  number MixedBlushRubi {
+    _hidden_value = true
+  }
+  string DisastrousMaroonAiley {
+    _hidden_value = true
+  }
+  serviceid_number VocationalPurpleAmalita {
+    _hidden_value = true
+  }
+  string ManyTealDorene {
+    _hidden_value = true
+  }
+  boolean MinorAquaAuroora {
+    _hidden_value = true
+  }
+  OddTealChristie = 748
+  InquisitiveSalmonHyacinthie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BoringWhiteGeorgiana = "Dad Im hungry  Hi hungry Im dad"
+  OlympicCyanPatience = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DistinctiveAmethystNicoline = 553
+  ConcernedMaroonAshlee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MinorAquaAuroora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ManyTealDorene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

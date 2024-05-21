@@ -1,0 +1,28 @@
+type dummy.ExtraBronzeEolande {
+  annotations {
+    dummy.DEFAULT NegativeGreenFlorenza {
+    }
+    serviceid ExcessiveAmberMarie {
+    }
+    serviceid_number SillyChocolateAbbe {
+    }
+    boolean SuperPurpleAdey {
+    }
+    json UptightCopperMissy {
+    }
+    string LengthyLimeHatty {
+    }
+  }
+  json FascinatingOrangeTrula {
+    _hidden_value = true
+  }
+  NegativeGreenFlorenza = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ExcessiveAmberMarie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SillyChocolateAbbe = 855
+  SuperPurpleAdey = false
+  UptightCopperMissy = "To be Frank, I'd have to change my name."
+  LengthyLimeHatty = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

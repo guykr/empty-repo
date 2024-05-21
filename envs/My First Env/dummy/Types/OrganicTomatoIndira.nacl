@@ -1,0 +1,32 @@
+type dummy.OrganicTomatoIndira {
+  annotations {
+    serviceid RollingAzureGwenora {
+    }
+    string MaturePinkEthyl {
+    }
+    number StatisticalSapphireOtha {
+    }
+    hidden_boolean SystematicTealBeilul {
+    }
+  }
+  serviceid AncientFuchsiaMorganne {
+    _hidden_value = true
+  }
+  string NaturalAquaMissy {
+    _hidden_value = true
+  }
+  boolean MeanTealLorinda {
+    _hidden_value = true
+  }
+  RollingAzureGwenora = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MaturePinkEthyl = "Why did the tomato blush? Because it saw the salad dressing."
+  StatisticalSapphireOtha = 853
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MaturePinkEthyl"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

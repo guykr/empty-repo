@@ -1,0 +1,115 @@
+type dummy.StuckTurquoiseChastity {
+  annotations {
+    boolean EducationalBlushCarolyne {
+    }
+    serviceid_number DizzyBeigeColette {
+    }
+    serviceid_number PsychologicalAquaEmmy {
+    }
+    dummy.RegularAquamarineVenus FrozenGoldRenell {
+    }
+    hidden_boolean EnthusiasticCoffeeGabbie {
+    }
+    serviceid_number SympatheticBronzeKeslie {
+    }
+    hidden_boolean NutritiousIvoryEmalee {
+    }
+    string EntirePurpleBili {
+    }
+    hidden_boolean ExactBeigeBess {
+    }
+    serviceid_number RaspyRoseBarbabra {
+    }
+    number RetailPurpleCassandre {
+    }
+    serviceid StatutoryAmethystLeigha {
+    }
+    string PersonalSalmonAeriela {
+    }
+    serviceid GrandPeachRuperta {
+    }
+    serviceid_number MetropolitanBeigeRiva {
+    }
+    json OrthodoxGreenCelestine {
+    }
+    number ProductiveWhiteWynn {
+    }
+    number TotalBronzeDiandra {
+    }
+    boolean EnormousBlushMarji {
+    }
+    serviceid_number LeftEmeraldDinnie {
+    }
+  }
+  EducationalBlushCarolyne = true
+  DizzyBeigeColette = 851
+  PsychologicalAquaEmmy = 764
+  SympatheticBronzeKeslie = 53
+  EntirePurpleBili = "Why did the tomato blush? Because it saw the salad dressing."
+  RaspyRoseBarbabra = 612
+  RetailPurpleCassandre = 20
+  StatutoryAmethystLeigha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PersonalSalmonAeriela = "Why didnt the skeleton cross the road? Because he had no guts."
+  GrandPeachRuperta = "Slept like a log last night  woke up in the fireplace."
+  MetropolitanBeigeRiva = 395
+  OrthodoxGreenCelestine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProductiveWhiteWynn = 590
+  TotalBronzeDiandra = 279
+  EnormousBlushMarji = true
+  LeftEmeraldDinnie = 561
+  _important_values = [
+    {
+      value = "CuriousScarletKristina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnconsciousCoralJuditha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreferredGoldShanda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EconomicTomatoLauren"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ObedientEmeraldTersina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpotlessLimeHeddie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InformalAzureTammi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RaspyRoseBarbabra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OrthodoxGreenCelestine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProductiveWhiteWynn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "StuckTurquoiseChastity_alias"
+}

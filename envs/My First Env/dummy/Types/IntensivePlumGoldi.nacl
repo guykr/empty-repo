@@ -1,0 +1,153 @@
+type dummy.IntensivePlumGoldi {
+  annotations {
+    json ObedientCrimsonGinelle {
+    }
+    boolean CorrespondingYellowPatience {
+    }
+    number HomelessAmberJackquelin {
+    }
+    serviceid_number AggregateCoffeeHatti {
+    }
+    number YawningWhiteBirgitta {
+    }
+    json ElectoralChocolateMarji {
+    }
+  }
+  serviceid HonAzureGilemette {
+    _hidden_value = true
+  }
+  serviceid PastScarletShaylynn {
+    _hidden_value = true
+  }
+  serviceid_number DesperateBlackEmelda {
+    _hidden_value = true
+  }
+  serviceid_number DelightedTealKelly {
+    _hidden_value = true
+  }
+  number GoldenSilverShelby {
+    _hidden_value = true
+  }
+  boolean CoastalTomatoHanny {
+    _hidden_value = true
+  }
+  dummy.FilthyPlumKristine NeutralAquamarineLizabeth {
+    VocationalYellowJori = 475
+    ImpressedPurpleJennette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StrangeTomatoKelsy = 39
+    UnwillingWhiteValma = "Why was it called the dark ages? Because of all the knights. "
+    ApplicableApricotFlor = "Im only familiar with 25 letters in the English language. I dont know why."
+    OnlyBlueKatha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PregnantLavenderFrederica = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SwiftAzureSandi = "Why is Peter Pan always flying? Because he Neverlands."
+    MadMagentaKarrah = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    BusyPeachMelissa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  hidden_boolean FamousCoffeeHannis {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number MassCrimsonGiovanna {
+    _hidden_value = true
+  }
+  serviceid_number UnusualTomatoValera {
+    _hidden_value = true
+  }
+  boolean SurroundingBeigeEdee {
+    _hidden_value = true
+  }
+  number SparklingCyanAllys {
+    _hidden_value = true
+  }
+  boolean HollowSalmonDot {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousVioletFreddi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.RedundantBrownFanni MinorIvoryDaron {
+    PetiteBrownJulienne = "I'll tell you what often gets over looked... garden fences."
+    ExpectedPlumMavra = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    HandicappedChocolateOla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NationalGrayGerri = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  number PaleRedRosa {
+    _hidden_value = true
+  }
+  hidden_boolean ZerothSilverDonni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RequiredOliveAnabal {
+    _hidden_value = true
+  }
+  boolean OverallBeigeInes {
+    _hidden_value = true
+  }
+  json TechnologicalBlackGussy {
+    _hidden_value = true
+  }
+  json SurprisingLimeLinette {
+    _hidden_value = true
+  }
+  serviceid_number FederalAmaranthFayth {
+    _hidden_value = true
+  }
+  "List<json>" FlakyMaroonStarlene {
+    _hidden_value = true
+  }
+  string RollingBronzeTanitansy {
+    _hidden_value = true
+  }
+  hidden_boolean IsolatedSilverLeontine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DevotedLimeNissy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ObedientCrimsonGinelle = "To be Frank, I'd have to change my name."
+  CorrespondingYellowPatience = false
+  HomelessAmberJackquelin = 183
+  AggregateCoffeeHatti = 282
+  YawningWhiteBirgitta = 654
+  ElectoralChocolateMarji = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OverallBeigeInes"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CorrespondingYellowPatience"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AggregateCoffeeHatti"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YawningWhiteBirgitta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

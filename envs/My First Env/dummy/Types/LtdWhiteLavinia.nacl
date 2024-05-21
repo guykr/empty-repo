@@ -1,0 +1,68 @@
+type dummy.LtdWhiteLavinia {
+  annotations {
+    string ViolentLimeSallyann {
+    }
+    hidden_boolean ComfortableMagentaLanita {
+    }
+    json TotalAquamarineAlyssa {
+    }
+    boolean BrilliantIndigoJanaya {
+    }
+    json SelectCrimsonJeniece {
+    }
+  }
+  serviceid_number SatisfiedPlumKevyn {
+    _hidden_value = true
+  }
+  serviceid_number JuicyJadeLorenza {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EntitledPeachTrenna {
+    _hidden_value = true
+  }
+  json AmateurPeachLydie {
+    _hidden_value = true
+  }
+  hidden_boolean NormalPeachMaggi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number StripedOliveValenka {
+    _hidden_value = true
+  }
+  serviceid PeacefulPlumAtalanta {
+    _hidden_value = true
+  }
+  boolean DryLavenderNertie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MultipleGoldLindsy {
+    _hidden_value = true
+  }
+  json FierceGreenMerola {
+    _hidden_value = true
+  }
+  boolean InterimJadeEsta {
+    _hidden_value = true
+  }
+  ViolentLimeSallyann = "Why do birds fly south for the winter? Because it's too far to walk."
+  TotalAquamarineAlyssa = "What creature is smarter than a talking parrot? A spelling bee."
+  BrilliantIndigoJanaya = true
+  SelectCrimsonJeniece = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "JuicyJadeLorenza"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ComfortableMagentaLanita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

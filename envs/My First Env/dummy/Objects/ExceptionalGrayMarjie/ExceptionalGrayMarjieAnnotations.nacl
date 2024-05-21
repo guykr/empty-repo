@@ -1,0 +1,81 @@
+type dummy.ExceptionalGrayMarjie {
+  annotations {
+    serviceid_number SuperbAquamarineJacinthe {
+    }
+    serviceid EnergeticVioletRoxine {
+    }
+    serviceid_number ProspectiveVioletMagdalen {
+    }
+    serviceid VitalGrayLucia {
+    }
+    serviceid_number DefiantMoccasinAddi {
+    }
+    boolean UniversalSalmonBrina {
+    }
+    hidden_boolean ItchyPeachFawn {
+    }
+    hidden_boolean IntermediateAquaKerrill {
+    }
+    hidden_boolean InvolvedHarlequinMichaella {
+    }
+    serviceid GloriousEmeraldTana {
+    }
+    serviceid NotableApricotValry {
+    }
+    string AllegedCopperBetsey {
+    }
+    string SouthernTomatoAubry {
+    }
+    serviceid_number MedicalCopperLinea {
+    }
+    number AssociatedMagentaNoemi {
+    }
+    serviceid_number OrganicOrangeGayla {
+    }
+    serviceid_number SlightJadeHerminia {
+    }
+    json LesserTealDinny {
+    }
+    json HollowSapphireCammy {
+    }
+  }
+  SuperbAquamarineJacinthe = 319
+  EnergeticVioletRoxine = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProspectiveVioletMagdalen = 585
+  VitalGrayLucia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DefiantMoccasinAddi = 562
+  UniversalSalmonBrina = false
+  GloriousEmeraldTana = "Why didnt the skeleton cross the road? Because he had no guts."
+  NotableApricotValry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AllegedCopperBetsey = "How come the stadium got hot after the game? Because all of the fans left."
+  SouthernTomatoAubry = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MedicalCopperLinea = 276
+  AssociatedMagentaNoemi = 97
+  OrganicOrangeGayla = 968
+  SlightJadeHerminia = 403
+  LesserTealDinny = "I'll tell you what often gets over looked... garden fences."
+  HollowSapphireCammy = "What creature is smarter than a talking parrot? A spelling bee."
+  _self_important_values = [
+    {
+      value = "SlightJadeHerminia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UniversalSalmonBrina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NotableApricotValry"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ItchyPeachFawn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ExceptionalGrayMarjie_alias"
+}

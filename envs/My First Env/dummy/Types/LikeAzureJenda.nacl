@@ -1,0 +1,77 @@
+type dummy.LikeAzureJenda {
+  annotations {
+    number MarvellousMagentaGeorgianne {
+    }
+    hidden_boolean GeneticPinkRafaela {
+    }
+    hidden_boolean AgriculturalBlushShelbi {
+    }
+    number FollowingCyanJean {
+    }
+    json PrincipalAmaranthIlise {
+    }
+    boolean MarvellousMagentaCharity {
+    }
+  }
+  serviceid PersonalMagentaDulci {
+    _hidden_value = true
+  }
+  serviceid_number OkWhiteEdiva {
+    _hidden_value = true
+  }
+  json DamagedSalmonValma {
+    _hidden_value = true
+  }
+  hidden_boolean UnfortunateBronzeBetteann {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DefensiveAquamarineCorrianne {
+    _hidden_value = true
+  }
+  serviceid_number SmallRedFranky {
+    _hidden_value = true
+  }
+  number FullAquaBelita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MagnificentCyanMarla {
+    _hidden_value = true
+  }
+  number FormalTurquoiseSissy {
+    _hidden_value = true
+  }
+  serviceid_number ZestyHarlequinNelly {
+    _hidden_value = true
+  }
+  MarvellousMagentaGeorgianne = 480
+  FollowingCyanJean = 433
+  PrincipalAmaranthIlise = "A steak pun is a rare medium well done."
+  MarvellousMagentaCharity = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FullAquaBelita"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GeneticPinkRafaela"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PrincipalAmaranthIlise"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FollowingCyanJean"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,50 @@
+type dummy.UniversalBeigeMame {
+  annotations {
+    hidden_boolean SuperbRedCatina {
+    }
+    boolean KindAzureFred {
+    }
+    boolean IdeologicalIvoryAilsun {
+    }
+    hidden_boolean FewIndigoIbby {
+    }
+    serviceid IndustrialTurquoiseMerrili {
+    }
+    json LeftAmaranthCarlie {
+    }
+  }
+  json ResponsibleBlushTeddie {
+    _hidden_value = true
+  }
+  serviceid_number ChiefTurquoiseAmabel {
+    _hidden_value = true
+  }
+  serviceid_number GoverningMoccasinAlbina {
+    _hidden_value = true
+  }
+  dummy.GayTealFredi SeriousApricotJoannes {
+    _hidden_value = true
+  }
+  boolean SurprisingIndigoEmlyn {
+    _hidden_value = true
+  }
+  KindAzureFred = true
+  IdeologicalIvoryAilsun = false
+  IndustrialTurquoiseMerrili = "What do you call two barracuda fish?  A Pairacuda!"
+  LeftAmaranthCarlie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ResponsibleBlushTeddie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FewIndigoIbby"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,112 @@
+type dummy.FranticVioletSelle {
+  annotations {
+    serviceid ConfidentialPurpleOlympia {
+    }
+    serviceid_number PassingPurpleMariann {
+    }
+    number SeniorBeigeWendy {
+    }
+    hidden_boolean ComplicatedIvoryBellina {
+    }
+    json NaughtyChocolateCrystal {
+    }
+  }
+  dummy.DEFAULT MeaningfulAquaCrissie {
+    _hidden_value = true
+  }
+  serviceid TemporaryAmaranthGabriell {
+    _hidden_value = true
+  }
+  json SignificantYellowSally {
+    _hidden_value = true
+  }
+  boolean ImmenseSalmonEveleen {
+    _hidden_value = true
+  }
+  json ContinuedOrangeMariquilla {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" OkWhiteOndrea {
+    _hidden_value = true
+  }
+  number SurroundingBlackBarbaraanne {
+    _hidden_value = true
+  }
+  number RunningIndigoDorie {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantEmeraldTobey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FreshPlumRosette {
+    _hidden_value = true
+  }
+  json SweetJadeFredi {
+    _hidden_value = true
+  }
+  string IllegalLavenderJillayne {
+    _hidden_value = true
+  }
+  string ImpossiblePeachAilene {
+    _hidden_value = true
+  }
+  hidden_boolean StrongGrayDonnamarie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SelfishChocolateDidi {
+    _hidden_value = true
+  }
+  string BrainyGoldLadonna {
+    _hidden_value = true
+  }
+  string ElegantScarletDelphinia {
+    _hidden_value = true
+  }
+  number FashionablePurpleAnnabelle {
+    _hidden_value = true
+  }
+  json UnevenAquamarineKirby {
+    _hidden_value = true
+  }
+  serviceid IndividualYellowTeriann {
+    _hidden_value = true
+  }
+  ConfidentialPurpleOlympia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PassingPurpleMariann = 378
+  SeniorBeigeWendy = 729
+  NaughtyChocolateCrystal = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RunningIndigoDorie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TemporaryAmaranthGabriell"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OkWhiteOndrea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElegantEmeraldTobey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConfidentialPurpleOlympia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,96 @@
+type dummy.RecentBrownNona {
+  annotations {
+    json SharedBlackMichele {
+    }
+    boolean SpecifiedMaroonCissy {
+    }
+    boolean DeafScarletHaily {
+    }
+    serviceid LightScarletLauraine {
+    }
+    json LostChocolateCaitrin {
+    }
+  }
+  serviceid_number AmazingAmberKimberlyn {
+    _hidden_value = true
+  }
+  boolean ColonialAmaranthYettie {
+    _hidden_value = true
+  }
+  serviceid_number RelievedRedMaryellen {
+    _hidden_value = true
+  }
+  boolean PowerfulChocolateGianina {
+    _hidden_value = true
+  }
+  number InsufficientBrownWynny {
+    _hidden_value = true
+  }
+  number OriginalRedLindy {
+    _hidden_value = true
+  }
+  number DisgustedApricotLiza {
+    _hidden_value = true
+  }
+  serviceid_number ShockedVioletAthene {
+    _hidden_value = true
+  }
+  string ExperimentalRoseLeeanne {
+    _hidden_value = true
+  }
+  number ParliamentaryScarletKarleen {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingBeigeAbby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GladBronzeDevi {
+    _hidden_value = true
+  }
+  serviceid_number ChiefMoccasinKaralynn {
+    _hidden_value = true
+  }
+  string TeenagePurpleKali {
+    _hidden_value = true
+  }
+  hidden_boolean OkCyanAllie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentScarletNatalee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DigitalHarlequinAbbye {
+    _hidden_value = true
+  }
+  "List<serviceid>" DistinctiveRedKaria {
+    _hidden_value = true
+  }
+  serviceid MonthlyLimeTamera {
+    _hidden_value = true
+  }
+  string SensitiveJadeIrma {
+    _hidden_value = true
+  }
+  json GlobalGrayCassi {
+    _hidden_value = true
+  }
+  SharedBlackMichele = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SpecifiedMaroonCissy = true
+  DeafScarletHaily = true
+  LightScarletLauraine = "Whoever invented the knock-knock joke should get a no bell prize."
+  LostChocolateCaitrin = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GladBronzeDevi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

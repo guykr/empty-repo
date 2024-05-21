@@ -1,0 +1,63 @@
+type dummy.CommercialHarlequinAdi {
+  annotations {
+    boolean NativeOliveYsabel {
+    }
+    hidden_boolean PreferredAmethystImogene {
+    }
+    number StrategicAquamarineLesya {
+    }
+    serviceid_number EvidentBlushReba {
+    }
+    json ImpressiveEmeraldMaren {
+    }
+  }
+  dummy.DEFAULT RelativeGrayChristiane {
+    _hidden_value = true
+  }
+  hidden_boolean SecretChocolateAurie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BusyAmaranthBobby {
+    _hidden_value = true
+  }
+  serviceid StingyBronzeCrissie {
+    _hidden_value = true
+  }
+  dummy.AngryLimeTiphani AnnualHarlequinKathlin {
+    WorriedChocolateKim = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LongApricotAngelia = true
+    GlobalCoffeeMalinda = "What creature is smarter than a talking parrot? A spelling bee."
+    VagueCopperElita = 498
+    SovietPlumRegan = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    RationalTurquoiseAlix = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  number VicariousLimeDevora {
+    _hidden_value = true
+  }
+  json PrettyRedMalinda {
+    _hidden_value = true
+  }
+  dummy.ValidMaroonFlory PsychiatricCrimsonJillene {
+    HistoricRedArlyne = 308
+    SelectedAzurePetronia = 278
+    WispyJadeAline = 540
+    _hidden_value = true
+  }
+  NativeOliveYsabel = true
+  StrategicAquamarineLesya = 275
+  EvidentBlushReba = 629
+  ImpressiveEmeraldMaren = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrettyRedMalinda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,38 @@
+type dummy.UnpleasantApricotErda {
+  annotations {
+    string OverallSalmonSande {
+    }
+    serviceid_number SuperiorSilverLaraine {
+    }
+    serviceid_number UniqueTurquoisePeria {
+    }
+    json WickedWhiteAila {
+    }
+    serviceid PoisedCopperRosemaria {
+    }
+  }
+  "List<json>" RudeVioletLidia {
+    _hidden_value = true
+  }
+  string VividBlushGillie {
+    _hidden_value = true
+  }
+  hidden_boolean FragilePinkMolli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  OverallSalmonSande = "What creature is smarter than a talking parrot? A spelling bee."
+  SuperiorSilverLaraine = 668
+  UniqueTurquoisePeria = 866
+  WickedWhiteAila = "Why is Peter Pan always flying? Because he Neverlands."
+  PoisedCopperRosemaria = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PoisedCopperRosemaria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

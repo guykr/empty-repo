@@ -1,0 +1,31 @@
+type dummy.TerriblePinkNicolina {
+  annotations {
+    json RadicalSalmonPatricia {
+    }
+    json NuttyBeigeViviene {
+    }
+    json VoluminousScarletStaci {
+    }
+    serviceid_number AcuteScarletTheresina {
+    }
+    string ZanyCoralConstantia {
+    }
+    number CharmingAmethystSapphire {
+    }
+    hidden_boolean PlainPeachJerrine {
+    }
+    json YearningVioletCalypso {
+    }
+  }
+  serviceid HushedPinkKorella {
+    _hidden_value = true
+  }
+  RadicalSalmonPatricia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NuttyBeigeViviene = "To be Frank, I'd have to change my name."
+  VoluminousScarletStaci = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AcuteScarletTheresina = 825
+  ZanyCoralConstantia = "Why do birds fly south for the winter? Because it's too far to walk."
+  CharmingAmethystSapphire = 364
+  YearningVioletCalypso = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

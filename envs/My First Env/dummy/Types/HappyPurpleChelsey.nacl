@@ -1,0 +1,104 @@
+type dummy.HappyPurpleChelsey {
+  annotations {
+    hidden_boolean LivingPurpleReba {
+    }
+    json YoungestScarletChloette {
+    }
+    boolean DevelopedChocolateRebbecca {
+    }
+    serviceid DualBlackLory {
+    }
+    dummy.LikeTurquoiseMarisa PrettyAquamarineSheilah {
+    }
+  }
+  dummy.DEFAULT ProposedLavenderAllene {
+    _hidden_value = true
+  }
+  serviceid NuttyCoffeeEmily {
+    _hidden_value = true
+  }
+  serviceid TastyCopperMufi {
+    _hidden_value = true
+  }
+  serviceid_number TameSalmonOrelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NobleSapphireJessalyn {
+    _hidden_value = true
+  }
+  hidden_boolean HomelessSapphireMerilee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DearBlushRuth {
+    _hidden_value = true
+  }
+  number ImprovedCrimsonMorgana {
+    _hidden_value = true
+  }
+  hidden_boolean AlertApricotHerminia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EvilOrangeTessi {
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousTealKathlin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ColonialRedRomona {
+    _hidden_value = true
+  }
+  boolean ElegantTurquoiseWindy {
+    _hidden_value = true
+  }
+  boolean ChillyTurquoiseBrett {
+    _hidden_value = true
+  }
+  string ScornfulAzureSydelle {
+    _hidden_value = true
+  }
+  YoungestScarletChloette = "To be Frank, I'd have to change my name."
+  DevelopedChocolateRebbecca = true
+  DualBlackLory = "What creature is smarter than a talking parrot? A spelling bee."
+  PrettyAquamarineSheilah = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NobleSapphireJessalyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ScornfulAzureSydelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HomelessSapphireMerilee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ChillyTurquoiseBrett"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProposedLavenderAllene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PrettyAquamarineSheilah"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,65 @@
+type dummy.ComingBlackCathlene {
+  annotations {
+    string RollingSilverKathleen {
+    }
+    dummy.UptightIndigoSydelle PowerfulPinkElisha {
+    }
+    dummy.RunningPlumCasi MarkedLimeTamiko {
+    }
+    dummy.HostileAmethystAlta OppositeAmberDemetris {
+    }
+    serviceid_number InevitableSalmonJojo {
+    }
+    json InnocentEmeraldCassaundra {
+    }
+    boolean SolarTomatoJacqueline {
+    }
+    boolean InevitableScarletPattie {
+    }
+    string UnknownJadeSissy {
+    }
+    dummy.SuperJadeMarigold JudicialCoffeeAnabelle {
+    }
+    hidden_boolean TenderIndigoStacia {
+    }
+    number NeutralRedSindee {
+    }
+    json StrategicApricotRozella {
+    }
+    dummy.InformalTomatoPeria MatureWhiteRebecca {
+    }
+    json PositiveAmberAbby {
+    }
+    number YuckyMoccasinClovis {
+    }
+    boolean PotentialMoccasinCherish {
+    }
+  }
+  RollingSilverKathleen = "Dad Im hungry  Hi hungry Im dad"
+  PowerfulPinkElisha = file("AfraidWhiteGlory.txt")
+  MarkedLimeTamiko = true
+  OppositeAmberDemetris = false
+  InevitableSalmonJojo = 558
+  InnocentEmeraldCassaundra = "What creature is smarter than a talking parrot? A spelling bee."
+  SolarTomatoJacqueline = true
+  InevitableScarletPattie = false
+  UnknownJadeSissy = "Why did the tomato blush? Because it saw the salad dressing."
+  NeutralRedSindee = 113
+  StrategicApricotRozella = "Why did the kid cross the playground? To get to the other slide."
+  PositiveAmberAbby = "Why did the tomato blush? Because it saw the salad dressing."
+  YuckyMoccasinClovis = 972
+  PotentialMoccasinCherish = true
+  _self_important_values = [
+    {
+      value = "YuckyMoccasinClovis"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SolarTomatoJacqueline"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ComingBlackCathlene_alias"
+}

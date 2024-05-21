@@ -1,0 +1,86 @@
+type dummy.SophisticatedTealBobinette {
+  annotations {
+    serviceid FondCyanCharlotta {
+    }
+    boolean ExcitingApricotKordula {
+    }
+    json NaturalChocolateJoeann {
+    }
+    json AdministrativeFuchsiaStefa {
+    }
+    string NosyBronzeMaribel {
+    }
+    serviceid StraightforwardWhiteKayla {
+    }
+    serviceid SelectedTurquoiseJobey {
+    }
+  }
+  number ControversialTealChristiane {
+    _hidden_value = true
+  }
+  string HomelessBlueVinny {
+    _hidden_value = true
+  }
+  number CausalCrimsonGwennie {
+    _hidden_value = true
+  }
+  string IntelligentAmaranthMaureen {
+    _hidden_value = true
+  }
+  json DueAzureCharla {
+    _hidden_value = true
+  }
+  string FragileTealLatashia {
+    _hidden_value = true
+  }
+  json ElegantChocolateElsy {
+    _hidden_value = true
+  }
+  serviceid StormyYellowGillie {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" ChillyCopperCathee {
+    _hidden_value = true
+  }
+  serviceid SurvivingBronzeWilona {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" EldestSalmonLinell {
+    _hidden_value = true
+  }
+  json TragicAmberDawna {
+    _hidden_value = true
+  }
+  FondCyanCharlotta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ExcitingApricotKordula = false
+  NaturalChocolateJoeann = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AdministrativeFuchsiaStefa = "To be Frank, I'd have to change my name."
+  NosyBronzeMaribel = "Why didnt the skeleton cross the road? Because he had no guts."
+  StraightforwardWhiteKayla = "Why do birds fly south for the winter? Because it's too far to walk."
+  SelectedTurquoiseJobey = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CausalCrimsonGwennie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ControversialTealChristiane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntelligentAmaranthMaureen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NosyBronzeMaribel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

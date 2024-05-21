@@ -1,0 +1,52 @@
+type dummy.SweetGrayBellina {
+  annotations {
+    hidden_boolean ElectronicBlueLindsay {
+    }
+    boolean RuralTealMabelle {
+    }
+    boolean ZygoticCoralDorelle {
+    }
+    json GenuinePinkValenka {
+    }
+    number ExpectedPlumCaroljean {
+    }
+    json MereAzureBrietta {
+    }
+  }
+  dummy.DEFAULT FascinatingBronzeCarrissa {
+    _hidden_value = true
+  }
+  serviceid LeftFuchsiaFlory {
+    _hidden_value = true
+  }
+  boolean YtterbicLimeRegina {
+    _hidden_value = true
+  }
+  string SmartPlumLuce {
+    _hidden_value = true
+  }
+  hidden_boolean NewJadeMelony {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number InjuredSapphireMinda {
+    _hidden_value = true
+  }
+  serviceid_number DevelopedBeigeAbbe {
+    _hidden_value = true
+  }
+  RuralTealMabelle = false
+  ZygoticCoralDorelle = false
+  GenuinePinkValenka = "A steak pun is a rare medium well done."
+  ExpectedPlumCaroljean = 260
+  MereAzureBrietta = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GenuinePinkValenka"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

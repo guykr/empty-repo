@@ -1,0 +1,110 @@
+type dummy.CrazyTomatoSarajane {
+  annotations {
+    dummy.DEFAULT PreviousCyanLida {
+    }
+    string GrumpyCoffeeAnnemarie {
+    }
+    serviceid PromisingSilverPaulette {
+    }
+    dummy.DEFAULT ArbitraryMaroonStacey {
+    }
+    json CarefulYellowLacee {
+    }
+    hidden_boolean RawBlushCybil {
+    }
+  }
+  serviceid UptightTurquoiseLeigha {
+    _hidden_value = true
+  }
+  json UnemployedCoffeeFranciska {
+    _hidden_value = true
+  }
+  string FuriousHarlequinRoslyn {
+    _hidden_value = true
+  }
+  json LivingYellowBrina {
+    _hidden_value = true
+  }
+  string SurroundingFuchsiaPolly {
+    _hidden_value = true
+  }
+  json GradualTomatoNonna {
+    _hidden_value = true
+  }
+  number PayableSalmonPrissie {
+    _hidden_value = true
+  }
+  serviceid_number FullAzureKimmy {
+    _hidden_value = true
+  }
+  hidden_boolean TechnicalPeachOlly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SwiftAzureBryn ZippyChocolateNola {
+    VoluntaryGoldAinslie = 221
+    PreviousBlueAmi = "Why did the kid cross the playground? To get to the other slide."
+    MentalIvoryDania = "Why didnt the skeleton cross the road? Because he had no guts."
+    XerothermicAquamarineCariotta = 491
+    _hidden_value = true
+  }
+  dummy.DEFAULT HelplessIvoryBarrie {
+    _hidden_value = true
+  }
+  string InfluentialChocolateSheelah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImmenseYellowEdithe {
+    _hidden_value = true
+  }
+  hidden_boolean LikelyYellowAeriel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StrangeAmberCorny {
+    _hidden_value = true
+  }
+  hidden_boolean IcyFuchsiaKirbee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ColouredGrayEvania {
+    _hidden_value = true
+  }
+  json RigidAmethystDelores {
+    _hidden_value = true
+  }
+  hidden_boolean GenuineGoldTamarra {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string SurroundingFuchsiaAntonina {
+    _hidden_value = true
+  }
+  boolean PhilosophicalFuchsiaElsy {
+    _hidden_value = true
+  }
+  boolean LittleScarletAshli {
+    _hidden_value = true
+  }
+  boolean CalmOliveInesita {
+    _hidden_value = true
+  }
+  string ControlledGoldMaddalena {
+    _hidden_value = true
+  }
+  PreviousCyanLida = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  GrumpyCoffeeAnnemarie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PromisingSilverPaulette = "Did you know that protons have mass? I didn't even know they were catholic."
+  ArbitraryMaroonStacey = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  CarefulYellowLacee = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

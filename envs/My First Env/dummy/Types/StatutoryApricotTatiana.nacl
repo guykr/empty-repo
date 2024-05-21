@@ -1,0 +1,70 @@
+type dummy.StatutoryApricotTatiana {
+  annotations {
+    dummy.DEFAULT TropicalYellowLindie {
+    }
+    hidden_boolean ObedientGrayNessy {
+    }
+    hidden_boolean SoftGreenJan {
+    }
+    serviceid ArchitecturalAmethystEileen {
+    }
+    string FundamentalCopperBarb {
+    }
+    boolean PersonalPeachJelene {
+    }
+    json JollyIndigoMaryjo {
+    }
+  }
+  serviceid_number FrontCrimsonAurora {
+    _hidden_value = true
+  }
+  json SheerCoffeeNessie {
+    _hidden_value = true
+  }
+  serviceid_number StableBeigeArdith {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeIndigoBrunhilda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ContinentalTanKirsten {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string PerfectBeigeLynne {
+    _hidden_value = true
+  }
+  number GiantAmethystVikki {
+    _hidden_value = true
+  }
+  serviceid JollyCrimsonDayle {
+    _hidden_value = true
+  }
+  json IrrelevantBlackAdda {
+    _hidden_value = true
+  }
+  serviceid_number MysteriousCrimsonDoralia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ContentMaroonLeoline {
+    _hidden_value = true
+  }
+  TropicalYellowLindie = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ArchitecturalAmethystEileen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FundamentalCopperBarb = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PersonalPeachJelene = false
+  JollyIndigoMaryjo = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ArchitecturalAmethystEileen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,85 @@
+type dummy.AdequateOliveMargalo {
+  annotations {
+    number CivilianEmeraldTildie {
+    }
+    serviceid_number SevereBlueHoratia {
+    }
+    dummy.DEFAULT CharacteristicSalmonKala {
+    }
+    json FinancialOrangeVirginie {
+    }
+    boolean GothicLavenderAdi {
+    }
+  }
+  json DearCoralGavra {
+    _hidden_value = true
+  }
+  string PoliticalLavenderCindi {
+    _hidden_value = true
+  }
+  dummy.FilthyPlumKristine CreepyAmethystKoressa {
+    VocationalYellowJori = 152
+    ImpressedPurpleJennette = "Why is Peter Pan always flying? Because he Neverlands."
+    StrangeTomatoKelsy = 823
+    UnwillingWhiteValma = "How come the stadium got hot after the game? Because all of the fans left."
+    ApplicableApricotFlor = "To be Frank, I'd have to change my name."
+    OnlyBlueKatha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PregnantLavenderFrederica = "Why is Peter Pan always flying? Because he Neverlands."
+    SwiftAzureSandi = "Why didnt the skeleton cross the road? Because he had no guts."
+    MadMagentaKarrah = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    BusyPeachMelissa = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  serviceid_number VitreousLavenderMiran {
+    _hidden_value = true
+  }
+  serviceid BareOrangeKaria {
+    _hidden_value = true
+  }
+  serviceid FunctionalGoldMurielle {
+    _hidden_value = true
+  }
+  boolean RubberRoseMorganne {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalPlumAnthiathia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ChristianGrayGlen SlightEmeraldLilly {
+    XenaciousSalmonMaddalena = true
+    StraightAmethystLuciana = "Why was it called the dark ages? Because of all the knights. "
+    SmallBlushEmmalyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SuperbPurpleFayth = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WorryingOrangeLonna = 313
+    DustyMoccasinClaribel = "Why is Peter Pan always flying? Because he Neverlands."
+    HistoricPurpleGaby = "Why did the kid cross the playground? To get to the other slide."
+    UptightCoffeeHarri = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ObnoxiousIvoryBill = false
+    RubberJadeLexis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  number NaughtyChocolateGerianne {
+    _hidden_value = true
+  }
+  number DistinctivePeachCharline {
+    _hidden_value = true
+  }
+  serviceid_number OpenCyanNerti {
+    _hidden_value = true
+  }
+  number BetterAquaDolorita {
+    _hidden_value = true
+  }
+  CivilianEmeraldTildie = 843
+  SevereBlueHoratia = 427
+  CharacteristicSalmonKala = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  FinancialOrangeVirginie = "To be Frank, I'd have to change my name."
+  GothicLavenderAdi = true
+  _hidden_value = true
+}

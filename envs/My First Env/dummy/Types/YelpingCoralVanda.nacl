@@ -1,0 +1,104 @@
+type dummy.YelpingCoralVanda {
+  annotations {
+    hidden_boolean RequiredPeachKarlie {
+    }
+    number PreciousRoseJocelin {
+    }
+    json InformalTanJosey {
+    }
+    hidden_boolean BitterBeigeMorganica {
+    }
+  }
+  json StrangeAmaranthCaroljean {
+    _hidden_value = true
+  }
+  boolean NoisyFuchsiaViolette {
+    _hidden_value = true
+  }
+  number GrimBlushDione {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LowBrownKeeley {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NervousBlackScarlett {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticBlueMead {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number StingyBrownViole {
+    _hidden_value = true
+  }
+  json ProtestantTurquoiseAilyn {
+    _hidden_value = true
+  }
+  dummy.OverseasTealHayley EasternVioletSaraann {
+    ArtisticLimeThea = 357
+    SharedCopperDavina = true
+    SimilarTealSheena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SickJadeLanette = "What do you call two barracuda fish?  A Pairacuda!"
+    WearyPeachDelly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RetiredIndigoLynda = "I'll tell you what often gets over looked... garden fences."
+    StrictSapphireLil = 671
+    ContinuingGoldLanita = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    ShrillCyanRivy = "What creature is smarter than a talking parrot? A spelling bee."
+    FirmEmeraldJanet = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySilverRosemaria {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddMagentaDaisey {
+    _hidden_value = true
+  }
+  number AgreedAquaMadeleine {
+    _hidden_value = true
+  }
+  string ExplicitBrownRozele {
+    _hidden_value = true
+  }
+  number ModernSapphireIngaberg {
+    _hidden_value = true
+  }
+  json UnknownAquaDebby {
+    _hidden_value = true
+  }
+  json NursingSalmonArielle {
+    _hidden_value = true
+  }
+  number QuerulousBlueDre {
+    _hidden_value = true
+  }
+  serviceid_number ExplicitPlumPetrina {
+    _hidden_value = true
+  }
+  PreciousRoseJocelin = 215
+  InformalTanJosey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RegulatorySilverRosemaria"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AgreedAquaMadeleine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PreciousRoseJocelin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

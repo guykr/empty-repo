@@ -1,0 +1,66 @@
+type dummy.IllegalLimeStevana {
+  annotations {
+    serviceid MissingBrownKarlie {
+    }
+    hidden_boolean AggregateRedValeda {
+    }
+    number UnconsciousCrimsonLegra {
+    }
+    json LateAmaranthGui {
+    }
+    string IntellectualEmeraldDoll {
+    }
+    json InherentCopperCarlyn {
+    }
+  }
+  json SocialAmberStefa {
+    _hidden_value = true
+  }
+  boolean FilthyPurpleGenny {
+    _hidden_value = true
+  }
+  json DisastrousCopperCelia {
+    _hidden_value = true
+  }
+  json InclinedRedIngeberg {
+    _hidden_value = true
+  }
+  "List<json>" WitteringPlumDarci {
+    _hidden_value = true
+  }
+  json PlainGoldEdin {
+    _hidden_value = true
+  }
+  serviceid_number PublicSalmonAustin {
+    _hidden_value = true
+  }
+  number SensibleLavenderGussy {
+    _hidden_value = true
+  }
+  string OutdoorSalmonDarcee {
+    _hidden_value = true
+  }
+  number BlushingBronzeBrandy {
+    _hidden_value = true
+  }
+  MissingBrownKarlie = "Why did the kid cross the playground? To get to the other slide."
+  UnconsciousCrimsonLegra = 500
+  LateAmaranthGui = "Why didnt the skeleton cross the road? Because he had no guts."
+  IntellectualEmeraldDoll = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InherentCopperCarlyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OutdoorSalmonDarcee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MissingBrownKarlie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

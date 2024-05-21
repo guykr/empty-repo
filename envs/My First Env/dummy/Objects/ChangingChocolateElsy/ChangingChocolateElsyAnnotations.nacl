@@ -1,0 +1,113 @@
+type dummy.ChangingChocolateElsy {
+  annotations {
+    string HilariousHarlequinKerrie {
+    }
+    json SecretGrayTeddy {
+    }
+    hidden_boolean ParentalRoseStefanie {
+    }
+    boolean GorgeousIndigoMommy {
+    }
+    json ChronicBeigeCaro {
+    }
+    serviceid ThoroughTurquoiseRozalie {
+    }
+    number IndividualPeachAviva {
+    }
+    dummy.SlimyHarlequinCathrine SoreAmethystArden {
+    }
+    boolean SelectedGoldPoppy {
+    }
+    serviceid_number ColouredGrayErma {
+    }
+    json RichBrownJen {
+    }
+    serviceid_number RottenScarletAnderea {
+    }
+    serviceid_number BloodyOliveChrissie {
+    }
+    boolean ExtendedHarlequinRaine {
+    }
+    boolean PhilosophicalLavenderCarla {
+    }
+    hidden_boolean ParentalMaroonCathryn {
+    }
+    hidden_boolean DistinctApricotFernandina {
+    }
+    boolean FundamentalOrangeGlynda {
+    }
+    serviceid_number RecentOrangeLaina {
+    }
+    serviceid_number MathematicalBlackKristine {
+    }
+    serviceid KindCrimsonHynda {
+    }
+    dummy.MissingChocolateAlejandra ObjectiveTurquoiseJeanie {
+    }
+    serviceid InternationalCoffeeSally {
+    }
+  }
+  HilariousHarlequinKerrie = "Why didnt the skeleton cross the road? Because he had no guts."
+  SecretGrayTeddy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GorgeousIndigoMommy = false
+  ChronicBeigeCaro = "To be Frank, I'd have to change my name."
+  ThoroughTurquoiseRozalie = "Why did the kid cross the playground? To get to the other slide."
+  IndividualPeachAviva = 976
+  SelectedGoldPoppy = false
+  ColouredGrayErma = 429
+  RichBrownJen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RottenScarletAnderea = 687
+  BloodyOliveChrissie = 717
+  ExtendedHarlequinRaine = true
+  PhilosophicalLavenderCarla = true
+  FundamentalOrangeGlynda = false
+  RecentOrangeLaina = 123
+  MathematicalBlackKristine = 902
+  KindCrimsonHynda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InternationalCoffeeSally = "Dad Im hungry  Hi hungry Im dad"
+  _important_values = [
+    {
+      value = "DullWhiteEbonee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PremierSapphireEvey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntimateMaroonGerladina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RecentRoseJeana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConfidentWhiteCandy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DesirableRedFran"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DifficultTomatoOla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BloodyOliveChrissie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ChangingChocolateElsy_alias"
+}

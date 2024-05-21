@@ -1,0 +1,168 @@
+type dummy.YeastyAquamarineBianca {
+  annotations {
+    boolean ExtremeSapphireGelya {
+    }
+    number SweetOliveSamara {
+    }
+    number ToughRedLexie {
+    }
+    hidden_boolean InvisibleRoseChristalle {
+    }
+    number RegularCoralJacinta {
+    }
+    json EqualAmberSydel {
+    }
+  }
+  boolean GrimGoldAnabelle {
+    _hidden_value = true
+  }
+  boolean ProudVioletSibelle {
+    _hidden_value = true
+  }
+  json StructuralLimeRochette {
+    _hidden_value = true
+  }
+  json RandomRoseAlexia {
+    _hidden_value = true
+  }
+  number WellRedTerza {
+    _hidden_value = true
+  }
+  boolean ScaredBlueChristina {
+    _hidden_value = true
+  }
+  boolean LooseGreenEricha {
+    _hidden_value = true
+  }
+  serviceid_number VaryingAquamarineArdyth {
+    _hidden_value = true
+  }
+  number ConvincingTurquoiseTamarah {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalBronzeValene {
+    _hidden_value = true
+  }
+  serviceid_number ConventionalBlueMeara {
+    _hidden_value = true
+  }
+  serviceid PreviousTanBettye {
+    _hidden_value = true
+  }
+  dummy.TightChocolateMinta NastyTomatoIolande {
+    EnviousOrangeCherin = false
+    PeacefulAzureTheresina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ScientificIvoryOthilia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SpottyYellowAubrey = "A steak pun is a rare medium well done."
+    SeriousGrayAndriette = 90
+    InherentOliveRobena = "I'll tell you what often gets over looked... garden fences."
+    CurrentAmethystAngel = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MissingGoldCinnamon = 1
+    SpecificBrownHarriot = true
+    ColouredEmeraldFelicity = false
+    SevereAmethystDinnie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LargeMagentaCymbre = false
+    _hidden_value = true
+  }
+  dummy.HostileAmethystAlta TropicalJadeDeb {
+    ObligedHarlequinEmmie = true
+    DifferentMagentaOphelie = 625
+    RidiculousRoseGretchen = true
+    _hidden_value = true
+  }
+  serviceid MetropolitanRoseArdisj {
+    _hidden_value = true
+  }
+  number RepulsiveBronzeFrannie {
+    _hidden_value = true
+  }
+  serviceid PurringEmeraldYelena {
+    _hidden_value = true
+  }
+  string TiredEmeraldLayla {
+    _hidden_value = true
+  }
+  boolean BetterLimeLexi {
+    _hidden_value = true
+  }
+  number PrettyScarletCordy {
+    _hidden_value = true
+  }
+  json EventualOliveZandra {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasedAzureClerissa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AmbitiousBlueIdalia {
+    _hidden_value = true
+  }
+  string PhilosophicalPlumCourtnay {
+    _hidden_value = true
+  }
+  dummy.SpecificAmberAlicea DustyBlushAshley {
+    PassiveWhiteEloisa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SmallOliveBridie = "A steak pun is a rare medium well done."
+    CircularCyanDevinne = "A steak pun is a rare medium well done."
+    HorizontalGreenAurilia = false
+    NaturalApricotBlakeley = 404
+    EquivalentBrownBrook = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImplicitAmaranthBren {
+    _hidden_value = true
+  }
+  "Map<boolean>" DisabledAmethystAudre {
+    _hidden_value = true
+  }
+  hidden_boolean ResonantMaroonAlbertina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json YoungestBronzeTobye {
+    _hidden_value = true
+  }
+  serviceid_number BloodyGreenDorella {
+    _hidden_value = true
+  }
+  string VisitingTealKrysta {
+    _hidden_value = true
+  }
+  json MetropolitanChocolateJoanna {
+    _hidden_value = true
+  }
+  number RoundTurquoiseCassondra {
+    _hidden_value = true
+  }
+  ExtremeSapphireGelya = false
+  SweetOliveSamara = 957
+  ToughRedLexie = 316
+  RegularCoralJacinta = 846
+  EqualAmberSydel = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ImplicitAmaranthBren"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TropicalJadeDeb"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PrettyScarletCordy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YoungestBronzeTobye"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

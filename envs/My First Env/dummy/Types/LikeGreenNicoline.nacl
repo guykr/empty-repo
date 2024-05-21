@@ -1,0 +1,135 @@
+type dummy.LikeGreenNicoline {
+  annotations {
+    dummy.DEFAULT AlternativeBrownAdrienne {
+    }
+    hidden_boolean WilfulLimeCathi {
+    }
+    string AlrightCyanCleopatra {
+    }
+    string FarEmeraldLeland {
+    }
+    number ProfoundBrownCindie {
+    }
+  }
+  number ActiveGreenMerline {
+    _hidden_value = true
+  }
+  boolean ColdPinkFayth {
+    _hidden_value = true
+  }
+  dummy.UptightIndigoSydelle RearCopperMyrlene {
+    SheerCoralJolynn = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    ImpossibleScarletColline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InvolvedPurpleFaith = "Why did the tomato blush? Because it saw the salad dressing."
+    ModestTurquoiseVonni = "Dad Im hungry  Hi hungry Im dad"
+    CautiousJadeTrish = true
+    SecureHarlequinMarylee = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ResidentialPinkOthelia = true
+    FrequentYellowBetsy = true
+    InnocentAquamarineHollie = "I'll tell you what often gets over looked... garden fences."
+    RepresentativeAmberEda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RichLimeDalila = "Why do birds fly south for the winter? Because it's too far to walk."
+    DecisiveChocolateSadye = "Dad Im hungry  Hi hungry Im dad"
+    BurningYellowBelvia = 790
+    WiseAmberAdore = "Why do birds fly south for the winter? Because it's too far to walk."
+    EasyMoccasinKorney = "Why didnt the skeleton cross the road? Because he had no guts."
+    VividAzureWilletta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MinisterialBeigeMaitilde = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  dummy.NastyGoldJordana VeryTanGarnette {
+    ProtectiveBrownLyndsay = 241
+    BizarreHarlequinBab = 80
+    PromisingIndigoDarelle = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  hidden_boolean BizarreOlivePetrina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LiableChocolateShena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CourageousGrayAlbina {
+    _hidden_value = true
+  }
+  number OverwhelmingOliveVittoria {
+    _hidden_value = true
+  }
+  serviceid_number UpperTealJermaine {
+    _hidden_value = true
+  }
+  hidden_boolean WorldwideBeigeMadalena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid YelpingSalmonLurlene {
+    _hidden_value = true
+  }
+  boolean RetailBeigeDrona {
+    _hidden_value = true
+  }
+  serviceid NecessaryPinkVirgie {
+    _hidden_value = true
+  }
+  hidden_boolean LiveEmeraldHesther {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number KeyBlueMicheline {
+    _hidden_value = true
+  }
+  hidden_boolean VariousGreenBrina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MightyBlackCorrinne {
+    _hidden_value = true
+  }
+  string LostRedEmmie {
+    _hidden_value = true
+  }
+  hidden_boolean RequiredAquamarineOrelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ImperialCopperAmii {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WelcomeRedPhil {
+    _hidden_value = true
+  }
+  serviceid_number AgreedTomatoAgathe {
+    _hidden_value = true
+  }
+  json NuttyHarlequinGeorgeta {
+    _hidden_value = true
+  }
+  AlternativeBrownAdrienne = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  AlrightCyanCleopatra = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FarEmeraldLeland = "Dad Im hungry  Hi hungry Im dad"
+  ProfoundBrownCindie = 221
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AlternativeBrownAdrienne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

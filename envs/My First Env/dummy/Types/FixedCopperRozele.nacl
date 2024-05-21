@@ -1,0 +1,33 @@
+type dummy.FixedCopperRozele {
+  annotations {
+    boolean StingyCrimsonAdel {
+    }
+    serviceid_number ClinicalFuchsiaSusanne {
+    }
+    serviceid XericYellowNorine {
+    }
+    number XenialPeachNicolette {
+    }
+    boolean CrudeLimeLyndy {
+    }
+  }
+  string ScornfulRedManya {
+    _hidden_value = true
+  }
+  string RelaxedTealLeonore {
+    _hidden_value = true
+  }
+  StingyCrimsonAdel = true
+  ClinicalFuchsiaSusanne = 498
+  XericYellowNorine = "Why was it called the dark ages? Because of all the knights. "
+  XenialPeachNicolette = 87
+  CrudeLimeLyndy = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StingyCrimsonAdel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,144 @@
+type dummy.TartOrangeArdine {
+  annotations {
+    boolean ComparativeIvoryNan {
+    }
+    hidden_boolean FaithfulTealCarlee {
+    }
+    json ControlledBlueClarey {
+    }
+    serviceid BoldLimeLyndsey {
+    }
+    serviceid LoyalLavenderClemmy {
+    }
+    boolean SelectedVioletKorry {
+    }
+  }
+  json CivicPinkArlena {
+    _hidden_value = true
+  }
+  boolean ConfidentialOliveLeta {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingFuchsiaNada {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json FastCoffeeFranni {
+    _hidden_value = true
+  }
+  number ExcitingEmeraldHedda {
+    _hidden_value = true
+  }
+  serviceid_number SocialistOrangeViolette {
+    _hidden_value = true
+  }
+  number ZerothAmberNatala {
+    _hidden_value = true
+  }
+  dummy.ForwardBlackNata CriticalFuchsiaDinnie {
+    UpsetWhiteMeta = 812
+    SharedSilverAnnalee = "To be Frank, I'd have to change my name."
+    OverwhelmingAmaranthMitzi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FragileTomatoDebbi = 273
+    IrrelevantRedLynnell = 883
+    CorporateBeigeTatiania = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ZerothAzureEsther = 614
+    DevotedSapphireRosabelle = false
+    RainyLimeLoralie = 452
+    HardPeachJacqueline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  json GoldenTealJennette {
+    _hidden_value = true
+  }
+  dummy.FierceSilverCherilyn CompetitiveGrayTabbie {
+    FlutteringVioletNinnette = 238
+    ScreechingRoseDorise = "Dad Im hungry  Hi hungry Im dad"
+    RunningLimeJillie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    QuietTurquoiseKristine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SharpMaroonStesha = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    AlternativeAmaranthEileen = 859
+    RudeRoseJillie = "Why do birds fly south for the winter? Because it's too far to walk."
+    ProperApricotFarrah = "A steak pun is a rare medium well done."
+    MelodicBronzeEda = 48
+    _hidden_value = true
+  }
+  serviceid_number RemainingGreenMoina {
+    _hidden_value = true
+  }
+  string CompetentAquaMaurizia {
+    _hidden_value = true
+  }
+  boolean ComplexGreenKelly {
+    _hidden_value = true
+  }
+  boolean BriefYellowBecki {
+    _hidden_value = true
+  }
+  hidden_boolean HungryCopperRenee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MajorFuchsiaKonstanze {
+    _hidden_value = true
+  }
+  number EvolutionaryCoralDalia {
+    _hidden_value = true
+  }
+  serviceid GenuineBlackMavra {
+    _hidden_value = true
+  }
+  serviceid AggressiveBronzeChloette {
+    _hidden_value = true
+  }
+  json CompetentPinkAnett {
+    _hidden_value = true
+  }
+  number PreparedTurquoiseQueenie {
+    _hidden_value = true
+  }
+  "List<serviceid>" ImpossibleSapphirePolly {
+    _hidden_value = true
+  }
+  number HugeBlushMatilda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorporateFuchsiaDianemarie {
+    _hidden_value = true
+  }
+  serviceid ElaborateMaroonKaralynn {
+    _hidden_value = true
+  }
+  ComparativeIvoryNan = false
+  ControlledBlueClarey = "A steak pun is a rare medium well done."
+  BoldLimeLyndsey = "What creature is smarter than a talking parrot? A spelling bee."
+  LoyalLavenderClemmy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SelectedVioletKorry = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CompetentAquaMaurizia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AggressiveBronzeChloette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcitingEmeraldHedda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PreparedTurquoiseQueenie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

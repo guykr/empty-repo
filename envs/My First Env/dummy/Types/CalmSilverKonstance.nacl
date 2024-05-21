@@ -1,0 +1,29 @@
+type dummy.CalmSilverKonstance {
+  annotations {
+    hidden_boolean LikeCoralShandy {
+    }
+    serviceid WonderfulTanYalonda {
+    }
+    number CompactAquaValery {
+    }
+    json VisibleBrownMaris {
+    }
+  }
+  json InnerMaroonElladine {
+    _hidden_value = true
+  }
+  serviceid ClassicAquaTruda {
+    _hidden_value = true
+  }
+  WonderfulTanYalonda = "I'll tell you what often gets over looked... garden fences."
+  CompactAquaValery = 866
+  VisibleBrownMaris = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CompactAquaValery"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

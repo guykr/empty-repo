@@ -1,0 +1,114 @@
+type dummy.StormyAquamarineCate {
+  annotations {
+    serviceid_number FunnyPeachAugusta {
+    }
+    number WoodenMaroonBess {
+    }
+    serviceid EventualSapphireHedvig {
+    }
+    string SafePinkBlondy {
+    }
+    json QualifiedWhiteBabette {
+    }
+    hidden_boolean ShrillLavenderJobi {
+    }
+  }
+  hidden_boolean PanickyRedWilone {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GentlePurpleDara {
+    _hidden_value = true
+  }
+  string ElectricFuchsiaEnid {
+    _hidden_value = true
+  }
+  hidden_boolean DailyMoccasinJoya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FemaleOrangeAvis {
+    _hidden_value = true
+  }
+  boolean BackLavenderMarge {
+    _hidden_value = true
+  }
+  serviceid VoicelessJadeChristabella {
+    _hidden_value = true
+  }
+  hidden_boolean ManagingCoralAlta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean TemporaryBlueDeni {
+    _hidden_value = true
+  }
+  boolean ZonalLavenderCybill {
+    _hidden_value = true
+  }
+  string RegionalScarletSheeree {
+    _hidden_value = true
+  }
+  boolean FemaleGoldRosetta {
+    _hidden_value = true
+  }
+  serviceid HighMoccasinAmalie {
+    _hidden_value = true
+  }
+  hidden_boolean ControversialGreenKalila {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FlatAzureJacinda {
+    _hidden_value = true
+  }
+  boolean ChronicFuchsiaAida {
+    _hidden_value = true
+  }
+  number ProposedGraySabine {
+    _hidden_value = true
+  }
+  boolean FancyScarletHildegarde {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectricPinkTove {
+    _hidden_value = true
+  }
+  serviceid_number ConsciousGrayCharin {
+    _hidden_value = true
+  }
+  boolean LargeChocolateJacklyn {
+    _hidden_value = true
+  }
+  serviceid_number YoungestAquaRianon {
+    _hidden_value = true
+  }
+  serviceid ProposedCrimsonLenka {
+    _hidden_value = true
+  }
+  json DutchSilverRosabelle {
+    _hidden_value = true
+  }
+  FunnyPeachAugusta = 177
+  WoodenMaroonBess = 641
+  EventualSapphireHedvig = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SafePinkBlondy = "I'll tell you what often gets over looked... garden fences."
+  QualifiedWhiteBabette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FemaleGoldRosetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DutchSilverRosabelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

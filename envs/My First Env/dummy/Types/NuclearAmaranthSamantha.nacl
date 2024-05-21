@@ -1,0 +1,110 @@
+type dummy.NuclearAmaranthSamantha {
+  annotations {
+    serviceid_number HistoricalRedAnnmarie {
+    }
+    dummy.TightChocolateMinta ColouredSapphireFancie {
+    }
+    hidden_boolean CutePeachAlison {
+    }
+    serviceid UgliestAmberRiannon {
+    }
+    string UnknownJadeKatie {
+    }
+    serviceid InstantCopperRey {
+    }
+  }
+  string QuixoticBronzeRena {
+    _hidden_value = true
+  }
+  dummy.DistinctWhiteAdi UncertainPeachBettina {
+    UncomfortableFuchsiaCosetta = 5
+    _hidden_value = true
+  }
+  serviceid_number ZanyTanSherie {
+    _hidden_value = true
+  }
+  boolean PremierTurquoiseKattie {
+    _hidden_value = true
+  }
+  boolean ClinicalAquaMerl {
+    _hidden_value = true
+  }
+  serviceid_number MinimumBronzeArleen {
+    _hidden_value = true
+  }
+  json EncouragingCoffeeLyndsie {
+    _hidden_value = true
+  }
+  dummy.RunningPlumCasi ZygoticVioletCorrina {
+    ComparableTurquoiseGenni = true
+    SensitiveIndigoTedda = 75
+    RecentPeachNesta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ProgressiveBlueBrandea = 949
+    AliveEmeraldLonna = true
+    WhisperingGreenDyanne = "What creature is smarter than a talking parrot? A spelling bee."
+    RightScarletJoella = false
+    CivilScarletRani = "How come the stadium got hot after the game? Because all of the fans left."
+    FarLavenderNeila = 875
+    BriefSalmonDeloris = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    _hidden_value = true
+  }
+  boolean PreliminaryBronzeDawn {
+    _hidden_value = true
+  }
+  boolean RacialCrimsonCamala {
+    _hidden_value = true
+  }
+  dummy.RunningPlumCasi CorporateCoralKalila {
+    ComparableTurquoiseGenni = false
+    SensitiveIndigoTedda = 288
+    RecentPeachNesta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ProgressiveBlueBrandea = 246
+    AliveEmeraldLonna = true
+    WhisperingGreenDyanne = "A steak pun is a rare medium well done."
+    RightScarletJoella = false
+    CivilScarletRani = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FarLavenderNeila = 196
+    BriefSalmonDeloris = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    _hidden_value = true
+  }
+  number ThunderingCoralLotta {
+    _hidden_value = true
+  }
+  json OrdinaryFuchsiaMartelle {
+    _hidden_value = true
+  }
+  HistoricalRedAnnmarie = 93
+  ColouredSapphireFancie = false
+  UgliestAmberRiannon = "What do you call two barracuda fish?  A Pairacuda!"
+  UnknownJadeKatie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InstantCopperRey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EncouragingCoffeeLyndsie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ZygoticVioletCorrina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UgliestAmberRiannon"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ColouredSapphireFancie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,97 @@
+type dummy.FellowTanAdel {
+  annotations {
+    hidden_boolean PastPinkTate {
+    }
+    hidden_boolean NecessaryCopperCathi {
+    }
+    serviceid_number NearMagentaClary {
+    }
+    string AlrightCyanKacy {
+    }
+    string MeltedSilverColette {
+    }
+    hidden_boolean OlympicAmethystRamonda {
+    }
+    hidden_boolean RigidSilverCorrie {
+    }
+    boolean SecretApricotGoldie {
+    }
+    boolean PowerfulApricotAbbe {
+    }
+    boolean EthicalGoldFlory {
+    }
+    serviceid_number TallScarletCherie {
+    }
+    string ExclusiveIndigoSherry {
+    }
+    dummy.FrozenChocolateDaveen LeftApricotErnaline {
+    }
+    serviceid_number VariedSalmonTabbi {
+    }
+    boolean MushyYellowTiertza {
+    }
+    serviceid ArmedBronzeCallida {
+    }
+    serviceid_number SocialistPinkHanny {
+    }
+    dummy.TypicalBlushKristal NormalGoldCynde {
+    }
+    hidden_boolean ClassicMoccasinMonika {
+    }
+    number GreatChocolateMalanie {
+    }
+  }
+  NearMagentaClary = 584
+  AlrightCyanKacy = "Why do birds fly south for the winter? Because it's too far to walk."
+  MeltedSilverColette = "I'll tell you what often gets over looked... garden fences."
+  SecretApricotGoldie = false
+  PowerfulApricotAbbe = false
+  EthicalGoldFlory = false
+  TallScarletCherie = 948
+  ExclusiveIndigoSherry = "Why was it called the dark ages? Because of all the knights. "
+  VariedSalmonTabbi = 116
+  MushyYellowTiertza = false
+  ArmedBronzeCallida = "Why is Peter Pan always flying? Because he Neverlands."
+  SocialistPinkHanny = 455
+  GreatChocolateMalanie = 771
+  _important_values = [
+    {
+      value = "CooingTanOrelee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DepressedAmethystLinnie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NecessaryCopperCathi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NormalGoldCynde"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SocialistPinkHanny"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OlympicAmethystRamonda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TallScarletCherie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FellowTanAdel_alias"
+}

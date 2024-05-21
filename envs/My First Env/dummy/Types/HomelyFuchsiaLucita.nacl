@@ -1,0 +1,38 @@
+type dummy.HomelyFuchsiaLucita {
+  annotations {
+    string SourCoffeeJori {
+    }
+    serviceid MarvellousMagentaMoyna {
+    }
+    json GladPinkBarb {
+    }
+    serviceid GayAmberDarb {
+    }
+    json VeryJadePeta {
+    }
+    boolean GentleSilverLarina {
+    }
+  }
+  number NoisyOrangeJobie {
+    _hidden_value = true
+  }
+  SourCoffeeJori = "Whoever invented the knock-knock joke should get a no bell prize."
+  MarvellousMagentaMoyna = "To be Frank, I'd have to change my name."
+  GladPinkBarb = "Why did the tomato blush? Because it saw the salad dressing."
+  GayAmberDarb = "Dad Im hungry  Hi hungry Im dad"
+  VeryJadePeta = "Im only familiar with 25 letters in the English language. I dont know why."
+  GentleSilverLarina = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SourCoffeeJori"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VeryJadePeta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}
