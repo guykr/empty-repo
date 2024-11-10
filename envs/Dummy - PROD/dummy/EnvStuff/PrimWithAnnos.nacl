@@ -1,0 +1,24 @@
+type dummy.PrimWithAnnos is string {
+  annotations {
+    hidden_string SharedHidden {
+    }
+    hidden_string DiffHidden {
+    }
+    boolean active {
+    }
+    string name {
+    }
+  }
+  _important_values = [
+    {
+      value = "active"
+      indexed = true
+      highlighted = true
+    },
+    {
+      value = "name"
+      indexed = false
+      highlighted = false
+    },
+  ]
+}

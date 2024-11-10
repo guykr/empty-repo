@@ -1,0 +1,19 @@
+type dummy.PRODEnvObj {
+  string Field {
+  }
+  boolean active {
+  }
+  _alias = "PRODEnvObj_alias"
+  _important_values = [
+    {
+      value = "Field"
+      indexed = false
+      highlighted = true
+    },
+    {
+      value = "active"
+      indexed = true
+      highlighted = false
+    },
+  ]
+}

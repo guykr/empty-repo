@@ -1,0 +1,14 @@
+type dummy.EnvMeta {
+  annotations {
+    string SharedAnno {
+    }
+    string SharedButDiffAnno {
+    }
+    string PRODAnno {
+    }
+    hidden_string SharedHidden {
+    }
+    hidden_string DiffHidden {
+    }
+  }
+}

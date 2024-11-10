@@ -1,0 +1,6 @@
+dummy.EnvObj EnvInst {
+  SharedField = "FieldValue"
+  SharedButDiffField = "PRODFieldValue"
+  PRODField = "FieldValue"
+  _alias = "EnvInst_alias"
+}
