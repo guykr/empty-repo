@@ -1,0 +1,133 @@
+type dummy.ArbitraryMoccasinTiffie {
+  annotations {
+    string IncreasedOrangeRoseanna {
+    }
+    dummy.DEFAULT ConsciousBronzeMarilee {
+    }
+  }
+  json InfluentialPinkLucky {
+    _hidden_value = true
+  }
+  dummy.HorizontalCrimsonGypsy SingleYellowHoratia {
+    EvilCoffeeMarilee = 703
+    InclinedCopperNorean = "A steak pun is a rare medium well done."
+    WorriedFuchsiaRosene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CleverBronzeCoreen = true
+    DrabAquaJazmin = 483
+    SoftPlumBrittni = false
+    UnconsciousBrownIdelle = false
+    _hidden_value = true
+  }
+  string PrintedCoralYvette {
+    _hidden_value = true
+  }
+  string UniversalTurquoiseAdelle {
+    _hidden_value = true
+  }
+  number CurlyOliveAlys {
+    _hidden_value = true
+  }
+  number PrettyTomatoGlynis {
+    _hidden_value = true
+  }
+  string LinearBeigeDeonne {
+    _hidden_value = true
+  }
+  string VisibleAmethystTine {
+    _hidden_value = true
+  }
+  serviceid MinorBrownBilli {
+    _hidden_value = true
+  }
+  hidden_boolean MobileHarlequinCinderella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BusyBrownSapphira {
+    _hidden_value = true
+  }
+  string ReluctantPeachHanna {
+    _hidden_value = true
+  }
+  serviceid RoundPlumMay {
+    _hidden_value = true
+  }
+  json NeatMaroonBrandice {
+    _hidden_value = true
+  }
+  dummy.SickIndigoWenda YummyGoldChiquia {
+    SpecificMagentaAurora = "Did you know that protons have mass? I didn't even know they were catholic."
+    MinimumAmberSuzi = false
+    NervousBlueMerissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    YummyPinkHali = true
+    FollowingEmeraldSena = "I'll tell you what often gets over looked... garden fences."
+    DeterminedIvoryMarian = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MiddleCoralJeanine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ObviousLavenderReine = true
+    LocalIndigoGwyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AmateurVioletBrigitte = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualAzureRosalynd {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MilitaryMagentaMarcelia {
+    _hidden_value = true
+  }
+  hidden_boolean BreezyScarletSuzanna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AutonomousApricotJacqui {
+    _hidden_value = true
+  }
+  serviceid_number FortunateAmethystDeirdre {
+    _hidden_value = true
+  }
+  string YelpingGoldVeradis {
+    _hidden_value = true
+  }
+  IncreasedOrangeRoseanna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ConsciousBronzeMarilee = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InfluentialPinkLucky"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CurlyOliveAlys"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YummyGoldChiquia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ReluctantPeachHanna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YelpingGoldVeradis"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConsciousBronzeMarilee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

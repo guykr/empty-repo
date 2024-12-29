@@ -1,0 +1,10 @@
+type dummy.ShortRoseSosanna is boolean {
+  annotations {
+    serviceid RomanticCopperMerrily {
+    }
+  }
+  RomanticCopperMerrily = '''
+Why was it called the dark ages? Because of all the knights. 
+Why is Peter Pan always flying? Because he Neverlands.
+'''
+}

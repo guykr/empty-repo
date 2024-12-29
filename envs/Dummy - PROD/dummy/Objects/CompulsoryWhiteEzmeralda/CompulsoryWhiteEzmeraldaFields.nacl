@@ -1,0 +1,76 @@
+type dummy.CompulsoryWhiteEzmeralda {
+  serviceid_number KnownPurpleFarra {
+  }
+  number GrossIvoryRobby {
+  }
+  "List<serviceid_number>" CuddlyAquaKaitlyn {
+  }
+  string ProvincialScarletMaxi {
+  }
+  serviceid SafeHarlequinMargareta {
+  }
+  string DamagedCopperNoelle {
+  }
+  number PainfulTomatoDeeanne {
+  }
+  boolean ControversialPinkMoyra {
+  }
+  serviceid_number ExtendedCoralPhil {
+  }
+  serviceid_number NervousYellowTonye {
+  }
+  serviceid_number AcceptedYellowJennie {
+  }
+  serviceid EvolutionaryPinkMagdalen {
+  }
+  dummy.LargeGoldMei QuickRoseLoleta {
+    ImmenseCoffeeAmata = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PublicBlueYalonda = true
+    BindingSilverAngeline = "Why do birds fly south for the winter? Because it's too far to walk."
+    UnpleasantBlackNoreen = true
+    VictoriousPurpleCarmita = 37
+    SpatialGrayFifine = true
+  }
+  hidden_boolean MarxistBlushAlessandra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ShrillVioletJacquie {
+  }
+  serviceid_number MeanGreenLeese {
+  }
+  string RomanticCoralShayla {
+  }
+  boolean SouthernPlumDara {
+  }
+  hidden_boolean PsychiatricLimeWindy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LiquidPeachEdin {
+  }
+  number CuteOrangeMichelle {
+  }
+  "List<number>" GorgeousGreenKimberley {
+  }
+  number AestheticMagentaLillis {
+  }
+  boolean SquealingBrownGerry {
+  }
+  hidden_boolean PsychologicalCoffeeEmili {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StrongMagentaCorissa {
+  }
+  hidden_boolean DiplomaticAzureAnnnora {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string HandsomeBronzeGussy {
+  }
+}

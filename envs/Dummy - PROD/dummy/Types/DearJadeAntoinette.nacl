@@ -1,0 +1,78 @@
+type dummy.DearJadeAntoinette {
+  annotations {
+    serviceid_number GrossCrimsonTania {
+    }
+    serviceid_number PromisingAquamarineAgna {
+    }
+    boolean EverydayJadeGeorgeanne {
+    }
+    boolean YouthfulPinkRosaline {
+    }
+    serviceid_number SignificantAmaranthMeaghan {
+    }
+    hidden_boolean RegularCyanMartha {
+    }
+    number ObviousSilverSelie {
+    }
+  }
+  hidden_boolean PremierBlueElsa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MajorMoccasinEve {
+    _hidden_value = true
+  }
+  hidden_boolean OverallApricotShannen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SeniorRoseMyrle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StillLimeKyla {
+    _hidden_value = true
+  }
+  number GothicApricotAbagail {
+    _hidden_value = true
+  }
+  serviceid PracticalFuchsiaGuenevere {
+    _hidden_value = true
+  }
+  serviceid_number RetiredCrimsonMarga {
+    _hidden_value = true
+  }
+  json WorthwhileAmberNorrie {
+    _hidden_value = true
+  }
+  serviceid AestheticJadeShaylynn {
+    _hidden_value = true
+  }
+  GrossCrimsonTania = 382
+  PromisingAquamarineAgna = 185
+  EverydayJadeGeorgeanne = true
+  YouthfulPinkRosaline = false
+  SignificantAmaranthMeaghan = 898
+  ObviousSilverSelie = 124
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AestheticJadeShaylynn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PromisingAquamarineAgna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EverydayJadeGeorgeanne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

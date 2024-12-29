@@ -1,0 +1,141 @@
+type dummy.GrowingOliveMeriel {
+  annotations {
+    hidden_boolean DeliberateBeigeNeysa {
+    }
+    serviceid_number ChosenMagentaBert {
+    }
+    dummy.AvailableMaroonCarlotta YuckyHarlequinLuciana {
+    }
+    json PunyBronzeCarline {
+    }
+  }
+  serviceid SpottyCoffeeRhianon {
+    _hidden_value = true
+  }
+  json GeneticMagentaDoralia {
+    _hidden_value = true
+  }
+  serviceid RubberCyanReine {
+    _hidden_value = true
+  }
+  number CostlySalmonHarli {
+    _hidden_value = true
+  }
+  serviceid TerribleBrownGracie {
+    _hidden_value = true
+  }
+  serviceid_number GracefulChocolateAvril {
+    _hidden_value = true
+  }
+  boolean GladAzureGeorgeanne {
+    _hidden_value = true
+  }
+  json OverallGreenLesli {
+    _hidden_value = true
+  }
+  number FamousOrangeBilly {
+    _hidden_value = true
+  }
+  dummy.DearHarlequinJemmy AnonymousMagentaKelsi {
+    AutomaticBlueValina = 647
+    ExcellentCoffeeJessy = "Im only familiar with 25 letters in the English language. I dont know why."
+    WholeYellowCindra = false
+    UglyAquamarineGladi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LiquidBlackDorree = true
+    LivingIvoryGussi = 58
+    DigitalPinkJemie = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    MaximumCoffeeOthilie = true
+    SorryBlackRoby = false
+    IntactOliveEveline = false
+    JollyAmaranthLaurena = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  string MuteJadeOndrea {
+    _hidden_value = true
+  }
+  boolean LostIvoryEddie {
+    _hidden_value = true
+  }
+  string OutrageousBrownFionna {
+    _hidden_value = true
+  }
+  serviceid_number ResidentialOrangeAntonella {
+    _hidden_value = true
+  }
+  number LightTealSibbie {
+    _hidden_value = true
+  }
+  json BroadGrayGerhardine {
+    _hidden_value = true
+  }
+  string GastricAquaChristabella {
+    _hidden_value = true
+  }
+  serviceid SteadyTomatoKippy {
+    _hidden_value = true
+  }
+  dummy.ShortRoseSosanna AcceptedFuchsiaMargarethe {
+    RomanticCopperMerrily = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  hidden_boolean PassingMoccasinGeorgine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WholeCoralAdda {
+    _hidden_value = true
+  }
+  number InevitableYellowFern {
+    _hidden_value = true
+  }
+  boolean SpectacularChocolateLiana {
+    _hidden_value = true
+  }
+  hidden_boolean OlympicRedGinevra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ScaryTealLisetta {
+    _hidden_value = true
+  }
+  number DistinctiveCopperEleonora {
+    _hidden_value = true
+  }
+  number StrategicPinkNoell {
+    _hidden_value = true
+  }
+  string AccessibleSilverLurleen {
+    _hidden_value = true
+  }
+  serviceid_number SlowTealAtlanta {
+    _hidden_value = true
+  }
+  number SevereOliveHarrie {
+    _hidden_value = true
+  }
+  ChosenMagentaBert = 690
+  YuckyHarlequinLuciana = 97
+  PunyBronzeCarline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AcceptedFuchsiaMargarethe"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LostIvoryEddie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SlowTealAtlanta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

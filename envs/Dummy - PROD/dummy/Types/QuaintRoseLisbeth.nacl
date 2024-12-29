@@ -1,0 +1,41 @@
+type dummy.QuaintRoseLisbeth {
+  annotations {
+    json GrowingSapphireJacinda {
+    }
+    dummy.PlannedBlueLotti RemarkableGoldRhea {
+    }
+    hidden_boolean TotalTanKellyann {
+    }
+    json OrdinaryBrownLynna {
+    }
+    json TypicalLimeKimbra {
+    }
+  }
+  serviceid_number SensibleBeigeCharlena {
+    _hidden_value = true
+  }
+  serviceid PatientMaroonJoella {
+    _hidden_value = true
+  }
+  boolean SmilingTanReeta {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SimilarFuchsiaNyssa {
+    _hidden_value = true
+  }
+  string PureEmeraldMarigold {
+    _hidden_value = true
+  }
+  GrowingSapphireJacinda = "Did you know that protons have mass? I didn't even know they were catholic."
+  RemarkableGoldRhea = false
+  OrdinaryBrownLynna = "Why is Peter Pan always flying? Because he Neverlands."
+  TypicalLimeKimbra = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GrowingSapphireJacinda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,59 @@
+type dummy.AbsoluteBeigeGianina {
+  annotations {
+    boolean FundamentalHarlequinClarice {
+    }
+    number SystematicSalmonJoelly {
+    }
+    serviceid_number InsufficientMagentaTally {
+    }
+  }
+  hidden_boolean ConventionalBlushCaresse {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ValidGoldTamiko {
+    _hidden_value = true
+  }
+  serviceid HelpfulAmethystLinzy {
+    _hidden_value = true
+  }
+  dummy.HomelessHarlequinValaria PatientLimeShawn {
+    MainBlueAubree = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    IllOrangeVyky = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  dummy.DEFAULT BalancedPlumJanna {
+    _hidden_value = true
+  }
+  json LikelyBlackBethena {
+    _hidden_value = true
+  }
+  serviceid_number OutdoorSapphireBunni {
+    _hidden_value = true
+  }
+  serviceid StraightforwardPlumDorolice {
+    _hidden_value = true
+  }
+  boolean DefiniteTealAllegra {
+    _hidden_value = true
+  }
+  FundamentalHarlequinClarice = true
+  SystematicSalmonJoelly = 7
+  InsufficientMagentaTally = 958
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OutdoorSapphireBunni"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InsufficientMagentaTally"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,71 @@
+type dummy.ProudScarletAnette {
+  annotations {
+    boolean BeneficialBlushJackie {
+    }
+    serviceid ScornfulCopperJillian {
+    }
+    boolean PoorAmaranthJuliann {
+    }
+    hidden_boolean ChronicRedMichelle {
+    }
+    string HeadRoseNorma {
+    }
+    json ShinyLavenderGrethel {
+    }
+  }
+  number RulingScarletMallissa {
+    _hidden_value = true
+  }
+  hidden_boolean GenuineCoffeeBiddy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json FitScarletMicki {
+    _hidden_value = true
+  }
+  serviceid_number MiddleWhiteLil {
+    _hidden_value = true
+  }
+  serviceid BeneficialWhiteDenice {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalGreenMame {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AwkwardIndigoMari {
+    _hidden_value = true
+  }
+  number WesternPeachEllissa {
+    _hidden_value = true
+  }
+  serviceid_number FederalBlackTiffany {
+    _hidden_value = true
+  }
+  number StiffAzureMelisande {
+    _hidden_value = true
+  }
+  string SupremeScarletKaril {
+    _hidden_value = true
+  }
+  BeneficialBlushJackie = true
+  ScornfulCopperJillian = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PoorAmaranthJuliann = false
+  HeadRoseNorma = "To be Frank, I'd have to change my name."
+  ShinyLavenderGrethel = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BeneficialWhiteDenice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FitScarletMicki"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,73 @@
+type dummy.CurlyLimePauli {
+  annotations {
+    json SlimWhiteLillian {
+    }
+    string CrudeJadeVerla {
+    }
+    serviceid RainyRedRetha {
+    }
+    dummy.JustAmaranthKaril DiverseLavenderFifine {
+    }
+    serviceid StripedAzureFrank {
+    }
+    string DelightfulPeachHilliary {
+    }
+  }
+  json ImpressedSilverSindee {
+    _hidden_value = true
+  }
+  json ManualGrayColetta {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" YellingTomatoBlanca {
+    _hidden_value = true
+  }
+  hidden_boolean LikeMaroonCristin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CulturalSalmonKaile {
+    _hidden_value = true
+  }
+  json ScrawnyAzureJaynell {
+    _hidden_value = true
+  }
+  string UnhappyAmethystAllissa {
+    _hidden_value = true
+  }
+  string WeeklyGreenKatrine {
+    _hidden_value = true
+  }
+  boolean PassiveCoralElsie {
+    _hidden_value = true
+  }
+  dummy.GayLimeBernete VitreousCyanJodie {
+    InquisitiveAmethystPhilly = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ConsistentCyanDaphene = 179
+    SeniorTanMagda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StrongChocolateAmity = 470
+    NearbyVioletRasia = "Dad Im hungry  Hi hungry Im dad"
+    ResidentYellowKore = "Why is Peter Pan always flying? Because he Neverlands."
+    ViciousBlueNariko = 622
+    ColdAzureHannie = 629
+    BroadAquamarineBrenda = 650
+    AutomaticGoldAmber = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  boolean DirtyAzureRafaela {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" TastelessPeachNanine {
+    _hidden_value = true
+  }
+  SlimWhiteLillian = "Why didnt the skeleton cross the road? Because he had no guts."
+  CrudeJadeVerla = "Why did the kid cross the playground? To get to the other slide."
+  RainyRedRetha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DiverseLavenderFifine = 821
+  StripedAzureFrank = "I'll tell you what often gets over looked... garden fences."
+  DelightfulPeachHilliary = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

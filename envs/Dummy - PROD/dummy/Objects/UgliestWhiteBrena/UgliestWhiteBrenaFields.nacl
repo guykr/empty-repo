@@ -1,0 +1,42 @@
+type dummy.UgliestWhiteBrena {
+  hidden_boolean ControlledMoccasinDelora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ReliableAmethystGennifer {
+  }
+  boolean SillyApricotCharis {
+  }
+  dummy.RobustSilverRae DynamicFuchsiaSissy {
+    PassingCoffeeBride = "What do you call two barracuda fish?  A Pairacuda!"
+    EvolutionaryMaroonAili = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SlimLimeRobena = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    CheapGoldConcettina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  boolean JudicialBrownErminia {
+  }
+  boolean BareBeigeHelaine {
+  }
+  boolean ElectricEmeraldClarie {
+  }
+  serviceid_number CharmingOrangeConstantine {
+  }
+  serviceid FreshCoffeeBobbie {
+  }
+  serviceid CrazyRoseAndy {
+  }
+  string IntimateAzureJoletta {
+  }
+  serviceid GothicBrownMarylinda {
+  }
+  json LooseAzureLeda {
+  }
+  hidden_boolean RoastedAquamarineJanith {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

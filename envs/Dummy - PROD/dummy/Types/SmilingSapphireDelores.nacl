@@ -1,0 +1,133 @@
+type dummy.SmilingSapphireDelores {
+  annotations {
+    hidden_boolean SubsequentTomatoKara {
+    }
+    json EarlyHarlequinMollee {
+    }
+    string InstantGrayEvvie {
+    }
+    dummy.BeneficialCoffeeKacey ProspectiveCrimsonWilone {
+    }
+    serviceid PainfulPinkStormie {
+    }
+    boolean PracticalLavenderJuliane {
+    }
+  }
+  boolean OfficialSilverEdna {
+    _hidden_value = true
+  }
+  serviceid_number ExtraordinaryChocolateOrel {
+    _hidden_value = true
+  }
+  json SurprisingAquamarineFerne {
+    _hidden_value = true
+  }
+  serviceid_number SimilarAmberLissy {
+    _hidden_value = true
+  }
+  serviceid ZanyBronzeBelita {
+    _hidden_value = true
+  }
+  boolean LightAmberDulcinea {
+    _hidden_value = true
+  }
+  boolean AncientPurpleOlympe {
+    _hidden_value = true
+  }
+  serviceid_number AcuteAzureLeilah {
+    _hidden_value = true
+  }
+  boolean PersistentBlushGwenore {
+    _hidden_value = true
+  }
+  hidden_boolean FilthyGoldDorrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.XenaciousIvoryAnastassia LargeVioletMeredithe {
+    FantasticPeachAg = 805
+    BoredIvoryAlexandra = 593
+    OutdoorBlackZelda = false
+    GuiltyAquamarineCamile = true
+    MildScarletDierdre = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UpperOliveBianka = "Why didnt the skeleton cross the road? Because he had no guts."
+    MinisterialOrangeReina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    VisualSilverDrusi = 367
+    AcademicChocolateRaquel = 530
+    SlimyPinkElsa = 377
+    SymbolicAquaDarline = true
+    NakedEmeraldAthene = "What creature is smarter than a talking parrot? A spelling bee."
+    PositiveBlackAdrianna = 181
+    ScaredHarlequinDavine = false
+    ExcellentBronzeXenia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WitteringIndigoShayla = true
+    _hidden_value = true
+  }
+  serviceid_number AmbitiousApricotBev {
+    _hidden_value = true
+  }
+  string LikeYellowAnnabal {
+    _hidden_value = true
+  }
+  json FiscalAquamarineOllie {
+    _hidden_value = true
+  }
+  serviceid UnconsciousBlushVerina {
+    _hidden_value = true
+  }
+  hidden_boolean CollectiveLimeFlossi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WorryingJadeSapphire {
+    _hidden_value = true
+  }
+  json DeliberatePinkFreida {
+    _hidden_value = true
+  }
+  EarlyHarlequinMollee = "How come the stadium got hot after the game? Because all of the fans left."
+  InstantGrayEvvie = "To be Frank, I'd have to change my name."
+  ProspectiveCrimsonWilone = true
+  PainfulPinkStormie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PracticalLavenderJuliane = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FiscalAquamarineOllie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DeliberatePinkFreida"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PersistentBlushGwenore"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AcuteAzureLeilah"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WorryingJadeSapphire"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SurprisingAquamarineFerne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SimilarAmberLissy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

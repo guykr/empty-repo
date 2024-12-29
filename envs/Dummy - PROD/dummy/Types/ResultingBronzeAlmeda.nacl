@@ -1,0 +1,25 @@
+type dummy.ResultingBronzeAlmeda {
+  annotations {
+    number NovelIvoryCal {
+    }
+    boolean RacialBronzeTrula {
+    }
+    string DrivingSilverMonica {
+    }
+    json ChubbyPinkTami {
+    }
+    number SteadyMaroonSabra {
+    }
+    hidden_boolean YodellingVioletJoline {
+    }
+  }
+  serviceid_number GentleGoldDareen {
+    _hidden_value = true
+  }
+  NovelIvoryCal = 62
+  RacialBronzeTrula = false
+  DrivingSilverMonica = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ChubbyPinkTami = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SteadyMaroonSabra = 730
+  _hidden_value = true
+}

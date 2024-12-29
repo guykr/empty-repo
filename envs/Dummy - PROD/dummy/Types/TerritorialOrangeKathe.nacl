@@ -1,0 +1,58 @@
+type dummy.TerritorialOrangeKathe {
+  annotations {
+    boolean GeographicalMoccasinRebbecca {
+    }
+    serviceid FranticSalmonMichaela {
+    }
+    serviceid GradualCopperCaroljean {
+    }
+    string DevelopedScarletBiddy {
+    }
+    serviceid PoliteLavenderFrederique {
+    }
+  }
+  hidden_boolean NuclearCyanLorry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json TechnologicalRoseKaja {
+    _hidden_value = true
+  }
+  serviceid FlakyBlueJeniece {
+    _hidden_value = true
+  }
+  string SmoggyOliveRenee {
+    _hidden_value = true
+  }
+  boolean EconomicApricotMarleah {
+    _hidden_value = true
+  }
+  boolean AddedPinkKandy {
+    _hidden_value = true
+  }
+  serviceid_number FutureGoldKatharyn {
+    _hidden_value = true
+  }
+  string QuaintLavenderLinnell {
+    _hidden_value = true
+  }
+  GeographicalMoccasinRebbecca = true
+  FranticSalmonMichaela = "What do you call two barracuda fish?  A Pairacuda!"
+  GradualCopperCaroljean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DevelopedScarletBiddy = "Slept like a log last night  woke up in the fireplace."
+  PoliteLavenderFrederique = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AddedPinkKandy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FlakyBlueJeniece"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

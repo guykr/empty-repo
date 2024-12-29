@@ -1,0 +1,22 @@
+type dummy.GoodRedAlex {
+  annotations {
+    serviceid LovelyAquamarineCarmita {
+    }
+    serviceid SharedMagentaEilis {
+    }
+    string GracefulSapphireThekla {
+    }
+    serviceid_number HappyAzureFelisha {
+    }
+    hidden_boolean SpareFuchsiaJudy {
+    }
+  }
+  number PotentialSapphireDarya {
+    _hidden_value = true
+  }
+  LovelyAquamarineCarmita = "Whoever invented the knock-knock joke should get a no bell prize."
+  SharedMagentaEilis = "Slept like a log last night  woke up in the fireplace."
+  GracefulSapphireThekla = "To be Frank, I'd have to change my name."
+  HappyAzureFelisha = 367
+  _hidden_value = true
+}

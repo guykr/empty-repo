@@ -1,0 +1,78 @@
+type dummy.SocialistOrangeTimothea {
+  annotations {
+    json SkilledSilverRene {
+    }
+    hidden_boolean SweetFuchsiaJanelle {
+    }
+    number CharmingChocolateAngelika {
+    }
+    boolean XericBlueMarieann {
+    }
+    number OverseasBronzeShanna {
+    }
+    hidden_boolean LocalTanJamima {
+    }
+  }
+  number DependentYellowMelly {
+    _hidden_value = true
+  }
+  number DisgustedEmeraldKarina {
+    _hidden_value = true
+  }
+  hidden_boolean ContinuedSalmonStarlene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean YammeringBrownErnesta {
+    _hidden_value = true
+  }
+  serviceid_number RoundCyanBerenice {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousRoseAlejandrina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RegionalOrangeSharron {
+    _hidden_value = true
+  }
+  json AnxiousTanLynette {
+    _hidden_value = true
+  }
+  SkilledSilverRene = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CharmingChocolateAngelika = 308
+  XericBlueMarieann = false
+  OverseasBronzeShanna = 964
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConsciousRoseAlejandrina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DisgustedEmeraldKarina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "XericBlueMarieann"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OverseasBronzeShanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LocalTanJamima"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,105 @@
+type dummy.WildPlumReeta {
+  annotations {
+    json SignificantCyanLindsey {
+    }
+    json LongYellowPooh {
+    }
+    number FrozenSalmonJesselyn {
+    }
+    serviceid RepresentativeCyanCorene {
+    }
+    serviceid MechanicalMoccasinMarcelline {
+    }
+    dummy.HugeOrangeKelsy PastVioletMarni {
+    }
+    hidden_boolean BadAzureClementina {
+    }
+    serviceid NastyTurquoiseEmmalynn {
+    }
+    serviceid_number SuperbLavenderSarajane {
+    }
+    dummy.AllegedBeigeCacilia TallBlackHarriette {
+    }
+    string CompleteRoseLynette {
+    }
+    json HonAmethystWinny {
+    }
+    json PrivateCopperJobey {
+    }
+    serviceid SwiftFuchsiaDavita {
+    }
+    json ImperialVioletBetteann {
+    }
+    boolean EqualOrangeSelene {
+    }
+    json AdvisoryAzureAdelaida {
+    }
+    boolean ManagerialPlumBarb {
+    }
+    number ExternalGreenJayne {
+    }
+    string InappropriateSapphireAlvinia {
+    }
+    dummy.LargeGoldMei DelightedIndigoCindi {
+    }
+    hidden_boolean ArmedPinkShoshanna {
+    }
+    number AlrightAmberBerna {
+    }
+    number RuralCoffeeDianna {
+    }
+    dummy.RapidLavenderTerrie FormidableAzureRhea {
+    }
+  }
+  SignificantCyanLindsey = "What do you call two barracuda fish?  A Pairacuda!"
+  LongYellowPooh = "Why didnt the skeleton cross the road? Because he had no guts."
+  FrozenSalmonJesselyn = 77
+  RepresentativeCyanCorene = "I'll tell you what often gets over looked... garden fences."
+  MechanicalMoccasinMarcelline = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NastyTurquoiseEmmalynn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SuperbLavenderSarajane = 361
+  CompleteRoseLynette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HonAmethystWinny = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PrivateCopperJobey = "What do you call two barracuda fish?  A Pairacuda!"
+  SwiftFuchsiaDavita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ImperialVioletBetteann = "How come the stadium got hot after the game? Because all of the fans left."
+  EqualOrangeSelene = true
+  AdvisoryAzureAdelaida = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ManagerialPlumBarb = true
+  ExternalGreenJayne = 378
+  InappropriateSapphireAlvinia = "Why is Peter Pan always flying? Because he Neverlands."
+  DelightedIndigoCindi = 9
+  AlrightAmberBerna = 351
+  RuralCoffeeDianna = 447
+  FormidableAzureRhea = file("ExpectedGrayGisella.txt")
+  _important_values = [
+    {
+      value = "MadTealGilly"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DivineLavenderCarmita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VoluminousBeigeAnneliese"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MusicalBlackFarrah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BadAzureClementina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "WildPlumReeta_alias"
+}

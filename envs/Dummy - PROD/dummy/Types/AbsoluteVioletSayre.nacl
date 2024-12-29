@@ -1,0 +1,106 @@
+type dummy.AbsoluteVioletSayre {
+  annotations {
+    boolean GastricSilverRosy {
+    }
+    serviceid_number DomesticAmethystBill {
+    }
+    hidden_boolean DeafAquamarineAmalee {
+    }
+    boolean RepresentativeAzureMadelaine {
+    }
+    number EthnicMagentaMaura {
+    }
+    boolean RawTanLynett {
+    }
+    serviceid MiddleIndigoGui {
+    }
+  }
+  dummy.DEFAULT InsufficientCrimsonJuieta {
+    _hidden_value = true
+  }
+  boolean DecentSalmonCate {
+    _hidden_value = true
+  }
+  serviceid_number AbstractAquamarineLilian {
+    _hidden_value = true
+  }
+  boolean UniqueBronzeWilie {
+    _hidden_value = true
+  }
+  string CloudyCoralGwyneth {
+    _hidden_value = true
+  }
+  serviceid WidespreadSalmonKarie {
+    _hidden_value = true
+  }
+  serviceid_number MarinePeachBerrie {
+    _hidden_value = true
+  }
+  hidden_boolean WilyGreenKristel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DyingIndigoRenelle {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulBronzeLetizia {
+    _hidden_value = true
+  }
+  json MagicPinkIsobel {
+    _hidden_value = true
+  }
+  json EarlyLavenderBette {
+    _hidden_value = true
+  }
+  "List<dummy.AboveJadeAlfi>" InclinedCoralFanchon {
+    FineCrimsonPeg = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EvilTomatoKatina = 687
+    AsleepTurquoiseTommi = "Why did the kid cross the playground? To get to the other slide."
+    CuriousTealReina = "What do you call two barracuda fish?  A Pairacuda!"
+    WorkingSapphireMarty = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  serviceid_number LightRoseEvangelin {
+    _hidden_value = true
+  }
+  serviceid_number PremierBronzeLeontine {
+    _hidden_value = true
+  }
+  hidden_boolean CasualFuchsiaCorabella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.HolyChocolateMargery EvilGreenAdelaide {
+    _hidden_value = true
+  }
+  serviceid RottenMagentaAdda {
+    _hidden_value = true
+  }
+  json CrucialMoccasinKrissy {
+    _hidden_value = true
+  }
+  json UpperGoldBelle {
+    _hidden_value = true
+  }
+  GastricSilverRosy = false
+  DomesticAmethystBill = 78
+  RepresentativeAzureMadelaine = true
+  EthnicMagentaMaura = 654
+  RawTanLynett = true
+  MiddleIndigoGui = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RepresentativeAzureMadelaine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MiddleIndigoGui"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,7 @@
+type dummy.GloriousTomatoReeba {
+  hidden_boolean NationalLimeJojo {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

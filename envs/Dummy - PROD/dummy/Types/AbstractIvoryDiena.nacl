@@ -1,0 +1,63 @@
+type dummy.AbstractIvoryDiena {
+  annotations {
+    serviceid_number PartialLavenderCharmion {
+    }
+    hidden_boolean DevelopedChocolateJoelly {
+    }
+    hidden_boolean ContinuedCoralLorine {
+    }
+    number UniformWhiteThea {
+    }
+  }
+  string DefeatedBronzeEleonore {
+    _hidden_value = true
+  }
+  serviceid_number CrucialBlueJermaine {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryOliveUrsola {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MolecularAquamarineBlinnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MagneticAzureJosee {
+    _hidden_value = true
+  }
+  serviceid IsolatedAquaEirena {
+    _hidden_value = true
+  }
+  number RealLavenderCaro {
+    _hidden_value = true
+  }
+  number StrongTurquoiseArdenia {
+    _hidden_value = true
+  }
+  serviceid ApplicableCopperCristie {
+    _hidden_value = true
+  }
+  serviceid RecentLimePeria {
+    _hidden_value = true
+  }
+  PartialLavenderCharmion = 706
+  UniformWhiteThea = 904
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ApplicableCopperCristie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UniformWhiteThea"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

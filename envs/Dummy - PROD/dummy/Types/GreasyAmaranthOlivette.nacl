@@ -1,0 +1,65 @@
+type dummy.GreasyAmaranthOlivette {
+  annotations {
+    string IdeologicalGraySeline {
+    }
+    hidden_boolean SevereBlackSonnnie {
+    }
+    boolean ObviousOliveGratiana {
+    }
+    hidden_boolean GratefulChocolateMadlin {
+    }
+    hidden_boolean StripedBronzeGilli {
+    }
+    json YoungestScarletAgata {
+    }
+  }
+  serviceid_number ConcernedCrimsonSara {
+    _hidden_value = true
+  }
+  json MoaningMoccasinAubine {
+    _hidden_value = true
+  }
+  number InternalWhiteEadie {
+    _hidden_value = true
+  }
+  serviceid_number ContinuousCoralBobina {
+    _hidden_value = true
+  }
+  serviceid_number JollyCyanSaraann {
+    _hidden_value = true
+  }
+  number GloriousLavenderTrudey {
+    _hidden_value = true
+  }
+  serviceid_number LovelyCrimsonJilleen {
+    _hidden_value = true
+  }
+  IdeologicalGraySeline = "I'll tell you what often gets over looked... garden fences."
+  ObviousOliveGratiana = false
+  YoungestScarletAgata = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MoaningMoccasinAubine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StripedBronzeGilli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ObviousOliveGratiana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "YoungestScarletAgata"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

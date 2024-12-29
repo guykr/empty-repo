@@ -1,0 +1,24 @@
+type dummy.SparklingLavenderSondra {
+  annotations {
+    hidden_boolean ObviousTanLinnie {
+    }
+    string FrontPeachBlake {
+    }
+    string MultipleTanLynsey {
+    }
+    dummy.DEFAULT StrikingMagentaNicholle {
+    }
+    number GeographicalWhiteAlvira {
+    }
+  }
+  json FewOrangeJaquelin {
+    _hidden_value = true
+  }
+  FrontPeachBlake = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MultipleTanLynsey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StrikingMagentaNicholle = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  GeographicalWhiteAlvira = 467
+  _hidden_value = true
+}

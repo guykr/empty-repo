@@ -1,0 +1,56 @@
+type dummy.IcyWhiteBarbette {
+  annotations {
+    serviceid RoundOrangeLauretta {
+    }
+    serviceid_number ProgressiveRoseHeida {
+    }
+    hidden_boolean OpenCoralChicky {
+    }
+    serviceid_number LiteraryPinkFidela {
+    }
+    serviceid_number OutdoorEmeraldJuliane {
+    }
+  }
+  number BewilderedAmethystDelia {
+    _hidden_value = true
+  }
+  string PresentCrimsonWilmette {
+    _hidden_value = true
+  }
+  json ArbitraryGreenRora {
+    _hidden_value = true
+  }
+  string ViciousSilverTildi {
+    _hidden_value = true
+  }
+  boolean DistinctChocolateZonnya {
+    _hidden_value = true
+  }
+  json WelcomeBlushMechelle {
+    _hidden_value = true
+  }
+  RoundOrangeLauretta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ProgressiveRoseHeida = 107
+  LiteraryPinkFidela = 773
+  OutdoorEmeraldJuliane = 55
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BewilderedAmethystDelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DistinctChocolateZonnya"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RoundOrangeLauretta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

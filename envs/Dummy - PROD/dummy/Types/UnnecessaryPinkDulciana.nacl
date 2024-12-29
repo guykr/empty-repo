@@ -1,0 +1,70 @@
+type dummy.UnnecessaryPinkDulciana {
+  annotations {
+    number CurlyFuchsiaDanna {
+    }
+    hidden_boolean ThirstyTanCoretta {
+    }
+    number PsychologicalPurpleEtti {
+    }
+    number StillGoldKylynn {
+    }
+    json OverseasCoralMaggie {
+    }
+    serviceid_number ParallelBrownCleopatra {
+    }
+    dummy.LowRedTruda ShortTurquoiseWilletta {
+    }
+  }
+  serviceid EverydayTealDorree {
+    _hidden_value = true
+  }
+  string JustOliveCharo {
+    _hidden_value = true
+  }
+  "List<string>" CrucialBlackNona {
+    _hidden_value = true
+  }
+  string HonAmethystEthyl {
+    _hidden_value = true
+  }
+  string AbleTomatoGusta {
+    _hidden_value = true
+  }
+  hidden_boolean NeutralTealRosmunda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid YappyBlushLyndsey {
+    _hidden_value = true
+  }
+  boolean FinalScarletDode {
+    _hidden_value = true
+  }
+  CurlyFuchsiaDanna = 593
+  PsychologicalPurpleEtti = 623
+  StillGoldKylynn = 496
+  OverseasCoralMaggie = "Dad Im hungry  Hi hungry Im dad"
+  ParallelBrownCleopatra = 136
+  ShortTurquoiseWilletta = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "JustOliveCharo"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YappyBlushLyndsey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StillGoldKylynn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

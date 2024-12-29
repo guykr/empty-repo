@@ -1,0 +1,112 @@
+type dummy.VicariousYellowGabriel {
+  annotations {
+    serviceid_number TerritorialAquamarineEmelina {
+    }
+    string ImmenseGreenUrsala {
+    }
+    hidden_boolean VisualGoldAllison {
+    }
+    number HeavyCrimsonPetronella {
+    }
+    serviceid_number ChillyCoralPhil {
+    }
+  }
+  serviceid MonthlyTomatoDevina {
+    _hidden_value = true
+  }
+  serviceid ObjectiveAquaAgnola {
+    _hidden_value = true
+  }
+  serviceid_number CombinedRedBernette {
+    _hidden_value = true
+  }
+  string CoherentBeigeMirabella {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingIvoryMay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AbsolutePinkKristen {
+    _hidden_value = true
+  }
+  number PrimitiveIndigoNicol {
+    _hidden_value = true
+  }
+  boolean QualifiedHarlequinTyne {
+    _hidden_value = true
+  }
+  number WearyTanLottie {
+    _hidden_value = true
+  }
+  boolean SecondaryCrimsonCoralyn {
+    _hidden_value = true
+  }
+  serviceid_number TenderLimeCornie {
+    _hidden_value = true
+  }
+  hidden_boolean WhisperingRosePaulina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnconsciousMagentaGiustina {
+    _hidden_value = true
+  }
+  number HiddenMaroonReiko {
+    _hidden_value = true
+  }
+  number MixedSapphireDarline {
+    _hidden_value = true
+  }
+  number ResponsibleOliveClareta {
+    _hidden_value = true
+  }
+  number SlightBrownLaurice {
+    _hidden_value = true
+  }
+  serviceid CausalBlushAnn {
+    _hidden_value = true
+  }
+  boolean HealthyTealGlenn {
+    _hidden_value = true
+  }
+  hidden_boolean WellSalmonElberta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  TerritorialAquamarineEmelina = 491
+  ImmenseGreenUrsala = "Why was it called the dark ages? Because of all the knights. "
+  HeavyCrimsonPetronella = 806
+  ChillyCoralPhil = 45
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TenderLimeCornie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WellSalmonElberta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ObjectiveAquaAgnola"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ResponsibleOliveClareta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AbsolutePinkKristen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

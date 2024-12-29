@@ -1,0 +1,63 @@
+type dummy.BoilingPurpleBabb {
+  annotations {
+    dummy.InitialIvorySelena SymbolicTomatoOpal {
+    }
+    dummy.ProvincialCoralSabrina MushyCoffeeCatha {
+    }
+    number XerothermicMoccasinInesita {
+    }
+    dummy.StraightforwardJadeDarcy IdenticalIvoryArleen {
+    }
+    hidden_boolean RedundantLavenderSybil {
+    }
+    number ShortAmethystShell {
+    }
+    number UnknownBrownReggi {
+    }
+    string UnawareVioletNadia {
+    }
+    hidden_boolean AppropriateCoralElfrieda {
+    }
+    number MotionlessGreenCarmine {
+    }
+    boolean SpecifiedIvoryNaoma {
+    }
+    serviceid MeanIndigoGabbi {
+    }
+    string OddSapphireNessy {
+    }
+    json WickedGoldAppolonia {
+    }
+    serviceid NuttyCoralBobbee {
+    }
+    hidden_boolean DullRedEleonore {
+    }
+    dummy.XenogeneicOrangeMariejeanne ObviousAmberHeath {
+    }
+    dummy.UpperScarletCarroll QuixoticGoldKriste {
+    }
+    boolean FamiliarMoccasinVikky {
+    }
+  }
+  MushyCoffeeCatha = file("WorriedScarletLatisha.txt")
+  XerothermicMoccasinInesita = 936
+  IdenticalIvoryArleen = file("SuddenPinkEmera.txt")
+  ShortAmethystShell = 84
+  UnknownBrownReggi = 999
+  UnawareVioletNadia = "Why did the tomato blush? Because it saw the salad dressing."
+  MotionlessGreenCarmine = 279
+  SpecifiedIvoryNaoma = true
+  MeanIndigoGabbi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OddSapphireNessy = "To be Frank, I'd have to change my name."
+  WickedGoldAppolonia = "Why is Peter Pan always flying? Because he Neverlands."
+  NuttyCoralBobbee = "Why did the tomato blush? Because it saw the salad dressing."
+  FamiliarMoccasinVikky = false
+  _important_values = [
+    {
+      value = "AmusedPinkSarena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "BoilingPurpleBabb_alias"
+}

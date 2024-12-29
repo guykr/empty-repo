@@ -1,0 +1,37 @@
+type dummy.ElectricalAquamarineJennee {
+  annotations {
+    serviceid_number AlonePinkFanechka {
+    }
+    string JealousCrimsonAurlie {
+    }
+    dummy.DepressedCoralDasya ColonialRoseCecelia {
+    }
+    number PetiteTurquoiseMufinella {
+    }
+    serviceid BadFuchsiaLurline {
+    }
+    dummy.DEFAULT SoftRoseDavine {
+    }
+    hidden_boolean DistantCopperMaryrose {
+    }
+  }
+  boolean RomanticCopperGilbertina {
+    _hidden_value = true
+  }
+  AlonePinkFanechka = 169
+  JealousCrimsonAurlie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ColonialRoseCecelia = true
+  PetiteTurquoiseMufinella = 542
+  BadFuchsiaLurline = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SoftRoseDavine = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BadFuchsiaLurline"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

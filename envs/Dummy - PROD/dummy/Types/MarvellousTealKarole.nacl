@@ -1,0 +1,57 @@
+type dummy.MarvellousTealKarole {
+  annotations {
+    boolean ReducedLavenderLanny {
+    }
+    hidden_boolean TropicalChocolateMartie {
+    }
+    serviceid ArbitraryAmaranthJo {
+    }
+    serviceid_number PreliminaryRedAnsley {
+    }
+  }
+  number GrotesqueIndigoDarlene {
+    _hidden_value = true
+  }
+  number ExcessHarlequinLinell {
+    _hidden_value = true
+  }
+  number QuerulousPinkGermaine {
+    _hidden_value = true
+  }
+  json PoisedBlackNicolina {
+    _hidden_value = true
+  }
+  boolean XenialCoralCatlaina {
+    _hidden_value = true
+  }
+  hidden_boolean SpecificCopperHeidie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BoldBeigeWinnifred {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LiteraryLimeMattie {
+    _hidden_value = true
+  }
+  json MysteriousJadeSuzette {
+    _hidden_value = true
+  }
+  string WispyPurpleDonni {
+    _hidden_value = true
+  }
+  ReducedLavenderLanny = false
+  ArbitraryAmaranthJo = "A steak pun is a rare medium well done."
+  PreliminaryRedAnsley = 168
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GrotesqueIndigoDarlene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

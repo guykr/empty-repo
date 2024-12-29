@@ -1,0 +1,26 @@
+type dummy.CharmingEmeraldGlenine {
+  annotations {
+    serviceid_number PermanentMaroonTrixi {
+    }
+    serviceid UnfortunateTealUlla {
+    }
+    serviceid ExternalAquaMarney {
+    }
+    hidden_boolean TechnologicalVioletAlyce {
+    }
+  }
+  string InadequateYellowTressa {
+    _hidden_value = true
+  }
+  PermanentMaroonTrixi = 30
+  UnfortunateTealUlla = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExternalAquaMarney = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TechnologicalVioletAlyce"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

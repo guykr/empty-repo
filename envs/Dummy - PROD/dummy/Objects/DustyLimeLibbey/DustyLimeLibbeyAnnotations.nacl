@@ -1,0 +1,79 @@
+type dummy.DustyLimeLibbey {
+  annotations {
+    number ConstantGreenRafaela {
+    }
+    serviceid_number BriefMaroonAmitie {
+    }
+    dummy.ZippyGreenPeria UrbanYellowJocelyn {
+    }
+    number NakedBeigeGerianna {
+    }
+    serviceid_number ChosenCopperAlicea {
+    }
+    string YouthfulBlackWinona {
+    }
+    number GrotesqueFuchsiaVevay {
+    }
+    serviceid LooseBeigeEmalia {
+    }
+    json HollowCyanCelinda {
+    }
+    number GothicRoseOliy {
+    }
+    number UnwillingBlueLib {
+    }
+    dummy.PainfulCoralEmylee OralSapphireColette {
+    }
+    json ItchyHarlequinHatty {
+    }
+    string AshamedAquamarineJosefina {
+    }
+    serviceid_number SuperiorIndigoJilli {
+    }
+    json ConsciousPlumDarelle {
+    }
+    serviceid_number ReasonableCoralCarolee {
+    }
+    hidden_boolean SelectedGoldBelita {
+    }
+    hidden_boolean CasualAmethystElissa {
+    }
+    number SocialFuchsiaKetty {
+    }
+    string WoodenApricotLurleen {
+    }
+    dummy.KeenGreenDeb MassAquamarineKalindi {
+    }
+    number PanickyGreenMara {
+    }
+    number ShrillAmethystKaren {
+    }
+  }
+  ConstantGreenRafaela = 950
+  BriefMaroonAmitie = 404
+  NakedBeigeGerianna = 489
+  ChosenCopperAlicea = 796
+  YouthfulBlackWinona = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GrotesqueFuchsiaVevay = 376
+  LooseBeigeEmalia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HollowCyanCelinda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GothicRoseOliy = 957
+  UnwillingBlueLib = 958
+  ItchyHarlequinHatty = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AshamedAquamarineJosefina = "To be Frank, I'd have to change my name."
+  SuperiorIndigoJilli = 280
+  ConsciousPlumDarelle = "What do you call two barracuda fish?  A Pairacuda!"
+  ReasonableCoralCarolee = 318
+  SocialFuchsiaKetty = 801
+  WoodenApricotLurleen = "Dad Im hungry  Hi hungry Im dad"
+  PanickyGreenMara = 402
+  ShrillAmethystKaren = 384
+  _self_important_values = [
+    {
+      value = "NakedBeigeGerianna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "DustyLimeLibbey_alias"
+}

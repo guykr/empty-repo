@@ -1,0 +1,82 @@
+type dummy.ExperimentalAmethystKris {
+  serviceid_number MistyGoldIris {
+  }
+  serviceid FineVioletCassandra {
+  }
+  string AccessibleAzureMarthena {
+  }
+  json LowAquamarineTiffany {
+  }
+  serviceid AwfulMaroonCyndy {
+  }
+  hidden_boolean TiredPlumSelinda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.LowRedTruda ExpensiveSapphireFaythe {
+  }
+  number BreezyAzureAlverta {
+  }
+  hidden_boolean ProvincialGoldMaribel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FederalWhiteHulda {
+  }
+  string UnwillingVioletEleen {
+  }
+  dummy.AssociatedHarlequinShandeigh RedundantBrownCaitrin {
+    DelightfulAmberArleyne = 879
+    MuteCrimsonSibeal = 378
+    PriorChocolateIris = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RivalMoccasinAshely = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SatisfactoryAquamarineJaclin = 502
+    UrgentPlumNadya = "How come the stadium got hot after the game? Because all of the fans left."
+    RainyCopperAurora = "Whoever invented the knock-knock joke should get a no bell prize."
+    InquisitiveVioletArleyne = 322
+    ExceptionalOrangeTeena = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    AttractiveOliveHollie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    YellingTealKakalina = 120
+    PremierChocolateSamara = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HandsomeMoccasinElfie = true
+    DryBeigeNoelani = 561
+    BewilderedPlumKathryne = "I'll tell you what often gets over looked... garden fences."
+    WorkingBlueInesita = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SpecialOliveWilie = 331
+    MeltedLavenderMei = 368
+    BareWhiteVally = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    NegativeHarlequinRoxie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  boolean HurtAzureMarylee {
+  }
+  boolean CreativeIvoryCherrita {
+  }
+  number RespectableHarlequinCamel {
+  }
+  string ParallelPlumSheilah {
+  }
+  boolean ProtectiveApricotCarena {
+  }
+  boolean LengthyMaroonDarrelle {
+  }
+  number TypicalBlackConstantine {
+  }
+  dummy.SteadyJadeKit BrokenLimeMarigold {
+    DelightedLavenderMarigold = 240
+    ColourfulIndigoKaralee = 600
+    DirectGrayVikki = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    GreasyRoseDoralin = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CharmingPurpleZita = "Dad Im hungry  Hi hungry Im dad"
+    DeliciousCyanChristabel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  serviceid TastyEmeraldTricia {
+  }
+}

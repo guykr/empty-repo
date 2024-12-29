@@ -1,0 +1,105 @@
+type dummy.MainEmeraldJosephine {
+  annotations {
+    number ChillyJadeAshla {
+    }
+    serviceid_number SemanticSilverAlyssa {
+    }
+    string ExactBrownBrett {
+    }
+    serviceid_number SupremeMoccasinAnnemarie {
+    }
+  }
+  hidden_boolean IsolatedPinkRosa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number WelcomeEmeraldKathy {
+    _hidden_value = true
+  }
+  serviceid_number YoungBlueMarietta {
+    _hidden_value = true
+  }
+  boolean NearIvoryOlympie {
+    _hidden_value = true
+  }
+  serviceid AlternativeJadeLeeann {
+    _hidden_value = true
+  }
+  serviceid JustGrayDenna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConcreteOrangeBrit {
+    _hidden_value = true
+  }
+  serviceid_number OperationalAquamarineLin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EnviousOliveMyrilla {
+    _hidden_value = true
+  }
+  number CuteAquamarineSibel {
+    _hidden_value = true
+  }
+  hidden_boolean StripedPlumMaurise {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CostlySalmonHali {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExperimentalBrownWynne {
+    _hidden_value = true
+  }
+  boolean BoredCoffeeRosamund {
+    _hidden_value = true
+  }
+  string ChronicRedShel {
+    _hidden_value = true
+  }
+  dummy.BurningOrangeJudith SilentTanBili {
+    RemarkableBronzeGoldarina = 365
+    RearCyanFey = "Did you know that protons have mass? I didn't even know they were catholic."
+    FreeTomatoCasie = 31
+    NarrowCopperGerhardine = false
+    BeneficialLavenderDorie = 514
+    UsedPlumViole = "Whoever invented the knock-knock joke should get a no bell prize."
+    SwiftBlackBrooks = "Did you know that protons have mass? I didn't even know they were catholic."
+    NewPinkNicolle = false
+    ScientificPurpleRanda = 81
+    _hidden_value = true
+  }
+  serviceid FavourableGraySteffi {
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedWhiteAdina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ChillyJadeAshla = 233
+  SemanticSilverAlyssa = 411
+  ExactBrownBrett = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SupremeMoccasinAnnemarie = 890
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NearIvoryOlympie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ChronicRedShel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExactBrownBrett"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

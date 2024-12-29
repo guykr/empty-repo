@@ -1,0 +1,74 @@
+type dummy.OldBlushNeille {
+  annotations {
+    string LightPeachAngelika {
+    }
+    number OkayBronzeRivkah {
+    }
+    string HorribleAmberMichal {
+    }
+    dummy.AlrightTealArdelis RoundPurpleTresa {
+    }
+    hidden_boolean IndustrialTanRebe {
+    }
+    serviceid_number DutchBronzeFreida {
+    }
+    string TropicalTealBibi {
+    }
+    string SurvivingBeigeKalina {
+    }
+    dummy.UnhappyMoccasinGina AdvancedMagentaSonia {
+    }
+    number RobustCrimsonLeola {
+    }
+    hidden_boolean RemarkableBronzeArdys {
+    }
+    string MotionlessWhiteJenica {
+    }
+    number ComparableVioletJoellyn {
+    }
+    serviceid DoubtfulVioletBrook {
+    }
+    serviceid_number StatisticalCyanTrudie {
+    }
+    json AcuteFuchsiaTaryn {
+    }
+    json SureGoldAnnis {
+    }
+    serviceid_number FarTanOrsola {
+    }
+    json TenderAzureDory {
+    }
+    json YearlingMaroonSaidee {
+    }
+  }
+  LightPeachAngelika = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OkayBronzeRivkah = 741
+  HorribleAmberMichal = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RoundPurpleTresa = false
+  DutchBronzeFreida = 863
+  TropicalTealBibi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SurvivingBeigeKalina = "I'll tell you what often gets over looked... garden fences."
+  RobustCrimsonLeola = 408
+  MotionlessWhiteJenica = "Why didnt the skeleton cross the road? Because he had no guts."
+  ComparableVioletJoellyn = 391
+  DoubtfulVioletBrook = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StatisticalCyanTrudie = 940
+  AcuteFuchsiaTaryn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SureGoldAnnis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FarTanOrsola = 981
+  TenderAzureDory = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  YearlingMaroonSaidee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _important_values = [
+    {
+      value = "AwkwardCrimsonRandene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SuspiciousAmberMaryl"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "OldBlushNeille_alias"
+}

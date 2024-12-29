@@ -1,0 +1,100 @@
+type dummy.WeirdJadeAllx {
+  annotations {
+    serviceid GiganticRoseBatsheva {
+    }
+    boolean GracefulAmberTallulah {
+    }
+    json LiveTomatoMelisent {
+    }
+    json CourageousCopperEmmeline {
+    }
+    hidden_boolean TightApricotOralia {
+    }
+    dummy.ConfidentialBlueLiuka ComparableLimeJosselyn {
+    }
+    serviceid_number MassiveYellowStarlene {
+    }
+    serviceid SymbolicJadeJanie {
+    }
+    dummy.GayLimeBernete SplendidMagentaFleur {
+    }
+    serviceid ImpossibleMagentaAlyssa {
+    }
+    hidden_boolean IndividualOliveDelores {
+    }
+    boolean UnevenScarletEileen {
+    }
+    number HuskySilverAfton {
+    }
+    number WilfulRoseAnastassia {
+    }
+    boolean ExtendedScarletIrina {
+    }
+    string AbovePinkMyrtia {
+    }
+    serviceid_number OrganicAzureLaurice {
+    }
+    boolean AssistantChocolatePrudence {
+    }
+    hidden_boolean VariedPlumMelva {
+    }
+    json InitialCoffeeSheilakathryn {
+    }
+  }
+  GiganticRoseBatsheva = "What do you call two barracuda fish?  A Pairacuda!"
+  GracefulAmberTallulah = false
+  LiveTomatoMelisent = "What do you call two barracuda fish?  A Pairacuda!"
+  CourageousCopperEmmeline = "A steak pun is a rare medium well done."
+  MassiveYellowStarlene = 811
+  SymbolicJadeJanie = "A steak pun is a rare medium well done."
+  SplendidMagentaFleur = file("AbsentJadeRandi.txt")
+  ImpossibleMagentaAlyssa = "A steak pun is a rare medium well done."
+  UnevenScarletEileen = false
+  HuskySilverAfton = 634
+  WilfulRoseAnastassia = 818
+  ExtendedScarletIrina = false
+  AbovePinkMyrtia = "What do you call two barracuda fish?  A Pairacuda!"
+  OrganicAzureLaurice = 923
+  AssistantChocolatePrudence = false
+  InitialCoffeeSheilakathryn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _important_values = [
+    {
+      value = "EthicalBrownAleda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "YtterbicWhiteTressa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TrickySapphireAura"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ImpossibleMagentaAlyssa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LiveTomatoMelisent"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GracefulAmberTallulah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExtendedScarletIrina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "WeirdJadeAllx_alias"
+}

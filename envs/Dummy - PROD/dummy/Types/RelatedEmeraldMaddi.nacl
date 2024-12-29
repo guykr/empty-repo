@@ -1,0 +1,47 @@
+type dummy.RelatedEmeraldMaddi {
+  annotations {
+    hidden_boolean CertainCoffeeNicholle {
+    }
+    hidden_boolean HolyGoldMyrtice {
+    }
+    json ControlledRedMelitta {
+    }
+    serviceid SpicyChocolateDennie {
+    }
+  }
+  hidden_boolean AtomicJadeClarette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json BoringSapphireEmmye {
+    _hidden_value = true
+  }
+  hidden_boolean ArchitecturalTomatoDianna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WelcomePinkAllis {
+    _hidden_value = true
+  }
+  number DizzyMaroonCalida {
+    _hidden_value = true
+  }
+  serviceid_number ParentalJadeValentina {
+    _hidden_value = true
+  }
+  serviceid_number AttractiveBlushEve {
+    _hidden_value = true
+  }
+  ControlledRedMelitta = "Dad Im hungry  Hi hungry Im dad"
+  SpicyChocolateDennie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AttractiveBlushEve"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,20 @@
+type dummy.NearbyRedBarbra {
+  annotations {
+    string SpareLavenderChristine {
+    }
+    json CorrespondingBrownMaryellen {
+    }
+    json MedievalIndigoCourtnay {
+    }
+    string RichYellowDinny {
+    }
+  }
+  dummy.SourBlueDayna PrivateTurquoiseLorain {
+    _hidden_value = true
+  }
+  SpareLavenderChristine = "Why do birds fly south for the winter? Because it's too far to walk."
+  CorrespondingBrownMaryellen = "Slept like a log last night  woke up in the fireplace."
+  MedievalIndigoCourtnay = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RichYellowDinny = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

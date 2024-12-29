@@ -1,0 +1,95 @@
+type dummy.RuralAzureKaterina {
+  annotations {
+    string GrimFuchsiaMarlane {
+    }
+    string InclinedCopperIna {
+    }
+    string RepulsiveBrownBeatriz {
+    }
+    serviceid GiganticOliveMarley {
+    }
+    boolean ImaginativeAmethystBelinda {
+    }
+    serviceid_number PaleRedLeta {
+    }
+  }
+  serviceid_number ExistingCoralThomasine {
+    _hidden_value = true
+  }
+  serviceid_number FixedWhiteHilary {
+    _hidden_value = true
+  }
+  hidden_boolean LimitedBrownLenka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number LinearCoralZelda {
+    _hidden_value = true
+  }
+  "List<json>" RelatedPurpleBrittani {
+    _hidden_value = true
+  }
+  string FatAzureAnneliese {
+    _hidden_value = true
+  }
+  json NaughtyPurpleEvaleen {
+    _hidden_value = true
+  }
+  hidden_boolean MinisterialMaroonGlynda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT CommonPurpleSigrid {
+    _hidden_value = true
+  }
+  serviceid YellingEmeraldReyna {
+    _hidden_value = true
+  }
+  number MammothTomatoBarbaraanne {
+    _hidden_value = true
+  }
+  dummy.ImperialAzureNetti ResidentialWhiteJerrine {
+    YouthfulSapphireRay = "Dad Im hungry  Hi hungry Im dad"
+    CrookedMaroonThalia = "I'll tell you what often gets over looked... garden fences."
+    SpatialEmeraldMellisa = "What creature is smarter than a talking parrot? A spelling bee."
+    ArrogantIndigoElse = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LittleCopperLauraine = 823
+    EffectiveRedDoralynne = 711
+    QuietOliveBev = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AestheticGoldEvangeline = 7
+    IntegratedWhiteXena = "A steak pun is a rare medium well done."
+    LiableIndigoElle = "Why do birds fly south for the winter? Because it's too far to walk."
+    WidespreadApricotChiquita = false
+    ConcernedHarlequinRafaelita = 108
+    GorgeousFuchsiaKellina = "A steak pun is a rare medium well done."
+    DynamicCopperAdrian = "Dad Im hungry  Hi hungry Im dad"
+    FarPlumNinnetta = "Why didnt the skeleton cross the road? Because he had no guts."
+    WiseBlushSue = 662
+    ExpensiveIndigoJodi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IdealIvoryRozele = 745
+    EmpiricalRedRita = "Why is Peter Pan always flying? Because he Neverlands."
+    ImmediateIvoryRuthanne = "Why is Peter Pan always flying? Because he Neverlands."
+    TypicalCrimsonLeigh = false
+    DryCopperSapphire = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  string TremendousVioletSerena {
+    _hidden_value = true
+  }
+  GrimFuchsiaMarlane = "Why was it called the dark ages? Because of all the knights. "
+  InclinedCopperIna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RepulsiveBrownBeatriz = "What do you call two barracuda fish?  A Pairacuda!"
+  GiganticOliveMarley = "Why did the tomato blush? Because it saw the salad dressing."
+  ImaginativeAmethystBelinda = true
+  PaleRedLeta = 712
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ImaginativeAmethystBelinda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,103 @@
+type dummy.BrainyCrimsonDelphine {
+  annotations {
+    string LovelyBlackCorrianne {
+    }
+    serviceid TerribleIvoryRaphaela {
+    }
+    dummy.AboveJadeAlfi FixedWhiteAngelika {
+    }
+    dummy.DEFAULT ShockedCrimsonRita {
+    }
+    boolean HeavyBeigeCammi {
+    }
+    serviceid SurroundingJadeGina {
+    }
+  }
+  number SwiftBrownDaisy {
+    _hidden_value = true
+  }
+  string RoyalRoseMarieann {
+    _hidden_value = true
+  }
+  number IdenticalPeachBecca {
+    _hidden_value = true
+  }
+  number DigitalBronzeShalne {
+    _hidden_value = true
+  }
+  number MilitaryApricotCathie {
+    _hidden_value = true
+  }
+  dummy.SurprisingWhiteHarrietta RelevantOrangeKaitlynn {
+    OralLavenderSindee = 94
+    CostlyMagentaBarbee = "Why did the tomato blush? Because it saw the salad dressing."
+    OutrageousLavenderMichell = "Why do birds fly south for the winter? Because it's too far to walk."
+    OccupationalPurpleAdela = 684
+    LiberalAmethystPaulina = "Why is Peter Pan always flying? Because he Neverlands."
+    ProposedCyanJandy = "Im only familiar with 25 letters in the English language. I dont know why."
+    AlternativeCyanTiphany = 985
+    CompulsoryLimeLeone = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ResidentTurquoiseMarlyn = true
+    FoolishJadePeria = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    _hidden_value = true
+  }
+  boolean FamousPeachLorne {
+    _hidden_value = true
+  }
+  serviceid TiredChocolateGratia {
+    _hidden_value = true
+  }
+  hidden_boolean ExplicitPeachEricka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OriginalAquaShawnee {
+    _hidden_value = true
+  }
+  LovelyBlackCorrianne = "Why did the kid cross the playground? To get to the other slide."
+  TerribleIvoryRaphaela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FixedWhiteAngelika = true
+  ShockedCrimsonRita = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  HeavyBeigeCammi = true
+  SurroundingJadeGina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FamousPeachLorne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MilitaryApricotCathie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DigitalBronzeShalne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShockedCrimsonRita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SurroundingJadeGina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FixedWhiteAngelika"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

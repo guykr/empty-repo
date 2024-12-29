@@ -1,0 +1,154 @@
+type dummy.ViciousApricotAlmira {
+  annotations {
+    string ArtificialMoccasinAlidia {
+    }
+    number NormalBlackAdriana {
+    }
+    json ReluctantAmberTallia {
+    }
+    serviceid_number ScaredScarletShandy {
+    }
+    number CompactApricotClemmie {
+    }
+  }
+  string ProductiveCoffeeJoya {
+    _hidden_value = true
+  }
+  boolean WilfulMagentaBernardine {
+    _hidden_value = true
+  }
+  hidden_boolean ConcreteBlueTerrie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number WearyScarletDaveen {
+    _hidden_value = true
+  }
+  serviceid_number InclinedBrownElysee {
+    _hidden_value = true
+  }
+  serviceid_number EmpiricalJadeBev {
+    _hidden_value = true
+  }
+  boolean BrainyJadeQuinta {
+    _hidden_value = true
+  }
+  boolean RipePlumDee {
+    _hidden_value = true
+  }
+  hidden_boolean IsolatedYellowStaci {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AnnoyedSilverMelloney {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ContinuousYellowMable {
+    _hidden_value = true
+  }
+  number ScaredPlumIanthe {
+    _hidden_value = true
+  }
+  serviceid FoolishVioletEvangeline {
+    _hidden_value = true
+  }
+  serviceid_number AwakeRedDarcey {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseAurlie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SpottyChocolateAmata {
+    _hidden_value = true
+  }
+  string PassiveAquaBernardina {
+    _hidden_value = true
+  }
+  json GeneralMaroonAnnadiane {
+    _hidden_value = true
+  }
+  serviceid_number InnocentVioletCalida {
+    _hidden_value = true
+  }
+  number EmptyEmeraldWinnie {
+    _hidden_value = true
+  }
+  json MuteRoseSean {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SmartOliveKatheryn {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" CoastalRedBerny {
+    _hidden_value = true
+  }
+  serviceid GloriousOrangeAustin {
+    _hidden_value = true
+  }
+  ArtificialMoccasinAlidia = "Slept like a log last night  woke up in the fireplace."
+  NormalBlackAdriana = 384
+  ReluctantAmberTallia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ScaredScarletShandy = 434
+  CompactApricotClemmie = 802
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BrainyJadeQuinta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProductiveCoffeeJoya"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PassiveAquaBernardina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FoolishVioletEvangeline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RipePlumDee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GeneralMaroonAnnadiane"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IsolatedYellowStaci"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EmpiricalJadeBev"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ArtificialMoccasinAlidia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompactApricotClemmie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

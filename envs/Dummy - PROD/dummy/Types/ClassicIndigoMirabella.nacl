@@ -1,0 +1,88 @@
+type dummy.ClassicIndigoMirabella {
+  annotations {
+    hidden_boolean PriorAmethystMadella {
+    }
+    boolean SparklingMagentaGussy {
+    }
+    boolean StandardBlushJoelly {
+    }
+    serviceid RichTealNady {
+    }
+    dummy.DEFAULT AnnualYellowAlbertina {
+    }
+    string CloudyApricotMerl {
+    }
+  }
+  string ObviousAzureMurielle {
+    _hidden_value = true
+  }
+  string SeniorCoffeeCatarina {
+    _hidden_value = true
+  }
+  string AssociatedAmberRandy {
+    _hidden_value = true
+  }
+  json AppallingOrangeBrittani {
+    _hidden_value = true
+  }
+  json ImportantCrimsonLoleta {
+    _hidden_value = true
+  }
+  dummy.StraightforwardJadeDarcy FlyingScarletVanessa {
+    LegitimateOliveRanna = 892
+    VictoriousTealAleda = 392
+    UrgentWhiteDell = 770
+    PhysicalAzureEdeline = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CompatibleSapphireDoralynn = 398
+    ExternalMaroonFleur = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ClassicalGrayKarola = "Why didnt the skeleton cross the road? Because he had no guts."
+    ConvenientBlushDorie = 584
+    _hidden_value = true
+  }
+  serviceid_number BackAmethystHendrika {
+    _hidden_value = true
+  }
+  serviceid_number ZestyApricotRosina {
+    _hidden_value = true
+  }
+  hidden_boolean YearningBlushKellen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" FrailTealKessia {
+    _hidden_value = true
+  }
+  SparklingMagentaGussy = true
+  StandardBlushJoelly = false
+  RichTealNady = "Why is Peter Pan always flying? Because he Neverlands."
+  AnnualYellowAlbertina = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  CloudyApricotMerl = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FlyingScarletVanessa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AssociatedAmberRandy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RichTealNady"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StandardBlushJoelly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

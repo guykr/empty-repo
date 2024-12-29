@@ -1,0 +1,205 @@
+type dummy.PrettyIvoryFlossie {
+  annotations {
+    hidden_boolean InnovativeAmberJessalin {
+    }
+    number ConsiderableAquaFarrah {
+    }
+    string FitPeachHanny {
+    }
+    json DistinguishedChocolateKendra {
+    }
+    json BeneficialMaroonTommy {
+    }
+  }
+  dummy.BeneficialCoffeeKacey DangerousChocolateSeka {
+    SurprisingBrownVioletta = 703
+    ZygoticBlueGriselda = "Why did the kid cross the playground? To get to the other slide."
+    InnerBlushNataline = 534
+    LongIndigoRebekkah = "I'll tell you what often gets over looked... garden fences."
+    AmateurTurquoiseIrita = 857
+    GothicEmeraldNinette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    BewilderedPinkCrystie = true
+    LengthyOliveMillie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AshamedLimeKelsi = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    DirtyJadeRhianon = "What creature is smarter than a talking parrot? A spelling bee."
+    VividYellowElisabet = false
+    EmptyCyanVallie = "Why didnt the skeleton cross the road? Because he had no guts."
+    MissingAmethystSharron = "How come the stadium got hot after the game? Because all of the fans left."
+    LiquidBronzeWilly = "Dad Im hungry  Hi hungry Im dad"
+    MilitaryFuchsiaRafaelita = 561
+    StructuralYellowBobbie = false
+    AllegedSapphireShandeigh = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CharacteristicBronzeMyrah = "Why did the tomato blush? Because it saw the salad dressing."
+    DualOrangeSisile = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SlightIvoryAudi = "A steak pun is a rare medium well done."
+    BareLimeMissy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  hidden_boolean ExistingTanEvie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OlympicAzureShawna {
+    _hidden_value = true
+  }
+  number ReluctantSapphireJoby {
+    _hidden_value = true
+  }
+  string SkilledFuchsiaTiffani {
+    _hidden_value = true
+  }
+  "Map<serviceid>" PassingEmeraldMartguerita {
+    _hidden_value = true
+  }
+  number HomelyJadeIdalia {
+    _hidden_value = true
+  }
+  serviceid RobustSapphireCordie {
+    _hidden_value = true
+  }
+  "List<json>" SickAquaMargette {
+    _hidden_value = true
+  }
+  json NaturalLavenderMagdalena {
+    _hidden_value = true
+  }
+  number FitCoffeeLanni {
+    _hidden_value = true
+  }
+  serviceid CrazyAmaranthSabrina {
+    _hidden_value = true
+  }
+  json PersistentTanRosabelle {
+    _hidden_value = true
+  }
+  hidden_boolean ProductiveTurquoiseBeatrice {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CulturalTealKalina {
+    _hidden_value = true
+  }
+  number JitteryChocolateHelaine {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessfulLimeMaridel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ProgressiveGoldReeva {
+    _hidden_value = true
+  }
+  serviceid_number VocationalWhitePhil {
+    _hidden_value = true
+  }
+  serviceid ThunderingLimeMarja {
+    _hidden_value = true
+  }
+  number YelpingCoffeeLyndsie {
+    _hidden_value = true
+  }
+  hidden_boolean SleepyAquamarineAddia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DeadBlushBlondell {
+    _hidden_value = true
+  }
+  string AggressiveCoralBrynna {
+    _hidden_value = true
+  }
+  boolean ApparentGrayBambie {
+    _hidden_value = true
+  }
+  hidden_boolean ForeignGrayLisa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json RisingSilverDana {
+    _hidden_value = true
+  }
+  boolean ReluctantAzureKathi {
+    _hidden_value = true
+  }
+  boolean TragicCoralTomasina {
+    _hidden_value = true
+  }
+  serviceid_number CuriousWhiteLyndsie {
+    _hidden_value = true
+  }
+  hidden_boolean SufficientGreenGarland {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number JealousTomatoPerle {
+    _hidden_value = true
+  }
+  serviceid DisappointedPlumKayley {
+    _hidden_value = true
+  }
+  serviceid EmbarrassedTealBernie {
+    _hidden_value = true
+  }
+  ConsiderableAquaFarrah = 636
+  FitPeachHanny = "Im only familiar with 25 letters in the English language. I dont know why."
+  DistinguishedChocolateKendra = "Why is Peter Pan always flying? Because he Neverlands."
+  BeneficialMaroonTommy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VocationalWhitePhil"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "JealousTomatoPerle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PassingEmeraldMartguerita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AggressiveCoralBrynna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisappointedPlumKayley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RisingSilverDana"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProgressiveGoldReeva"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NaturalLavenderMagdalena"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BeneficialMaroonTommy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

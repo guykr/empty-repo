@@ -1,0 +1,17 @@
+type dummy.EffectiveAquaElvina {
+  annotations {
+    number WealthyPeachNathalia {
+    }
+    number EqualTurquoiseRoxy {
+    }
+    boolean SocialBlackKarleen {
+    }
+  }
+  serviceid_number QuaintCyanHedwig {
+    _hidden_value = true
+  }
+  WealthyPeachNathalia = 688
+  EqualTurquoiseRoxy = 175
+  SocialBlackKarleen = false
+  _hidden_value = true
+}

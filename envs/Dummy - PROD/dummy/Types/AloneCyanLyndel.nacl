@@ -1,0 +1,59 @@
+type dummy.AloneCyanLyndel {
+  annotations {
+    number ImmensePlumGuinevere {
+    }
+    dummy.RapidLavenderTerrie InvisiblePurpleLudovika {
+    }
+    number ResonantPlumCharil {
+    }
+  }
+  dummy.DEFAULT UnusualTealDody {
+    _hidden_value = true
+  }
+  serviceid AgriculturalPeachCariotta {
+    _hidden_value = true
+  }
+  json MarxistFuchsiaCarlene {
+    _hidden_value = true
+  }
+  serviceid NarrowOrangeMargarita {
+    _hidden_value = true
+  }
+  serviceid_number InnovativePlumIlene {
+    _hidden_value = true
+  }
+  number SpecialLimeFiona {
+    _hidden_value = true
+  }
+  hidden_boolean ShaggyPeachColetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FrequentChocolateNorene {
+    _hidden_value = true
+  }
+  serviceid_number EmotionalMagentaLucilia {
+    _hidden_value = true
+  }
+  serviceid_number SimpleBlackRafaelia {
+    _hidden_value = true
+  }
+  serviceid_number InquisitiveOliveGweneth {
+    _hidden_value = true
+  }
+  hidden_boolean MusicalAmethystNannette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousAmberAlice {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ImmensePlumGuinevere = 846
+  InvisiblePurpleLudovika = "To be Frank, I'd have to change my name."
+  ResonantPlumCharil = 352
+  _hidden_value = true
+}

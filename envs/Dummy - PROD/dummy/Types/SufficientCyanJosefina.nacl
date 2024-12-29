@@ -1,0 +1,50 @@
+type dummy.SufficientCyanJosefina {
+  annotations {
+    json OrganicHarlequinMaxie {
+    }
+    json FinancialPeachPierrette {
+    }
+    boolean ExuberantAquaDorine {
+    }
+    hidden_boolean ParliamentaryScarletMarissa {
+    }
+    boolean ComprehensiveIvoryLinzy {
+    }
+  }
+  "List<json>" FascinatingBrownTommi {
+    _hidden_value = true
+  }
+  serviceid DisturbingOrangeHeddie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExperiencedJadeBetsy {
+    _hidden_value = true
+  }
+  number SimilarBlueRuby {
+    _hidden_value = true
+  }
+  boolean DearIvoryShanda {
+    _hidden_value = true
+  }
+  json AppallingVioletCarlee {
+    _hidden_value = true
+  }
+  serviceid_number VulnerableAquaJunie {
+    _hidden_value = true
+  }
+  serviceid AnonymousBronzeNatalee {
+    _hidden_value = true
+  }
+  OrganicHarlequinMaxie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FinancialPeachPierrette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExuberantAquaDorine = true
+  ComprehensiveIvoryLinzy = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ExuberantAquaDorine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

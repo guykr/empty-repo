@@ -1,0 +1,61 @@
+type dummy.ToryBlushLacey {
+  annotations {
+    serviceid_number BareVioletJunia {
+    }
+    serviceid RidiculousPlumKarlene {
+    }
+    number InvolvedMagentaValli {
+    }
+    serviceid UncertainChocolateMandie {
+    }
+    serviceid CriminalAmethystPhelia {
+    }
+    string GlamorousGrayRiannon {
+    }
+  }
+  hidden_boolean KnownRoseIdalia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CriticalLimeLilia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json IntellectualAquamarineGracia {
+    _hidden_value = true
+  }
+  string BlankHarlequinErica {
+    _hidden_value = true
+  }
+  number LateBronzeMarlane {
+    _hidden_value = true
+  }
+  BareVioletJunia = 784
+  RidiculousPlumKarlene = "What do you call two barracuda fish?  A Pairacuda!"
+  InvolvedMagentaValli = 426
+  UncertainChocolateMandie = "Did you know that protons have mass? I didn't even know they were catholic."
+  CriminalAmethystPhelia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GlamorousGrayRiannon = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlankHarlequinErica"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InvolvedMagentaValli"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GlamorousGrayRiannon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

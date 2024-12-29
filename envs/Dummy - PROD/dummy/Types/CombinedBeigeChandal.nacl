@@ -1,0 +1,45 @@
+type dummy.CombinedBeigeChandal {
+  annotations {
+    string SpicyMaroonNathalia {
+    }
+    hidden_boolean AestheticAmberSabra {
+    }
+    serviceid RobustAquamarineZola {
+    }
+    dummy.ProvincialCoralSabrina NuttyAmberWren {
+    }
+    serviceid_number UltimatePinkAlison {
+    }
+    serviceid HonGreenMaurizia {
+    }
+    serviceid IndependentMaroonKarin {
+    }
+  }
+  dummy.DEFAULT RidiculousChocolateRachael {
+    _hidden_value = true
+  }
+  SpicyMaroonNathalia = "A steak pun is a rare medium well done."
+  RobustAquamarineZola = "What do you call two barracuda fish?  A Pairacuda!"
+  NuttyAmberWren = "How come the stadium got hot after the game? Because all of the fans left."
+  UltimatePinkAlison = 56
+  HonGreenMaurizia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IndependentMaroonKarin = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AestheticAmberSabra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IndependentMaroonKarin"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HonGreenMaurizia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

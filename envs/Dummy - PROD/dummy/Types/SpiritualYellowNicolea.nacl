@@ -1,0 +1,39 @@
+type dummy.SpiritualYellowNicolea {
+  annotations {
+    number MilitaryWhiteRica {
+    }
+    number ImaginativeBronzeTrenna {
+    }
+    serviceid_number PriorAmberJonie {
+    }
+    dummy.DEFAULT ObnoxiousGoldLaurene {
+    }
+    hidden_boolean CondemnedGoldNathalia {
+    }
+    boolean FortunateGreenLorraine {
+    }
+  }
+  serviceid AdequateScarletFredra {
+    _hidden_value = true
+  }
+  MilitaryWhiteRica = 489
+  ImaginativeBronzeTrenna = 680
+  PriorAmberJonie = 959
+  ObnoxiousGoldLaurene = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  FortunateGreenLorraine = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ImaginativeBronzeTrenna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FortunateGreenLorraine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

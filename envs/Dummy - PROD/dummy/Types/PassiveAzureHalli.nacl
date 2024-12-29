@@ -1,0 +1,45 @@
+type dummy.PassiveAzureHalli is number {
+  annotations {
+    boolean BitterTealJobye {
+    }
+    boolean ElectronicSilverLeticia {
+    }
+    serviceid ConstantPlumGale {
+    }
+    serviceid_number RisingMoccasinPietra {
+    }
+    hidden_boolean HuskyBlueLiane {
+    }
+    hidden_boolean RealSapphirePetunia {
+    }
+    serviceid_number SouthernFuchsiaFlossy {
+    }
+    dummy.DEFAULT MagneticSilverAudrye {
+    }
+    serviceid_number SpiritualTurquoiseRosamund {
+    }
+    boolean AverageOliveGwenni {
+    }
+    serviceid NeatPeachDarcy {
+    }
+    hidden_boolean OutrageousWhiteTheda {
+    }
+    boolean FlexibleCyanPaulie {
+    }
+    number PermanentSilverShirlene {
+    }
+  }
+  BitterTealJobye = true
+  ElectronicSilverLeticia = false
+  ConstantPlumGale = "I'll tell you what often gets over looked... garden fences."
+  RisingMoccasinPietra = 672
+  SouthernFuchsiaFlossy = 527
+  MagneticSilverAudrye = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  SpiritualTurquoiseRosamund = 105
+  AverageOliveGwenni = true
+  NeatPeachDarcy = "Why do birds fly south for the winter? Because it's too far to walk."
+  FlexibleCyanPaulie = true
+  PermanentSilverShirlene = 228
+}

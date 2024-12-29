@@ -1,0 +1,105 @@
+type dummy.GreatTanWilletta {
+  annotations {
+    number DeterminedJadeShelba {
+    }
+    hidden_boolean VisibleBlueCyndy {
+    }
+    number ScrawnyTealTobi {
+    }
+    string MechanicalPlumMaddie {
+    }
+    boolean SubtleOrangeAnna {
+    }
+    string EasyBlushKorry {
+    }
+  }
+  hidden_boolean SuperiorCyanErika {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DreadfulAquaLibbey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number XerothermicOrangeAnnadiana {
+    _hidden_value = true
+  }
+  string NakedAmaranthEma {
+    _hidden_value = true
+  }
+  serviceid PartialSalmonJodee {
+    _hidden_value = true
+  }
+  string UnconsciousGrayJemmy {
+    _hidden_value = true
+  }
+  json UndergroundTanVelma {
+    _hidden_value = true
+  }
+  boolean SacredSalmonHelsa {
+    _hidden_value = true
+  }
+  number AwareVioletGates {
+    _hidden_value = true
+  }
+  number PrettyRoseMaxy {
+    _hidden_value = true
+  }
+  dummy.ExactEmeraldRicca OkayAquaRae {
+    BrightPlumBrett = true
+    QuickEmeraldGilligan = "Did you know that protons have mass? I didn't even know they were catholic."
+    BoringIvoryMyrna = 744
+    RoughCrimsonHedda = 394
+    DearMaroonArlee = 277
+    EqualTanElsy = "Why did the tomato blush? Because it saw the salad dressing."
+    FreshChocolatePaloma = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BraveOliveDiannne = 66
+    SacredTanCristionna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FunnyTanStarla = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HistoricEmeraldMaura = 983
+    ConfidentialCopperPeg = 922
+    TechnicalPinkYelena = 302
+    LegalCoralConstantina = 862
+    PriorChocolateMagda = 345
+    _hidden_value = true
+  }
+  serviceid_number MinorTurquoiseNerissa {
+    _hidden_value = true
+  }
+  json BottomJadeBree {
+    _hidden_value = true
+  }
+  hidden_boolean SocialCopperUlrikaumeko {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SignificantAzureDion {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DigitalRoseIlla {
+    _hidden_value = true
+  }
+  DeterminedJadeShelba = 23
+  ScrawnyTealTobi = 451
+  MechanicalPlumMaddie = "Why do birds fly south for the winter? Because it's too far to walk."
+  SubtleOrangeAnna = true
+  EasyBlushKorry = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MinorTurquoiseNerissa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SignificantAzureDion"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,160 @@
+type dummy.ObedientAquamarineAdelice {
+  annotations {
+    number ManualOliveRosalia {
+    }
+    json FamousAzureTammi {
+    }
+    number ClumsyCrimsonNancie {
+    }
+    serviceid_number OrganisationalIvoryBenedikta {
+    }
+    dummy.DEFAULT ShallowVioletHedwiga {
+    }
+    serviceid ScatteredEmeraldTwyla {
+    }
+  }
+  hidden_boolean RearOliveYolane {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CooingAquaGiulietta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LatinLimeLyda {
+    _hidden_value = true
+  }
+  number SensibleAmaranthFan {
+    _hidden_value = true
+  }
+  hidden_boolean EconomicOliveSari {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid StandardAmberCindy {
+    _hidden_value = true
+  }
+  dummy.DesperateFuchsiaLonna StormyCoffeeClaire {
+    SensitiveAquaLarine = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DampRedLora = 174
+    DisturbedBeigeMirna = true
+    VoluminousRoseCoreen = false
+    SubtleScarletLuise = 511
+    FinancialAquamarineLizzy = "A steak pun is a rare medium well done."
+    ChemicalPeachCrissy = false
+    NumerousEmeraldSeka = false
+    VisibleChocolateCarilyn = 397
+    DisgustedBeigeJaquelin = "What do you call two barracuda fish?  A Pairacuda!"
+    GrubbyPlumSusy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  serviceid_number MagneticMaroonLynnell {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentOliveLillis {
+    _hidden_value = true
+  }
+  hidden_boolean OddBeigeTerrye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ImperialAzureNetti BreakableScarletKaroline {
+    YouthfulSapphireRay = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CrookedMaroonThalia = "I'll tell you what often gets over looked... garden fences."
+    SpatialEmeraldMellisa = "Why did the tomato blush? Because it saw the salad dressing."
+    ArrogantIndigoElse = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LittleCopperLauraine = 553
+    EffectiveRedDoralynne = 333
+    QuietOliveBev = "Why did the tomato blush? Because it saw the salad dressing."
+    AestheticGoldEvangeline = 807
+    IntegratedWhiteXena = "Why did the kid cross the playground? To get to the other slide."
+    LiableIndigoElle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WidespreadApricotChiquita = true
+    ConcernedHarlequinRafaelita = 351
+    GorgeousFuchsiaKellina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DynamicCopperAdrian = "What creature is smarter than a talking parrot? A spelling bee."
+    FarPlumNinnetta = "Why do birds fly south for the winter? Because it's too far to walk."
+    WiseBlushSue = 642
+    ExpensiveIndigoJodi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    IdealIvoryRozele = 985
+    EmpiricalRedRita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ImmediateIvoryRuthanne = "How come the stadium got hot after the game? Because all of the fans left."
+    TypicalCrimsonLeigh = false
+    DryCopperSapphire = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  serviceid_number RuralBlueRay {
+    _hidden_value = true
+  }
+  serviceid_number YappyLimeHarriot {
+    _hidden_value = true
+  }
+  serviceid QuarrelsomeJadeIsabella {
+    _hidden_value = true
+  }
+  serviceid_number CriminalRedEmmey {
+    _hidden_value = true
+  }
+  string NationalCyanCairistiona {
+    _hidden_value = true
+  }
+  serviceid SeparateWhiteAdah {
+    _hidden_value = true
+  }
+  dummy.SocialBronzeGerri VariedApricotAbagail {
+    InnerAzureBettine = true
+    PlainOrangePapagena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    NearIvoryLoraine = 712
+    MildPeachKiah = false
+    ImperialGrayFedora = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DueFuchsiaVanda = 408
+    ScornfulBronzeTonie = 589
+    ConvincedIvoryMuire = false
+    MatureAzureRosalinda = "Why did the tomato blush? Because it saw the salad dressing."
+    GiantGreenMaggee = false
+    ScreechingApricotKrista = true
+    _hidden_value = true
+  }
+  ManualOliveRosalia = 162
+  FamousAzureTammi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ClumsyCrimsonNancie = 661
+  OrganisationalIvoryBenedikta = 895
+  ShallowVioletHedwiga = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  ScatteredEmeraldTwyla = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VariedApricotAbagail"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OddBeigeTerrye"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MagneticMaroonLynnell"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExcellentOliveLillis"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ScatteredEmeraldTwyla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

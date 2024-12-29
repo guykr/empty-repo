@@ -1,0 +1,57 @@
+type dummy.UnitedScarletFrances {
+  annotations {
+    hidden_boolean WeeSapphireCarrissa {
+    }
+    number FragileRoseRomy {
+    }
+    string SolidEmeraldKaleena {
+    }
+    string BrainyEmeraldKrissie {
+    }
+  }
+  "List<number>" MissingYellowRoseanna {
+    _hidden_value = true
+  }
+  json InstitutionalAmethystEdyth {
+    _hidden_value = true
+  }
+  hidden_boolean ExclusiveVioletMilzie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean WeeBrownLeyla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string PetiteSapphirePepita {
+    _hidden_value = true
+  }
+  boolean ConstantBlushArdelis {
+    _hidden_value = true
+  }
+  string IntermediateBlushJohanna {
+    _hidden_value = true
+  }
+  serviceid ShyHarlequinLind {
+    _hidden_value = true
+  }
+  serviceid_number CulturalFuchsiaLindie {
+    _hidden_value = true
+  }
+  number VastSalmonEunice {
+    _hidden_value = true
+  }
+  FragileRoseRomy = 341
+  SolidEmeraldKaleena = "Why is Peter Pan always flying? Because he Neverlands."
+  BrainyEmeraldKrissie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConstantBlushArdelis"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,19 @@
+type dummy.LinearFuchsiaRoze {
+  annotations {
+    number QuickPlumMeggi {
+    }
+    hidden_boolean InnerPeachPegeen {
+    }
+    dummy.PublicAquaRosemarie ShinyFuchsiaPhylis {
+    }
+    serviceid_number HolyTanFaye {
+    }
+  }
+  json DrivingTomatoPhelia {
+    _hidden_value = true
+  }
+  QuickPlumMeggi = 395
+  ShinyFuchsiaPhylis = 123
+  HolyTanFaye = 127
+  _hidden_value = true
+}

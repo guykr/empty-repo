@@ -1,0 +1,91 @@
+type dummy.FancyAzureGlynnis {
+  annotations {
+    hidden_boolean CommercialCoralAngelika {
+    }
+    hidden_boolean ParentalJadeIzabel {
+    }
+    json BraveMoccasinDanielle {
+    }
+    boolean EmpiricalCoffeeMurielle {
+    }
+    serviceid EncouragingVioletElinore {
+    }
+    number JoyousAzureAlyssa {
+    }
+  }
+  json YabberingMagentaNorine {
+    _hidden_value = true
+  }
+  string ColdMoccasinMarjy {
+    _hidden_value = true
+  }
+  boolean ResponsibleCopperMara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiquidEmeraldElnore {
+    _hidden_value = true
+  }
+  serviceid_number FuzzyIndigoEunice {
+    _hidden_value = true
+  }
+  serviceid JointPurpleDamaris {
+    _hidden_value = true
+  }
+  serviceid RealIndigoXena {
+    _hidden_value = true
+  }
+  boolean ControversialTealSeka {
+    _hidden_value = true
+  }
+  number EstablishedTealFeodora {
+    _hidden_value = true
+  }
+  boolean LevelBeigeBetteann {
+    _hidden_value = true
+  }
+  "List<boolean>" AcuteChocolateMaible {
+    _hidden_value = true
+  }
+  boolean RenewedLimeOctavia {
+    _hidden_value = true
+  }
+  number ToxicGrayNiki {
+    _hidden_value = true
+  }
+  boolean ExoticGrayDevora {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GleamingBlueSheilakathryn {
+    _hidden_value = true
+  }
+  number JoyousBlushDido {
+    _hidden_value = true
+  }
+  string CivilianVioletJaquith {
+    _hidden_value = true
+  }
+  hidden_boolean ConstantEmeraldBrana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  BraveMoccasinDanielle = "Whoever invented the knock-knock joke should get a no bell prize."
+  EmpiricalCoffeeMurielle = false
+  EncouragingVioletElinore = "What do you do on a remote island? Try and find the TV island it belongs to."
+  JoyousAzureAlyssa = 665
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YabberingMagentaNorine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EncouragingVioletElinore"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,70 @@
+type dummy.ModernGreenStesha {
+  annotations {
+    number UsedAzureWinnifred {
+    }
+    serviceid_number FunctionalAmethystTiphany {
+    }
+    boolean JollyEmeraldKandace {
+    }
+    number FlexibleAquaMel {
+    }
+    string LatinRoseRosita {
+    }
+    serviceid_number AmateurHarlequinMargareta {
+    }
+    dummy.SurprisingWhiteHarrietta InnovativeSapphireJaclyn {
+    }
+  }
+  string NiceAmaranthHeda {
+    _hidden_value = true
+  }
+  boolean MaximumJadeCharis {
+    _hidden_value = true
+  }
+  boolean RelativeTurquoiseCayla {
+    _hidden_value = true
+  }
+  number BasicAmethystKarry {
+    _hidden_value = true
+  }
+  number MinisterialMoccasinDalia {
+    _hidden_value = true
+  }
+  hidden_boolean FixedCrimsonFae {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HistoricalGoldDede {
+    _hidden_value = true
+  }
+  string AbsoluteMoccasinRenae {
+    _hidden_value = true
+  }
+  boolean ProductiveBlackFrederique {
+    _hidden_value = true
+  }
+  number MadCoffeeCaralie {
+    _hidden_value = true
+  }
+  UsedAzureWinnifred = 596
+  FunctionalAmethystTiphany = 52
+  JollyEmeraldKandace = true
+  FlexibleAquaMel = 265
+  LatinRoseRosita = "I'll tell you what often gets over looked... garden fences."
+  AmateurHarlequinMargareta = 407
+  InnovativeSapphireJaclyn = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RelativeTurquoiseCayla"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FixedCrimsonFae"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

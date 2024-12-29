@@ -1,0 +1,73 @@
+type dummy.ExtendedCrimsonKaitlyn is boolean {
+  annotations {
+    hidden_boolean CognitiveTurquoisePhilippe {
+    }
+    number InternalEmeraldSabina {
+    }
+    hidden_boolean CorrectBrownNerissa {
+    }
+    serviceid PreciseLimeAlexia {
+    }
+    serviceid FranticTealTwyla {
+    }
+    serviceid OkayBlackLorrin {
+    }
+    json DueCyanMilly {
+    }
+    string TrickyCoffeeFerdinanda {
+    }
+    boolean UsedMaroonEmili {
+    }
+    number ControversialIvoryColleen {
+    }
+    json UnfortunateAquaMinni {
+    }
+    boolean ProbableWhiteJuliette {
+    }
+    hidden_boolean LowTurquoiseZahara {
+    }
+    string UnevenIvoryJodie {
+    }
+    serviceid_number AllegedMaroonMildred {
+    }
+    number QuaintTealFarah {
+    }
+    string SubstantialCoffeeLeesa {
+    }
+    hidden_boolean AdorableTomatoJessalin {
+    }
+    hidden_boolean LevelBlackEvvy {
+    }
+    string XenialLimeJohnath {
+    }
+    hidden_boolean ClinicalLavenderDanice {
+    }
+    boolean ReasonableHarlequinNovelia {
+    }
+    boolean GeneticAzureCassaundra {
+    }
+    boolean TremendousBlueZia {
+    }
+    serviceid RunningMoccasinAubrette {
+    }
+  }
+  InternalEmeraldSabina = 316
+  PreciseLimeAlexia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FranticTealTwyla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  OkayBlackLorrin = "Im only familiar with 25 letters in the English language. I dont know why."
+  DueCyanMilly = "Why was it called the dark ages? Because of all the knights. "
+  TrickyCoffeeFerdinanda = "What creature is smarter than a talking parrot? A spelling bee."
+  UsedMaroonEmili = false
+  ControversialIvoryColleen = 209
+  UnfortunateAquaMinni = "To be Frank, I'd have to change my name."
+  ProbableWhiteJuliette = false
+  UnevenIvoryJodie = "A steak pun is a rare medium well done."
+  AllegedMaroonMildred = 551
+  QuaintTealFarah = 828
+  SubstantialCoffeeLeesa = "Slept like a log last night  woke up in the fireplace."
+  XenialLimeJohnath = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ReasonableHarlequinNovelia = false
+  GeneticAzureCassaundra = false
+  TremendousBlueZia = false
+  RunningMoccasinAubrette = "Why did the kid cross the playground? To get to the other slide."
+}

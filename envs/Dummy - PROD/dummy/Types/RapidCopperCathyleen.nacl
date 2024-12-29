@@ -1,0 +1,67 @@
+type dummy.RapidCopperCathyleen {
+  annotations {
+    serviceid FullCopperErmengarde {
+    }
+    serviceid_number YearningMaroonBekki {
+    }
+    hidden_boolean LovelyMoccasinJennine {
+    }
+    serviceid_number SubsequentFuchsiaAnnalise {
+    }
+    number ParallelRedNoella {
+    }
+    hidden_boolean YammeringChocolateArielle {
+    }
+    serviceid_number ExtraBlueBlinni {
+    }
+  }
+  hidden_boolean RuralRoseWini {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AccessibleMoccasinArabele {
+    _hidden_value = true
+  }
+  number VictoriousCrimsonRobin {
+    _hidden_value = true
+  }
+  hidden_boolean ComplicatedCyanMicaela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean NecessaryRoseJustinn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid OrganicBeigeReyna {
+    _hidden_value = true
+  }
+  serviceid_number VastBlushPhyllis {
+    _hidden_value = true
+  }
+  string DisabledBronzeAveryl {
+    _hidden_value = true
+  }
+  serviceid AgriculturalAzureGlenn {
+    _hidden_value = true
+  }
+  number FancyAmaranthDaisy {
+    _hidden_value = true
+  }
+  FullCopperErmengarde = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  YearningMaroonBekki = 542
+  SubsequentFuchsiaAnnalise = 463
+  ParallelRedNoella = 368
+  ExtraBlueBlinni = 425
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FullCopperErmengarde"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

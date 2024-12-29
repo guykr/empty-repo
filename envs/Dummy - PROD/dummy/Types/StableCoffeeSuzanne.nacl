@@ -1,0 +1,90 @@
+type dummy.StableCoffeeSuzanne {
+  annotations {
+    hidden_boolean AgreedCoffeeMarilin {
+    }
+    json PhilosophicalTomatoSharai {
+    }
+    string StandardBeigeMarianna {
+    }
+    serviceid_number UndergroundVioletRiva {
+    }
+    serviceid SteepBeigeJennee {
+    }
+  }
+  hidden_boolean ImpossibleWhitePatti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BreakableGoldMasha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ScreechingPeachLaurel {
+    _hidden_value = true
+  }
+  string HandicappedLavenderCharmane {
+    _hidden_value = true
+  }
+  boolean PositiveOrangeGertrudis {
+    _hidden_value = true
+  }
+  "List<serviceid>" AtomicBeigeVeronica {
+    _hidden_value = true
+  }
+  serviceid_number MoralAmberBabs {
+    _hidden_value = true
+  }
+  json FragileBlackLuella {
+    _hidden_value = true
+  }
+  number VariousMaroonAnnecorinne {
+    _hidden_value = true
+  }
+  string UnconsciousVioletJerrilee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SensibleVioletKristal {
+    _hidden_value = true
+  }
+  number ScatteredCopperSarah {
+    _hidden_value = true
+  }
+  number ElaborateSapphireTracey {
+    _hidden_value = true
+  }
+  string GloriousIvoryPippa {
+    _hidden_value = true
+  }
+  json ExceptionalWhiteDoralynn {
+    _hidden_value = true
+  }
+  json ChangingIndigoLorita {
+    _hidden_value = true
+  }
+  PhilosophicalTomatoSharai = "Whoever invented the knock-knock joke should get a no bell prize."
+  StandardBeigeMarianna = "Why do birds fly south for the winter? Because it's too far to walk."
+  UndergroundVioletRiva = 98
+  SteepBeigeJennee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FragileBlackLuella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImpossibleWhitePatti"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StandardBeigeMarianna"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

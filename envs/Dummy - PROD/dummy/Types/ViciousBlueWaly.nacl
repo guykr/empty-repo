@@ -1,0 +1,28 @@
+type dummy.ViciousBlueWaly {
+  annotations {
+    dummy.StraightforwardYellowCaria PrimitivePurpleLanita {
+    }
+    hidden_boolean UgliestRedLinet {
+    }
+    hidden_boolean DistinguishedApricotMaxie {
+    }
+    string AwakeAquaRow {
+    }
+  }
+  number TenderWhiteAntonina {
+    _hidden_value = true
+  }
+  number CostlyAquaMona {
+    _hidden_value = true
+  }
+  PrimitivePurpleLanita = true
+  AwakeAquaRow = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PrimitivePurpleLanita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,22 @@
+type dummy.FondYellowKristi {
+  annotations {
+    json RespectableEmeraldCarlen {
+    }
+    hidden_boolean PersistentAmaranthEadie {
+    }
+    serviceid MiserableScarletArdenia {
+    }
+    boolean GrumpyTurquoiseGenovera {
+    }
+    string ElaborateMaroonReyna {
+    }
+  }
+  serviceid AnonymousAquaBabbette {
+    _hidden_value = true
+  }
+  RespectableEmeraldCarlen = "Did you know that protons have mass? I didn't even know they were catholic."
+  MiserableScarletArdenia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GrumpyTurquoiseGenovera = true
+  ElaborateMaroonReyna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

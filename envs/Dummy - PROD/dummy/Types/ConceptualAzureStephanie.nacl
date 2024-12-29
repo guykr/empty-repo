@@ -1,0 +1,41 @@
+type dummy.ConceptualAzureStephanie {
+  annotations {
+    string OutrageousRedCindelyn {
+    }
+    string ReliableTomatoKristien {
+    }
+    dummy.DEFAULT SelfishBronzeBirdie {
+    }
+    hidden_boolean KeenSapphireCarri {
+    }
+    hidden_boolean DustyMoccasinKerrie {
+    }
+  }
+  number ExplicitEmeraldBabbie {
+    _hidden_value = true
+  }
+  serviceid RuralTealWandie {
+    _hidden_value = true
+  }
+  serviceid_number MistyAquaWendeline {
+    _hidden_value = true
+  }
+  serviceid ArrogantChocolatePippy {
+    _hidden_value = true
+  }
+  boolean InappropriateWhiteDrucy {
+    _hidden_value = true
+  }
+  boolean ChemicalPeachDolores {
+    _hidden_value = true
+  }
+  json SunnyFuchsiaEtty {
+    _hidden_value = true
+  }
+  OutrageousRedCindelyn = "What do you call two barracuda fish?  A Pairacuda!"
+  ReliableTomatoKristien = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SelfishBronzeBirdie = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  _hidden_value = true
+}

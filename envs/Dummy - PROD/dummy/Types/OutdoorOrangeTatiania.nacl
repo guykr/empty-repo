@@ -1,0 +1,100 @@
+type dummy.OutdoorOrangeTatiania {
+  annotations {
+    serviceid LeftSapphireFredericka {
+    }
+    number ProfitableGoldMarion {
+    }
+    serviceid_number CombinedCopperAlexi {
+    }
+    serviceid CharmingSilverDory {
+    }
+    serviceid AbsolutePinkKylie {
+    }
+    json ExperimentalChocolateFey {
+    }
+    json FrontTomatoKathlin {
+    }
+  }
+  string BetterChocolateChanda {
+    _hidden_value = true
+  }
+  hidden_boolean JollyAzureAndromache {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StandardBlackCharisse {
+    _hidden_value = true
+  }
+  serviceid_number NobleEmeraldJaquenetta {
+    _hidden_value = true
+  }
+  boolean StrictCopperIngeberg {
+    _hidden_value = true
+  }
+  boolean ElectronicEmeraldJanis {
+    _hidden_value = true
+  }
+  serviceid MathematicalEmeraldKippie {
+    _hidden_value = true
+  }
+  hidden_boolean IntermediateJadeJulietta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NervousBeigeNissie {
+    _hidden_value = true
+  }
+  boolean BlushingAmberHermine {
+    _hidden_value = true
+  }
+  dummy.PlannedBlueLotti WickedHarlequinFayth {
+    SatisfactoryBronzeMerlina = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string SplendidCoffeeTara {
+    _hidden_value = true
+  }
+  string ObnoxiousFuchsiaMaddy {
+    _hidden_value = true
+  }
+  hidden_boolean SmallCoffeeLauraine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ProfoundGrayAmanda {
+    _hidden_value = true
+  }
+  LeftSapphireFredericka = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProfitableGoldMarion = 572
+  CombinedCopperAlexi = 564
+  CharmingSilverDory = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AbsolutePinkKylie = "Why was it called the dark ages? Because of all the knights. "
+  ExperimentalChocolateFey = "Why did the tomato blush? Because it saw the salad dressing."
+  FrontTomatoKathlin = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SplendidCoffeeTara"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MathematicalEmeraldKippie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NervousBeigeNissie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WickedHarlequinFayth"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

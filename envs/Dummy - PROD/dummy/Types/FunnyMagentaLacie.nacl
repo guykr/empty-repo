@@ -1,0 +1,37 @@
+type dummy.FunnyMagentaLacie {
+  annotations {
+    serviceid_number AttractiveMaroonTamiko {
+    }
+    serviceid_number HollowJadeGayle {
+    }
+    hidden_boolean SufficientAzureMeghann {
+    }
+    serviceid_number StuckOliveMommy {
+    }
+    boolean QuixoticJadeKelsey {
+    }
+    boolean SuperiorTealDdene {
+    }
+  }
+  serviceid_number ShrillBeigeJessa {
+    _hidden_value = true
+  }
+  AttractiveMaroonTamiko = 913
+  HollowJadeGayle = 706
+  StuckOliveMommy = 995
+  QuixoticJadeKelsey = false
+  SuperiorTealDdene = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StuckOliveMommy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AttractiveMaroonTamiko"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

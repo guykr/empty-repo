@@ -1,0 +1,97 @@
+type dummy.CooingAzureNeely {
+  annotations {
+    serviceid_number HardScarletKiele {
+    }
+    number EstimatedCyanBernadina {
+    }
+    json ConstantHarlequinRosalia {
+    }
+    number OccasionalLimeKarrah {
+    }
+  }
+  string DearGrayMallory {
+    _hidden_value = true
+  }
+  dummy.BurningOrangeJudith RottenBrownCharissa {
+    RemarkableBronzeGoldarina = 34
+    RearCyanFey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FreeTomatoCasie = 823
+    NarrowCopperGerhardine = true
+    BeneficialLavenderDorie = 445
+    UsedPlumViole = "Why did the tomato blush? Because it saw the salad dressing."
+    SwiftBlackBrooks = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    NewPinkNicolle = false
+    ScientificPurpleRanda = 624
+    _hidden_value = true
+  }
+  serviceid VocalGrayMagdalen {
+    _hidden_value = true
+  }
+  json FiscalPurpleCatina {
+    _hidden_value = true
+  }
+  serviceid MetropolitanRoseOralia {
+    _hidden_value = true
+  }
+  serviceid CertainTealTeddie {
+    _hidden_value = true
+  }
+  boolean ObligedIvoryFrancisca {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MeltedIvoryAloisia {
+    _hidden_value = true
+  }
+  serviceid_number GoverningMagentaHeddie {
+    _hidden_value = true
+  }
+  hidden_boolean FlexibleRedHedi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.RightBlushVitia BloodyScarletAidan {
+    NavalLavenderAshly = 647
+    PsychiatricAzureTorie = 330
+    NoisyHarlequinDamaris = "Slept like a log last night  woke up in the fireplace."
+    NakedTomatoLaetitia = 936
+    OpenMagentaRoseanna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SparklingPinkAdrea = false
+    OccupationalBlackDevan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HelplessPurpleStevena = "Whoever invented the knock-knock joke should get a no bell prize."
+    PrimarySalmonMinda = "Why did the kid cross the playground? To get to the other slide."
+    DefiantTurquoiseArdeen = false
+    RetiredCrimsonBetsy = "Why is Peter Pan always flying? Because he Neverlands."
+    BoldCyanLisa = 36
+    _hidden_value = true
+  }
+  string LegitimateMagentaShoshana {
+    _hidden_value = true
+  }
+  json DisciplinaryEmeraldDoreen {
+    _hidden_value = true
+  }
+  serviceid CrookedSilverCorrinne {
+    _hidden_value = true
+  }
+  serviceid DustyMoccasinPetronille {
+    _hidden_value = true
+  }
+  HardScarletKiele = 638
+  EstimatedCyanBernadina = 309
+  ConstantHarlequinRosalia = "Im only familiar with 25 letters in the English language. I dont know why."
+  OccasionalLimeKarrah = 532
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LegitimateMagentaShoshana"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BloodyScarletAidan"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,23 @@
+type dummy.CausalSilverRosanna {
+  annotations {
+    dummy.ProvincialCoralSabrina DistantCrimsonDarryl {
+    }
+    number RemarkableRoseCatlee {
+    }
+    hidden_boolean ConsciousBlushMerridie {
+    }
+  }
+  serviceid_number WellRedZarla {
+    _hidden_value = true
+  }
+  DistantCrimsonDarryl = "Dad Im hungry  Hi hungry Im dad"
+  RemarkableRoseCatlee = 153
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DistantCrimsonDarryl"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

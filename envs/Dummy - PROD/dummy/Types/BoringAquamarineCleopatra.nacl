@@ -1,0 +1,171 @@
+type dummy.BoringAquamarineCleopatra {
+  annotations {
+    json CriminalSapphireFianna {
+    }
+    hidden_boolean NorthernGreenHinda {
+    }
+    serviceid_number CommonIndigoRoanna {
+    }
+    boolean MarineYellowKakalina {
+    }
+    dummy.LowRedTruda WorryingPinkKatya {
+    }
+    boolean YabberingSilverDe {
+    }
+  }
+  json YoungestRoseCoralie {
+    _hidden_value = true
+  }
+  hidden_boolean NormalChocolateRayna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GrievingSalmonClaudia {
+    _hidden_value = true
+  }
+  serviceid_number UncomfortableAquamarineAlys {
+    _hidden_value = true
+  }
+  hidden_boolean ZoophagousTomatoFranny {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RelatedJadeBobina {
+    _hidden_value = true
+  }
+  string DevotedRoseMelisenda {
+    _hidden_value = true
+  }
+  json TallRedDniren {
+    _hidden_value = true
+  }
+  string SevereCyanJosi {
+    _hidden_value = true
+  }
+  hidden_boolean FrozenTurquoiseDrucy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json OralCoralErmengarde {
+    _hidden_value = true
+  }
+  serviceid IncreasingOliveAlbertina {
+    _hidden_value = true
+  }
+  serviceid SuccessiveAmethystSelie {
+    _hidden_value = true
+  }
+  json EstablishedJadeCarly {
+    _hidden_value = true
+  }
+  number TenseIvoryVida {
+    _hidden_value = true
+  }
+  serviceid AshamedMoccasinClaresta {
+    _hidden_value = true
+  }
+  hidden_boolean RemainingBeigeOneida {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ManagingBlushEba {
+    _hidden_value = true
+  }
+  hidden_boolean MedicalGrayAudrey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ShyRoseLebbie {
+    _hidden_value = true
+  }
+  dummy.DesperateFuchsiaLonna KeyScarletCeciley {
+    SensitiveAquaLarine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DampRedLora = 684
+    DisturbedBeigeMirna = true
+    VoluminousRoseCoreen = true
+    SubtleScarletLuise = 642
+    FinancialAquamarineLizzy = "Why did the tomato blush? Because it saw the salad dressing."
+    ChemicalPeachCrissy = true
+    NumerousEmeraldSeka = true
+    VisibleChocolateCarilyn = 356
+    DisgustedBeigeJaquelin = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GrubbyPlumSusy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  serviceid_number CombativeBlueDaisie {
+    _hidden_value = true
+  }
+  boolean NeatBlushMarilin {
+    _hidden_value = true
+  }
+  serviceid PoisedMoccasinCarolin {
+    _hidden_value = true
+  }
+  serviceid_number CreepyCyanViolet {
+    _hidden_value = true
+  }
+  hidden_boolean UpperGoldCelisse {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SouthernPurpleEunice {
+    _hidden_value = true
+  }
+  serviceid_number EligibleEmeraldKelley {
+    _hidden_value = true
+  }
+  string WealthyMoccasinMarge {
+    _hidden_value = true
+  }
+  hidden_boolean CombinedRoseCordelie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CriminalSapphireFianna = "Why was it called the dark ages? Because of all the knights. "
+  CommonIndigoRoanna = 971
+  MarineYellowKakalina = false
+  WorryingPinkKatya = "Did you know that protons have mass? I didn't even know they were catholic."
+  YabberingSilverDe = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncreasingOliveAlbertina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CreepyCyanViolet"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ZoophagousTomatoFranny"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NorthernGreenHinda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YabberingSilverDe"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WorryingPinkKatya"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

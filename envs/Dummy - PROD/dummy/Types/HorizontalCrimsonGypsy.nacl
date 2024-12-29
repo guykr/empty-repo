@@ -1,0 +1,29 @@
+type dummy.HorizontalCrimsonGypsy is number {
+  annotations {
+    number EvilCoffeeMarilee {
+    }
+    string InclinedCopperNorean {
+    }
+    string WorriedFuchsiaRosene {
+    }
+    boolean CleverBronzeCoreen {
+    }
+    number DrabAquaJazmin {
+    }
+    hidden_boolean MilitaryOliveVerene {
+    }
+    boolean SoftPlumBrittni {
+    }
+    hidden_boolean DrivingOliveNinette {
+    }
+    boolean UnconsciousBrownIdelle {
+    }
+  }
+  EvilCoffeeMarilee = 18
+  InclinedCopperNorean = "Why did the tomato blush? Because it saw the salad dressing."
+  WorriedFuchsiaRosene = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CleverBronzeCoreen = false
+  DrabAquaJazmin = 586
+  SoftPlumBrittni = true
+  UnconsciousBrownIdelle = true
+}

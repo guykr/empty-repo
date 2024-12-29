@@ -1,0 +1,30 @@
+type dummy.UpperCyanRafaela {
+  annotations {
+    string YelpingCyanKeslie {
+    }
+    json MedievalPeachMichel {
+    }
+    number SquealingSalmonRyann {
+    }
+    string CoolCrimsonSam {
+    }
+    json WoodenAmberEmmie {
+    }
+  }
+  boolean ImpressedWhiteEmmeline {
+    _hidden_value = true
+  }
+  YelpingCyanKeslie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MedievalPeachMichel = "Why is Peter Pan always flying? Because he Neverlands."
+  SquealingSalmonRyann = 242
+  CoolCrimsonSam = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WoodenAmberEmmie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SquealingSalmonRyann"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,62 @@
+type dummy.PriorBlueJulita {
+  annotations {
+    boolean RobustJadeLu {
+    }
+    number SurprisedCoralKristi {
+    }
+    hidden_boolean MereVioletBlisse {
+    }
+    string SuperbAquaMarion {
+    }
+    serviceid ComprehensiveAmberJuliette {
+    }
+    serviceid_number ApparentFuchsiaDolley {
+    }
+  }
+  serviceid_number VulnerableVioletKelley {
+    _hidden_value = true
+  }
+  hidden_boolean PersistentApricotAmabelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HealthyCopperLissi {
+    _hidden_value = true
+  }
+  boolean NoisyBlueBreanne {
+    _hidden_value = true
+  }
+  string TallMoccasinKissee {
+    _hidden_value = true
+  }
+  serviceid SpareCyanBerty {
+    _hidden_value = true
+  }
+  string LivelyAmethystBarbabra {
+    _hidden_value = true
+  }
+  RobustJadeLu = false
+  SurprisedCoralKristi = 428
+  SuperbAquaMarion = "How come the stadium got hot after the game? Because all of the fans left."
+  ComprehensiveAmberJuliette = "Im only familiar with 25 letters in the English language. I dont know why."
+  ApparentFuchsiaDolley = 741
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RobustJadeLu"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SuperbAquaMarion"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ComprehensiveAmberJuliette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

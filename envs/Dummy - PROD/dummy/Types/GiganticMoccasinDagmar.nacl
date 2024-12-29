@@ -1,0 +1,88 @@
+type dummy.GiganticMoccasinDagmar {
+  annotations {
+    string AbundantBeigeClaire {
+    }
+    hidden_boolean DevelopedAquaPierrette {
+    }
+    hidden_boolean ProductiveAzureGwen {
+    }
+    boolean DynamicSalmonCarmencita {
+    }
+    serviceid_number PlasticSilverRora {
+    }
+    hidden_boolean ParentalPlumSherrie {
+    }
+  }
+  string ShaggyPlumDrucie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OutrageousAzureMerlina {
+    _hidden_value = true
+  }
+  json HistoricSapphireErtha {
+    _hidden_value = true
+  }
+  string AggregateRedJen {
+    _hidden_value = true
+  }
+  boolean ParallelBronzeKatrinka {
+    _hidden_value = true
+  }
+  serviceid MinisterialAmaranthJoyan {
+    _hidden_value = true
+  }
+  serviceid SportingCyanEsta {
+    _hidden_value = true
+  }
+  boolean GorgeousPeachYetta {
+    _hidden_value = true
+  }
+  boolean TheoreticalBronzeColetta {
+    _hidden_value = true
+  }
+  serviceid_number NeatMaroonBrittany {
+    _hidden_value = true
+  }
+  boolean MobileCyanAllie {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousBlushRubina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PrivateBlushLilith {
+    _hidden_value = true
+  }
+  AbundantBeigeClaire = "A steak pun is a rare medium well done."
+  DynamicSalmonCarmencita = false
+  PlasticSilverRora = 985
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrivateBlushLilith"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AggregateRedJen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HistoricSapphireErtha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OutrageousAzureMerlina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SportingCyanEsta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

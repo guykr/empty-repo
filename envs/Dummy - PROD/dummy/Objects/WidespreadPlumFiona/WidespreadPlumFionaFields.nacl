@@ -1,0 +1,122 @@
+type dummy.WidespreadPlumFiona {
+  boolean DefiantPinkWilone {
+  }
+  hidden_boolean WideCrimsonLucita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ShakySilverSophie {
+  }
+  serviceid CleverCoffeeAnnabella {
+  }
+  string BumpySilverKai {
+  }
+  dummy.ComplexCoralGlynnis FitCoralAntonie {
+    AfraidGrayMadalyn = true
+    MuddyPinkBlinni = "Why didnt the skeleton cross the road? Because he had no guts."
+    StructuralPinkWillow = "I'll tell you what often gets over looked... garden fences."
+    AboveChocolateAinsley = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    OriginalTealMufinella = 802
+    PreferredTanRuthann = 325
+  }
+  hidden_boolean DifferentBrownMyrtie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SpiritualAquaGlenine {
+  }
+  json StillBronzeAlikee {
+  }
+  json SocialAmberRozelle {
+  }
+  serviceid_number PhysicalYellowLorene {
+  }
+  dummy.ShortRoseSosanna GothicHarlequinGabrielle {
+    RomanticCopperMerrily = "A steak pun is a rare medium well done."
+  }
+  serviceid FortunateChocolateDevonna {
+  }
+  number CostlyRedArlina {
+  }
+  number EnergeticAquaTabitha {
+  }
+  string PrivateAmaranthEva {
+  }
+  hidden_boolean HissingCrimsonChristie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.MiddleBrownMirabel RemainingFuchsiaRomy {
+    ExtremeCyanAnaliese = 316
+    IndirectAmaranthMirna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CoolJadeLonni = file("WesternAmaranthIzabel.txt")
+    PainfulMagentaSibylle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    NumerousAzureDulcinea = 685
+  }
+  dummy.FondYellowKristi ParentalBeigeSal {
+    RespectableEmeraldCarlen = "What do you call two barracuda fish?  A Pairacuda!"
+    MiserableScarletArdenia = "Why didnt the skeleton cross the road? Because he had no guts."
+    GrumpyTurquoiseGenovera = true
+    ElaborateMaroonReyna = "Why was it called the dark ages? Because of all the knights. "
+  }
+  serviceid HorribleCrimsonDeloria {
+  }
+  boolean DrunkSalmonCharissa {
+  }
+  boolean PreparedIndigoLacy {
+  }
+  boolean ExoticYellowRobina {
+  }
+  number NaturalMagentaJemie {
+  }
+  serviceid HumanCoffeeTamara {
+  }
+  hidden_boolean HelpfulLimeCornelle {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean ArtisticLavenderKira {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  dummy.RuralAzureKaterina SurroundingAquaMarji {
+    GrimFuchsiaMarlane = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    InclinedCopperIna = "What creature is smarter than a talking parrot? A spelling bee."
+    RepulsiveBrownBeatriz = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    GiganticOliveMarley = "Dad Im hungry  Hi hungry Im dad"
+    ImaginativeAmethystBelinda = false
+    PaleRedLeta = 137
+  }
+  string FascinatingApricotMarylynne {
+  }
+  string FlexibleIndigoAmitie {
+  }
+  number FlyingPeachCarleen {
+  }
+  number LonelyBronzeLib {
+  }
+  dummy.HeadBlushToma AllegedAquaLelah {
+    PurringOliveDenice = "Why was it called the dark ages? Because of all the knights. "
+    ProudAmethystVivi = file("KnownMoccasinSabina.txt")
+    ThinBronzeCarola = 152
+    CrookedLimeElane = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  json FranticCoffeeDemetria {
+  }
+  hidden_boolean SunnySapphireMandi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GlamorousTealBlanch {
+  }
+  json LevelMaroonViviyan {
+  }
+  json GastricApricotJorry {
+  }
+}

@@ -1,0 +1,22 @@
+type dummy.MeanEmeraldElsy {
+  annotations {
+    json AcceptedJadeAyn {
+    }
+    boolean HolyLimeLiva {
+    }
+    serviceid WelcomeBlushLynsey {
+    }
+    hidden_boolean OfficialBlackFlorenza {
+    }
+    number MinimumMoccasinJasmin {
+    }
+  }
+  serviceid_number RelativeLimeJacquenetta {
+    _hidden_value = true
+  }
+  AcceptedJadeAyn = "Why was it called the dark ages? Because of all the knights. "
+  HolyLimeLiva = false
+  WelcomeBlushLynsey = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MinimumMoccasinJasmin = 215
+  _hidden_value = true
+}

@@ -1,0 +1,41 @@
+type dummy.OrganisationalScarletSheba {
+  serviceid SuccessiveBlushHatty {
+  }
+  number FairMagentaNicolina {
+  }
+  json ProbableTomatoBarbie {
+  }
+  serviceid CondemnedPinkBeatrix {
+  }
+  serviceid_number ModestChocolateSabine {
+  }
+  number WellCoffeeMadalyn {
+  }
+  serviceid OccasionalPeachGracia {
+  }
+  hidden_boolean BurningEmeraldSusana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BriefGrayMandi {
+  }
+  boolean MeltedGrayLauretta {
+  }
+  number PuzzledPinkBrunhilde {
+  }
+  dummy.HomelessHarlequinValaria RoughSalmonCollette {
+    MainBlueAubree = "Why did the tomato blush? Because it saw the salad dressing."
+    IllOrangeVyky = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  serviceid_number BurningCyanAlameda {
+  }
+  serviceid_number ConvincingMoccasinShelia {
+  }
+  number SurvivingYellowHelyn {
+  }
+  json SteepEmeraldGwenneth {
+  }
+  boolean SpectacularCrimsonShellie {
+  }
+}

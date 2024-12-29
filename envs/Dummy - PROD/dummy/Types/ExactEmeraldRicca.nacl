@@ -1,0 +1,55 @@
+type dummy.ExactEmeraldRicca is string {
+  annotations {
+    boolean BrightPlumBrett {
+    }
+    hidden_boolean WittyApricotChandal {
+    }
+    serviceid QuickEmeraldGilligan {
+    }
+    number BoringIvoryMyrna {
+    }
+    serviceid_number RoughCrimsonHedda {
+    }
+    hidden_boolean ArmedJadeLucretia {
+    }
+    number DearMaroonArlee {
+    }
+    json EqualTanElsy {
+    }
+    string FreshChocolatePaloma {
+    }
+    number BraveOliveDiannne {
+    }
+    json SacredTanCristionna {
+    }
+    json FunnyTanStarla {
+    }
+    number HistoricEmeraldMaura {
+    }
+    hidden_boolean MultipleGoldKristin {
+    }
+    serviceid_number ConfidentialCopperPeg {
+    }
+    number TechnicalPinkYelena {
+    }
+    number LegalCoralConstantina {
+    }
+    serviceid_number PriorChocolateMagda {
+    }
+  }
+  BrightPlumBrett = true
+  QuickEmeraldGilligan = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BoringIvoryMyrna = 241
+  RoughCrimsonHedda = 296
+  DearMaroonArlee = 333
+  EqualTanElsy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FreshChocolatePaloma = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BraveOliveDiannne = 615
+  SacredTanCristionna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FunnyTanStarla = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HistoricEmeraldMaura = 40
+  ConfidentialCopperPeg = 808
+  TechnicalPinkYelena = 950
+  LegalCoralConstantina = 615
+  PriorChocolateMagda = 624
+}

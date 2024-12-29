@@ -1,0 +1,41 @@
+type dummy.ObjectiveSilverEdi {
+  annotations {
+    string FlyingIvoryColette {
+    }
+    string OptimisticLimeDela {
+    }
+    boolean OtherMoccasinBlythe {
+    }
+    dummy.DEFAULT UrbanGreenShandy {
+    }
+    dummy.StraightforwardYellowCaria TerribleCrimsonMariquilla {
+    }
+    string AtomicCrimsonVannie {
+    }
+  }
+  dummy.DEFAULT LivingPlumMariya {
+    _hidden_value = true
+  }
+  json TeenageScarletVally {
+    _hidden_value = true
+  }
+  boolean TinyPurpleFrayda {
+    _hidden_value = true
+  }
+  FlyingIvoryColette = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OptimisticLimeDela = "What do you call two barracuda fish?  A Pairacuda!"
+  OtherMoccasinBlythe = false
+  UrbanGreenShandy = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  TerribleCrimsonMariquilla = false
+  AtomicCrimsonVannie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FlyingIvoryColette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

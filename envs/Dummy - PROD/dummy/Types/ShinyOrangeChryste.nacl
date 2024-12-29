@@ -1,0 +1,82 @@
+type dummy.ShinyOrangeChryste {
+  annotations {
+    json RoastedTurquoiseOlivie {
+    }
+    boolean PrimaryCopperEmmalee {
+    }
+    json LikeYellowRonny {
+    }
+    json OutstandingSilverNeely {
+    }
+    dummy.DEFAULT SufficientMoccasinLeonora {
+    }
+    hidden_boolean ZealousMagentaCandis {
+    }
+  }
+  number WorkingBlueFanechka {
+    _hidden_value = true
+  }
+  boolean DevelopedTurquoiseNata {
+    _hidden_value = true
+  }
+  serviceid AmazingPinkAndreana {
+    _hidden_value = true
+  }
+  boolean BrainyOrangeChandra {
+    _hidden_value = true
+  }
+  json StillIvoryTory {
+    _hidden_value = true
+  }
+  serviceid GeographicalMoccasinCarol {
+    _hidden_value = true
+  }
+  boolean RelevantCopperMarci {
+    _hidden_value = true
+  }
+  serviceid DecisivePeachDrusie {
+    _hidden_value = true
+  }
+  serviceid_number OriginalOrangeCarmen {
+    _hidden_value = true
+  }
+  json NewSalmonFaunie {
+    _hidden_value = true
+  }
+  number SupremeJadeCarena {
+    _hidden_value = true
+  }
+  string CrazyFuchsiaKeeley {
+    _hidden_value = true
+  }
+  hidden_boolean LightTanLynn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AutomaticApricotGerrie {
+    _hidden_value = true
+  }
+  RoastedTurquoiseOlivie = "Why did the kid cross the playground? To get to the other slide."
+  PrimaryCopperEmmalee = true
+  LikeYellowRonny = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OutstandingSilverNeely = "Why did the tomato blush? Because it saw the salad dressing."
+  SufficientMoccasinLeonora = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OriginalOrangeCarmen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZealousMagentaCandis"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

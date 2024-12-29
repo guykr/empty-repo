@@ -1,0 +1,62 @@
+type dummy.YoungestTurquoiseDarcy {
+  annotations {
+    number GothicChocolateMelly {
+    }
+    hidden_boolean NiceVioletIda {
+    }
+    number IntermediateTomatoAmara {
+    }
+    boolean HomelyAzureFrancyne {
+    }
+    dummy.DEFAULT ChosenBlueSabrina {
+    }
+  }
+  serviceid ImperialIvoryKarole {
+    _hidden_value = true
+  }
+  "List<boolean>" DesperateChocolateEydie {
+    _hidden_value = true
+  }
+  serviceid_number SpectacularAmaranthKatinka {
+    _hidden_value = true
+  }
+  dummy.RapidLavenderTerrie CrudeYellowJoannes {
+    InvisibleMagentaTabina = "Did you know that protons have mass? I didn't even know they were catholic."
+    TinyScarletGratia = false
+    CausalMaroonElset = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    LeftCyanCarolin = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AppropriateCopperFidelity = false
+    HandsomeJadeMaitilde = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FrontCoffeeAlfie = true
+    PunyApricotKarna = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  hidden_boolean RequiredCrimsonTanhya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  GothicChocolateMelly = 135
+  IntermediateTomatoAmara = 557
+  HomelyAzureFrancyne = true
+  ChosenBlueSabrina = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RequiredCrimsonTanhya"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NiceVioletIda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

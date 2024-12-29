@@ -1,0 +1,27 @@
+type dummy.LazyAmethystLulu {
+  annotations {
+    json ElegantAquaLavina {
+    }
+    hidden_boolean SteepBrownJanina {
+    }
+    hidden_boolean KeyMaroonCornie {
+    }
+    serviceid_number DangerousLavenderRandene {
+    }
+    serviceid_number DrabOliveLilias {
+    }
+  }
+  number FairGreenNelly {
+    _hidden_value = true
+  }
+  serviceid_number UpsetTomatoJerrie {
+    _hidden_value = true
+  }
+  json GleamingScarletCatriona {
+    _hidden_value = true
+  }
+  ElegantAquaLavina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DangerousLavenderRandene = 499
+  DrabOliveLilias = 573
+  _hidden_value = true
+}

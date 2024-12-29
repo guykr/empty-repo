@@ -1,0 +1,120 @@
+type dummy.SelectFuchsiaDiann {
+  annotations {
+    json KnownAzureHarriott {
+    }
+    string LongCopperRoxanna {
+    }
+    hidden_boolean ExcessiveTurquoiseRoxanna {
+    }
+    string OuterWhiteStephie {
+    }
+    json MeaningfulSapphireOrly {
+    }
+    string RevolutionarySalmonArabela {
+    }
+    hidden_boolean MainLimeDorothy {
+    }
+  }
+  boolean CommercialOrangeAindrea {
+    _hidden_value = true
+  }
+  serviceid WoodenChocolateJenifer {
+    _hidden_value = true
+  }
+  serviceid InherentRedVictoria {
+    _hidden_value = true
+  }
+  serviceid VariousSapphireCelie {
+    _hidden_value = true
+  }
+  number EstimatedApricotJeanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MoralMaroonHana {
+    _hidden_value = true
+  }
+  json ContemporaryVioletGrethel {
+    _hidden_value = true
+  }
+  boolean SportingJadeGlenine {
+    _hidden_value = true
+  }
+  serviceid_number InternalCoralDianemarie {
+    _hidden_value = true
+  }
+  hidden_boolean DistantTomatoLaurel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PleasantCoffeeAnnnora {
+    _hidden_value = true
+  }
+  serviceid WilfulSilverRozina {
+    _hidden_value = true
+  }
+  serviceid_number NationalOrangeCarlee {
+    _hidden_value = true
+  }
+  hidden_boolean FaithfulCoffeeMarion {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PreviousEmeraldElenore {
+    _hidden_value = true
+  }
+  json ManagerialRoseAuroora {
+    _hidden_value = true
+  }
+  boolean DeliciousAquamarineLynna {
+    _hidden_value = true
+  }
+  boolean AdministrativeScarletChristabella {
+    _hidden_value = true
+  }
+  string BreakableAmberAdella {
+    _hidden_value = true
+  }
+  number SteepChocolateIdalia {
+    _hidden_value = true
+  }
+  boolean GrubbyIndigoGoldia {
+    _hidden_value = true
+  }
+  string RoundTomatoLaryssa {
+    _hidden_value = true
+  }
+  boolean TameRoseJerrylee {
+    _hidden_value = true
+  }
+  string LikeChocolateTasia {
+    _hidden_value = true
+  }
+  serviceid_number WitteringAzureJobyna {
+    _hidden_value = true
+  }
+  serviceid AddedBlueHester {
+    _hidden_value = true
+  }
+  KnownAzureHarriott = "Why was it called the dark ages? Because of all the knights. "
+  LongCopperRoxanna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OuterWhiteStephie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MeaningfulSapphireOrly = "What do you call two barracuda fish?  A Pairacuda!"
+  RevolutionarySalmonArabela = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ContemporaryVioletGrethel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RevolutionarySalmonArabela"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,47 @@
+type dummy.RomanticBrownCatina {
+  annotations {
+    json RecentPinkLaure {
+    }
+    hidden_boolean MultipleOliveCarolee {
+    }
+    serviceid CriticalSapphireViolette {
+    }
+  }
+  dummy.DEFAULT MarkedBlushJacquette {
+    _hidden_value = true
+  }
+  number FrontMoccasinAndriette {
+    _hidden_value = true
+  }
+  hidden_boolean FashionableBlushAmi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DeafAmberCamila {
+    _hidden_value = true
+  }
+  boolean HistoricalIvoryEzmeralda {
+    _hidden_value = true
+  }
+  serviceid AbsentChocolateMyrilla {
+    _hidden_value = true
+  }
+  RecentPinkLaure = "What creature is smarter than a talking parrot? A spelling bee."
+  CriticalSapphireViolette = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeafAmberCamila"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CriticalSapphireViolette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

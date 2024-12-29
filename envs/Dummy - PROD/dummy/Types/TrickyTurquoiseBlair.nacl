@@ -1,0 +1,133 @@
+type dummy.TrickyTurquoiseBlair {
+  annotations {
+    boolean DeterminedChocolateUlrika {
+    }
+    dummy.PreferredCoffeePenelope CompleteBrownSheelagh {
+    }
+    number ArtisticGoldTilly {
+    }
+    boolean LittleBlueIbbie {
+    }
+    serviceid SuperbTomatoDorri {
+    }
+    hidden_boolean WelcomeGoldKalindi {
+    }
+    json UnemployedGreenSean {
+    }
+    json ShinyCrimsonIlene {
+    }
+  }
+  serviceid SpatialBlueBriney {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YellingTurquoiseJeanelle {
+    _hidden_value = true
+  }
+  boolean MarginalRedMinda {
+    _hidden_value = true
+  }
+  number CuriousOrangeSharai {
+    _hidden_value = true
+  }
+  number MiniatureBeigeCassandry {
+    _hidden_value = true
+  }
+  serviceid GeographicalCyanUrsola {
+    _hidden_value = true
+  }
+  hidden_boolean RunningVioletKessiah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MushyPlumPaola {
+    _hidden_value = true
+  }
+  boolean HandsomeWhiteDonia {
+    _hidden_value = true
+  }
+  hidden_boolean UnemployedPeachMelonie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnnecessaryGoldCynthie {
+    _hidden_value = true
+  }
+  number ExtendedAzureBrina {
+    _hidden_value = true
+  }
+  string StingyAmaranthGrete {
+    _hidden_value = true
+  }
+  serviceid_number OralTurquoiseMaxie {
+    _hidden_value = true
+  }
+  string GoverningGoldValaria {
+    _hidden_value = true
+  }
+  serviceid InternalAzureMadelon {
+    _hidden_value = true
+  }
+  boolean ContemporaryOliveSuki {
+    _hidden_value = true
+  }
+  number ZonalAquaMelba {
+    _hidden_value = true
+  }
+  json GothicPurpleWinnah {
+    _hidden_value = true
+  }
+  DeterminedChocolateUlrika = false
+  CompleteBrownSheelagh = 576
+  ArtisticGoldTilly = 400
+  LittleBlueIbbie = true
+  SuperbTomatoDorri = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnemployedGreenSean = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShinyCrimsonIlene = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ZonalAquaMelba"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OralTurquoiseMaxie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MiniatureBeigeCassandry"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MarginalRedMinda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StingyAmaranthGrete"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SuperbTomatoDorri"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DeterminedChocolateUlrika"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LittleBlueIbbie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,101 @@
+type dummy.CrucialRedCesya {
+  annotations {
+    boolean SupportingFuchsiaLauren {
+    }
+    serviceid_number BreakableBronzeAdan {
+    }
+    boolean OlympicChocolateDarleen {
+    }
+    json ResidentSapphireCharlena {
+    }
+    serviceid FunctionalAmaranthMarilee {
+    }
+    hidden_boolean ReasonableAquamarineCrystal {
+    }
+  }
+  serviceid SadVioletAileen {
+    _hidden_value = true
+  }
+  serviceid InherentBlueGilbertine {
+    _hidden_value = true
+  }
+  hidden_boolean MarxistLavenderChristian {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number JustMaroonYvette {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseWhiteEdin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CircularRoseLoella {
+    _hidden_value = true
+  }
+  hidden_boolean OppositeGoldSherrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean JuniorYellowDayle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MadBlushPerl {
+    _hidden_value = true
+  }
+  string ConstitutionalOrangeCarolann {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OverallMagentaKerianne {
+    _hidden_value = true
+  }
+  string ImmenseCopperFelipa {
+    _hidden_value = true
+  }
+  serviceid EmpiricalSalmonMarlee {
+    _hidden_value = true
+  }
+  SupportingFuchsiaLauren = false
+  BreakableBronzeAdan = 330
+  OlympicChocolateDarleen = false
+  ResidentSapphireCharlena = "Why did the kid cross the playground? To get to the other slide."
+  FunctionalAmaranthMarilee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MarxistLavenderChristian"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InherentBlueGilbertine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ImmenseCopperFelipa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OlympicChocolateDarleen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ReasonableAquamarineCrystal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BreakableBronzeAdan"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

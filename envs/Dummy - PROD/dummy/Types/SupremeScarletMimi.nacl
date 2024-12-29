@@ -1,0 +1,138 @@
+type dummy.SupremeScarletMimi {
+  annotations {
+    boolean MiddleYellowJamie {
+    }
+    hidden_boolean MoralGrayJoey {
+    }
+    boolean QuickGrayZonda {
+    }
+    hidden_boolean ShallowPinkFiona {
+    }
+    string ResponsibleBlackDalila {
+    }
+    string FavourableYellowMari {
+    }
+  }
+  string SmallCoffeeShara {
+    _hidden_value = true
+  }
+  serviceid MeanJadeBethany {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalAmaranthElnora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT MarxistCopperJess {
+    _hidden_value = true
+  }
+  number UnfortunateAquamarineAlidia {
+    _hidden_value = true
+  }
+  json UnwillingScarletBrandi {
+    _hidden_value = true
+  }
+  number LtdOrangeCatharine {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" AccurateYellowMandy {
+    _hidden_value = true
+  }
+  boolean ToughAquamarineLuise {
+    _hidden_value = true
+  }
+  serviceid_number CloseMagentaHappy {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ExcitedCoralChanna {
+    _hidden_value = true
+  }
+  json SureHarlequinOrelle {
+    _hidden_value = true
+  }
+  hidden_boolean UninterestedEmeraldJanith {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RemoteRoseFrancine {
+    _hidden_value = true
+  }
+  boolean ExoticTurquoiseMadelene {
+    _hidden_value = true
+  }
+  number HandicappedMaroonKariotta {
+    _hidden_value = true
+  }
+  serviceid_number RidiculousGoldChelsea {
+    _hidden_value = true
+  }
+  boolean ContemporaryTurquoiseWinona {
+    _hidden_value = true
+  }
+  json InlandMagentaPippa {
+    _hidden_value = true
+  }
+  string ChiefSapphireEvey {
+    _hidden_value = true
+  }
+  dummy.DearHarlequinJemmy VoicelessHarlequinMarcella {
+    AutomaticBlueValina = 895
+    ExcellentCoffeeJessy = "How come the stadium got hot after the game? Because all of the fans left."
+    WholeYellowCindra = false
+    UglyAquamarineGladi = "Did you know that protons have mass? I didn't even know they were catholic."
+    LiquidBlackDorree = true
+    LivingIvoryGussi = 443
+    DigitalPinkJemie = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    MaximumCoffeeOthilie = true
+    SorryBlackRoby = false
+    IntactOliveEveline = false
+    JollyAmaranthLaurena = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  json FascinatingAmethystAshli {
+    _hidden_value = true
+  }
+  string DifficultAmberShane {
+    _hidden_value = true
+  }
+  number LuckyCrimsonMaurise {
+    _hidden_value = true
+  }
+  serviceid_number WetSapphireCati {
+    _hidden_value = true
+  }
+  "List<string>" IncreasingCrimsonDeny {
+    _hidden_value = true
+  }
+  hidden_boolean FuriousIndigoNert {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MotionlessAmethystPrisca {
+    _hidden_value = true
+  }
+  MiddleYellowJamie = true
+  QuickGrayZonda = true
+  ResponsibleBlackDalila = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FavourableYellowMari = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncreasingCrimsonDeny"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FavourableYellowMari"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

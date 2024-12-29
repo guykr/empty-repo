@@ -1,0 +1,36 @@
+type dummy.CarefulPinkAdrienne {
+  annotations {
+    serviceid_number BroadCrimsonDory {
+    }
+    hidden_boolean RelevantMaroonKerrie {
+    }
+    boolean OlympicFuchsiaIolanthe {
+    }
+    hidden_boolean PrincipalRedJudi {
+    }
+    number MarxistLimeMelisent {
+    }
+  }
+  string MagnificentLavenderClaudia {
+    _hidden_value = true
+  }
+  boolean CutePlumAustin {
+    _hidden_value = true
+  }
+  json JudicialOrangePrudence {
+    _hidden_value = true
+  }
+  serviceid AggregateOliveSherie {
+    _hidden_value = true
+  }
+  number BraveApricotPrue {
+    _hidden_value = true
+  }
+  string CharacteristicGreenChristean {
+    _hidden_value = true
+  }
+  BroadCrimsonDory = 315
+  OlympicFuchsiaIolanthe = false
+  MarxistLimeMelisent = 199
+  _hidden_value = true
+}

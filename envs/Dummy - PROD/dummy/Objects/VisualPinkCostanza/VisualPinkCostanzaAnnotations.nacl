@@ -1,0 +1,60 @@
+type dummy.VisualPinkCostanza {
+  annotations {
+    hidden_boolean SatisfactoryEmeraldEyde {
+    }
+    serviceid LazyGreenSarena {
+    }
+    serviceid_number YawningIvoryKip {
+    }
+    serviceid_number ImprovedBlueMarylou {
+    }
+    json SpicyPurpleReeta {
+    }
+    hidden_boolean SacredAquaDelila {
+    }
+    boolean ChronicPlumToni {
+    }
+    json ExceptionalVioletKyle {
+    }
+    string TechnicalIndigoTory {
+    }
+    number EssentialAmaranthDaisey {
+    }
+    dummy.PublicAquaRosemarie OutdoorCoffeeSammy {
+    }
+    number InterestedMagentaGuenna {
+    }
+    json FaintOrangeCharlot {
+    }
+    hidden_boolean ColdFuchsiaChristan {
+    }
+    number CrowdedAmethystAlice {
+    }
+    serviceid_number PainfulCopperEmilee {
+    }
+    boolean TopTomatoDinah {
+    }
+  }
+  LazyGreenSarena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  YawningIvoryKip = 701
+  ImprovedBlueMarylou = 91
+  SpicyPurpleReeta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ChronicPlumToni = true
+  ExceptionalVioletKyle = "What creature is smarter than a talking parrot? A spelling bee."
+  TechnicalIndigoTory = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EssentialAmaranthDaisey = 303
+  OutdoorCoffeeSammy = 825
+  InterestedMagentaGuenna = 949
+  FaintOrangeCharlot = "How come the stadium got hot after the game? Because all of the fans left."
+  CrowdedAmethystAlice = 789
+  PainfulCopperEmilee = 73
+  TopTomatoDinah = true
+  _self_important_values = [
+    {
+      value = "LazyGreenSarena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "VisualPinkCostanza_alias"
+}

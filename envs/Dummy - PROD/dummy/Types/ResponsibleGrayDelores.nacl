@@ -1,0 +1,97 @@
+type dummy.ResponsibleGrayDelores {
+  annotations {
+    hidden_boolean WillowyCopperFlorida {
+    }
+    hidden_boolean CausalMagentaClovis {
+    }
+    boolean ManyCyanPhylis {
+    }
+  }
+  string ProtestantRedRea {
+    _hidden_value = true
+  }
+  serviceid VariedAquaVivien {
+    _hidden_value = true
+  }
+  serviceid FormidableCoralUta {
+    _hidden_value = true
+  }
+  json ImprovedFuchsiaAggy {
+    _hidden_value = true
+  }
+  serviceid_number ConservativeBlushErmentrude {
+    _hidden_value = true
+  }
+  boolean SuitableLavenderRoxine {
+    _hidden_value = true
+  }
+  serviceid OutstandingPinkMinna {
+    _hidden_value = true
+  }
+  boolean WorldwideMagentaPaule {
+    _hidden_value = true
+  }
+  json SleepyIndigoKeri {
+    _hidden_value = true
+  }
+  hidden_boolean ProductiveBronzeConstancy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json DampApricotGert {
+    _hidden_value = true
+  }
+  "List<serviceid>" XenogeneicTanEleonore {
+    _hidden_value = true
+  }
+  serviceid ExpectedLavenderWandie {
+    _hidden_value = true
+  }
+  boolean SelectiveWhiteSuzanne {
+    _hidden_value = true
+  }
+  string ToryRedPia {
+    _hidden_value = true
+  }
+  serviceid_number RidiculousPinkJermaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DiverseCoralWinnifred {
+    _hidden_value = true
+  }
+  serviceid_number IndependentAzureDixie {
+    _hidden_value = true
+  }
+  serviceid_number SpatialJadeRenae {
+    _hidden_value = true
+  }
+  boolean SkinnyEmeraldLucina {
+    _hidden_value = true
+  }
+  boolean FascinatingCopperAlisha {
+    _hidden_value = true
+  }
+  hidden_boolean PresidentialApricotCloris {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableBlackErina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ShinyHarlequinChandra {
+    _hidden_value = true
+  }
+  ManyCyanPhylis = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WillowyCopperFlorida"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

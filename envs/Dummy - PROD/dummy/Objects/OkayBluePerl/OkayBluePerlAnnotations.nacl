@@ -1,0 +1,58 @@
+type dummy.OkayBluePerl {
+  annotations {
+    hidden_boolean SpontaneousCrimsonVelma {
+    }
+    serviceid_number EasyTealGlynnis {
+    }
+    number AwkwardOrangeAmaleta {
+    }
+    dummy.SheerCoralMadalena DoubtfulRedElvina {
+    }
+    boolean DesirableCrimsonRonalda {
+    }
+    json TremendousCrimsonGwenni {
+    }
+    serviceid_number InnerTurquoiseGrissel {
+    }
+    serviceid ZestyCoralGilbertina {
+    }
+    boolean OverseasVioletAndee {
+    }
+    dummy.WateryBronzeEmalee SaltyScarletGrace {
+    }
+    hidden_boolean RubberAquamarineJune {
+    }
+    string WearyBlackOdilia {
+    }
+    serviceid_number TensePlumCari {
+    }
+    boolean SilkyBlushHertha {
+    }
+    serviceid_number LightMoccasinMinna {
+    }
+  }
+  EasyTealGlynnis = 368
+  AwkwardOrangeAmaleta = 671
+  DesirableCrimsonRonalda = true
+  TremendousCrimsonGwenni = "Did you know that protons have mass? I didn't even know they were catholic."
+  InnerTurquoiseGrissel = 781
+  ZestyCoralGilbertina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OverseasVioletAndee = true
+  WearyBlackOdilia = "Im only familiar with 25 letters in the English language. I dont know why."
+  TensePlumCari = 888
+  SilkyBlushHertha = true
+  LightMoccasinMinna = 350
+  _self_important_values = [
+    {
+      value = "AwkwardOrangeAmaleta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DesirableCrimsonRonalda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "OkayBluePerl_alias"
+}

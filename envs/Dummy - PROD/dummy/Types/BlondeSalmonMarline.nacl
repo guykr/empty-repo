@@ -1,0 +1,45 @@
+type dummy.BlondeSalmonMarline {
+  annotations {
+    hidden_boolean RipeMoccasinArlyn {
+    }
+    serviceid AwakeMoccasinEmmye {
+    }
+    hidden_boolean EndlessOliveDoralyn {
+    }
+    json ResidentOrangeCarlen {
+    }
+    hidden_boolean DutchRedKenna {
+    }
+    boolean AvailableBronzeJennie {
+    }
+  }
+  number ProtestantPeachDrusy {
+    _hidden_value = true
+  }
+  json UnfairAquamarineDawna {
+    _hidden_value = true
+  }
+  hidden_boolean CuddlyLavenderSherye {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AwakeMoccasinEmmye = "Why was it called the dark ages? Because of all the knights. "
+  ResidentOrangeCarlen = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AvailableBronzeJennie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProtestantPeachDrusy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DutchRedKenna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

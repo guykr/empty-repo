@@ -1,0 +1,117 @@
+type dummy.WidespreadPlumFiona {
+  annotations {
+    string LiberalIvoryLisabeth {
+    }
+    json FollowingRoseKaria {
+    }
+    hidden_boolean ExperimentalGoldHelena {
+    }
+    boolean UnemployedPinkDrucie {
+    }
+    string UniformBluePenelopa {
+    }
+    dummy.AestheticVioletNessie BoredBlueRaven {
+    }
+    string PositiveGrayBenita {
+    }
+    dummy.StraightforwardJadeDarcy AmazingBrownShandee {
+    }
+    json JuicyTealCherye {
+    }
+    boolean AmusedTurquoiseLark {
+    }
+    number RespectableAquaSephira {
+    }
+    json MushyRoseHarli {
+    }
+    json WillowySapphireMoyna {
+    }
+    serviceid_number MisleadingAquaLivvy {
+    }
+    number FuriousAmberKipp {
+    }
+    string UnderlyingPurpleAlli {
+    }
+    hidden_boolean HollowYellowLian {
+    }
+    string SubstantialAmberJoane {
+    }
+    dummy.FeministHarlequinSonny GiganticBeigeMarlee {
+    }
+  }
+  LiberalIvoryLisabeth = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FollowingRoseKaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnemployedPinkDrucie = true
+  UniformBluePenelopa = "Why didnt the skeleton cross the road? Because he had no guts."
+  PositiveGrayBenita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AmazingBrownShandee = file("VictoriousPinkLethia.txt")
+  JuicyTealCherye = "I'll tell you what often gets over looked... garden fences."
+  AmusedTurquoiseLark = false
+  RespectableAquaSephira = 282
+  MushyRoseHarli = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WillowySapphireMoyna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MisleadingAquaLivvy = 421
+  FuriousAmberKipp = 818
+  UnderlyingPurpleAlli = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SubstantialAmberJoane = "Slept like a log last night  woke up in the fireplace."
+  _important_values = [
+    {
+      value = "DrunkSalmonCharissa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EnergeticAquaTabitha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HelpfulLimeCornelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FascinatingApricotMarylynne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SocialAmberRozelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ArtisticLavenderKira"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LonelyBronzeLib"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MushyRoseHarli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnemployedPinkDrucie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HollowYellowLian"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnderlyingPurpleAlli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "WidespreadPlumFiona_alias"
+}

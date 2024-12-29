@@ -1,0 +1,50 @@
+type dummy.ImportantAquaNerti {
+  annotations {
+    json SecretTanAdorne {
+    }
+    hidden_boolean WillowyRoseAdelina {
+    }
+    hidden_boolean ResidentialBlueBinny {
+    }
+    json RightCoffeeErminie {
+    }
+  }
+  boolean ComplexVioletLea {
+    _hidden_value = true
+  }
+  number NuttyAmethystTressa {
+    _hidden_value = true
+  }
+  dummy.LowRedTruda StupidSilverSelene {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousIvoryBertha {
+    _hidden_value = true
+  }
+  number CarefulSilverCynthy {
+    _hidden_value = true
+  }
+  json VitreousMoccasinMarianne {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyTealRosella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClassicalSalmonHelene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SecretTanAdorne = "Dad Im hungry  Hi hungry Im dad"
+  RightCoffeeErminie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EarlyTealRosella"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

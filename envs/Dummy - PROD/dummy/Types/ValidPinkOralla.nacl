@@ -1,0 +1,26 @@
+type dummy.ValidPinkOralla {
+  annotations {
+    serviceid RichGoldCharleen {
+    }
+    string PreliminaryPeachLissa {
+    }
+    serviceid_number NearJadeSalome {
+    }
+    boolean AverageBronzeRaven {
+    }
+    json StatutoryEmeraldEma {
+    }
+    number UnfairBeigeMaren {
+    }
+  }
+  serviceid_number PregnantMaroonEmili {
+    _hidden_value = true
+  }
+  RichGoldCharleen = "I'll tell you what often gets over looked... garden fences."
+  PreliminaryPeachLissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NearJadeSalome = 420
+  AverageBronzeRaven = false
+  StatutoryEmeraldEma = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UnfairBeigeMaren = 404
+  _hidden_value = true
+}

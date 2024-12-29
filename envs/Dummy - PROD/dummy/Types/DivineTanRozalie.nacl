@@ -1,0 +1,28 @@
+type dummy.DivineTanRozalie {
+  annotations {
+    number XericPeachNelie {
+    }
+    hidden_boolean CriticalRoseMarylee {
+    }
+    boolean RipeIvoryNellie {
+    }
+    dummy.ShortRoseSosanna MixedBeigeCelestine {
+    }
+    hidden_boolean FundamentalRoseGigi {
+    }
+  }
+  string EmbarrassedIvoryColline {
+    _hidden_value = true
+  }
+  XericPeachNelie = 966
+  RipeIvoryNellie = true
+  MixedBeigeCelestine = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MixedBeigeCelestine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

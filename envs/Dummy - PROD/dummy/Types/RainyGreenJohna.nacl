@@ -1,0 +1,90 @@
+type dummy.RainyGreenJohna {
+  annotations {
+    number ActualAzureTrudi {
+    }
+    number ColorfulPeachWrennie {
+    }
+    serviceid_number ChillyPinkCassi {
+    }
+    serviceid SocialCrimsonDulciana {
+    }
+  }
+  json GreatGrayAmabel {
+    _hidden_value = true
+  }
+  serviceid WitteringHarlequinMaribelle {
+    _hidden_value = true
+  }
+  boolean ZonalBeigeRoby {
+    _hidden_value = true
+  }
+  string UptightPinkRebeca {
+    _hidden_value = true
+  }
+  number HotTurquoiseMargareta {
+    _hidden_value = true
+  }
+  json PreparedAzureDavita {
+    _hidden_value = true
+  }
+  hidden_boolean EnthusiasticBlushJoeann {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ManySapphireBernadene {
+    _hidden_value = true
+  }
+  string EffectiveIndigoCarma {
+    _hidden_value = true
+  }
+  hidden_boolean HumanBlackBrandice {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AgreeableIndigoElisabet {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeVioletRoanna {
+    _hidden_value = true
+  }
+  serviceid_number WastefulBlushEachelle {
+    _hidden_value = true
+  }
+  number ImprovedTealLexis {
+    _hidden_value = true
+  }
+  ActualAzureTrudi = 402
+  ColorfulPeachWrennie = 856
+  ChillyPinkCassi = 110
+  SocialCrimsonDulciana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HotTurquoiseMargareta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreparedAzureDavita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HumanBlackBrandice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WitteringHarlequinMaribelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImprovedTealLexis"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,22 @@
+type dummy.CurlyBronzeArlinda {
+  annotations {
+    serviceid ShockedCyanLaetitia {
+    }
+    json RelatedRedEliza {
+    }
+    boolean UnlikelyJadeClarice {
+    }
+    number ScornfulPinkAdrian {
+    }
+    hidden_boolean ChosenBronzeZulema {
+    }
+  }
+  boolean VocalBlackMuriel {
+    _hidden_value = true
+  }
+  ShockedCyanLaetitia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RelatedRedEliza = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnlikelyJadeClarice = false
+  ScornfulPinkAdrian = 432
+  _hidden_value = true
+}

@@ -1,0 +1,129 @@
+type dummy.AdditionalCoralJerry {
+  annotations {
+    number AcuteAmberDorine {
+    }
+    number WeeMaroonBelvia {
+    }
+    string FrequentScarletCecilia {
+    }
+    json XerothermicHarlequinJulee {
+    }
+  }
+  "List<number>" FavouriteRedElvina {
+    _hidden_value = true
+  }
+  json PregnantFuchsiaChantal {
+    _hidden_value = true
+  }
+  serviceid FashionableBlackPru {
+    _hidden_value = true
+  }
+  serviceid InvisibleBronzeGiacinta {
+    _hidden_value = true
+  }
+  serviceid_number AccessibleAquaGabi {
+    _hidden_value = true
+  }
+  hidden_boolean EffectiveHarlequinCami {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" FunnyLimeNolie {
+    _hidden_value = true
+  }
+  serviceid_number DominantCyanCeciley {
+    _hidden_value = true
+  }
+  boolean ResultingApricotCyndia {
+    _hidden_value = true
+  }
+  serviceid_number UpperIndigoDrusie {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" PresentBlushOlivie {
+    _hidden_value = true
+  }
+  serviceid_number GeographicalIndigoHeath {
+    _hidden_value = true
+  }
+  string WanderingPinkIvett {
+    _hidden_value = true
+  }
+  boolean CriticalBlueCarlen {
+    _hidden_value = true
+  }
+  serviceid_number DefiantRoseJemmie {
+    _hidden_value = true
+  }
+  serviceid_number HorribleCopperDoralynn {
+    _hidden_value = true
+  }
+  number FemaleLimeMallorie {
+    _hidden_value = true
+  }
+  json RareCoralNannette {
+    _hidden_value = true
+  }
+  serviceid_number GrubbyAmaranthWinonah {
+    _hidden_value = true
+  }
+  string PsychiatricAmethystAimee {
+    _hidden_value = true
+  }
+  json DevotedHarlequinZoe {
+    _hidden_value = true
+  }
+  serviceid BloodyTanSandi {
+    _hidden_value = true
+  }
+  AcuteAmberDorine = 412
+  WeeMaroonBelvia = 309
+  FrequentScarletCecilia = "How come the stadium got hot after the game? Because all of the fans left."
+  XerothermicHarlequinJulee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UpperIndigoDrusie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GeographicalIndigoHeath"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BloodyTanSandi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AccessibleAquaGabi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EffectiveHarlequinCami"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FemaleLimeMallorie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "XerothermicHarlequinJulee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AcuteAmberDorine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

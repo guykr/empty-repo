@@ -1,0 +1,172 @@
+type dummy.SadRedKaycee {
+  annotations {
+    boolean ProfoundSalmonTheda {
+    }
+    hidden_boolean LocalAmberAgneta {
+    }
+    string ToxicTealMarybelle {
+    }
+    serviceid WittyPinkHilliary {
+    }
+    dummy.HorizontalCrimsonGypsy JitteryIvoryMichele {
+    }
+  }
+  dummy.XenaciousIvoryAnastassia PleasedPurplePriscella {
+    FantasticPeachAg = 873
+    BoredIvoryAlexandra = 244
+    OutdoorBlackZelda = true
+    GuiltyAquamarineCamile = true
+    MildScarletDierdre = "Dad Im hungry  Hi hungry Im dad"
+    UpperOliveBianka = "Why didnt the skeleton cross the road? Because he had no guts."
+    MinisterialOrangeReina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    VisualSilverDrusi = 281
+    AcademicChocolateRaquel = 155
+    SlimyPinkElsa = 464
+    SymbolicAquaDarline = false
+    NakedEmeraldAthene = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PositiveBlackAdrianna = 846
+    ScaredHarlequinDavine = true
+    ExcellentBronzeXenia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WitteringIndigoShayla = false
+    _hidden_value = true
+  }
+  number OddChocolateErin {
+    _hidden_value = true
+  }
+  serviceid_number ZippyJadeSiobhan {
+    _hidden_value = true
+  }
+  serviceid ManualWhiteShayna {
+    _hidden_value = true
+  }
+  number OrdinaryBrownBrenn {
+    _hidden_value = true
+  }
+  json ElaborateIndigoGwyneth {
+    _hidden_value = true
+  }
+  serviceid ConvincedCoffeeDaniele {
+    _hidden_value = true
+  }
+  json MonetaryTurquoiseStoddard {
+    _hidden_value = true
+  }
+  string MetropolitanScarletAngel {
+    _hidden_value = true
+  }
+  "List<string>" ProfoundLavenderLeoline {
+    _hidden_value = true
+  }
+  number StrongBlueFlor {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WorthwhilePeachNoel {
+    _hidden_value = true
+  }
+  serviceid StandardBlackVivi {
+    _hidden_value = true
+  }
+  serviceid_number ThinCyanCarolin {
+    _hidden_value = true
+  }
+  serviceid DecentCrimsonLyssa {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleAmberCrin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean VaryingMagentaMela {
+    _hidden_value = true
+  }
+  hidden_boolean PlannedTealHermione {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SuperiorIvoryFredrika {
+    _hidden_value = true
+  }
+  serviceid_number DistinctMagentaMelesa {
+    _hidden_value = true
+  }
+  hidden_boolean AlrightAquamarineRosanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DualCyanBarrie {
+    _hidden_value = true
+  }
+  serviceid NiceGrayDosi {
+    _hidden_value = true
+  }
+  string FlyingCoffeeIngunna {
+    _hidden_value = true
+  }
+  number GleamingIvoryMaryanne {
+    _hidden_value = true
+  }
+  serviceid PurringOrangeAdela {
+    _hidden_value = true
+  }
+  json InternationalGreenEmalee {
+    _hidden_value = true
+  }
+  "List<serviceid>" VaryingIvoryTallou {
+    _hidden_value = true
+  }
+  ProfoundSalmonTheda = false
+  ToxicTealMarybelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WittyPinkHilliary = "Why did the tomato blush? Because it saw the salad dressing."
+  JitteryIvoryMichele = 458
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FlyingCoffeeIngunna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PurringOrangeAdela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GleamingIvoryMaryanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DualCyanBarrie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ThinCyanCarolin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VaryingMagentaMela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PlannedTealHermione"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OrdinaryBrownBrenn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ElaborateIndigoGwyneth"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

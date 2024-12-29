@@ -1,0 +1,106 @@
+type dummy.ModernVioletMorgana {
+  annotations {
+    boolean LtdWhiteCharmain {
+    }
+    serviceid_number FormalVioletDebor {
+    }
+    serviceid_number KnownGrayTommie {
+    }
+    boolean EnvironmentalHarlequinVi {
+    }
+    hidden_boolean LightBeigeMilli {
+    }
+    string SurprisedGoldCora {
+    }
+    serviceid_number AcceptablePeachMerci {
+    }
+  }
+  hidden_boolean SpareAmberNikoletta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EnvironmentalMaroonCher {
+    _hidden_value = true
+  }
+  serviceid VastTomatoPooh {
+    _hidden_value = true
+  }
+  string BreezyFuchsiaGert {
+    _hidden_value = true
+  }
+  string FrequentCrimsonEbonee {
+    _hidden_value = true
+  }
+  serviceid_number CompetitiveAmberLolita {
+    _hidden_value = true
+  }
+  serviceid_number HushedLavenderLayla {
+    _hidden_value = true
+  }
+  boolean LegislativeOrangeKerri {
+    _hidden_value = true
+  }
+  "List<boolean>" MotionlessRedYasmin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PetiteMagentaCarrissa {
+    _hidden_value = true
+  }
+  serviceid UniqueBronzeKarla {
+    _hidden_value = true
+  }
+  serviceid RudeAzureCornela {
+    _hidden_value = true
+  }
+  string StatisticalCrimsonAngeline {
+    _hidden_value = true
+  }
+  serviceid ChiefAmaranthEsme {
+    _hidden_value = true
+  }
+  hidden_boolean IntimateSilverEalasaid {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string VastEmeraldTiffi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SureAmaranthEllyn {
+    _hidden_value = true
+  }
+  string GreasyIndigoMinny {
+    _hidden_value = true
+  }
+  serviceid_number AlrightBeigeJacquelin {
+    _hidden_value = true
+  }
+  serviceid ScrawnyCyanGwenneth {
+    _hidden_value = true
+  }
+  json YellingOrangeLauraine {
+    _hidden_value = true
+  }
+  LtdWhiteCharmain = true
+  FormalVioletDebor = 724
+  KnownGrayTommie = 786
+  EnvironmentalHarlequinVi = true
+  SurprisedGoldCora = "What do you call two barracuda fish?  A Pairacuda!"
+  AcceptablePeachMerci = 529
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LegislativeOrangeKerri"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FormalVioletDebor"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

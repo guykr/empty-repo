@@ -1,0 +1,144 @@
+type dummy.GreasyPeachAlvina {
+  annotations {
+    string KeenSilverKirstyn {
+    }
+    hidden_boolean StaticPlumSara {
+    }
+    dummy.DEFAULT UnusualBronzeVinita {
+    }
+    serviceid_number MetropolitanPlumCorilla {
+    }
+    boolean PrincipalJadeJaney {
+    }
+    json ContemporaryBlackRey {
+    }
+  }
+  "List<number>" WellYellowGeorgeanna {
+    _hidden_value = true
+  }
+  json AlrightIndigoGnni {
+    _hidden_value = true
+  }
+  number VariedBronzeJoelly {
+    _hidden_value = true
+  }
+  boolean TechnicalApricotBev {
+    _hidden_value = true
+  }
+  boolean RuralLimeAshla {
+    _hidden_value = true
+  }
+  json ConservativeAquamarineHildegarde {
+    _hidden_value = true
+  }
+  serviceid_number SafeOliveMelisent {
+    _hidden_value = true
+  }
+  serviceid_number PreviousTealFlossie {
+    _hidden_value = true
+  }
+  boolean InformalScarletMariana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InlandIvoryKirstyn {
+    _hidden_value = true
+  }
+  serviceid_number ConvenientAzureAshly {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HealthyGreenConsolata {
+    _hidden_value = true
+  }
+  boolean AestheticVioletGilligan {
+    _hidden_value = true
+  }
+  dummy.DramaticTealIsobel NecessaryAquaColly {
+    ExternalChocolateVonny = 681
+    ChemicalPinkAurelia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ArtisticTanAlameda = 198
+    DynamicSilverLatrina = true
+    RemainingSapphireJade = false
+    FlutteringFuchsiaDaisy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SupposedLavenderAstrix = 154
+    InteriorCyanAnjela = false
+    RacialChocolateLise = "Dad Im hungry  Hi hungry Im dad"
+    FrequentRoseMadelin = false
+    FuturePeachTerza = "Dad Im hungry  Hi hungry Im dad"
+    QuintessentialAmethystSusan = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  serviceid ModerateLavenderTallie {
+    _hidden_value = true
+  }
+  hidden_boolean StuckHarlequinDotti {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExactAquamarineAdore {
+    _hidden_value = true
+  }
+  json LogicalAmaranthHollie {
+    _hidden_value = true
+  }
+  boolean InadequateSapphireCris {
+    _hidden_value = true
+  }
+  hidden_boolean NutritiousIvoryGeri {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string RegisteredGreenPriscilla {
+    _hidden_value = true
+  }
+  boolean PurringSilverMartita {
+    _hidden_value = true
+  }
+  serviceid_number LateAmaranthSydel {
+    _hidden_value = true
+  }
+  serviceid_number WorthwhileCrimsonAurore {
+    _hidden_value = true
+  }
+  number ParentalAquamarinePhylys {
+    _hidden_value = true
+  }
+  string SuitableSapphireAnetta {
+    _hidden_value = true
+  }
+  boolean UnexpectedPinkGerri {
+    _hidden_value = true
+  }
+  serviceid WickedIndigoMareah {
+    _hidden_value = true
+  }
+  json EconomicMaroonSibby {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalVioletLona {
+    _hidden_value = true
+  }
+  KeenSilverKirstyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnusualBronzeVinita = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  MetropolitanPlumCorilla = 987
+  PrincipalJadeJaney = true
+  ContemporaryBlackRey = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InformalScarletMariana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnusualBronzeVinita"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

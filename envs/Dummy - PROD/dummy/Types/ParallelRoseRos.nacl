@@ -1,0 +1,142 @@
+type dummy.ParallelRoseRos {
+  annotations {
+    serviceid_number CoastalHarlequinMireille {
+    }
+    number FaintTomatoGleda {
+    }
+    hidden_boolean PositiveBeigeVittoria {
+    }
+    dummy.ShortRoseSosanna ScaryBronzeEdna {
+    }
+    json InadequateEmeraldBecky {
+    }
+    hidden_boolean SlimBeigeMaureen {
+    }
+  }
+  boolean TallTurquoiseNikoletta {
+    _hidden_value = true
+  }
+  hidden_boolean IndividualApricotDaffy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json EverydayVioletMargarete {
+    _hidden_value = true
+  }
+  dummy.AvailableMaroonCarlotta WellIvoryHelenelizabeth {
+    DamagedIvoryKristal = 25
+    IndustrialVioletCosette = 596
+    NovelCoralGae = "Slept like a log last night  woke up in the fireplace."
+    WorkingChocolateMarlo = true
+    ElderlyPurpleTraci = 810
+    ZonalRedHilde = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    CleverPlumBerenice = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ComparativeOrangeDarda = "Whoever invented the knock-knock joke should get a no bell prize."
+    GrossCrimsonEmili = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AdvancedCrimsonDorolisa = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MonetaryPeachEmmeline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SquareCopperMara = 978
+    MeanSalmonShawnee = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  boolean AutonomousChocolateCaye {
+    _hidden_value = true
+  }
+  serviceid GuiltyAmberEmylee {
+    _hidden_value = true
+  }
+  serviceid_number OptimisticHarlequinCamilla {
+    _hidden_value = true
+  }
+  number IllegalGoldGwen {
+    _hidden_value = true
+  }
+  serviceid_number RearAmberAilyn {
+    _hidden_value = true
+  }
+  serviceid_number RetiredTurquoiseBonni {
+    _hidden_value = true
+  }
+  boolean GeneticAquaJaquenetta {
+    _hidden_value = true
+  }
+  boolean IncreasedAmethystDelinda {
+    _hidden_value = true
+  }
+  serviceid_number RuralBronzeMarilyn {
+    _hidden_value = true
+  }
+  boolean IdeologicalOliveElizabet {
+    _hidden_value = true
+  }
+  hidden_boolean FreshGrayBlanca {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ClassicalAmethystXenia {
+    _hidden_value = true
+  }
+  json NarrowBrownLottie {
+    _hidden_value = true
+  }
+  hidden_boolean PublicGreenEartha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ConvincedPinkMicky {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrectGoldMaisey {
+    _hidden_value = true
+  }
+  number SuperbMagentaMonah {
+    _hidden_value = true
+  }
+  serviceid_number SubtleLavenderLauretta {
+    _hidden_value = true
+  }
+  CoastalHarlequinMireille = 559
+  FaintTomatoGleda = 189
+  ScaryBronzeEdna = false
+  InadequateEmeraldBecky = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncreasedAmethystDelinda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PublicGreenEartha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConvincedPinkMicky"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GeneticAquaJaquenetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FreshGrayBlanca"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SlimBeigeMaureen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

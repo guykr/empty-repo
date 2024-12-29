@@ -1,0 +1,128 @@
+type dummy.CompetentAquaSusana {
+  annotations {
+    serviceid_number RealisticCopperCourtnay {
+    }
+    json UnusualCyanNeila {
+    }
+    boolean EldestWhiteNomi {
+    }
+    boolean ElectricGrayAudra {
+    }
+  }
+  json JollyRoseMarilyn {
+    _hidden_value = true
+  }
+  serviceid CharmingJadeBenedikta {
+    _hidden_value = true
+  }
+  hidden_boolean PuzzledSapphireHannah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LiberalOlivePegeen {
+    _hidden_value = true
+  }
+  json QuietAquamarineFanya {
+    _hidden_value = true
+  }
+  serviceid GloriousWhiteAnnetta {
+    _hidden_value = true
+  }
+  serviceid_number FunPurpleJaymee {
+    _hidden_value = true
+  }
+  boolean ConsiderableTomatoOthella {
+    _hidden_value = true
+  }
+  serviceid HuskySapphireFrances {
+    _hidden_value = true
+  }
+  serviceid ThoroughCyanConnie {
+    _hidden_value = true
+  }
+  serviceid ValidLimeAshlen {
+    _hidden_value = true
+  }
+  json NursingEmeraldCharmane {
+    _hidden_value = true
+  }
+  number RemarkableTealUrsulina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RudeTomatoAurilia {
+    _hidden_value = true
+  }
+  boolean TiredOliveVonnie {
+    _hidden_value = true
+  }
+  boolean NosySilverAtalanta {
+    _hidden_value = true
+  }
+  json ExcitedEmeraldDelcine {
+    _hidden_value = true
+  }
+  string AwakeTomatoCatina {
+    _hidden_value = true
+  }
+  string GuiltyGoldRahal {
+    _hidden_value = true
+  }
+  json ChronicGoldJoella {
+    _hidden_value = true
+  }
+  RealisticCopperCourtnay = 658
+  UnusualCyanNeila = "A steak pun is a rare medium well done."
+  EldestWhiteNomi = false
+  ElectricGrayAudra = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NosySilverAtalanta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PuzzledSapphireHannah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GuiltyGoldRahal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HuskySapphireFrances"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FunPurpleJaymee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TiredOliveVonnie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LiberalOlivePegeen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AwakeTomatoCatina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ElectricGrayAudra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

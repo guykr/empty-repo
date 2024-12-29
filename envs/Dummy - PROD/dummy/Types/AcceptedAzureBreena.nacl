@@ -1,0 +1,89 @@
+type dummy.AcceptedAzureBreena {
+  annotations {
+    hidden_boolean TallPeachShandeigh {
+    }
+    dummy.DEFAULT LogicalEmeraldDanna {
+    }
+    json ProductiveAquamarineDarleen {
+    }
+    number MusicalSilverQuentin {
+    }
+    serviceid_number DutchMoccasinFancy {
+    }
+    json NetIndigoCarry {
+    }
+    hidden_boolean GiganticCopperAndria {
+    }
+  }
+  number VocalBrownLeeann {
+    _hidden_value = true
+  }
+  string FaithfulEmeraldDrucill {
+    _hidden_value = true
+  }
+  serviceid BlondeLimeEvonne {
+    _hidden_value = true
+  }
+  number BriefFuchsiaLena {
+    _hidden_value = true
+  }
+  json PainfulCoralTerrye {
+    _hidden_value = true
+  }
+  json ManyChocolateEthelind {
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassingChocolateAngelita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DullJadeKaylee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SweetTealLauree {
+    _hidden_value = true
+  }
+  number TragicPeachFernandina {
+    _hidden_value = true
+  }
+  hidden_boolean AnnoyedGrayMichaela {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number LengthyCopperLesya {
+    _hidden_value = true
+  }
+  boolean SoleCoffeeKizzie {
+    _hidden_value = true
+  }
+  serviceid_number FastBeigeEmmaline {
+    _hidden_value = true
+  }
+  json WelcomeApricotElianora {
+    _hidden_value = true
+  }
+  LogicalEmeraldDanna = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  ProductiveAquamarineDarleen = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MusicalSilverQuentin = 290
+  DutchMoccasinFancy = 921
+  NetIndigoCarry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AnnoyedGrayMichaela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FaithfulEmeraldDrucill"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

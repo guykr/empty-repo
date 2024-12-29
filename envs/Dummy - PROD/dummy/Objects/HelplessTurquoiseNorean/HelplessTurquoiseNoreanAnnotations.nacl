@@ -1,0 +1,81 @@
+type dummy.HelplessTurquoiseNorean {
+  annotations {
+    json LabourWhiteGlenine {
+    }
+    boolean StiffBronzeRosalyn {
+    }
+    serviceid_number ChosenGoldMala {
+    }
+    string CleanAquamarineNaomi {
+    }
+    number BlindPurpleTheodosia {
+    }
+    json WickedApricotBeryl {
+    }
+    serviceid ResultingOrangeZahara {
+    }
+    dummy.SurprisingWhiteHarrietta HardMoccasinBlakelee {
+    }
+    serviceid PersistentSalmonElle {
+    }
+    dummy.RaspyScarletBlair NumerousBlueClaudine {
+    }
+    json ExcitedSilverWillabella {
+    }
+    boolean GrievingApricotKarlene {
+    }
+    boolean FunnyApricotAmii {
+    }
+    json ExuberantAmaranthJobyna {
+    }
+    serviceid_number SoreSilverJanenna {
+    }
+    dummy.PreferredCoffeePenelope CarefulBrownTimmi {
+    }
+    boolean SadBlackJuana {
+    }
+    number GorgeousAmberTrixi {
+    }
+  }
+  LabourWhiteGlenine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StiffBronzeRosalyn = false
+  ChosenGoldMala = 565
+  CleanAquamarineNaomi = "A steak pun is a rare medium well done."
+  BlindPurpleTheodosia = 915
+  WickedApricotBeryl = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ResultingOrangeZahara = "Did you know that protons have mass? I didn't even know they were catholic."
+  HardMoccasinBlakelee = true
+  PersistentSalmonElle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NumerousBlueClaudine = 390
+  ExcitedSilverWillabella = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrievingApricotKarlene = false
+  FunnyApricotAmii = false
+  ExuberantAmaranthJobyna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SoreSilverJanenna = 772
+  CarefulBrownTimmi = 623
+  SadBlackJuana = true
+  GorgeousAmberTrixi = 94
+  _self_important_values = [
+    {
+      value = "FunnyApricotAmii"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BlindPurpleTheodosia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrievingApricotKarlene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResultingOrangeZahara"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "HelplessTurquoiseNorean_alias"
+}

@@ -1,0 +1,49 @@
+type dummy.FlexibleBlushJessie {
+  annotations {
+    number StupidApricotLeanor {
+    }
+    serviceid SplendidMoccasinKarlyn {
+    }
+    serviceid ComplexEmeraldLuelle {
+    }
+    serviceid_number UsualScarletNadine {
+    }
+    dummy.DEFAULT TenderBlueLotta {
+    }
+  }
+  json SensitiveBeigeAlysia {
+    _hidden_value = true
+  }
+  hidden_boolean DelicateCyanChandra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InvisibleGreenBunnie {
+    _hidden_value = true
+  }
+  boolean DisappointedScarletFara {
+    _hidden_value = true
+  }
+  json AlternativeYellowMaurine {
+    _hidden_value = true
+  }
+  serviceid_number MysteriousMaroonAlbertine {
+    _hidden_value = true
+  }
+  StupidApricotLeanor = 540
+  SplendidMoccasinKarlyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ComplexEmeraldLuelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UsualScarletNadine = 806
+  TenderBlueLotta = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TenderBlueLotta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

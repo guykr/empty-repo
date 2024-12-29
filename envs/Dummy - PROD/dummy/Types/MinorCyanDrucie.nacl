@@ -1,0 +1,110 @@
+type dummy.MinorCyanDrucie {
+  annotations {
+    serviceid_number ExternalGrayRorie {
+    }
+    number AggregateFuchsiaSherill {
+    }
+    serviceid EmotionalBlueCory {
+    }
+    serviceid_number NutritiousFuchsiaDarcy {
+    }
+    string DeliberateMaroonLeia {
+    }
+  }
+  string HonRoseGaylene {
+    _hidden_value = true
+  }
+  json CoolBronzeKatrine {
+    _hidden_value = true
+  }
+  number OverseasGoldHarlene {
+    _hidden_value = true
+  }
+  hidden_boolean SocialistBlueTrixi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AbleBrownSusana {
+    _hidden_value = true
+  }
+  string GentlePeachGina {
+    _hidden_value = true
+  }
+  boolean VoicelessSilverFifi {
+    _hidden_value = true
+  }
+  "List<string>" CourageousIvoryDrona {
+    _hidden_value = true
+  }
+  serviceid_number AmateurBeigeLaverna {
+    _hidden_value = true
+  }
+  boolean StrategicAmaranthCordie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SunnyScarletGerianne {
+    _hidden_value = true
+  }
+  string IdenticalScarletAntonietta {
+    _hidden_value = true
+  }
+  json InterestedSilverAndra {
+    _hidden_value = true
+  }
+  number BrainyCyanShoshana {
+    _hidden_value = true
+  }
+  hidden_boolean SleepyCrimsonAdoree {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StatutoryBronzeAline {
+    _hidden_value = true
+  }
+  boolean WearyChocolateLynde {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RipePurpleGabbi {
+    _hidden_value = true
+  }
+  hidden_boolean FormalBrownSelma {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExpectedAmethystShannen {
+    _hidden_value = true
+  }
+  ExternalGrayRorie = 869
+  AggregateFuchsiaSherill = 138
+  EmotionalBlueCory = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NutritiousFuchsiaDarcy = 254
+  DeliberateMaroonLeia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AmateurBeigeLaverna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OverseasGoldHarlene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FormalBrownSelma"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExternalGrayRorie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,131 @@
+type dummy.NorthernRedCatlee {
+  annotations {
+    boolean AdjacentTurquoiseTandie {
+    }
+    string OuterIndigoElspeth {
+    }
+    hidden_boolean BurningSapphireBabita {
+    }
+    serviceid TestyCopperDebi {
+    }
+    serviceid_number GoverningWhiteNanci {
+    }
+    dummy.DEFAULT DigitalFuchsiaStacy {
+    }
+    hidden_boolean ShinyBrownElwira {
+    }
+  }
+  number InsufficientSilverCecilla {
+    _hidden_value = true
+  }
+  boolean LoyalEmeraldMerline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MinorBlushCalypso {
+    _hidden_value = true
+  }
+  hidden_boolean EndlessCopperKoralle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LocalGrayKellia {
+    _hidden_value = true
+  }
+  hidden_boolean ThickAquamarineHatty {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringBeigeMarketa {
+    _hidden_value = true
+  }
+  boolean PrimeEmeraldNoellyn {
+    _hidden_value = true
+  }
+  serviceid PrimitiveAquamarineDanny {
+    _hidden_value = true
+  }
+  boolean WellMoccasinTybi {
+    _hidden_value = true
+  }
+  boolean RelievedTurquoiseNissy {
+    _hidden_value = true
+  }
+  serviceid_number VoicelessCrimsonSallee {
+    _hidden_value = true
+  }
+  serviceid_number WhisperingTurquoiseWinni {
+    _hidden_value = true
+  }
+  hidden_boolean DeliberateAmberCarmencita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ProfitableEmeraldKeelia {
+    _hidden_value = true
+  }
+  string IsolatedTanNicoline {
+    _hidden_value = true
+  }
+  serviceid_number UndergroundYellowAilina {
+    _hidden_value = true
+  }
+  hidden_boolean BlindPlumNinnetta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.LowRedTruda InternalYellowDorisa {
+    _hidden_value = true
+  }
+  number SharpAquaAridatha {
+    _hidden_value = true
+  }
+  number MonthlyGreenCollette {
+    _hidden_value = true
+  }
+  AdjacentTurquoiseTandie = true
+  OuterIndigoElspeth = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  TestyCopperDebi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GoverningWhiteNanci = 565
+  DigitalFuchsiaStacy = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InternalYellowDorisa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NeighbouringBeigeMarketa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PrimitiveAquamarineDanny"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlindPlumNinnetta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TestyCopperDebi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OuterIndigoElspeth"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

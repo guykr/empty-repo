@@ -1,0 +1,149 @@
+type dummy.ImpressiveVioletTorey {
+  annotations {
+    serviceid UsefulFuchsiaNevsa {
+    }
+    serviceid SpottyJadeMin {
+    }
+    json SoreMoccasinAlbertina {
+    }
+    serviceid MatureGoldAilee {
+    }
+    string StormyTurquoiseDelphine {
+    }
+    json CleverBrownCodi {
+    }
+    boolean RetailPlumBrigid {
+    }
+  }
+  hidden_boolean RidiculousTomatoAllene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AvailableOrangeCarma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CarefulWhiteAntonina {
+    _hidden_value = true
+  }
+  serviceid_number WholePlumBritteny {
+    _hidden_value = true
+  }
+  boolean StableTurquoiseCelka {
+    _hidden_value = true
+  }
+  json DependentTanBabette {
+    _hidden_value = true
+  }
+  json MonetaryGoldMahala {
+    _hidden_value = true
+  }
+  boolean FrightenedBlueFidelity {
+    _hidden_value = true
+  }
+  json TypicalFuchsiaGeorgeta {
+    _hidden_value = true
+  }
+  json CostlyBlueDarcie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PetiteTurquoiseMaryanna {
+    _hidden_value = true
+  }
+  serviceid_number SharedMagentaPaulie {
+    _hidden_value = true
+  }
+  string DefeatedVioletSerena {
+    _hidden_value = true
+  }
+  serviceid YuckyGrayNesta {
+    _hidden_value = true
+  }
+  number AgreeableLimeRozanne {
+    _hidden_value = true
+  }
+  hidden_boolean BetterSilverShaun {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcademicJadeGabrielle {
+    _hidden_value = true
+  }
+  boolean ImprovedGrayAlayne {
+    _hidden_value = true
+  }
+  boolean JitteryIndigoHollyanne {
+    _hidden_value = true
+  }
+  number SurvivingTomatoSharai {
+    _hidden_value = true
+  }
+  "List<serviceid>" CognitivePurpleMelloney {
+    _hidden_value = true
+  }
+  string XenialBronzeDevinne {
+    _hidden_value = true
+  }
+  hidden_boolean InquisitiveRoseKittie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AutonomousAzureEvvy {
+    _hidden_value = true
+  }
+  json ZygoticPeachTracee {
+    _hidden_value = true
+  }
+  string HorizontalOliveJoey {
+    _hidden_value = true
+  }
+  UsefulFuchsiaNevsa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SpottyJadeMin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SoreMoccasinAlbertina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MatureGoldAilee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  StormyTurquoiseDelphine = "I'll tell you what often gets over looked... garden fences."
+  CleverBrownCodi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RetailPlumBrigid = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "XenialBronzeDevinne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SharedMagentaPaulie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AvailableOrangeCarma"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InquisitiveRoseKittie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BetterSilverShaun"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SoreMoccasinAlbertina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RetailPlumBrigid"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

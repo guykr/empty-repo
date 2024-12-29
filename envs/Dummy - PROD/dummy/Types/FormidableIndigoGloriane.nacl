@@ -1,0 +1,66 @@
+type dummy.FormidableIndigoGloriane {
+  annotations {
+    serviceid PopularAquaTedi {
+    }
+    hidden_boolean IncreasingPinkCeline {
+    }
+    number GloriousCrimsonEmogene {
+    }
+    string FortunateAzureSarina {
+    }
+  }
+  json WilyYellowZonda {
+    _hidden_value = true
+  }
+  number SupremeApricotTiffani {
+    _hidden_value = true
+  }
+  serviceid_number MagnificentSilverBab {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeBeigeDenna {
+    _hidden_value = true
+  }
+  number EntireAquamarineMargarita {
+    _hidden_value = true
+  }
+  boolean TypicalBlackHonor {
+    _hidden_value = true
+  }
+  number FitAmberMaressa {
+    _hidden_value = true
+  }
+  string OrganicTanDniren {
+    _hidden_value = true
+  }
+  serviceid AnonymousVioletBarry {
+    _hidden_value = true
+  }
+  hidden_boolean WanderingPlumAmargo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string MidTealChicky {
+    _hidden_value = true
+  }
+  json AestheticRedGilberte {
+    _hidden_value = true
+  }
+  PopularAquaTedi = "Im only familiar with 25 letters in the English language. I dont know why."
+  GloriousCrimsonEmogene = 598
+  FortunateAzureSarina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CooperativeBeigeDenna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MagnificentSilverBab"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

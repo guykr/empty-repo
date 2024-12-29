@@ -1,0 +1,69 @@
+type dummy.PersistentAmaranthShaina {
+  annotations {
+    serviceid_number ConceptualBlushCarmelina {
+    }
+    string BottomBlackAleece {
+    }
+    json MagicGoldGeorgena {
+    }
+    hidden_boolean ArbitraryRoseAlanna {
+    }
+    serviceid ShakyMoccasinCrista {
+    }
+    string CivicAquamarineWenda {
+    }
+    json IndependentBlackCatlin {
+    }
+    json GuiltyChocolateHeda {
+    }
+    dummy.DistantPurpleNanette MarxistScarletClary {
+    }
+    hidden_boolean SilkyAquamarineBlondy {
+    }
+    boolean IndirectGreenJocelyn {
+    }
+  }
+  ConceptualBlushCarmelina = 815
+  BottomBlackAleece = "What creature is smarter than a talking parrot? A spelling bee."
+  MagicGoldGeorgena = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShakyMoccasinCrista = "To be Frank, I'd have to change my name."
+  CivicAquamarineWenda = "How come the stadium got hot after the game? Because all of the fans left."
+  IndependentBlackCatlin = "I'll tell you what often gets over looked... garden fences."
+  GuiltyChocolateHeda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IndirectGreenJocelyn = false
+  _important_values = [
+    {
+      value = "CrookedChocolateBlake"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RetiredEmeraldMelany"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WillowyVioletAlvera"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SilkyAquamarineBlondy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ArbitraryRoseAlanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BottomBlackAleece"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "PersistentAmaranthShaina_alias"
+}

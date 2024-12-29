@@ -1,0 +1,75 @@
+type dummy.BeautifulPinkHarrie {
+  annotations {
+    serviceid_number ScaredFuchsiaZonnya {
+    }
+    boolean SensibleAzureMeara {
+    }
+    dummy.AlrightTealArdelis FragileBlackSydel {
+    }
+    number PrimitiveRedDebby {
+    }
+    string DamagedBlushStefa {
+    }
+  }
+  number ParliamentaryPurpleClementia {
+    _hidden_value = true
+  }
+  boolean ConfidentialBrownCarree {
+    _hidden_value = true
+  }
+  json SuspiciousAquaJaine {
+    _hidden_value = true
+  }
+  number PublicTomatoDaphene {
+    _hidden_value = true
+  }
+  number ElectricMoccasinRobbin {
+    _hidden_value = true
+  }
+  serviceid_number DistinctOliveMuire {
+    _hidden_value = true
+  }
+  json ShaggyPlumEvonne {
+    _hidden_value = true
+  }
+  json InternationalPlumKristyn {
+    _hidden_value = true
+  }
+  string EnviousAmethystGalina {
+    _hidden_value = true
+  }
+  number ShortEmeraldLaurice {
+    _hidden_value = true
+  }
+  json PanickyAquamarineEllene {
+    _hidden_value = true
+  }
+  serviceid SpiritualAmethystElmira {
+    _hidden_value = true
+  }
+  ScaredFuchsiaZonnya = 145
+  SensibleAzureMeara = true
+  FragileBlackSydel = false
+  PrimitiveRedDebby = 182
+  DamagedBlushStefa = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PublicTomatoDaphene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ParliamentaryPurpleClementia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FragileBlackSydel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

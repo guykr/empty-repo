@@ -1,0 +1,73 @@
+type dummy.UnderlyingBlueDredi {
+  annotations {
+    string UnusualTanArline {
+    }
+    serviceid_number ControlledGrayTiffi {
+    }
+    serviceid_number TragicAmethystAnnmaria {
+    }
+    json BeneficialYellowAlidia {
+    }
+    serviceid_number PureVioletDamara {
+    }
+    number AwareBlackLark {
+    }
+  }
+  serviceid_number AutonomousIndigoDavina {
+    _hidden_value = true
+  }
+  number ParentalCopperAdeline {
+    _hidden_value = true
+  }
+  serviceid StrangeBlackGaynor {
+    _hidden_value = true
+  }
+  string DepressedSapphireMadlen {
+    _hidden_value = true
+  }
+  serviceid ProspectivePlumGnni {
+    _hidden_value = true
+  }
+  json OverseasGreenCleo {
+    _hidden_value = true
+  }
+  number NormalCyanJesse {
+    _hidden_value = true
+  }
+  boolean SkilledTomatoClarita {
+    _hidden_value = true
+  }
+  serviceid ClassicalAmaranthMona {
+    _hidden_value = true
+  }
+  json DarkLavenderKonstanze {
+    _hidden_value = true
+  }
+  string HolyBronzeSidoney {
+    _hidden_value = true
+  }
+  UnusualTanArline = "Why did the tomato blush? Because it saw the salad dressing."
+  ControlledGrayTiffi = 371
+  TragicAmethystAnnmaria = 322
+  BeneficialYellowAlidia = "To be Frank, I'd have to change my name."
+  PureVioletDamara = 610
+  AwareBlackLark = 415
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ClassicalAmaranthMona"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AutonomousIndigoDavina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OverseasGreenCleo"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

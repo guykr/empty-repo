@@ -1,0 +1,56 @@
+type dummy.MinorPeachKalina {
+  annotations {
+    string JitteryTurquoiseJesselyn {
+    }
+    serviceid VisitingCopperDelia {
+    }
+    number ShaggyPeachBlinnie {
+    }
+    number StructuralChocolateAndi {
+    }
+    hidden_boolean RawLimeCheslie {
+    }
+  }
+  boolean JitteryGoldKassi {
+    _hidden_value = true
+  }
+  serviceid_number SquealingFuchsiaTildie {
+    _hidden_value = true
+  }
+  json IntimateTanKarissa {
+    _hidden_value = true
+  }
+  boolean ExuberantBronzeSibyl {
+    _hidden_value = true
+  }
+  serviceid_number AwfulAmethystKarlotta {
+    _hidden_value = true
+  }
+  string BiologicalGoldReeba {
+    _hidden_value = true
+  }
+  JitteryTurquoiseJesselyn = "What do you call two barracuda fish?  A Pairacuda!"
+  VisitingCopperDelia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ShaggyPeachBlinnie = 258
+  StructuralChocolateAndi = 309
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IntimateTanKarissa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SquealingFuchsiaTildie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StructuralChocolateAndi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

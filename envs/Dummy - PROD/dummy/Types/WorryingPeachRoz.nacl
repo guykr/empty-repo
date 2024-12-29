@@ -1,0 +1,97 @@
+type dummy.WorryingPeachRoz {
+  annotations {
+    boolean SmoggySalmonJacinta {
+    }
+    json DisabledAquamarineJenica {
+    }
+    serviceid RubberMoccasinWilhelmina {
+    }
+    number StuckIndigoBari {
+    }
+    hidden_boolean InnocentSilverDeane {
+    }
+  }
+  number LtdCoffeeMinnie {
+    _hidden_value = true
+  }
+  serviceid_number AggressiveHarlequinAllyce {
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeCrimsonIlsa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlertBlushThalia {
+    _hidden_value = true
+  }
+  hidden_boolean AfraidAmaranthCelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DifferentGreenBrear {
+    _hidden_value = true
+  }
+  serviceid_number DoubtfulIvoryJaquelin {
+    _hidden_value = true
+  }
+  serviceid ProspectiveBlushShell {
+    _hidden_value = true
+  }
+  dummy.LargeGoldMei EssentialCoffeeGuendolen {
+    ImmenseCoffeeAmata = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PublicBlueYalonda = true
+    BindingSilverAngeline = "Slept like a log last night  woke up in the fireplace."
+    UnpleasantBlackNoreen = true
+    VictoriousPurpleCarmita = 948
+    SpatialGrayFifine = false
+    _hidden_value = true
+  }
+  hidden_boolean NegativeBlushDanila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SocialGrayMeggy {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedWhiteFredra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BreakableIndigoTobye {
+    _hidden_value = true
+  }
+  boolean InteriorMaroonDaisy {
+    _hidden_value = true
+  }
+  number AnonymousIvoryBetsey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT QuickVioletCatlee {
+    _hidden_value = true
+  }
+  boolean WickedWhiteJoy {
+    _hidden_value = true
+  }
+  serviceid LatinTurquoiseAlanah {
+    _hidden_value = true
+  }
+  json RoughAmberLexis {
+    _hidden_value = true
+  }
+  SmoggySalmonJacinta = false
+  DisabledAquamarineJenica = "Dad Im hungry  Hi hungry Im dad"
+  RubberMoccasinWilhelmina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StuckIndigoBari = 993
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AnonymousIvoryBetsey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

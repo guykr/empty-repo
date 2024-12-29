@@ -1,0 +1,65 @@
+type dummy.LtdGreenCristie {
+  annotations {
+    string HelpfulBeigeCorey {
+    }
+    boolean CompetitiveBlueSybila {
+    }
+    boolean KindOliveHoney {
+    }
+    string BadCoffeeAllegra {
+    }
+    dummy.GayLimeBernete SupposedCrimsonGussi {
+    }
+  }
+  string ApplicablePlumGarnette {
+    _hidden_value = true
+  }
+  string PositiveBeigeAbra {
+    _hidden_value = true
+  }
+  json CostlyAmaranthHenryetta {
+    _hidden_value = true
+  }
+  json SpatialBeigeEricha {
+    _hidden_value = true
+  }
+  json ProvincialAmaranthLindsy {
+    _hidden_value = true
+  }
+  string DeepVioletAda {
+    _hidden_value = true
+  }
+  boolean BackIvoryRhoda {
+    _hidden_value = true
+  }
+  hidden_boolean HollowJadeKarry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  HelpfulBeigeCorey = "What do you call two barracuda fish?  A Pairacuda!"
+  CompetitiveBlueSybila = true
+  KindOliveHoney = false
+  BadCoffeeAllegra = "A steak pun is a rare medium well done."
+  SupposedCrimsonGussi = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ApplicablePlumGarnette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HollowJadeKarry"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CompetitiveBlueSybila"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

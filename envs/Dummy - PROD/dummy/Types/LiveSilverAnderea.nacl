@@ -1,0 +1,162 @@
+type dummy.LiveSilverAnderea {
+  annotations {
+    hidden_boolean HeavyCopperCordy {
+    }
+    boolean FranticCoffeePrudence {
+    }
+    hidden_boolean WideEmeraldVernice {
+    }
+    serviceid ExperiencedBronzeElbertina {
+    }
+    dummy.DEFAULT SteadyEmeraldOdelia {
+    }
+  }
+  "List<boolean>" DistinguishedBronzeDaphne {
+    _hidden_value = true
+  }
+  hidden_boolean EstablishedBlueJocelyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.PreferredCoffeePenelope YellingGrayNonna {
+    ZygomorphicCoffeeEmmaline = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    InstantBronzeGayla = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CausalPurpleOfilia = false
+    PayableBlackBrandie = false
+    WickedCoffeeDede = false
+    DistinctiveLimeSandra = 471
+    HelplessMagentaLyndel = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MaleMaroonDayna = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    _hidden_value = true
+  }
+  dummy.JustAmaranthKaril PainfulTurquoiseTiertza {
+    ExplicitApricotDina = "What creature is smarter than a talking parrot? A spelling bee."
+    TotalMoccasinMarjie = "Im only familiar with 25 letters in the English language. I dont know why."
+    BraveWhiteKittie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CoastalAzurePansy = 693
+    DesirableTomatoTana = 336
+    AdequatePinkEmelina = false
+    ContinentalEmeraldTommy = 635
+    MinisterialBlackJacquenetta = 601
+    UnpleasantRoseGigi = 38
+    FrontBeigeAmalea = 561
+    YammeringAmethystRaye = 92
+    OutstandingRoseFlorry = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  serviceid MedicalLavenderTawnya {
+    _hidden_value = true
+  }
+  boolean UnevenApricotRubia {
+    _hidden_value = true
+  }
+  dummy.LowRedTruda UrgentBlushGabrila {
+    _hidden_value = true
+  }
+  serviceid_number MaleAmethystLeigh {
+    _hidden_value = true
+  }
+  dummy.MobileTurquoiseDede TragicBrownAleda {
+    DisabledAmaranthMarnia = "Dad Im hungry  Hi hungry Im dad"
+    ColdPinkCheryl = "What creature is smarter than a talking parrot? A spelling bee."
+    LegalHarlequinPollyanna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    YappyAmaranthClaudetta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SorryYellowPamella = 888
+    ViolentGreenAddi = "What creature is smarter than a talking parrot? A spelling bee."
+    SkinnyRedValry = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    WastefulFuchsiaGloria = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  serviceid_number VoicelessAzureLora {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SexualPinkKonstanze {
+    _hidden_value = true
+  }
+  json IntenseTanSarina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnhappyAzureErica {
+    _hidden_value = true
+  }
+  serviceid MedievalBlackMicaela {
+    _hidden_value = true
+  }
+  json AlternativeAmberEnriqueta {
+    _hidden_value = true
+  }
+  serviceid IncreasingEmeraldCarilyn {
+    _hidden_value = true
+  }
+  hidden_boolean CrazyAmethystJustinn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StaleYellowEtta {
+    _hidden_value = true
+  }
+  string EncouragingBlackCorine {
+    _hidden_value = true
+  }
+  number CreepyTanLina {
+    _hidden_value = true
+  }
+  number FairRoseLibbi {
+    _hidden_value = true
+  }
+  serviceid_number RationalYellowCarole {
+    _hidden_value = true
+  }
+  json FunnyJadeDarsey {
+    _hidden_value = true
+  }
+  serviceid WarmEmeraldKellie {
+    _hidden_value = true
+  }
+  FranticCoffeePrudence = false
+  ExperiencedBronzeElbertina = "Why was it called the dark ages? Because of all the knights. "
+  SteadyEmeraldOdelia = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IntenseTanSarina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MedievalBlackMicaela"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DistinguishedBronzeDaphne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EstablishedBlueJocelyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UrgentBlushGabrila"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RationalYellowCarole"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,97 @@
+type dummy.PossibleSalmonGretel {
+  annotations {
+    number MushyIndigoMaritsa {
+    }
+    serviceid ClinicalLavenderAvrit {
+    }
+    string ClassicalBlackHonor {
+    }
+    json PowerfulCoffeeRochette {
+    }
+    serviceid_number DisabledSapphireGlad {
+    }
+    serviceid_number ExternalTurquoiseViolet {
+    }
+    boolean EvilSapphireBlythe {
+    }
+    dummy.ExactEmeraldRicca InnocentFuchsiaMargaret {
+    }
+    boolean GreatPlumPhilis {
+    }
+    serviceid EnvironmentalFuchsiaNixie {
+    }
+    boolean YoungestPlumLegra {
+    }
+    json ConvincedTomatoAstrix {
+    }
+    dummy.LeftGrayMiquela NarrowCoralAidan {
+    }
+    dummy.SpotlessLimeBabs RuralSilverHelen {
+    }
+    string AdequateTomatoWaly {
+    }
+    number InvisibleChocolateRozelle {
+    }
+    serviceid_number LiveWhiteMarsiella {
+    }
+    number TartWhiteAnette {
+    }
+    serviceid_number ZerothAmethystPearla {
+    }
+    boolean UnevenMaroonJeniffer {
+    }
+  }
+  MushyIndigoMaritsa = 23
+  ClinicalLavenderAvrit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ClassicalBlackHonor = "What creature is smarter than a talking parrot? A spelling bee."
+  PowerfulCoffeeRochette = "How come the stadium got hot after the game? Because all of the fans left."
+  DisabledSapphireGlad = 98
+  ExternalTurquoiseViolet = 975
+  EvilSapphireBlythe = true
+  InnocentFuchsiaMargaret = file("RollingRedNanice.txt")
+  GreatPlumPhilis = true
+  EnvironmentalFuchsiaNixie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  YoungestPlumLegra = true
+  ConvincedTomatoAstrix = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AdequateTomatoWaly = "Why did the kid cross the playground? To get to the other slide."
+  InvisibleChocolateRozelle = 291
+  LiveWhiteMarsiella = 983
+  TartWhiteAnette = 133
+  ZerothAmethystPearla = 202
+  UnevenMaroonJeniffer = true
+  _important_values = [
+    {
+      value = "YappyGrayVeronique"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EnormousPlumJaquith"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RespectableCoralPavia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YoungestPlumLegra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GreatPlumPhilis"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NarrowCoralAidan"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "PossibleSalmonGretel_alias"
+}

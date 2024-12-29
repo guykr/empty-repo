@@ -1,0 +1,99 @@
+type dummy.AbsentCoffeeStormi {
+  annotations {
+    hidden_boolean SymbolicAzureCarole {
+    }
+    serviceid_number DampPurpleCoriss {
+    }
+    number AcademicMoccasinKip {
+    }
+    json PreferredWhiteGrier {
+    }
+    number InjuredPlumBetta {
+    }
+    boolean FollowingScarletMela {
+    }
+    number ElectricalAmethystYasmeen {
+    }
+    boolean EmbarrassedMagentaDoro {
+    }
+    boolean CoolBronzeJuliette {
+    }
+    serviceid BusyGoldGiacinta {
+    }
+    boolean PublicCopperMarilin {
+    }
+    serviceid_number VivaciousTanBirgit {
+    }
+    number ConservativeLimeDredi {
+    }
+    boolean MagnificentApricotElyssa {
+    }
+    number FundamentalGrayJania {
+    }
+    hidden_boolean InteriorScarletWillyt {
+    }
+    number CircularAquamarineAilis {
+    }
+    dummy.ProvincialCoralSabrina GivenBlushRozella {
+    }
+    serviceid HorribleBlueKarol {
+    }
+  }
+  DampPurpleCoriss = 272
+  AcademicMoccasinKip = 842
+  PreferredWhiteGrier = "To be Frank, I'd have to change my name."
+  InjuredPlumBetta = 665
+  FollowingScarletMela = false
+  ElectricalAmethystYasmeen = 386
+  EmbarrassedMagentaDoro = false
+  CoolBronzeJuliette = false
+  BusyGoldGiacinta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PublicCopperMarilin = false
+  VivaciousTanBirgit = 389
+  ConservativeLimeDredi = 476
+  MagnificentApricotElyssa = true
+  FundamentalGrayJania = 598
+  CircularAquamarineAilis = 399
+  GivenBlushRozella = file("StingyIndigoCarlota.txt")
+  HorribleBlueKarol = "Why was it called the dark ages? Because of all the knights. "
+  _important_values = [
+    {
+      value = "ResidentialVioletLory"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GivenBlushRozella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BusyGoldGiacinta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FundamentalGrayJania"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ElectricalAmethystYasmeen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SymbolicAzureCarole"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EmbarrassedMagentaDoro"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "AbsentCoffeeStormi_alias"
+}

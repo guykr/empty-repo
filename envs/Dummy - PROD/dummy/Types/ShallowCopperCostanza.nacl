@@ -1,0 +1,88 @@
+type dummy.ShallowCopperCostanza {
+  annotations {
+    dummy.SocialBronzeGerri DampVioletKarly {
+    }
+    serviceid_number MoralOrangeBernadene {
+    }
+    hidden_boolean ComplicatedLimeLeonelle {
+    }
+    serviceid IdealScarletMalena {
+    }
+    string WideIvoryOralee {
+    }
+  }
+  dummy.AlrightTealArdelis OppositeBeigeHedvige {
+    SupremePeachGeorgiana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UnfairAquamarineBeryle = "Dad Im hungry  Hi hungry Im dad"
+    FlatCopperCharmian = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EnormousAmberAllyce = "Slept like a log last night  woke up in the fireplace."
+    FreshAmethystDorene = 669
+    CleverCopperDaryn = 78
+    PanickyMagentaIbbie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DrabAzureEdee = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WilfulCyanSophey = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ConservativeWhiteAngie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ProgressivePlumMarya = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  serviceid CombinedCoralBryna {
+    _hidden_value = true
+  }
+  hidden_boolean PureChocolateBrit {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ChangingGreenNicolle {
+    _hidden_value = true
+  }
+  serviceid WrittenPeachPatrice {
+    _hidden_value = true
+  }
+  serviceid LateBeigeAmara {
+    _hidden_value = true
+  }
+  serviceid CombinedOrangeVi {
+    _hidden_value = true
+  }
+  serviceid MaleTurquoiseMarybelle {
+    _hidden_value = true
+  }
+  number PrettyRedFayth {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalTomatoDoroteya {
+    _hidden_value = true
+  }
+  DampVioletKarly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MoralOrangeBernadene = 687
+  IdealScarletMalena = "Why did the kid cross the playground? To get to the other slide."
+  WideIvoryOralee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OppositeBeigeHedvige"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CombinedOrangeVi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PureChocolateBrit"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MoralOrangeBernadene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

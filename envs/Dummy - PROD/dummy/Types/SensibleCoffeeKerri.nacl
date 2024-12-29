@@ -1,0 +1,126 @@
+type dummy.SensibleCoffeeKerri {
+  annotations {
+    serviceid OnlySalmonDulci {
+    }
+    serviceid_number InfluentialCrimsonMerissa {
+    }
+    serviceid_number ContinentalIndigoLinzy {
+    }
+    serviceid ViciousPurpleFredericka {
+    }
+    boolean SuccessfulAquamarineZsazsa {
+    }
+  }
+  string EthnicGreenElsie {
+    _hidden_value = true
+  }
+  hidden_boolean AwareAquaEba {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BiologicalTurquoiseEricka {
+    _hidden_value = true
+  }
+  dummy.SocialBronzeGerri WorthyTealElisa {
+    InnerAzureBettine = false
+    PlainOrangePapagena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    NearIvoryLoraine = 838
+    MildPeachKiah = true
+    ImperialGrayFedora = "Why did the tomato blush? Because it saw the salad dressing."
+    DueFuchsiaVanda = 438
+    ScornfulBronzeTonie = 735
+    ConvincedIvoryMuire = false
+    MatureAzureRosalinda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GiantGreenMaggee = true
+    ScreechingApricotKrista = true
+    _hidden_value = true
+  }
+  json LovelyFuchsiaMasha {
+    _hidden_value = true
+  }
+  number JointCoffeeSonya {
+    _hidden_value = true
+  }
+  string RulingAquaHildagard {
+    _hidden_value = true
+  }
+  json InteriorCrimsonHazel {
+    _hidden_value = true
+  }
+  number PerfectChocolateGertie {
+    _hidden_value = true
+  }
+  number LexicalLimeEllen {
+    _hidden_value = true
+  }
+  serviceid_number VitalYellowCookie {
+    _hidden_value = true
+  }
+  serviceid WholeTanJosi {
+    _hidden_value = true
+  }
+  json ChristianGreenCathyleen {
+    _hidden_value = true
+  }
+  serviceid VagueTomatoEstel {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RegisteredAzureFae {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MiserableFuchsiaNata {
+    _hidden_value = true
+  }
+  boolean SurvivingChocolatePattie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariedLimeMelita {
+    _hidden_value = true
+  }
+  serviceid_number ThunderingCopperDanella {
+    _hidden_value = true
+  }
+  json ColorfulCyanEmmaline {
+    _hidden_value = true
+  }
+  serviceid SophisticatedBlushLeese {
+    _hidden_value = true
+  }
+  json ArchitecturalPeachSarine {
+    _hidden_value = true
+  }
+  boolean MetropolitanTanJanene {
+    _hidden_value = true
+  }
+  OnlySalmonDulci = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  InfluentialCrimsonMerissa = 290
+  ContinentalIndigoLinzy = 0
+  ViciousPurpleFredericka = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SuccessfulAquamarineZsazsa = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RegisteredAzureFae"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VagueTomatoEstel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LexicalLimeEllen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VitalYellowCookie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,23 @@
+type dummy.MarkedLavenderMariellen {
+  annotations {
+    serviceid RainyYellowGigi {
+    }
+    dummy.HomelessHarlequinValaria EntireAquaSayre {
+    }
+    boolean PricklyPlumJuli {
+    }
+    serviceid DeliberateBronzeLivia {
+    }
+    serviceid_number ChangingMoccasinDiane {
+    }
+  }
+  serviceid ConfusedScarletMalia {
+    _hidden_value = true
+  }
+  RainyYellowGigi = "I'll tell you what often gets over looked... garden fences."
+  EntireAquaSayre = "Why did the tomato blush? Because it saw the salad dressing."
+  PricklyPlumJuli = false
+  DeliberateBronzeLivia = "Why did the tomato blush? Because it saw the salad dressing."
+  ChangingMoccasinDiane = 355
+  _hidden_value = true
+}

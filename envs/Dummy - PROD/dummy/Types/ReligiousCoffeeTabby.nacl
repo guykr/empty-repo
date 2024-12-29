@@ -1,0 +1,64 @@
+type dummy.ReligiousCoffeeTabby {
+  annotations {
+    number SilentPurpleNissy {
+    }
+    boolean CuteApricotDarryl {
+    }
+    json DustyLavenderSarena {
+    }
+    dummy.SocialBronzeGerri EnthusiasticAquamarinePansie {
+    }
+  }
+  serviceid SlipperyBlackShandee {
+    _hidden_value = true
+  }
+  serviceid WarmTealOphelie {
+    _hidden_value = true
+  }
+  string DullPeachAveryl {
+    _hidden_value = true
+  }
+  hidden_boolean UsualTomatoWynnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NiceWhiteMelonie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PreferredCoffeePenelope DiverseGrayDevinne {
+    ZygomorphicCoffeeEmmaline = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    InstantBronzeGayla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CausalPurpleOfilia = true
+    PayableBlackBrandie = true
+    WickedCoffeeDede = false
+    DistinctiveLimeSandra = 977
+    HelplessMagentaLyndel = '''
+Why didnt the skeleton cross the road? Because he had no guts.
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+    MaleMaroonDayna = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    _hidden_value = true
+  }
+  serviceid HappySapphireMelisse {
+    _hidden_value = true
+  }
+  SilentPurpleNissy = 114
+  CuteApricotDarryl = true
+  DustyLavenderSarena = "Why did the tomato blush? Because it saw the salad dressing."
+  EnthusiasticAquamarinePansie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DustyLavenderSarena"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,26 @@
+type dummy.CompetentAmethystKerri {
+  annotations {
+    string LiquidLimeElissa {
+    }
+    serviceid SecondaryAquamarineTildi {
+    }
+    string VagueHarlequinAngelia {
+    }
+    json ScaredAmberStephi {
+    }
+    serviceid PhysicalGrayDolli {
+    }
+    number LovelyHarlequinIngaborg {
+    }
+  }
+  string DistinguishedApricotHaily {
+    _hidden_value = true
+  }
+  LiquidLimeElissa = "Why did the kid cross the playground? To get to the other slide."
+  SecondaryAquamarineTildi = "Did you know that protons have mass? I didn't even know they were catholic."
+  VagueHarlequinAngelia = "Dad Im hungry  Hi hungry Im dad"
+  ScaredAmberStephi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PhysicalGrayDolli = "Why did the tomato blush? Because it saw the salad dressing."
+  LovelyHarlequinIngaborg = 703
+  _hidden_value = true
+}

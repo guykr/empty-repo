@@ -1,0 +1,86 @@
+type dummy.OriginalCrimsonBilly {
+  annotations {
+    string TastelessIvoryLavinie {
+    }
+    number SkinnyGrayJacquelyn {
+    }
+    json StatutoryPinkJolene {
+    }
+    string AllegedBlueEvanne {
+    }
+    json EerieHarlequinMarcelle {
+    }
+    serviceid_number DomesticOliveAubrey {
+    }
+    boolean RegionalVioletGnni {
+    }
+    number FrightenedGoldAddi {
+    }
+    serviceid_number FlyingAmaranthAloisia {
+    }
+    hidden_boolean MoaningPlumMaggee {
+    }
+    string RearLavenderJilleen {
+    }
+    serviceid KeenBlueGabriela {
+    }
+    number AggressiveOrangeCacilie {
+    }
+    dummy.DelicateCoffeeJeanie SuspiciousGrayNollie {
+    }
+    hidden_boolean ShakyMaroonGwendolin {
+    }
+    boolean FascinatingChocolateLula {
+    }
+    string UsualJadeArliene {
+    }
+    serviceid CrudeLavenderKarolina {
+    }
+    serviceid_number AbleTanIlyssa {
+    }
+  }
+  TastelessIvoryLavinie = "What creature is smarter than a talking parrot? A spelling bee."
+  SkinnyGrayJacquelyn = 184
+  StatutoryPinkJolene = "What do you call two barracuda fish?  A Pairacuda!"
+  AllegedBlueEvanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EerieHarlequinMarcelle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DomesticOliveAubrey = 937
+  RegionalVioletGnni = true
+  FrightenedGoldAddi = 800
+  FlyingAmaranthAloisia = 883
+  RearLavenderJilleen = "I'll tell you what often gets over looked... garden fences."
+  KeenBlueGabriela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AggressiveOrangeCacilie = 646
+  FascinatingChocolateLula = true
+  UsualJadeArliene = "Dad Im hungry  Hi hungry Im dad"
+  CrudeLavenderKarolina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AbleTanIlyssa = 57
+  _self_important_values = [
+    {
+      value = "SkinnyGrayJacquelyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FlyingAmaranthAloisia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MoaningPlumMaggee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShakyMaroonGwendolin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DomesticOliveAubrey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "OriginalCrimsonBilly_alias"
+}

@@ -1,0 +1,53 @@
+type dummy.AwakeBronzeKayle is string {
+  annotations {
+    serviceid_number EvilTurquoiseMichaela {
+    }
+    string MisleadingGoldMadel {
+    }
+    json IntegralAquaLynna {
+    }
+    hidden_boolean EthnicYellowTeodora {
+    }
+    json MagnificentApricotOdele {
+    }
+    serviceid_number BackRedAlanna {
+    }
+    serviceid_number TameCrimsonLilah {
+    }
+    boolean MildCoffeeBarbaraanne {
+    }
+    serviceid_number BurningGoldMaudie {
+    }
+    serviceid ShockedCoralOlga {
+    }
+    string ResidentialMagentaJyoti {
+    }
+    serviceid TestyTomatoRosaleen {
+    }
+    hidden_boolean RacialGoldZonnya {
+    }
+    hidden_boolean MathematicalOrangePenni {
+    }
+    hidden_boolean InternationalBeigeMolli {
+    }
+    serviceid MassMagentaNeda {
+    }
+    hidden_boolean CarefulTomatoAngelica {
+    }
+    serviceid_number SickAmaranthCicely {
+    }
+  }
+  EvilTurquoiseMichaela = 822
+  MisleadingGoldMadel = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  IntegralAquaLynna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MagnificentApricotOdele = "Why was it called the dark ages? Because of all the knights. "
+  BackRedAlanna = 433
+  TameCrimsonLilah = 85
+  MildCoffeeBarbaraanne = false
+  BurningGoldMaudie = 109
+  ShockedCoralOlga = "Why was it called the dark ages? Because of all the knights. "
+  ResidentialMagentaJyoti = "I'll tell you what often gets over looked... garden fences."
+  TestyTomatoRosaleen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MassMagentaNeda = "To be Frank, I'd have to change my name."
+  SickAmaranthCicely = 591
+}

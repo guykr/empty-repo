@@ -1,0 +1,84 @@
+type dummy.DelicateCoffeeJeanie {
+  annotations {
+    number StaticOliveMelania {
+    }
+    serviceid_number TameCrimsonPatrice {
+    }
+    serviceid GloriousBlushZarah {
+    }
+    boolean ZygomorphicLavenderArlena {
+    }
+    string LiableLimeLaurette {
+    }
+    number MusicalBlueFlossie {
+    }
+    serviceid_number MeaningfulScarletLiliane {
+    }
+  }
+  json IndustrialGoldCaitlin {
+    _hidden_value = true
+  }
+  hidden_boolean FrequentTurquoiseBritt {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ShortRoseSosanna SunnyPurpleEmilee {
+    RomanticCopperMerrily = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  serviceid_number CutePeachTilda {
+    _hidden_value = true
+  }
+  serviceid CorporatePlumAriela {
+    _hidden_value = true
+  }
+  json SkinnyRedDomeniga {
+    _hidden_value = true
+  }
+  string VivaciousTealAlis {
+    _hidden_value = true
+  }
+  number GradualMoccasinPippa {
+    _hidden_value = true
+  }
+  json ScaredLavenderMahala {
+    _hidden_value = true
+  }
+  serviceid AllegedSapphireInger {
+    _hidden_value = true
+  }
+  hidden_boolean HissingTealSheelagh {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnchangedLavenderFaun {
+    _hidden_value = true
+  }
+  StaticOliveMelania = 402
+  TameCrimsonPatrice = 818
+  GloriousBlushZarah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ZygomorphicLavenderArlena = true
+  LiableLimeLaurette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MusicalBlueFlossie = 715
+  MeaningfulScarletLiliane = 278
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LiableLimeLaurette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StaticOliveMelania"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GloriousBlushZarah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

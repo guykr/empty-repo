@@ -1,0 +1,81 @@
+type dummy.NaturalTanLeonore {
+  annotations {
+    string CommercialPeachEvita {
+    }
+    dummy.SubsequentIndigoCelisse StaleBlushSarene {
+    }
+    json BeneficialCyanTheodora {
+    }
+    json SparklingMoccasinDarcy {
+    }
+    serviceid_number SupportingCoffeeMaxine {
+    }
+    dummy.ArtificialOrangeNita FlexibleTanElisabeth {
+    }
+    hidden_boolean ThirstyTanMicaela {
+    }
+    dummy.WideAzureMarisa BoilingScarletMargarethe {
+    }
+    serviceid_number SunnyLimeMozelle {
+    }
+    serviceid PreciousMaroonCarmita {
+    }
+    number EconomicCoralMalissa {
+    }
+    string HorribleMaroonMelissa {
+    }
+    number FormalBronzeBarb {
+    }
+    serviceid_number RivalSalmonDrusi {
+    }
+    json StupidWhiteEaster {
+    }
+    dummy.ConcernedCyanDanica CrucialCrimsonMarjie {
+    }
+    dummy.ArbitraryMoccasinTiffie DesperateIvoryAlina {
+    }
+    hidden_boolean TopBrownKeeley {
+    }
+  }
+  CommercialPeachEvita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BeneficialCyanTheodora = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SparklingMoccasinDarcy = "What do you call two barracuda fish?  A Pairacuda!"
+  SupportingCoffeeMaxine = 94
+  SunnyLimeMozelle = 781
+  PreciousMaroonCarmita = "Im only familiar with 25 letters in the English language. I dont know why."
+  EconomicCoralMalissa = 640
+  HorribleMaroonMelissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FormalBronzeBarb = 10
+  RivalSalmonDrusi = 287
+  StupidWhiteEaster = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _important_values = [
+    {
+      value = "JustGreenAlysia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CrucialCrimsonMarjie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RivalSalmonDrusi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BeneficialCyanTheodora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StaleBlushSarene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "NaturalTanLeonore_alias"
+}

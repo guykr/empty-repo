@@ -1,0 +1,64 @@
+type dummy.CompetitiveGrayCelka {
+  annotations {
+    serviceid_number ConcernedBrownDanell {
+    }
+    string WorryingCoffeeMirabelle {
+    }
+    hidden_boolean ClinicalPurpleMinny {
+    }
+    json CourageousAmethystDanita {
+    }
+    boolean PayableEmeraldLorain {
+    }
+    boolean PlannedIvoryCheslie {
+    }
+    dummy.DearHarlequinJemmy DisgustedVioletSherry {
+    }
+  }
+  dummy.RapidLavenderTerrie VoicelessAmberKeely {
+    InvisibleMagentaTabina = "What creature is smarter than a talking parrot? A spelling bee."
+    TinyScarletGratia = true
+    CausalMaroonElset = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    LeftCyanCarolin = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AppropriateCopperFidelity = false
+    HandsomeJadeMaitilde = "Why do birds fly south for the winter? Because it's too far to walk."
+    FrontCoffeeAlfie = true
+    PunyApricotKarna = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  hidden_boolean ProminentSalmonCorliss {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SpectacularYellowRhodie {
+    _hidden_value = true
+  }
+  number NakedAmethystMargaretha {
+    _hidden_value = true
+  }
+  number ExactIndigoBeverie {
+    _hidden_value = true
+  }
+  ConcernedBrownDanell = 607
+  WorryingCoffeeMirabelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CourageousAmethystDanita = "To be Frank, I'd have to change my name."
+  PayableEmeraldLorain = true
+  PlannedIvoryCheslie = false
+  DisgustedVioletSherry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PlannedIvoryCheslie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ClinicalPurpleMinny"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

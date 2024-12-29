@@ -1,0 +1,25 @@
+type dummy.FirmMaroonLulu {
+  annotations {
+    string ClassicBlueBridgette {
+    }
+    number ElaborateRoseGabie {
+    }
+    number InitialPinkRandee {
+    }
+    boolean TotalAquaAubrey {
+    }
+    hidden_boolean VaryingOliveKarlene {
+    }
+    dummy.AlrightTealArdelis ShrillAzureGinny {
+    }
+  }
+  json MonetaryGreenLindy {
+    _hidden_value = true
+  }
+  ClassicBlueBridgette = "Im only familiar with 25 letters in the English language. I dont know why."
+  ElaborateRoseGabie = 486
+  InitialPinkRandee = 284
+  TotalAquaAubrey = false
+  ShrillAzureGinny = true
+  _hidden_value = true
+}

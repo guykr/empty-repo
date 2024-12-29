@@ -1,0 +1,43 @@
+type dummy.ProvincialCoralSabrina is string {
+  annotations {
+    hidden_boolean EthnicBlueMag {
+    }
+    dummy.DEFAULT MammothHarlequinElaina {
+    }
+    serviceid_number DelicateYellowSonja {
+    }
+    dummy.DEFAULT MixedGoldNeille {
+    }
+    string PromisingChocolateDacia {
+    }
+    hidden_boolean BroadBlueLorraine {
+    }
+    json ParentalOliveChelsae {
+    }
+    boolean SocialHarlequinEmmy {
+    }
+    hidden_boolean ChubbyCrimsonKoo {
+    }
+    serviceid JollyTomatoFlorida {
+    }
+    boolean BadRoseMab {
+    }
+    dummy.DEFAULT GrandLavenderJoli {
+    }
+  }
+  MammothHarlequinElaina = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  DelicateYellowSonja = 401
+  MixedGoldNeille = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  PromisingChocolateDacia = "Why did the tomato blush? Because it saw the salad dressing."
+  ParentalOliveChelsae = "Why was it called the dark ages? Because of all the knights. "
+  SocialHarlequinEmmy = false
+  JollyTomatoFlorida = "Did you know that protons have mass? I didn't even know they were catholic."
+  BadRoseMab = true
+  GrandLavenderJoli = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+}

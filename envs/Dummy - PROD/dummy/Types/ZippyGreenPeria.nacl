@@ -1,0 +1,97 @@
+type dummy.ZippyGreenPeria {
+  annotations {
+    hidden_boolean AmusedLavenderAllison {
+    }
+    string SacredGreenDarsie {
+    }
+    serviceid_number ZanyPlumErinn {
+    }
+    serviceid ChubbyCoralBirdie {
+    }
+    serviceid GrimApricotLarisa {
+    }
+    string OccupationalTomatoKeeley {
+    }
+    number NosyPurpleJorey {
+    }
+  }
+  serviceid_number ArtisticOliveMalissa {
+    _hidden_value = true
+  }
+  serviceid DampMagentaDacie {
+    _hidden_value = true
+  }
+  json NervousMoccasinJuliette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SourYellowCleo {
+    _hidden_value = true
+  }
+  boolean ElectronicTanMillisent {
+    _hidden_value = true
+  }
+  string UniversalBronzeAurelie {
+    _hidden_value = true
+  }
+  string UrgentBrownMax {
+    _hidden_value = true
+  }
+  dummy.DearHarlequinJemmy CharacteristicBlushVelma {
+    AutomaticBlueValina = 870
+    ExcellentCoffeeJessy = "Why did the kid cross the playground? To get to the other slide."
+    WholeYellowCindra = false
+    UglyAquamarineGladi = "Why did the tomato blush? Because it saw the salad dressing."
+    LiquidBlackDorree = false
+    LivingIvoryGussi = 766
+    DigitalPinkJemie = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    MaximumCoffeeOthilie = false
+    SorryBlackRoby = false
+    IntactOliveEveline = false
+    JollyAmaranthLaurena = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnwillingSalmonJany {
+    _hidden_value = true
+  }
+  serviceid EmotionalLavenderMelly {
+    _hidden_value = true
+  }
+  SacredGreenDarsie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ZanyPlumErinn = 621
+  ChubbyCoralBirdie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GrimApricotLarisa = "Why did the kid cross the playground? To get to the other slide."
+  OccupationalTomatoKeeley = "Slept like a log last night  woke up in the fireplace."
+  NosyPurpleJorey = 5
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CharacteristicBlushVelma"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ElectronicTanMillisent"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NervousMoccasinJuliette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChubbyCoralBirdie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NosyPurpleJorey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

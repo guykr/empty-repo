@@ -1,0 +1,28 @@
+type dummy.NewCyanSophie {
+  annotations {
+    dummy.ExactEmeraldRicca ElatedBrownBreanne {
+    }
+    boolean AmusedBlueScarlett {
+    }
+    json MeanTurquoiseTabbatha {
+    }
+    serviceid CircularOliveCeline {
+    }
+    json EnvironmentalScarletMelisent {
+    }
+    string PhilosophicalChocolateCyndie {
+    }
+  }
+  hidden_boolean ConvenientPlumAaren {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ElatedBrownBreanne = "What creature is smarter than a talking parrot? A spelling bee."
+  AmusedBlueScarlett = false
+  MeanTurquoiseTabbatha = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CircularOliveCeline = "Why was it called the dark ages? Because of all the knights. "
+  EnvironmentalScarletMelisent = "Did you know that protons have mass? I didn't even know they were catholic."
+  PhilosophicalChocolateCyndie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

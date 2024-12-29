@@ -1,0 +1,132 @@
+type dummy.VitreousApricotDevonna {
+  annotations {
+    dummy.DEFAULT ConstitutionalGoldCaye {
+    }
+    serviceid_number ComfortableAzureTuesday {
+    }
+    serviceid_number UsefulCopperElsi {
+    }
+    json FineRedDyann {
+    }
+    boolean CostlyJadeLebbie {
+    }
+  }
+  serviceid ThenAmethystClo {
+    _hidden_value = true
+  }
+  boolean ProminentLimeHildegaard {
+    _hidden_value = true
+  }
+  string LivelyAquamarineTerrie {
+    _hidden_value = true
+  }
+  hidden_boolean AlertChocolateBellina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string UnconsciousBlackGerhardine {
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalLimeSalome {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string VictoriousCrimsonChad {
+    _hidden_value = true
+  }
+  boolean CognitiveGoldBrena {
+    _hidden_value = true
+  }
+  json ProtectiveTealAnnadiane {
+    _hidden_value = true
+  }
+  hidden_boolean VastGreenIlla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DomesticAmethystSandy {
+    _hidden_value = true
+  }
+  json OuterLimeRochelle {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" TameAmaranthPatrica {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CloudyFuchsiaNessie {
+    _hidden_value = true
+  }
+  serviceid_number ShakyPeachRochette {
+    _hidden_value = true
+  }
+  serviceid_number RepulsiveRoseOthilie {
+    _hidden_value = true
+  }
+  json ImmediateOrangeCollete {
+    _hidden_value = true
+  }
+  boolean FunIvoryKakalina {
+    _hidden_value = true
+  }
+  serviceid AnonymousMagentaMeris {
+    _hidden_value = true
+  }
+  hidden_boolean GuiltyMagentaKonstance {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CoastalLimeQuentin {
+    _hidden_value = true
+  }
+  ConstitutionalGoldCaye = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  ComfortableAzureTuesday = 754
+  UsefulCopperElsi = 303
+  FineRedDyann = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CostlyJadeLebbie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LivelyAquamarineTerrie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AlertChocolateBellina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TameAmaranthPatrica"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShakyPeachRochette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ImmediateOrangeCollete"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConventionalLimeSalome"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CognitiveGoldBrena"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,29 @@
+type dummy.ImportantTealKatey {
+  annotations {
+    string DirectPinkAdriena {
+    }
+    number NutritiousBeigeTasha {
+    }
+    hidden_boolean YuckyBlackImogene {
+    }
+    boolean GrimTealBlinny {
+    }
+    number FarRoseMignon {
+    }
+  }
+  json MelodicVioletBenedicta {
+    _hidden_value = true
+  }
+  DirectPinkAdriena = "Why did the kid cross the playground? To get to the other slide."
+  NutritiousBeigeTasha = 112
+  GrimTealBlinny = false
+  FarRoseMignon = 984
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GrimTealBlinny"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

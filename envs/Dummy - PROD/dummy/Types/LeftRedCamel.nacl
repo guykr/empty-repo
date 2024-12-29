@@ -1,0 +1,166 @@
+type dummy.LeftRedCamel {
+  annotations {
+    number TragicLimeIzabel {
+    }
+    json RobustBlackShelley {
+    }
+    json NavalIvoryJaynell {
+    }
+    boolean PureVioletMaurene {
+    }
+  }
+  number ConservationSapphireCharmane {
+    _hidden_value = true
+  }
+  json PermanentBlueCrista {
+    _hidden_value = true
+  }
+  boolean LinearIndigoCelle {
+    _hidden_value = true
+  }
+  serviceid_number GracefulOrangeFanni {
+    _hidden_value = true
+  }
+  string WellGreenVallie {
+    _hidden_value = true
+  }
+  number AnxiousApricotArline {
+    _hidden_value = true
+  }
+  json LightBlushKari {
+    _hidden_value = true
+  }
+  serviceid_number EverydayBlueAlysia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LargeRoseBuffy {
+    _hidden_value = true
+  }
+  string WeakBlueLise {
+    _hidden_value = true
+  }
+  hidden_boolean ProvincialPurpleMurielle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MainGrayRozella {
+    _hidden_value = true
+  }
+  serviceid RepulsiveWhiteLiv {
+    _hidden_value = true
+  }
+  string VulnerablePurpleAgneta {
+    _hidden_value = true
+  }
+  hidden_boolean FixedMaroonKath {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SelectLimeMariette {
+    _hidden_value = true
+  }
+  "List<boolean>" ProposedLimeTrula {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrucialHarlequinDemeter {
+    _hidden_value = true
+  }
+  serviceid_number AwakeBlushDiane {
+    _hidden_value = true
+  }
+  hidden_boolean SlowCyanReggi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FederalCopperPhyllys {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ExcitedFuchsiaShane {
+    _hidden_value = true
+  }
+  serviceid_number UselessLavenderMarlee {
+    _hidden_value = true
+  }
+  boolean AlrightAquaMitzi {
+    _hidden_value = true
+  }
+  hidden_boolean YabberingGreenShae {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MereJadeJana {
+    _hidden_value = true
+  }
+  string HarshCopperFlorry {
+    _hidden_value = true
+  }
+  number ProspectiveOrangeDode {
+    _hidden_value = true
+  }
+  serviceid_number ProperPurpleCesya {
+    _hidden_value = true
+  }
+  serviceid BreezyAquaAdrienne {
+    _hidden_value = true
+  }
+  TragicLimeIzabel = 612
+  RobustBlackShelley = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NavalIvoryJaynell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PureVioletMaurene = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConservationSapphireCharmane"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UselessLavenderMarlee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExcitedFuchsiaShane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MainGrayRozella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProposedLimeTrula"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AwakeBlushDiane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SelectLimeMariette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CrucialHarlequinDemeter"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TragicLimeIzabel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

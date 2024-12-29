@@ -1,0 +1,112 @@
+type dummy.ClassicalAzureSher {
+  annotations {
+    number RubberTealLyndsey {
+    }
+    serviceid_number SuddenCoffeeBelle {
+    }
+    serviceid_number UncertainAzureHelge {
+    }
+    boolean RubberMagentaSam {
+    }
+    number MonthlyCyanVickie {
+    }
+    number StaticAmethystMeg {
+    }
+  }
+  number WiseBeigeLaina {
+    _hidden_value = true
+  }
+  number SeniorVioletIsabella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrectBrownKristin {
+    _hidden_value = true
+  }
+  boolean SoftGreenGilberta {
+    _hidden_value = true
+  }
+  boolean SpecialBrownElvina {
+    _hidden_value = true
+  }
+  serviceid_number RedundantRedMin {
+    _hidden_value = true
+  }
+  serviceid RearAmaranthBenedicta {
+    _hidden_value = true
+  }
+  serviceid_number CulturalBronzeIona {
+    _hidden_value = true
+  }
+  serviceid InnocentOliveXaviera {
+    _hidden_value = true
+  }
+  boolean QuaintCoffeeMira {
+    _hidden_value = true
+  }
+  string LegislativeSalmonTallulah {
+    _hidden_value = true
+  }
+  string FierceRedMil {
+    _hidden_value = true
+  }
+  serviceid_number VagueRoseCorissa {
+    _hidden_value = true
+  }
+  string YabberingFuchsiaRenie {
+    _hidden_value = true
+  }
+  serviceid UsedCoffeeCarlotta {
+    _hidden_value = true
+  }
+  string CrowdedGoldJermaine {
+    _hidden_value = true
+  }
+  boolean AppallingCopperCarie {
+    _hidden_value = true
+  }
+  number MilitaryVioletMelodie {
+    _hidden_value = true
+  }
+  boolean SupremeCopperMyrna {
+    _hidden_value = true
+  }
+  string MolecularLimeSascha {
+    _hidden_value = true
+  }
+  RubberTealLyndsey = 322
+  SuddenCoffeeBelle = 836
+  UncertainAzureHelge = 458
+  RubberMagentaSam = true
+  MonthlyCyanVickie = 966
+  StaticAmethystMeg = 290
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CorrectBrownKristin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SeniorVioletIsabella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SoftGreenGilberta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SupremeCopperMyrna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MonthlyCyanVickie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

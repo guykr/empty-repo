@@ -1,0 +1,24 @@
+dummy.VerbalPlumTammara DearVioletWalliw {
+  UpsetBeigeBernadine = '''
+Chances are if you' ve seen one shopping center, you've seen a mall.
+Why do birds fly south for the winter? Because it's too far to walk.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+'''
+  ConstantTomatoDeborah = true
+  EarlyTanRebekkah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProtestantChocolateDoralin = "Im only familiar with 25 letters in the English language. I dont know why."
+  ArmedLavenderRobbi = true
+  ComprehensiveScarletKaree = 238
+  NumerousPinkDella = "How come the stadium got hot after the game? Because all of the fans left."
+  DelicateGrayKonstance = true
+  SlightCoffeeBee = 791
+  MeaningfulCoffeeJacquette = "Why was it called the dark ages? Because of all the knights. "
+  MinimalFuchsiaHarriott = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OpenCopperLila = 794
+  WanderingFuchsiaAnstice = "I'll tell you what often gets over looked... garden fences."
+  UrgentRoseJunette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SteadyAmaranthOlympe = 934
+  SpareBlackMaxi = true
+  _parent = dummy.HissingRoseMirella
+  _alias = "DearVioletWalliw_alias"
+}

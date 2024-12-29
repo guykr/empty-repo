@@ -1,0 +1,39 @@
+type dummy.AestheticVioletNessie {
+  annotations {
+    serviceid TightJadeJudy {
+    }
+    serviceid_number AllegedMaroonMadelin {
+    }
+    boolean VisualAmberHermia {
+    }
+    number MutualGoldDaphna {
+    }
+    serviceid MagicLimeMireielle {
+    }
+  }
+  serviceid ScaredRedJeannine {
+    _hidden_value = true
+  }
+  string SymbolicGrayGlennis {
+    _hidden_value = true
+  }
+  string ColourfulHarlequinVinita {
+    _hidden_value = true
+  }
+  number AbsoluteBronzeCloris {
+    _hidden_value = true
+  }
+  TightJadeJudy = "Slept like a log last night  woke up in the fireplace."
+  AllegedMaroonMadelin = 888
+  VisualAmberHermia = false
+  MutualGoldDaphna = 345
+  MagicLimeMireielle = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MutualGoldDaphna"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

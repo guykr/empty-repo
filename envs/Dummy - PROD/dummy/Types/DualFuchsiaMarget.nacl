@@ -1,0 +1,44 @@
+type dummy.DualFuchsiaMarget is boolean {
+  annotations {
+    string IllScarletMagdaia {
+    }
+    string BeneficialMaroonRuthy {
+    }
+    dummy.DEFAULT CapitalistBrownLexis {
+    }
+    json ZygomorphicRedKarry {
+    }
+    json GrowingAmaranthTamar {
+    }
+    json AshamedApricotAshli {
+    }
+    serviceid_number HonGreenUrsa {
+    }
+    hidden_boolean LostChocolateMyrna {
+    }
+    string VisitingCoralRochette {
+    }
+    serviceid GothicScarletEvita {
+    }
+    number UnusualCoffeeBobbie {
+    }
+    number SouthernEmeraldErinn {
+    }
+    json ElectricBlushAmalie {
+    }
+  }
+  IllScarletMagdaia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BeneficialMaroonRuthy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CapitalistBrownLexis = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ZygomorphicRedKarry = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GrowingAmaranthTamar = "I'll tell you what often gets over looked... garden fences."
+  AshamedApricotAshli = "Dad Im hungry  Hi hungry Im dad"
+  HonGreenUrsa = 529
+  VisitingCoralRochette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GothicScarletEvita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnusualCoffeeBobbie = 423
+  SouthernEmeraldErinn = 468
+  ElectricBlushAmalie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

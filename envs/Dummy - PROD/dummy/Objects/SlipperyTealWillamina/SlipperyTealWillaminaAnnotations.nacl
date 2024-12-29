@@ -1,0 +1,78 @@
+type dummy.SlipperyTealWillamina {
+  annotations {
+    number DistinguishedGrayIna {
+    }
+    boolean GreatVioletLulita {
+    }
+    boolean RealHarlequinCharlene {
+    }
+    string LovelyLavenderMyriam {
+    }
+    serviceid_number InadequateOrangeOona {
+    }
+    json MiddleOlivePaula {
+    }
+    dummy.SurprisingWhiteHarrietta ShiveringCoffeeCheslie {
+    }
+    boolean JoyousPeachElinor {
+    }
+    number ParticularIvoryLeigh {
+    }
+    serviceid_number LazyPeachMavis {
+    }
+    number SteepAquamarineJustinn {
+    }
+    number SharedBeigePerrine {
+    }
+    serviceid_number JealousAmethystRoseann {
+    }
+    json UnawareAzureSula {
+    }
+    serviceid_number SlowAzureMina {
+    }
+    number AssociatedCoralRiki {
+    }
+    json YellingAmberNessie {
+    }
+  }
+  DistinguishedGrayIna = 532
+  GreatVioletLulita = false
+  RealHarlequinCharlene = true
+  LovelyLavenderMyriam = "What creature is smarter than a talking parrot? A spelling bee."
+  InadequateOrangeOona = 345
+  MiddleOlivePaula = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ShiveringCoffeeCheslie = true
+  JoyousPeachElinor = false
+  ParticularIvoryLeigh = 479
+  LazyPeachMavis = 438
+  SteepAquamarineJustinn = 453
+  SharedBeigePerrine = 360
+  JealousAmethystRoseann = 740
+  UnawareAzureSula = "Why did the kid cross the playground? To get to the other slide."
+  SlowAzureMina = 707
+  AssociatedCoralRiki = 482
+  YellingAmberNessie = "Why do birds fly south for the winter? Because it's too far to walk."
+  _self_important_values = [
+    {
+      value = "SlowAzureMina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SteepAquamarineJustinn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AssociatedCoralRiki"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LovelyLavenderMyriam"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "SlipperyTealWillamina_alias"
+}

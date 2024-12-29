@@ -1,0 +1,7 @@
+type dummy.HissingRoseMirella {
+  hidden_boolean InclinedCoralJennifer {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+}

@@ -1,0 +1,68 @@
+type dummy.NastyGrayAmitie {
+  annotations {
+    number OptimisticTanElayne {
+    }
+    string TartWhitePatience {
+    }
+    boolean OutstandingHarlequinBeatrix {
+    }
+    number MeltedSilverHarrie {
+    }
+    hidden_boolean LabourVioletBert {
+    }
+    json SeriousLavenderLarina {
+    }
+    string HiddenApricotDennie {
+    }
+  }
+  serviceid OverwhelmingMagentaHally {
+    _hidden_value = true
+  }
+  json MinorWhiteHilde {
+    _hidden_value = true
+  }
+  string FatalAmberReba {
+    _hidden_value = true
+  }
+  boolean YummyPlumKarolina {
+    _hidden_value = true
+  }
+  string OutsideBlueTabitha {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessAmaranthKatherine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ZestfulGoldChristine {
+    _hidden_value = true
+  }
+  string TroubledGrayCarri {
+    _hidden_value = true
+  }
+  OptimisticTanElayne = 231
+  TartWhitePatience = "A steak pun is a rare medium well done."
+  OutstandingHarlequinBeatrix = true
+  MeltedSilverHarrie = 925
+  SeriousLavenderLarina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HiddenApricotDennie = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExcessAmaranthKatherine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MinorWhiteHilde"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FatalAmberReba"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

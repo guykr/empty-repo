@@ -1,0 +1,81 @@
+type dummy.VerbalPlumTammara {
+  annotations {
+    serviceid EstablishedBeigeAlfy {
+    }
+    json ColorfulCrimsonAmi {
+    }
+    boolean SeparateMoccasinElie {
+    }
+    boolean UnwillingAquaChristiane {
+    }
+    hidden_boolean EffectiveTomatoFlorenza {
+    }
+    string DistinctBlackElnore {
+    }
+    hidden_boolean ArmedScarletShannen {
+    }
+    number HandsomeAquaJoeann {
+    }
+    serviceid_number LevelHarlequinSaree {
+    }
+    json DelightedCrimsonLatashia {
+    }
+    serviceid_number WrongTealErmina {
+    }
+    boolean NeatPinkBrandie {
+    }
+    json RaspySapphireAnge {
+    }
+    hidden_boolean CombativeCoffeeMarja {
+    }
+    number WorriedEmeraldShanie {
+    }
+    hidden_boolean SubstantialApricotJohannah {
+    }
+    hidden_boolean JointJadeMarguerite {
+    }
+    string CarefulBlackKendre {
+    }
+    serviceid_number SurprisingPlumLizabeth {
+    }
+    serviceid DeterminedSapphireMyriam {
+    }
+    hidden_boolean CoastalGreenEvanne {
+    }
+  }
+  EstablishedBeigeAlfy = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ColorfulCrimsonAmi = "Slept like a log last night  woke up in the fireplace."
+  SeparateMoccasinElie = true
+  UnwillingAquaChristiane = true
+  DistinctBlackElnore = "What creature is smarter than a talking parrot? A spelling bee."
+  HandsomeAquaJoeann = 66
+  LevelHarlequinSaree = 678
+  DelightedCrimsonLatashia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WrongTealErmina = 970
+  NeatPinkBrandie = true
+  RaspySapphireAnge = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  WorriedEmeraldShanie = 233
+  CarefulBlackKendre = "What do you call two barracuda fish?  A Pairacuda!"
+  SurprisingPlumLizabeth = 733
+  DeterminedSapphireMyriam = "Why do birds fly south for the winter? Because it's too far to walk."
+  _important_values = [
+    {
+      value = "ProtestantChocolateDoralin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UrgentRoseJunette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WorriedEmeraldShanie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "VerbalPlumTammara_alias"
+}

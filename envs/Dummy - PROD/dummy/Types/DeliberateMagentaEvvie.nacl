@@ -1,0 +1,28 @@
+type dummy.DeliberateMagentaEvvie {
+  annotations {
+    string DiplomaticOrangeMyrtie {
+    }
+    serviceid GenerousRedFlo {
+    }
+    number KeenApricotVevay {
+    }
+    boolean UglyBrownIsabella {
+    }
+    json RegionalBlueCamel {
+    }
+    json UnfortunatePlumArleta {
+    }
+    hidden_boolean EvolutionaryTomatoAllison {
+    }
+  }
+  serviceid_number NearJadeSofia {
+    _hidden_value = true
+  }
+  DiplomaticOrangeMyrtie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GenerousRedFlo = "What did one nut say as he chased another nut?  I'm a cashew!"
+  KeenApricotVevay = 708
+  UglyBrownIsabella = true
+  RegionalBlueCamel = "What do you call two barracuda fish?  A Pairacuda!"
+  UnfortunatePlumArleta = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

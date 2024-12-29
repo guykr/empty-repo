@@ -1,0 +1,29 @@
+type dummy.EqualTurquoiseCorey {
+  annotations {
+    json ToughTomatoIsobel {
+    }
+    json PermanentCoralTrixie {
+    }
+    json InstitutionalRoseRenell {
+    }
+    number EmotionalMagentaFelicle {
+    }
+  }
+  hidden_boolean LikelyCoffeeJoni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ToughTomatoIsobel = "Why did the tomato blush? Because it saw the salad dressing."
+  PermanentCoralTrixie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InstitutionalRoseRenell = "Why did the kid cross the playground? To get to the other slide."
+  EmotionalMagentaFelicle = 509
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PermanentCoralTrixie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

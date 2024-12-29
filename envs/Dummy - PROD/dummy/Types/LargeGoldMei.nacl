@@ -1,0 +1,24 @@
+type dummy.LargeGoldMei is number {
+  annotations {
+    serviceid ImmenseCoffeeAmata {
+    }
+    boolean PublicBlueYalonda {
+    }
+    serviceid BindingSilverAngeline {
+    }
+    hidden_boolean PriorPlumTessy {
+    }
+    boolean UnpleasantBlackNoreen {
+    }
+    serviceid_number VictoriousPurpleCarmita {
+    }
+    boolean SpatialGrayFifine {
+    }
+  }
+  ImmenseCoffeeAmata = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PublicBlueYalonda = true
+  BindingSilverAngeline = "Why do birds fly south for the winter? Because it's too far to walk."
+  UnpleasantBlackNoreen = false
+  VictoriousPurpleCarmita = 330
+  SpatialGrayFifine = true
+}

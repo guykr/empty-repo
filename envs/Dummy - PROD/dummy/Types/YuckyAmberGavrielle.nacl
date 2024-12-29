@@ -1,0 +1,42 @@
+type dummy.YuckyAmberGavrielle {
+  annotations {
+    dummy.DEFAULT InnocentTomatoHelli {
+    }
+    hidden_boolean VagueTanBarbaraanne {
+    }
+    serviceid ReluctantSalmonDrusi {
+    }
+    string AngryIvoryAmy {
+    }
+    json SteadyBlueKarlotta {
+    }
+    boolean PricklyLavenderWalliw {
+    }
+    json WetPinkCiel {
+    }
+  }
+  json UncomfortableJadeDaisi {
+    _hidden_value = true
+  }
+  InnocentTomatoHelli = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  ReluctantSalmonDrusi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AngryIvoryAmy = "Im only familiar with 25 letters in the English language. I dont know why."
+  SteadyBlueKarlotta = "Why was it called the dark ages? Because of all the knights. "
+  PricklyLavenderWalliw = false
+  WetPinkCiel = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ReluctantSalmonDrusi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WetPinkCiel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

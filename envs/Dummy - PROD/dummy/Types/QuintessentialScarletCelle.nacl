@@ -1,0 +1,55 @@
+type dummy.QuintessentialScarletCelle {
+  annotations {
+    serviceid EmpiricalSapphireSam {
+    }
+    number LogicalBeigeTomasina {
+    }
+    json SacredGreenMicky {
+    }
+    json OccupationalBeigeTamera {
+    }
+    number FunctionalBlushMerla {
+    }
+  }
+  boolean FellowGreenFrancene {
+    _hidden_value = true
+  }
+  dummy.IntimateGreenSusie YoungestSalmonCharlotta {
+    MoralRedDixie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ManualCoralKelila = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    QualifiedPeachDaisey = 737
+    TameTanSherill = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  boolean GracefulPurpleChristi {
+    _hidden_value = true
+  }
+  string FunctionalPinkDarline {
+    _hidden_value = true
+  }
+  EmpiricalSapphireSam = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LogicalBeigeTomasina = 545
+  SacredGreenMicky = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OccupationalBeigeTamera = "Dad Im hungry  Hi hungry Im dad"
+  FunctionalBlushMerla = 771
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FunctionalPinkDarline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FellowGreenFrancene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LogicalBeigeTomasina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

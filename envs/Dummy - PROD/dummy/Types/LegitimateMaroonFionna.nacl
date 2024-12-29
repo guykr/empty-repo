@@ -1,0 +1,97 @@
+type dummy.LegitimateMaroonFionna {
+  annotations {
+    string OrdinaryIvoryMaggee {
+    }
+    json RawHarlequinAllyn {
+    }
+    number SilkySapphireAshlen {
+    }
+    json FullCrimsonMarnia {
+    }
+    hidden_boolean StormyOrangeMarylinda {
+    }
+    dummy.SourBlueDayna RemainingMoccasinRoseanne {
+    }
+  }
+  json KindVioletGratia {
+    _hidden_value = true
+  }
+  boolean RaspyBlushNatala {
+    _hidden_value = true
+  }
+  hidden_boolean VagueRoseRhiamon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.StraightforwardYellowCaria StripedOrangeElisabeth {
+    MarvellousAmaranthGoldia = "A steak pun is a rare medium well done."
+    GlamorousCyanStafani = "Whoever invented the knock-knock joke should get a no bell prize."
+    MinimumApricotLissy = "How come the stadium got hot after the game? Because all of the fans left."
+    TeenageGreenRania = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GreasyTomatoCassi = "What do you call two barracuda fish?  A Pairacuda!"
+    TinyCoralBobbie = 397
+    DangerousFuchsiaCrin = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  serviceid_number AutonomousScarletLilyan {
+    _hidden_value = true
+  }
+  serviceid_number IndependentGrayShena {
+    _hidden_value = true
+  }
+  json SubstantialTealTeirtza {
+    _hidden_value = true
+  }
+  dummy.AlrightTealArdelis ChristianCrimsonImogene {
+    SupremePeachGeorgiana = "How come the stadium got hot after the game? Because all of the fans left."
+    UnfairAquamarineBeryle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FlatCopperCharmian = "What do you call two barracuda fish?  A Pairacuda!"
+    EnormousAmberAllyce = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FreshAmethystDorene = 556
+    CleverCopperDaryn = 259
+    PanickyMagentaIbbie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DrabAzureEdee = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    WilfulCyanSophey = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ConservativeWhiteAngie = "Why didnt the skeleton cross the road? Because he had no guts."
+    ProgressivePlumMarya = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  json ConcernedVioletIsabel {
+    _hidden_value = true
+  }
+  serviceid_number DarkCoralDyane {
+    _hidden_value = true
+  }
+  number VividPinkHyacinthie {
+    _hidden_value = true
+  }
+  json BraveCopperAlanah {
+    _hidden_value = true
+  }
+  number WhisperingRedViole {
+    _hidden_value = true
+  }
+  OrdinaryIvoryMaggee = "Did you know that protons have mass? I didn't even know they were catholic."
+  RawHarlequinAllyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SilkySapphireAshlen = 643
+  FullCrimsonMarnia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RemainingMoccasinRoseanne = 433
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VagueRoseRhiamon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FullCrimsonMarnia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

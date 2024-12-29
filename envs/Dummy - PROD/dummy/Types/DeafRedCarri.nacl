@@ -1,0 +1,94 @@
+type dummy.DeafRedCarri {
+  annotations {
+    serviceid BitterHarlequinDeena {
+    }
+    string AdvancedAzureMalanie {
+    }
+    hidden_boolean CautiousAquaLorene {
+    }
+    number SelectedVioletChristen {
+    }
+  }
+  string VivaciousAmethystGenevra {
+    _hidden_value = true
+  }
+  serviceid UnfortunateTomatoMalena {
+    _hidden_value = true
+  }
+  serviceid EconomicBlackHeath {
+    _hidden_value = true
+  }
+  string SpottyIvoryMoselle {
+    _hidden_value = true
+  }
+  json TenseSalmonSherri {
+    _hidden_value = true
+  }
+  number ScaryCopperAngeline {
+    _hidden_value = true
+  }
+  hidden_boolean MereCoralNikaniki {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ReasonableBlueRosella {
+    _hidden_value = true
+  }
+  "List<boolean>" VividCoffeeYnez {
+    _hidden_value = true
+  }
+  serviceid MedicalAmethystArleta {
+    _hidden_value = true
+  }
+  json LiteraryCyanJanna {
+    _hidden_value = true
+  }
+  json AdditionalAmethystIngaberg {
+    _hidden_value = true
+  }
+  json GrumpyTanVanni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SurvivingAmethystYvette {
+    _hidden_value = true
+  }
+  string PrintedPlumCiel {
+    _hidden_value = true
+  }
+  hidden_boolean WillingVioletFawne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number WilyRoseRasla {
+    _hidden_value = true
+  }
+  number ProfoundAmethystJobina {
+    _hidden_value = true
+  }
+  number DueGoldRenell {
+    _hidden_value = true
+  }
+  BitterHarlequinDeena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AdvancedAzureMalanie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SelectedVioletChristen = 203
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MedicalAmethystArleta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PrintedPlumCiel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnfortunateTomatoMalena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

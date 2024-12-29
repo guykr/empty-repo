@@ -1,0 +1,48 @@
+type dummy.HuskyHarlequinNessie {
+  annotations {
+    dummy.ImperialAzureNetti TartVioletJacinthe {
+    }
+    number QuickBeigeOlympie {
+    }
+    serviceid_number OriginalWhiteLee {
+    }
+    dummy.DEFAULT ImportantTomatoInger {
+    }
+    serviceid_number WorryingGoldJuanita {
+    }
+    serviceid_number ShinyPeachFelicdad {
+    }
+    json UnfortunatePurpleGennifer {
+    }
+  }
+  serviceid DutchBeigeNalani {
+    _hidden_value = true
+  }
+  TartVioletJacinthe = false
+  QuickBeigeOlympie = 595
+  OriginalWhiteLee = 760
+  ImportantTomatoInger = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  WorryingGoldJuanita = 630
+  ShinyPeachFelicdad = 681
+  UnfortunatePurpleGennifer = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TartVioletJacinthe"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "QuickBeigeOlympie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnfortunatePurpleGennifer"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

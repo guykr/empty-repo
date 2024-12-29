@@ -1,0 +1,12 @@
+type dummy.HomelessHarlequinValaria is string {
+  annotations {
+    string MainBlueAubree {
+    }
+    json IllOrangeVyky {
+    }
+    hidden_boolean UnfairBlackClaudie {
+    }
+  }
+  MainBlueAubree = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IllOrangeVyky = "Im only familiar with 25 letters in the English language. I dont know why."
+}

@@ -1,0 +1,70 @@
+type dummy.StaleWhiteMarcella {
+  annotations {
+    json IntegralAzureDanny {
+    }
+    boolean RenewedMaroonOnida {
+    }
+    string TerritorialLimeBee {
+    }
+  }
+  number InnovativeMagentaRochette {
+    _hidden_value = true
+  }
+  serviceid_number QuickestFuchsiaNikki {
+    _hidden_value = true
+  }
+  serviceid PermanentMaroonLida {
+    _hidden_value = true
+  }
+  serviceid_number UniformBlushGilda {
+    _hidden_value = true
+  }
+  serviceid BlindOliveSabra {
+    _hidden_value = true
+  }
+  json RareYellowGusella {
+    _hidden_value = true
+  }
+  dummy.IntimateGreenSusie ComparableSalmonTrudey {
+    MoralRedDixie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ManualCoralKelila = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    QualifiedPeachDaisey = 655
+    TameTanSherill = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  dummy.HorizontalCrimsonGypsy FairBlueGlynnis {
+    EvilCoffeeMarilee = 185
+    InclinedCopperNorean = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WorriedFuchsiaRosene = "Why was it called the dark ages? Because of all the knights. "
+    CleverBronzeCoreen = true
+    DrabAquaJazmin = 285
+    SoftPlumBrittni = true
+    UnconsciousBrownIdelle = true
+    _hidden_value = true
+  }
+  number WearyTurquoiseDaron {
+    _hidden_value = true
+  }
+  boolean NosyVioletBlair {
+    _hidden_value = true
+  }
+  boolean ImaginativeRoseSusana {
+    _hidden_value = true
+  }
+  IntegralAzureDanny = "Why do birds fly south for the winter? Because it's too far to walk."
+  RenewedMaroonOnida = true
+  TerritorialLimeBee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NosyVioletBlair"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WearyTurquoiseDaron"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

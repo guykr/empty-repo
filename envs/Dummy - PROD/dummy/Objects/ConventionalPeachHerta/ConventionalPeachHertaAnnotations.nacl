@@ -1,0 +1,93 @@
+type dummy.ConventionalPeachHerta {
+  annotations {
+    number WetBlackEmmalynn {
+    }
+    number UniversalTealBrande {
+    }
+    number ValidCrimsonElane {
+    }
+    number CooperativeFuchsiaPetunia {
+    }
+    string AncientAmethystMae {
+    }
+    json InnovativeBlushReba {
+    }
+    number OkChocolateChloe {
+    }
+    serviceid_number KeenBlackAmalia {
+    }
+    serviceid_number InstitutionalApricotNeala {
+    }
+    number WitteringPeachKatharina {
+    }
+    hidden_boolean CuriousFuchsiaCosetta {
+    }
+    serviceid_number FarRoseBernetta {
+    }
+    serviceid_number SurePinkUrsuline {
+    }
+    string GeneralCrimsonEvie {
+    }
+    dummy.PlannedBlueLotti BrilliantPlumJosefina {
+    }
+    json YouthfulHarlequinRalina {
+    }
+    hidden_boolean AppallingBronzeSidoney {
+    }
+  }
+  WetBlackEmmalynn = 35
+  UniversalTealBrande = 102
+  ValidCrimsonElane = 206
+  CooperativeFuchsiaPetunia = 315
+  AncientAmethystMae = "Dad Im hungry  Hi hungry Im dad"
+  InnovativeBlushReba = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OkChocolateChloe = 103
+  KeenBlackAmalia = 881
+  InstitutionalApricotNeala = 328
+  WitteringPeachKatharina = 378
+  FarRoseBernetta = 820
+  SurePinkUrsuline = 869
+  GeneralCrimsonEvie = "How come the stadium got hot after the game? Because all of the fans left."
+  BrilliantPlumJosefina = false
+  YouthfulHarlequinRalina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _important_values = [
+    {
+      value = "CrowdedGreenSiouxie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VisibleApricotKasey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PromisingSilverLizbeth"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AnnualLavenderCarissa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YouthfulHarlequinRalina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AncientAmethystMae"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CooperativeFuchsiaPetunia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ConventionalPeachHerta_alias"
+}

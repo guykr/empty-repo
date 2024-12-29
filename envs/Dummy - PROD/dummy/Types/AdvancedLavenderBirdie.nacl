@@ -1,0 +1,38 @@
+type dummy.AdvancedLavenderBirdie {
+  annotations {
+    serviceid_number OfficialCyanMarybeth {
+    }
+    number PlasticSilverLynn {
+    }
+    boolean GleamingJadeAllina {
+    }
+    serviceid CooingOrangeMuriel {
+    }
+    number AliveCoffeeCarley {
+    }
+    dummy.ContinuedAmberMerci NoisyPlumMarijo {
+    }
+  }
+  number ElderlyIvoryEleonora {
+    _hidden_value = true
+  }
+  OfficialCyanMarybeth = 763
+  PlasticSilverLynn = 313
+  GleamingJadeAllina = false
+  CooingOrangeMuriel = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AliveCoffeeCarley = 69
+  NoisyPlumMarijo = 255
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OfficialCyanMarybeth"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GleamingJadeAllina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

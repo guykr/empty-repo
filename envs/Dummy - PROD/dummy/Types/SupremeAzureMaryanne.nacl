@@ -1,0 +1,43 @@
+type dummy.SupremeAzureMaryanne {
+  annotations {
+    serviceid InherentSalmonEmilia {
+    }
+    json LovelyBlushRebe {
+    }
+    number ConsciousSapphireAgneta {
+    }
+    dummy.IntimateGreenSusie RunningAzureKerrin {
+    }
+    serviceid_number ConfidentialMoccasinKarin {
+    }
+    string GleamingPlumAmalita {
+    }
+  }
+  number HumanCrimsonFaustine {
+    _hidden_value = true
+  }
+  InherentSalmonEmilia = "How come the stadium got hot after the game? Because all of the fans left."
+  LovelyBlushRebe = "I'll tell you what often gets over looked... garden fences."
+  ConsciousSapphireAgneta = 836
+  RunningAzureKerrin = 413
+  ConfidentialMoccasinKarin = 793
+  GleamingPlumAmalita = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConsciousSapphireAgneta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GleamingPlumAmalita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InherentSalmonEmilia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

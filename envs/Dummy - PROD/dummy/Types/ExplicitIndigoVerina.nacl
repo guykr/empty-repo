@@ -1,0 +1,59 @@
+type dummy.ExplicitIndigoVerina {
+  annotations {
+    boolean WanderingAquamarineCarroll {
+    }
+    boolean HungryPlumDarby {
+    }
+    serviceid_number LikeBrownPhilipa {
+    }
+    string IndustrialBlueAnthea {
+    }
+  }
+  serviceid_number FunAmethystShelba {
+    _hidden_value = true
+  }
+  string GoverningJadeVilma {
+    _hidden_value = true
+  }
+  boolean YeastyLavenderJoby {
+    _hidden_value = true
+  }
+  serviceid_number NarrowCrimsonCaro {
+    _hidden_value = true
+  }
+  string FrailTomatoGilemette {
+    _hidden_value = true
+  }
+  number FilthyGraySusy {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledAquamarineAlvera {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  WanderingAquamarineCarroll = false
+  HungryPlumDarby = false
+  LikeBrownPhilipa = 662
+  IndustrialBlueAnthea = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ControlledAquamarineAlvera"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GoverningJadeVilma"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WanderingAquamarineCarroll"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

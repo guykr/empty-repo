@@ -1,0 +1,107 @@
+type dummy.FreeBlackChere {
+  annotations {
+    serviceid_number ApparentIvoryJuli {
+    }
+    serviceid_number ComparativeYellowCarly {
+    }
+    number YappiestAmaranthMissy {
+    }
+    string ResultingOrangeViki {
+    }
+    string ColdBrownLuce {
+    }
+    json GrumpyFuchsiaNetty {
+    }
+  }
+  string GrandPeachAila {
+    _hidden_value = true
+  }
+  boolean LargeBlackEmmalyn {
+    _hidden_value = true
+  }
+  string ConfidentHarlequinQuerida {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableAquaLaina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CivilianCopperMaddi {
+    _hidden_value = true
+  }
+  boolean PrimitiveTanTammie {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentAmethystDanika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number JustBeigeLouise {
+    _hidden_value = true
+  }
+  serviceid_number VerySilverChere {
+    _hidden_value = true
+  }
+  "List<json>" GothicAmberMirella {
+    _hidden_value = true
+  }
+  string TrickyRedVicky {
+    _hidden_value = true
+  }
+  json LatinSalmonMerrili {
+    _hidden_value = true
+  }
+  serviceid AgriculturalBeigeBonny {
+    _hidden_value = true
+  }
+  number TastySilverMarcy {
+    _hidden_value = true
+  }
+  serviceid_number PremierPinkKristien {
+    _hidden_value = true
+  }
+  serviceid_number IncBeigeTallou {
+    _hidden_value = true
+  }
+  serviceid BrokenMaroonArdath {
+    _hidden_value = true
+  }
+  ApparentIvoryJuli = 684
+  ComparativeYellowCarly = 863
+  YappiestAmaranthMissy = 387
+  ResultingOrangeViki = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ColdBrownLuce = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GrumpyFuchsiaNetty = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrimitiveTanTammie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LargeBlackEmmalyn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ColdBrownLuce"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YappiestAmaranthMissy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ApparentIvoryJuli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

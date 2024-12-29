@@ -1,0 +1,96 @@
+type dummy.DecisiveCopperRobenia {
+  annotations {
+    serviceid AbsoluteAmethystRachel {
+    }
+    json WittyCopperShaylah {
+    }
+    number ModestWhiteBabita {
+    }
+    dummy.RoughCyanKipp TestyOliveCate {
+    }
+    serviceid EvolutionaryOrangeKathye {
+    }
+    dummy.DepressedCoralDasya LonelyBlushLetta {
+    }
+    hidden_boolean ArmedJadeMarielle {
+    }
+    dummy.RaspyScarletBlair HarshCyanAinslie {
+    }
+    boolean MereSalmonAlis {
+    }
+    string BadTurquoiseLela {
+    }
+    hidden_boolean PhilosophicalJadeMargery {
+    }
+    dummy.ColdSalmonJo StandardSilverMargarete {
+    }
+    serviceid_number StraightforwardLimeCloe {
+    }
+    dummy.ProposedIndigoDaffi AliveRedCandide {
+    }
+    number MuddyVioletAlicea {
+    }
+    serviceid_number ExistingBlushConcordia {
+    }
+    hidden_boolean ZanyGrayRoseanna {
+    }
+    serviceid_number FascinatingSalmonCelisse {
+    }
+    serviceid_number CapitalistScarletBetteann {
+    }
+    string UrbanYellowKatharine {
+    }
+    string BriefHarlequinMaurene {
+    }
+  }
+  AbsoluteAmethystRachel = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WittyCopperShaylah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ModestWhiteBabita = 777
+  EvolutionaryOrangeKathye = "Why did the kid cross the playground? To get to the other slide."
+  LonelyBlushLetta = true
+  HarshCyanAinslie = 579
+  MereSalmonAlis = false
+  BadTurquoiseLela = "Why do birds fly south for the winter? Because it's too far to walk."
+  StraightforwardLimeCloe = 823
+  MuddyVioletAlicea = 961
+  ExistingBlushConcordia = 919
+  FascinatingSalmonCelisse = 997
+  CapitalistScarletBetteann = 251
+  UrbanYellowKatharine = "Why do birds fly south for the winter? Because it's too far to walk."
+  BriefHarlequinMaurene = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _important_values = [
+    {
+      value = "SingleBlushAlvina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "JointAquaRobinette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CapitalistScarletBetteann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WittyCopperShaylah"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ArmedJadeMarielle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UrbanYellowKatharine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "DecisiveCopperRobenia_alias"
+}

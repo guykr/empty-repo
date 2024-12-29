@@ -1,0 +1,78 @@
+type dummy.SteadyJadeKit {
+  annotations {
+    number DelightedLavenderMarigold {
+    }
+    number ColourfulIndigoKaralee {
+    }
+    dummy.DEFAULT DirectGrayVikki {
+    }
+    serviceid GreasyRoseDoralin {
+    }
+    serviceid CharmingPurpleZita {
+    }
+    json DeliciousCyanChristabel {
+    }
+  }
+  dummy.HorizontalCrimsonGypsy PrincipalHarlequinCodee {
+    EvilCoffeeMarilee = 35
+    InclinedCopperNorean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WorriedFuchsiaRosene = "A steak pun is a rare medium well done."
+    CleverBronzeCoreen = false
+    DrabAquaJazmin = 916
+    SoftPlumBrittni = true
+    UnconsciousBrownIdelle = false
+    _hidden_value = true
+  }
+  serviceid_number TightSalmonShelbi {
+    _hidden_value = true
+  }
+  string ConstitutionalVioletWandis {
+    _hidden_value = true
+  }
+  "List<number>" StrikingAmberTawsha {
+    _hidden_value = true
+  }
+  string SystematicHarlequinCoraline {
+    _hidden_value = true
+  }
+  hidden_boolean RomanticCyanFelicity {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FormalAmethystDallas {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SplendidScarletBreanne {
+    _hidden_value = true
+  }
+  string CrookedBronzeTheodora {
+    _hidden_value = true
+  }
+  number RegularCyanCatie {
+    _hidden_value = true
+  }
+  hidden_boolean MadTanAdeline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DelightedLavenderMarigold = 586
+  ColourfulIndigoKaralee = 324
+  DirectGrayVikki = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  GreasyRoseDoralin = "Did you know that protons have mass? I didn't even know they were catholic."
+  CharmingPurpleZita = "Slept like a log last night  woke up in the fireplace."
+  DeliciousCyanChristabel = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FormalAmethystDallas"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,57 @@
+type dummy.HostileSalmonPaulette {
+  annotations {
+    serviceid_number IncreasingAzureTheressa {
+    }
+    string SplendidBlueBelinda {
+    }
+    hidden_boolean VocationalChocolateCaralie {
+    }
+    hidden_boolean QuerulousIvorySashenka {
+    }
+    number EthnicRosePhilippe {
+    }
+  }
+  number ConfidentRedPegeen {
+    _hidden_value = true
+  }
+  string GoodSalmonFayth {
+    _hidden_value = true
+  }
+  boolean SovietMoccasinDonelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpecifiedFuchsiaFlor {
+    _hidden_value = true
+  }
+  serviceid_number CrudeYellowZarah {
+    _hidden_value = true
+  }
+  hidden_boolean SteadyFuchsiaSusan {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LatinRedLenette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  IncreasingAzureTheressa = 163
+  SplendidBlueBelinda = "A steak pun is a rare medium well done."
+  EthnicRosePhilippe = 920
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SteadyFuchsiaSusan"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "QuerulousIvorySashenka"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

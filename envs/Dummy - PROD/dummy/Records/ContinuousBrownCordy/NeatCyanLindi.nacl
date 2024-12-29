@@ -1,0 +1,23 @@
+dummy.ContinuousBrownCordy NeatCyanLindi {
+  QuixoticRedJoete = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AttractiveTealNadine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GrowingJadeFreddy = "I'll tell you what often gets over looked... garden fences."
+  FaintSilverFidelia = true
+  ScrawnyMoccasinDarsie = true
+  EagerGrayIanthe = "What do you call two barracuda fish?  A Pairacuda!"
+  ToxicAzureAngelia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ControversialOrangeEstel = [
+    78,
+    219,
+    322,
+    589,
+    525,
+    27,
+    103,
+    687,
+    545,
+    224,
+  ]
+  _parent = dummy.PersistentAmaranthShaina
+  _alias = "NeatCyanLindi_alias"
+}

@@ -1,0 +1,152 @@
+type dummy.NuttyBlackZilvia {
+  annotations {
+    dummy.HolyChocolateMargery NearbyLavenderYevette {
+    }
+    serviceid_number EntitledEmeraldYoshi {
+    }
+    dummy.DEFAULT SmoggyBronzeSarene {
+    }
+    json ConfidentialOliveAnneliese {
+    }
+    serviceid_number DisturbingRoseTally {
+    }
+  }
+  json CautiousBronzeFey {
+    _hidden_value = true
+  }
+  number FlutteringAmaranthRoselin {
+    _hidden_value = true
+  }
+  dummy.AwakeBronzeKayle UnevenMagentaOndrea {
+    EvilTurquoiseMichaela = 637
+    MisleadingGoldMadel = "Why is Peter Pan always flying? Because he Neverlands."
+    IntegralAquaLynna = "To be Frank, I'd have to change my name."
+    MagnificentApricotOdele = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BackRedAlanna = 325
+    TameCrimsonLilah = 712
+    MildCoffeeBarbaraanne = false
+    BurningGoldMaudie = 320
+    ShockedCoralOlga = "Why did the tomato blush? Because it saw the salad dressing."
+    ResidentialMagentaJyoti = "Why was it called the dark ages? Because of all the knights. "
+    TestyTomatoRosaleen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MassMagentaNeda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SickAmaranthCicely = 80
+    _hidden_value = true
+  }
+  boolean WorkingPeachCthrine {
+    _hidden_value = true
+  }
+  string MatureTurquoiseKassi {
+    _hidden_value = true
+  }
+  json IsolatedAquaKerstin {
+    _hidden_value = true
+  }
+  string LonelyTanLisbeth {
+    _hidden_value = true
+  }
+  boolean BrilliantBlueLian {
+    _hidden_value = true
+  }
+  hidden_boolean EducationalGreenMadelin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LowWhiteCorette {
+    _hidden_value = true
+  }
+  number DeafeningCrimsonOlva {
+    _hidden_value = true
+  }
+  hidden_boolean IrrelevantTanPage {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CharacteristicAquamarineCalida {
+    _hidden_value = true
+  }
+  number DullBrownEugenia {
+    _hidden_value = true
+  }
+  json HeadEmeraldKetti {
+    _hidden_value = true
+  }
+  string WorryingTealArdelle {
+    _hidden_value = true
+  }
+  string SelectiveSilverMalorie {
+    _hidden_value = true
+  }
+  json PassingVioletJanna {
+    _hidden_value = true
+  }
+  string DailyWhiteMaye {
+    _hidden_value = true
+  }
+  string PreciseMagentaNike {
+    _hidden_value = true
+  }
+  "List<string>" InnovativeSapphireFederica {
+    _hidden_value = true
+  }
+  hidden_boolean FinancialGrayCarolyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GrubbyTomatoRoanna {
+    _hidden_value = true
+  }
+  hidden_boolean MatureWhiteMildrid {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.GayLimeBernete TraditionalAmethystJori {
+    InquisitiveAmethystPhilly = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ConsistentCyanDaphene = 742
+    SeniorTanMagda = "How come the stadium got hot after the game? Because all of the fans left."
+    StrongChocolateAmity = 729
+    NearbyVioletRasia = "I'll tell you what often gets over looked... garden fences."
+    ResidentYellowKore = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ViciousBlueNariko = 21
+    ColdAzureHannie = 788
+    BroadAquamarineBrenda = 991
+    AutomaticGoldAmber = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  NearbyLavenderYevette = "Why didnt the skeleton cross the road? Because he had no guts."
+  EntitledEmeraldYoshi = 417
+  SmoggyBronzeSarene = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  ConfidentialOliveAnneliese = "Why didnt the skeleton cross the road? Because he had no guts."
+  DisturbingRoseTally = 204
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BrilliantBlueLian"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnevenMagentaOndrea"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CautiousBronzeFey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreciseMagentaNike"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

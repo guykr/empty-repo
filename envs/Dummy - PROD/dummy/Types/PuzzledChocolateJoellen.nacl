@@ -1,0 +1,38 @@
+type dummy.PuzzledChocolateJoellen {
+  annotations {
+    boolean TroubledLavenderOrelle {
+    }
+    dummy.ContinuedAmberMerci ShiveringChocolateMeggie {
+    }
+    boolean YummyEmeraldKi {
+    }
+    string AssociatedPlumKatheryn {
+    }
+    json SilentGrayViki {
+    }
+    string GleamingIndigoDulce {
+    }
+  }
+  dummy.HolyChocolateMargery CentralOliveKatey {
+    _hidden_value = true
+  }
+  TroubledLavenderOrelle = false
+  ShiveringChocolateMeggie = 214
+  YummyEmeraldKi = true
+  AssociatedPlumKatheryn = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SilentGrayViki = "Why do birds fly south for the winter? Because it's too far to walk."
+  GleamingIndigoDulce = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AssociatedPlumKatheryn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShiveringChocolateMeggie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,111 @@
+type dummy.ExcessIndigoWhitney {
+  annotations {
+    dummy.DearHarlequinJemmy LovelyTealGinelle {
+    }
+    number AwkwardPurpleTaffy {
+    }
+    string RetiredOlivePatrice {
+    }
+    number TypicalBlushAnnadiane {
+    }
+    serviceid_number RobustPlumPatrice {
+    }
+    json DustyIndigoMelita {
+    }
+  }
+  boolean DelightfulAmaranthAudy {
+    _hidden_value = true
+  }
+  number PermanentMaroonNettle {
+    _hidden_value = true
+  }
+  serviceid_number TerritorialGoldSarine {
+    _hidden_value = true
+  }
+  hidden_boolean SquareLimeSally {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean KindAquaSandie {
+    _hidden_value = true
+  }
+  serviceid_number LegitimatePlumTara {
+    _hidden_value = true
+  }
+  string IncreasingTealCassi {
+    _hidden_value = true
+  }
+  serviceid TroubledPlumKerrill {
+    _hidden_value = true
+  }
+  dummy.GayLimeBernete RomanticCrimsonCaresse {
+    InquisitiveAmethystPhilly = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    ConsistentCyanDaphene = 669
+    SeniorTanMagda = "What do you call two barracuda fish?  A Pairacuda!"
+    StrongChocolateAmity = 644
+    NearbyVioletRasia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ResidentYellowKore = "Im only familiar with 25 letters in the English language. I dont know why."
+    ViciousBlueNariko = 646
+    ColdAzureHannie = 451
+    BroadAquamarineBrenda = 454
+    AutomaticGoldAmber = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  serviceid_number DisastrousAmethystEleanor {
+    _hidden_value = true
+  }
+  string ChristianIndigoKayle {
+    _hidden_value = true
+  }
+  serviceid_number HotCyanCahra {
+    _hidden_value = true
+  }
+  json ConcretePlumCarolynn {
+    _hidden_value = true
+  }
+  string PlannedCyanBibbie {
+    _hidden_value = true
+  }
+  json CausalTealRozele {
+    _hidden_value = true
+  }
+  serviceid_number PreviousGoldCecilla {
+    _hidden_value = true
+  }
+  serviceid_number UniversalTomatoJada {
+    _hidden_value = true
+  }
+  hidden_boolean OuterJadeCrista {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OddAquamarineCandida {
+    _hidden_value = true
+  }
+  boolean ArbitraryBlushLynna {
+    _hidden_value = true
+  }
+  hidden_boolean RawEmeraldSamara {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  LovelyTealGinelle = "What creature is smarter than a talking parrot? A spelling bee."
+  AwkwardPurpleTaffy = 46
+  RetiredOlivePatrice = "Slept like a log last night  woke up in the fireplace."
+  TypicalBlushAnnadiane = 752
+  RobustPlumPatrice = 238
+  DustyIndigoMelita = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TypicalBlushAnnadiane"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

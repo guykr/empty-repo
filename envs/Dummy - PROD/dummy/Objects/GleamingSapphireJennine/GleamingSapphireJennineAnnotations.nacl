@@ -1,0 +1,103 @@
+type dummy.GleamingSapphireJennine {
+  annotations {
+    serviceid EmptyLimeTrish {
+    }
+    dummy.PlannedBlueLotti SevereWhiteTallulah {
+    }
+    hidden_boolean CollectiveAmethystJenica {
+    }
+    json SuccessfulAmaranthEudora {
+    }
+    boolean FreeAquaSilva {
+    }
+    json CostlyCyanBinni {
+    }
+    serviceid_number SteepBlackLesli {
+    }
+    number EducationalCoralCaritta {
+    }
+    string VastEmeraldShaun {
+    }
+    boolean GrubbyTealMerrill {
+    }
+    number NaughtyCyanMaddy {
+    }
+    serviceid DisciplinaryPinkLeone {
+    }
+    dummy.RoyalWhiteJerrylee GladBeigeAmargo {
+    }
+    boolean BindingRoseJasmin {
+    }
+    boolean RapidAmaranthClarine {
+    }
+    dummy.NotableOrangeAlfi SimpleJadeEolande {
+    }
+    serviceid_number DueAmethystCinderella {
+    }
+    dummy.StraightforwardYellowCaria SweetCopperConsuelo {
+    }
+    hidden_boolean AdministrativeBlushVilma {
+    }
+    serviceid CondemnedTomatoTobe {
+    }
+  }
+  EmptyLimeTrish = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SevereWhiteTallulah = true
+  SuccessfulAmaranthEudora = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FreeAquaSilva = false
+  CostlyCyanBinni = "Why was it called the dark ages? Because of all the knights. "
+  SteepBlackLesli = 973
+  EducationalCoralCaritta = 229
+  VastEmeraldShaun = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GrubbyTealMerrill = false
+  NaughtyCyanMaddy = 449
+  DisciplinaryPinkLeone = "A steak pun is a rare medium well done."
+  BindingRoseJasmin = false
+  RapidAmaranthClarine = false
+  DueAmethystCinderella = 197
+  SweetCopperConsuelo = false
+  CondemnedTomatoTobe = "Why did the tomato blush? Because it saw the salad dressing."
+  _important_values = [
+    {
+      value = "CircularRoseAnnmarie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BrainyIvoryBeverly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SufficientBrownJacinda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ComplexOrangeAngel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ElatedBlueNikoletta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShyOrangeZora"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LateMagentaAmelina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CrowdedEmeraldKelsi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "GleamingSapphireJennine_alias"
+}

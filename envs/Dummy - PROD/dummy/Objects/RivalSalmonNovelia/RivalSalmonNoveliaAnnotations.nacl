@@ -1,0 +1,60 @@
+type dummy.RivalSalmonNovelia {
+  annotations {
+    json PhilosophicalMagentaHeddie {
+    }
+    serviceid SophisticatedAmaranthBertine {
+    }
+    boolean MonthlyOrangeMufi {
+    }
+    dummy.ComplexCoralGlynnis PresidentialCoralFredra {
+    }
+    serviceid FrightenedCyanMatelda {
+    }
+    json BoldCyanShoshanna {
+    }
+    hidden_boolean NativeSilverAnthea {
+    }
+    string LiableBronzeEthelyn {
+    }
+    number DeafCrimsonKelsi {
+    }
+    dummy.JudicialSalmonElga AestheticGrayLouise {
+    }
+    number FrailBlushKerrin {
+    }
+    dummy.ElectricTomatoWilow AbundantVioletMada {
+    }
+    boolean ConfusedVioletSuzy {
+    }
+    string InadequateCopperGretna {
+    }
+    json ChosenSalmonGenvieve {
+    }
+    dummy.SadRedKaycee FavourableChocolateTarah {
+    }
+    hidden_boolean FunnyVioletHattie {
+    }
+    serviceid DefiniteFuchsiaCoraline {
+    }
+  }
+  PhilosophicalMagentaHeddie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SophisticatedAmaranthBertine = "How come the stadium got hot after the game? Because all of the fans left."
+  MonthlyOrangeMufi = false
+  FrightenedCyanMatelda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BoldCyanShoshanna = "Why did the kid cross the playground? To get to the other slide."
+  LiableBronzeEthelyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DeafCrimsonKelsi = 403
+  FrailBlushKerrin = 337
+  ConfusedVioletSuzy = false
+  InadequateCopperGretna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ChosenSalmonGenvieve = "Why is Peter Pan always flying? Because he Neverlands."
+  DefiniteFuchsiaCoraline = "What do you call two barracuda fish?  A Pairacuda!"
+  _self_important_values = [
+    {
+      value = "FrailBlushKerrin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "RivalSalmonNovelia_alias"
+}

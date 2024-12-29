@@ -1,0 +1,113 @@
+type dummy.TestyBronzeLelah {
+  annotations {
+    serviceid_number BloodyMaroonMarlene {
+    }
+    serviceid_number VisibleCoffeeAshly {
+    }
+    serviceid LexicalBronzeCarolynn {
+    }
+    hidden_boolean PassingBlushBerta {
+    }
+    string AnxiousRoseArlette {
+    }
+    hidden_boolean VariedGrayErda {
+    }
+  }
+  serviceid WorryingTomatoKathye {
+    _hidden_value = true
+  }
+  boolean ReasonableCyanVyky {
+    _hidden_value = true
+  }
+  serviceid_number DizzyJadeAubine {
+    _hidden_value = true
+  }
+  "List<number>" WorkingPinkGeorgeanna {
+    _hidden_value = true
+  }
+  serviceid CreativeApricotAdeline {
+    _hidden_value = true
+  }
+  number MarxistFuchsiaNora {
+    _hidden_value = true
+  }
+  hidden_boolean ObjectiveCoffeeWinifred {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number VisualAmaranthLois {
+    _hidden_value = true
+  }
+  hidden_boolean LikeAzureNerty {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SocialBrownClarie {
+    _hidden_value = true
+  }
+  serviceid InnovativeBronzeChristine {
+    _hidden_value = true
+  }
+  number MarvellousTurquoiseJanel {
+    _hidden_value = true
+  }
+  string ExcellentScarletTeddi {
+    _hidden_value = true
+  }
+  boolean DomesticBlackElonore {
+    _hidden_value = true
+  }
+  serviceid SignificantBronzeFaith {
+    _hidden_value = true
+  }
+  json ColdTanJacquie {
+    _hidden_value = true
+  }
+  serviceid_number StraightGreenCorissa {
+    _hidden_value = true
+  }
+  string HomelessTealRakel {
+    _hidden_value = true
+  }
+  hidden_boolean ScornfulYellowAggie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PleasantAzureFiann {
+    _hidden_value = true
+  }
+  serviceid VastGrayCherida {
+    _hidden_value = true
+  }
+  serviceid PresentOrangeAlly {
+    _hidden_value = true
+  }
+  boolean TiredGrayMarcelline {
+    _hidden_value = true
+  }
+  dummy.ContinuedAmberMerci HolyAmberMelisenda {
+    LargeAmaranthAurel = true
+    ColdLimeGerti = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FamiliarMaroonQuentin = "Why was it called the dark ages? Because of all the knights. "
+    ProvincialOliveAveline = "Why did the kid cross the playground? To get to the other slide."
+    BigMoccasinCorine = 880
+    UpsetAmaranthNatividad = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DifficultBronzeRuby = false
+    _hidden_value = true
+  }
+  BloodyMaroonMarlene = 503
+  VisibleCoffeeAshly = 937
+  LexicalBronzeCarolynn = "A steak pun is a rare medium well done."
+  AnxiousRoseArlette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LikeAzureNerty"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

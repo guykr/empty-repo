@@ -1,0 +1,50 @@
+type dummy.CloudyCyanLaureen {
+  annotations {
+    serviceid_number FederalGreenCharmine {
+    }
+    string TraditionalAmaranthBenita {
+    }
+    json ExtensiveSapphireAlmeda {
+    }
+    hidden_boolean OutrageousPinkKyle {
+    }
+    string EssentialAmberAlvina {
+    }
+    number WeakPurpleMeara {
+    }
+    number ProvincialAmaranthJuli {
+    }
+  }
+  string BitterCrimsonRoxane {
+    _hidden_value = true
+  }
+  number SexualLavenderSelene {
+    _hidden_value = true
+  }
+  "List<boolean>" ParticularGreenAleta {
+    _hidden_value = true
+  }
+  serviceid StatisticalSilverAlika {
+    _hidden_value = true
+  }
+  json GuiltyBlueKrystle {
+    _hidden_value = true
+  }
+  serviceid LinearAmaranthTish {
+    _hidden_value = true
+  }
+  FederalGreenCharmine = 227
+  TraditionalAmaranthBenita = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExtensiveSapphireAlmeda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EssentialAmberAlvina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WeakPurpleMeara = 367
+  ProvincialAmaranthJuli = 371
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EssentialAmberAlvina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

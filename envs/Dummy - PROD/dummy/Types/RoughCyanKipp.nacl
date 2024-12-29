@@ -1,0 +1,112 @@
+type dummy.RoughCyanKipp {
+  annotations {
+    serviceid PracticalYellowTheo {
+    }
+    number EmpiricalAzureBeverley {
+    }
+    string TropicalAmethystBunnie {
+    }
+    json ImpossibleApricotCasey {
+    }
+    string VividScarletGoldi {
+    }
+    json ConstitutionalTanAnselma {
+    }
+    serviceid MusicalScarletMarilyn {
+    }
+  }
+  hidden_boolean SoundSapphireMissy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PublicWhiteRosa {
+    _hidden_value = true
+  }
+  number DemocraticCoralSande {
+    _hidden_value = true
+  }
+  hidden_boolean VeryIndigoHortensia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PreferredCoffeePenelope ImmenseBrownGunilla {
+    ZygomorphicCoffeeEmmaline = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    InstantBronzeGayla = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CausalPurpleOfilia = true
+    PayableBlackBrandie = false
+    WickedCoffeeDede = false
+    DistinctiveLimeSandra = 970
+    HelplessMagentaLyndel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MaleMaroonDayna = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    _hidden_value = true
+  }
+  string EmpiricalBlackDanita {
+    _hidden_value = true
+  }
+  hidden_boolean WetTealDionne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImpossibleMagentaRandee {
+    _hidden_value = true
+  }
+  json SharedAquamarineKipp {
+    _hidden_value = true
+  }
+  boolean TechnologicalCyanFelice {
+    _hidden_value = true
+  }
+  string FunctionalGrayOthilia {
+    _hidden_value = true
+  }
+  string SevereAmberDona {
+    _hidden_value = true
+  }
+  json InclinedCoffeeOrelie {
+    _hidden_value = true
+  }
+  hidden_boolean ZygoticCoralCristabel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PracticalYellowTheo = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EmpiricalAzureBeverley = 965
+  TropicalAmethystBunnie = "Slept like a log last night  woke up in the fireplace."
+  ImpossibleApricotCasey = "What creature is smarter than a talking parrot? A spelling bee."
+  VividScarletGoldi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConstitutionalTanAnselma = "Why do birds fly south for the winter? Because it's too far to walk."
+  MusicalScarletMarilyn = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TechnologicalCyanFelice"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FunctionalGrayOthilia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "VividScarletGoldi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TropicalAmethystBunnie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

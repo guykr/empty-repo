@@ -1,0 +1,56 @@
+type dummy.XenaciousIvoryAnastassia is string {
+  annotations {
+    number FantasticPeachAg {
+    }
+    serviceid_number BoredIvoryAlexandra {
+    }
+    boolean OutdoorBlackZelda {
+    }
+    boolean GuiltyAquamarineCamile {
+    }
+    json MildScarletDierdre {
+    }
+    serviceid UpperOliveBianka {
+    }
+    string MinisterialOrangeReina {
+    }
+    hidden_boolean OutstandingMoccasinRanee {
+    }
+    number VisualSilverDrusi {
+    }
+    number AcademicChocolateRaquel {
+    }
+    serviceid_number SlimyPinkElsa {
+    }
+    boolean SymbolicAquaDarline {
+    }
+    string NakedEmeraldAthene {
+    }
+    number PositiveBlackAdrianna {
+    }
+    boolean ScaredHarlequinDavine {
+    }
+    json ExcellentBronzeXenia {
+    }
+    hidden_boolean LonelyEmeraldEvelina {
+    }
+    boolean WitteringIndigoShayla {
+    }
+  }
+  FantasticPeachAg = 365
+  BoredIvoryAlexandra = 39
+  OutdoorBlackZelda = false
+  GuiltyAquamarineCamile = false
+  MildScarletDierdre = "Why didnt the skeleton cross the road? Because he had no guts."
+  UpperOliveBianka = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MinisterialOrangeReina = "What do you call two barracuda fish?  A Pairacuda!"
+  VisualSilverDrusi = 11
+  AcademicChocolateRaquel = 15
+  SlimyPinkElsa = 21
+  SymbolicAquaDarline = true
+  NakedEmeraldAthene = "I'll tell you what often gets over looked... garden fences."
+  PositiveBlackAdrianna = 891
+  ScaredHarlequinDavine = false
+  ExcellentBronzeXenia = "Why did the kid cross the playground? To get to the other slide."
+  WitteringIndigoShayla = false
+}

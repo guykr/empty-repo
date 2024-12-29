@@ -1,0 +1,40 @@
+type dummy.AdequateJadeNerita {
+  annotations {
+    serviceid RedundantMoccasinArluene {
+    }
+    serviceid ProfessionalBlueZelda {
+    }
+    serviceid_number SpiritualPinkLissi {
+    }
+    json FunLavenderCamilla {
+    }
+    string AutonomousTealMinny {
+    }
+  }
+  dummy.DEFAULT PracticalWhiteSunny {
+    _hidden_value = true
+  }
+  serviceid_number MushyEmeraldMarcelia {
+    _hidden_value = true
+  }
+  RedundantMoccasinArluene = "Dad Im hungry  Hi hungry Im dad"
+  ProfessionalBlueZelda = "Why did the kid cross the playground? To get to the other slide."
+  SpiritualPinkLissi = 602
+  FunLavenderCamilla = "To be Frank, I'd have to change my name."
+  AutonomousTealMinny = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MushyEmeraldMarcelia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AutonomousTealMinny"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

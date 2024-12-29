@@ -1,0 +1,166 @@
+type dummy.WideLimeMarcelia {
+  annotations {
+    json NearBlushIvette {
+    }
+    string FrequentLavenderKellia {
+    }
+    string ConservationTomatoSharleen {
+    }
+    json NervousPlumAllyn {
+    }
+    string KindOrangeNedi {
+    }
+  }
+  string ArmedEmeraldDorena {
+    _hidden_value = true
+  }
+  serviceid_number DoubtfulPurpleKirstin {
+    _hidden_value = true
+  }
+  hidden_boolean JustBronzeAnsley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number TenderOrangeMerola {
+    _hidden_value = true
+  }
+  dummy.AssociatedHarlequinShandeigh UnfairSapphireEddie {
+    DelightfulAmberArleyne = 34
+    MuteCrimsonSibeal = 569
+    PriorChocolateIris = "A steak pun is a rare medium well done."
+    RivalMoccasinAshely = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SatisfactoryAquamarineJaclin = 646
+    UrgentPlumNadya = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RainyCopperAurora = "Did you know that protons have mass? I didn't even know they were catholic."
+    InquisitiveVioletArleyne = 486
+    ExceptionalOrangeTeena = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    AttractiveOliveHollie = "Why is Peter Pan always flying? Because he Neverlands."
+    YellingTealKakalina = 395
+    PremierChocolateSamara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HandsomeMoccasinElfie = false
+    DryBeigeNoelani = 674
+    BewilderedPlumKathryne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WorkingBlueInesita = "A steak pun is a rare medium well done."
+    SpecialOliveWilie = 700
+    MeltedLavenderMei = 337
+    BareWhiteVally = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    NegativeHarlequinRoxie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  json InadequateWhiteSamaria {
+    _hidden_value = true
+  }
+  hidden_boolean SubtlePinkLishe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SeniorEmeraldRenate {
+    _hidden_value = true
+  }
+  serviceid TinyWhiteCarita {
+    _hidden_value = true
+  }
+  number StraightCyanRoselia {
+    _hidden_value = true
+  }
+  json PriorBrownTheresa {
+    _hidden_value = true
+  }
+  hidden_boolean AddedPlumIbby {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WeeAmaranthWandis {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number UglyVioletLavena {
+    _hidden_value = true
+  }
+  dummy.PassiveAzureHalli WesternMaroonSheri {
+    BitterTealJobye = true
+    ElectronicSilverLeticia = false
+    ConstantPlumGale = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RisingMoccasinPietra = 699
+    SouthernFuchsiaFlossy = 556
+    MagneticSilverAudrye = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    SpiritualTurquoiseRosamund = 126
+    AverageOliveGwenni = false
+    NeatPeachDarcy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FlexibleCyanPaulie = false
+    PermanentSilverShirlene = 259
+    _hidden_value = true
+  }
+  serviceid_number CompatibleHarlequinConstancy {
+    _hidden_value = true
+  }
+  boolean GorgeousAzureChloe {
+    _hidden_value = true
+  }
+  number ParticularLimePetronilla {
+    _hidden_value = true
+  }
+  hidden_boolean InappropriateTurquoiseErmentrude {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json YappiestCopperMarrilee {
+    _hidden_value = true
+  }
+  boolean AbsentVioletDorry {
+    _hidden_value = true
+  }
+  dummy.ContinuedAmberMerci LegalVioletGavra {
+    LargeAmaranthAurel = true
+    ColdLimeGerti = "Why did the tomato blush? Because it saw the salad dressing."
+    FamiliarMaroonQuentin = "What do you call two barracuda fish?  A Pairacuda!"
+    ProvincialOliveAveline = "Dad Im hungry  Hi hungry Im dad"
+    BigMoccasinCorine = 783
+    UpsetAmaranthNatividad = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DifficultBronzeRuby = false
+    _hidden_value = true
+  }
+  boolean LivingAzureLibbi {
+    _hidden_value = true
+  }
+  number PermanentMagentaAbigael {
+    _hidden_value = true
+  }
+  string HorizontalRoseMignonne {
+    _hidden_value = true
+  }
+  boolean UnitedMaroonDomeniga {
+    _hidden_value = true
+  }
+  NearBlushIvette = "Why did the tomato blush? Because it saw the salad dressing."
+  FrequentLavenderKellia = "I'll tell you what often gets over looked... garden fences."
+  ConservationTomatoSharleen = "A steak pun is a rare medium well done."
+  NervousPlumAllyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  KindOrangeNedi = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CompatibleHarlequinConstancy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NearBlushIvette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

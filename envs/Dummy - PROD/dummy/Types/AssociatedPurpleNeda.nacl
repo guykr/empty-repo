@@ -1,0 +1,269 @@
+type dummy.AssociatedPurpleNeda {
+  annotations {
+    json ConfidentMagentaPat {
+    }
+    json IncSalmonKeeley {
+    }
+    string DeafGoldNetta {
+    }
+  }
+  boolean DualCopperAurie {
+    _hidden_value = true
+  }
+  hidden_boolean GracefulBlackGwenette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SecretBeigeMicheline {
+    _hidden_value = true
+  }
+  number AlternativeSapphireLisetta {
+    _hidden_value = true
+  }
+  number MeltedTomatoCary {
+    _hidden_value = true
+  }
+  boolean YearningAmaranthBrena {
+    _hidden_value = true
+  }
+  number YummyEmeraldRee {
+    _hidden_value = true
+  }
+  "List<number>" WholeRedVelma {
+    _hidden_value = true
+  }
+  serviceid_number EquivalentBlackKarrie {
+    _hidden_value = true
+  }
+  hidden_boolean FavouriteRoseEdie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ProfessionalYellowMaurine {
+    _hidden_value = true
+  }
+  boolean TraditionalAzureCarma {
+    _hidden_value = true
+  }
+  serviceid HonestOrangeAriana {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenLavenderDniren {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SensitiveWhitePamella {
+    _hidden_value = true
+  }
+  serviceid_number MagneticYellowDorry {
+    _hidden_value = true
+  }
+  serviceid_number VulnerableAmaranthLainey {
+    _hidden_value = true
+  }
+  serviceid_number ConstantPeachIleana {
+    _hidden_value = true
+  }
+  boolean ShakyIndigoTildie {
+    _hidden_value = true
+  }
+  string OuterBeigeCecilia {
+    _hidden_value = true
+  }
+  serviceid_number RisingRedKirsteni {
+    _hidden_value = true
+  }
+  string RearOliveNeely {
+    _hidden_value = true
+  }
+  json LeftOliveElonore {
+    _hidden_value = true
+  }
+  string TechnicalAmaranthKristyn {
+    _hidden_value = true
+  }
+  boolean RainyAquaSylvia {
+    _hidden_value = true
+  }
+  number DefiantLimeLiz {
+    _hidden_value = true
+  }
+  number ZerothMagentaVinita {
+    _hidden_value = true
+  }
+  dummy.SickIndigoWenda ReasonablePinkFern {
+    SpecificMagentaAurora = "Why did the tomato blush? Because it saw the salad dressing."
+    MinimumAmberSuzi = true
+    NervousBlueMerissa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    YummyPinkHali = false
+    FollowingEmeraldSena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DeterminedIvoryMarian = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MiddleCoralJeanine = "Why did the kid cross the playground? To get to the other slide."
+    ObviousLavenderReine = false
+    LocalIndigoGwyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AmateurVioletBrigitte = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number BeautifulPurpleCybill {
+    _hidden_value = true
+  }
+  hidden_boolean EconomicRedRosalyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PublicAquaRosemarie YellingApricotAnna {
+    _hidden_value = true
+  }
+  json SeniorAquaLiesa {
+    _hidden_value = true
+  }
+  serviceid_number AsleepRedArabele {
+    _hidden_value = true
+  }
+  json SlipperyTurquoiseJany {
+    _hidden_value = true
+  }
+  string AgreeableTomatoRosanne {
+    _hidden_value = true
+  }
+  dummy.IntimateGreenSusie EnormousSapphireJoyann {
+    MoralRedDixie = "What creature is smarter than a talking parrot? A spelling bee."
+    ManualCoralKelila = "What do you call two barracuda fish?  A Pairacuda!"
+    QualifiedPeachDaisey = 655
+    TameTanSherill = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  number IdealBlushKoren {
+    _hidden_value = true
+  }
+  hidden_boolean ScornfulLavenderAura {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnitedChocolateAnastassia {
+    _hidden_value = true
+  }
+  boolean ViciousYellowGertrudis {
+    _hidden_value = true
+  }
+  json FundamentalGoldMichell {
+    _hidden_value = true
+  }
+  serviceid_number InvolvedAmethystQueenie {
+    _hidden_value = true
+  }
+  json EntireLavenderJosselyn {
+    _hidden_value = true
+  }
+  hidden_boolean ClinicalGrayRonny {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GratefulOrangeSabra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FavouriteBlueHildy {
+    _hidden_value = true
+  }
+  json SufficientOrangeFlo {
+    _hidden_value = true
+  }
+  dummy.EnergeticAmberHeddi LoyalAmberJanna {
+    WildScarletJosi = "Did you know that protons have mass? I didn't even know they were catholic."
+    TraditionalBlackEnrica = true
+    PreviousBrownCelie = false
+    SquealingAquaLesya = "What do you call two barracuda fish?  A Pairacuda!"
+    CrowdedLimeSusannah = "What creature is smarter than a talking parrot? A spelling bee."
+    DisastrousCyanAngelita = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    ControlledOrangeJuli = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SoftPurpleFidelity = true
+    RomanticAmaranthVivienne = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  string HollowBrownKimberley {
+    _hidden_value = true
+  }
+  ConfidentMagentaPat = "How come the stadium got hot after the game? Because all of the fans left."
+  IncSalmonKeeley = "What do you call two barracuda fish?  A Pairacuda!"
+  DeafGoldNetta = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SecretBeigeMicheline"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SufficientOrangeFlo"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YummyEmeraldRee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnitedChocolateAnastassia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DefiantLimeLiz"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GoldenLavenderDniren"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ScornfulLavenderAura"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DualCopperAurie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MeltedTomatoCary"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EconomicRedRosalyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IdealBlushKoren"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SensitiveWhitePamella"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IncSalmonKeeley"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

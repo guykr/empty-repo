@@ -1,0 +1,37 @@
+type dummy.PriorYellowNorma {
+  annotations {
+    json RedundantGreenRana {
+    }
+    hidden_boolean ImpossibleBeigeAmity {
+    }
+    serviceid_number ProfitableSilverKenna {
+    }
+    string IndustrialOrangeGeorgeanna {
+    }
+    string VerticalAquamarineRomona {
+    }
+    json HugeEmeraldGiulia {
+    }
+    json AbsentTanMelodee {
+    }
+  }
+  hidden_boolean ConservativeBeigeMarlee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  RedundantGreenRana = "Im only familiar with 25 letters in the English language. I dont know why."
+  ProfitableSilverKenna = 555
+  IndustrialOrangeGeorgeanna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VerticalAquamarineRomona = "Whoever invented the knock-knock joke should get a no bell prize."
+  HugeEmeraldGiulia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AbsentTanMelodee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IndustrialOrangeGeorgeanna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

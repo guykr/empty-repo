@@ -1,0 +1,126 @@
+type dummy.MeaningfulMaroonInessa {
+  annotations {
+    string SkilledPlumNelie {
+    }
+    hidden_boolean LinearBrownEmelita {
+    }
+    dummy.DEFAULT ProminentOliveGill {
+    }
+    serviceid ElaborateIndigoJosy {
+    }
+    boolean BottomMagentaCarmel {
+    }
+  }
+  serviceid UpsetJadeJinny {
+    _hidden_value = true
+  }
+  json WrongOliveJessy {
+    _hidden_value = true
+  }
+  json CorrespondingYellowSuellen {
+    _hidden_value = true
+  }
+  json OkayPlumEdna {
+    _hidden_value = true
+  }
+  serviceid PetiteAmberBrenda {
+    _hidden_value = true
+  }
+  serviceid_number ArmedPinkEimile {
+    _hidden_value = true
+  }
+  string LooseOliveOlivie {
+    _hidden_value = true
+  }
+  serviceid WetOliveLira {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarPeachBrit {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string QuickestSalmonBrinna {
+    _hidden_value = true
+  }
+  boolean ZoophagousRoseDiandra {
+    _hidden_value = true
+  }
+  string ManyWhiteMaurine {
+    _hidden_value = true
+  }
+  dummy.DualFuchsiaMarget HurtIndigoBecca {
+    IllScarletMagdaia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BeneficialMaroonRuthy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CapitalistBrownLexis = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ZygomorphicRedKarry = "Dad Im hungry  Hi hungry Im dad"
+    GrowingAmaranthTamar = "Whoever invented the knock-knock joke should get a no bell prize."
+    AshamedApricotAshli = "Why was it called the dark ages? Because of all the knights. "
+    HonGreenUrsa = 951
+    VisitingCoralRochette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GothicScarletEvita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnusualCoffeeBobbie = 669
+    SouthernEmeraldErinn = 400
+    ElectricBlushAmalie = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  dummy.SocialBronzeGerri DeepAzureBetta {
+    InnerAzureBettine = false
+    PlainOrangePapagena = "How come the stadium got hot after the game? Because all of the fans left."
+    NearIvoryLoraine = 215
+    MildPeachKiah = true
+    ImperialGrayFedora = "How come the stadium got hot after the game? Because all of the fans left."
+    DueFuchsiaVanda = 799
+    ScornfulBronzeTonie = 453
+    ConvincedIvoryMuire = true
+    MatureAzureRosalinda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GiantGreenMaggee = false
+    ScreechingApricotKrista = true
+    _hidden_value = true
+  }
+  string UnwillingGoldLorenza {
+    _hidden_value = true
+  }
+  serviceid_number SheerSilverCorrine {
+    _hidden_value = true
+  }
+  serviceid_number MeltedTomatoAmberly {
+    _hidden_value = true
+  }
+  SkilledPlumNelie = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProminentOliveGill = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ElaborateIndigoJosy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BottomMagentaCarmel = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ZoophagousRoseDiandra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnwillingGoldLorenza"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DeepAzureBetta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HurtIndigoBecca"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CorrespondingYellowSuellen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

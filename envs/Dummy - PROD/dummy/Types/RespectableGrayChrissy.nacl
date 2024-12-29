@@ -1,0 +1,28 @@
+type dummy.RespectableGrayChrissy {
+  annotations {
+    number BreezyPeachSusy {
+    }
+    number EerieEmeraldGeorgeta {
+    }
+    boolean AtomicTanMarisa {
+    }
+    boolean ClumsyEmeraldInga {
+    }
+    hidden_boolean OldGrayKalindi {
+    }
+    number AmateurCoffeeEloise {
+    }
+    number MajorLimeElberta {
+    }
+  }
+  serviceid QuickApricotRonnie {
+    _hidden_value = true
+  }
+  BreezyPeachSusy = 651
+  EerieEmeraldGeorgeta = 518
+  AtomicTanMarisa = false
+  ClumsyEmeraldInga = true
+  AmateurCoffeeEloise = 53
+  MajorLimeElberta = 977
+  _hidden_value = true
+}

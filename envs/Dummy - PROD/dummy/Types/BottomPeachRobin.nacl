@@ -1,0 +1,36 @@
+type dummy.BottomPeachRobin {
+  annotations {
+    hidden_boolean NervousVioletAnabella {
+    }
+    boolean WastefulCopperCorrine {
+    }
+    number InternalMaroonNorean {
+    }
+    serviceid_number ExtensivePlumKaryl {
+    }
+  }
+  boolean SurroundingMoccasinAngelika {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FamiliarCrimsonRaeann {
+    _hidden_value = true
+  }
+  WastefulCopperCorrine = false
+  InternalMaroonNorean = 794
+  ExtensivePlumKaryl = 134
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FamiliarCrimsonRaeann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WastefulCopperCorrine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

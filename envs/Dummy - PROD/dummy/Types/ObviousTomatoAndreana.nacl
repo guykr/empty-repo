@@ -1,0 +1,59 @@
+type dummy.ObviousTomatoAndreana {
+  annotations {
+    hidden_boolean CautiousTurquoiseKattie {
+    }
+    serviceid ImmediateLavenderMadalena {
+    }
+    string TightBlackEvvie {
+    }
+    number FewCoffeeNan {
+    }
+    serviceid_number NavalPeachKelsi {
+    }
+    serviceid PrimaryOliveHeloise {
+    }
+    serviceid SatisfactoryBrownRosmunda {
+    }
+  }
+  json LiveAmaranthGarnette {
+    _hidden_value = true
+  }
+  number AmbitiousAmethystTrudy {
+    _hidden_value = true
+  }
+  serviceid_number MetropolitanGrayQuintina {
+    _hidden_value = true
+  }
+  boolean MarineBeigeOlenka {
+    _hidden_value = true
+  }
+  boolean PersonalCoffeeAnthea {
+    _hidden_value = true
+  }
+  "Map<serviceid>" ConstantScarletKatti {
+    _hidden_value = true
+  }
+  json EstimatedAzureBabette {
+    _hidden_value = true
+  }
+  number ThoughtlessGrayHollyanne {
+    _hidden_value = true
+  }
+  serviceid StuckScarletGeralda {
+    _hidden_value = true
+  }
+  ImmediateLavenderMadalena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TightBlackEvvie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FewCoffeeNan = 146
+  NavalPeachKelsi = 583
+  PrimaryOliveHeloise = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SatisfactoryBrownRosmunda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ImmediateLavenderMadalena"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,28 @@
+type dummy.GeographicalWhiteFilippa {
+  annotations {
+    boolean PetiteYellowQuintilla {
+    }
+    hidden_boolean DisastrousAmberPhilippe {
+    }
+    serviceid_number DevelopedScarletHeath {
+    }
+  }
+  hidden_boolean ControlledVioletJennie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MusicalIvoryIngaberg {
+    _hidden_value = true
+  }
+  PetiteYellowQuintilla = false
+  DevelopedScarletHeath = 477
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DevelopedScarletHeath"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

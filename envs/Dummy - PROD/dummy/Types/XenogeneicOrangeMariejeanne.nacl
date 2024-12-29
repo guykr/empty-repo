@@ -1,0 +1,197 @@
+type dummy.XenogeneicOrangeMariejeanne {
+  annotations {
+    serviceid SuitableBrownBekki {
+    }
+    hidden_boolean HolyBlueSybilla {
+    }
+    dummy.DEFAULT RetiredBlushRosy {
+    }
+    number ProposedMagentaJennee {
+    }
+  }
+  "List<hidden_boolean>" QuarrelsomeBeigeAmelie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FamiliarHarlequinLulu {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DefiantAmberRosanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InclinedScarletAlyson {
+    _hidden_value = true
+  }
+  boolean PleasedIndigoDolorita {
+    _hidden_value = true
+  }
+  json MultipleCoralChastity {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CurvedMoccasinJacquie {
+    _hidden_value = true
+  }
+  dummy.AboveJadeAlfi NeatAzureBryna {
+    FineCrimsonPeg = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EvilTomatoKatina = 489
+    AsleepTurquoiseTommi = "To be Frank, I'd have to change my name."
+    CuriousTealReina = "Did you know that protons have mass? I didn't even know they were catholic."
+    WorkingSapphireMarty = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  serviceid_number ViciousWhiteBryn {
+    _hidden_value = true
+  }
+  hidden_boolean VariableBrownDorry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ViolentFuchsiaLydia {
+    _hidden_value = true
+  }
+  json CooperativeTealMadel {
+    _hidden_value = true
+  }
+  hidden_boolean EldestRoseKarry {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string XerothermicEmeraldDeanna {
+    _hidden_value = true
+  }
+  json MedievalAquaKarolina {
+    _hidden_value = true
+  }
+  string NaughtyFuchsiaBertina {
+    _hidden_value = true
+  }
+  dummy.DepressedCoralDasya MassSalmonBobbette {
+    _hidden_value = true
+  }
+  string TotalYellowHailee {
+    _hidden_value = true
+  }
+  boolean ProtestantPinkJoana {
+    _hidden_value = true
+  }
+  boolean TypicalVioletTabatha {
+    _hidden_value = true
+  }
+  hidden_boolean LittleBeigeBidget {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RealMoccasinMarinna {
+    _hidden_value = true
+  }
+  serviceid_number NativeMagentaBertha {
+    _hidden_value = true
+  }
+  string SportingJadeValry {
+    _hidden_value = true
+  }
+  serviceid HeadBlushJeniffer {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VagueAquamarineEvanne {
+    _hidden_value = true
+  }
+  boolean PromisingTealGypsy {
+    _hidden_value = true
+  }
+  serviceid_number AppallingTomatoMargaret {
+    _hidden_value = true
+  }
+  hidden_boolean ParticularTomatoAdelina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NakedRoseBobbye {
+    _hidden_value = true
+  }
+  serviceid_number InternalGreenEmmalynn {
+    _hidden_value = true
+  }
+  SuitableBrownBekki = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RetiredBlushRosy = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  ProposedMagentaJennee = 586
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InternalGreenEmmalynn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NativeMagentaBertha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "QuarrelsomeBeigeAmelie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NeatAzureBryna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NakedRoseBobbye"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DefiantAmberRosanna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AppallingTomatoMargaret"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CooperativeTealMadel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VagueAquamarineEvanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TypicalVioletTabatha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CurvedMoccasinJacquie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProtestantPinkJoana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProposedMagentaJennee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

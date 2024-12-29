@@ -1,0 +1,141 @@
+type dummy.GayBlackGaylene {
+  annotations {
+    serviceid_number LuckySilverDevonne {
+    }
+    boolean HighWhiteEllie {
+    }
+    hidden_boolean MechanicalIvoryEvangeline {
+    }
+    string RomanticAmaranthThalia {
+    }
+    boolean FoolishAquaGuillemette {
+    }
+  }
+  hidden_boolean YelpingCoffeeBarbra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number FondEmeraldAdena {
+    _hidden_value = true
+  }
+  serviceid AdequateSalmonKeri {
+    _hidden_value = true
+  }
+  number CapitalistBlushAnnetta {
+    _hidden_value = true
+  }
+  json EmbarrassingSalmonSusana {
+    _hidden_value = true
+  }
+  serviceid_number QuerulousIvoryArdath {
+    _hidden_value = true
+  }
+  serviceid SpiritualBeigeHermina {
+    _hidden_value = true
+  }
+  number YodellingPinkDaisie {
+    _hidden_value = true
+  }
+  number OperationalAquamarineMonique {
+    _hidden_value = true
+  }
+  number PrintedPeachArlena {
+    _hidden_value = true
+  }
+  json RidiculousSilverMargi {
+    _hidden_value = true
+  }
+  hidden_boolean TenseFuchsiaOthelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean JointBeigeAdena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json IncreasingTealSonnnie {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" OralAmaranthSidonnie {
+    _hidden_value = true
+  }
+  boolean SmartRoseBarb {
+    _hidden_value = true
+  }
+  serviceid AfraidHarlequinKelsey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AfraidSilverNelie {
+    _hidden_value = true
+  }
+  json CurrentCoffeeMyrtice {
+    _hidden_value = true
+  }
+  serviceid_number StandardFuchsiaDelly {
+    _hidden_value = true
+  }
+  serviceid_number HighBeigeKaryl {
+    _hidden_value = true
+  }
+  hidden_boolean HungryMagentaChantalle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.BeneficialCoffeeKacey ExtendedMoccasinMyranda {
+    SurprisingBrownVioletta = 203
+    ZygoticBlueGriselda = "Did you know that protons have mass? I didn't even know they were catholic."
+    InnerBlushNataline = 330
+    LongIndigoRebekkah = "Whoever invented the knock-knock joke should get a no bell prize."
+    AmateurTurquoiseIrita = 371
+    GothicEmeraldNinette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BewilderedPinkCrystie = false
+    LengthyOliveMillie = "Why did the kid cross the playground? To get to the other slide."
+    AshamedLimeKelsi = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    DirtyJadeRhianon = "Dad Im hungry  Hi hungry Im dad"
+    VividYellowElisabet = false
+    EmptyCyanVallie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MissingAmethystSharron = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LiquidBronzeWilly = "Did you know that protons have mass? I didn't even know they were catholic."
+    MilitaryFuchsiaRafaelita = 798
+    StructuralYellowBobbie = true
+    AllegedSapphireShandeigh = "Why didnt the skeleton cross the road? Because he had no guts."
+    CharacteristicBronzeMyrah = "How come the stadium got hot after the game? Because all of the fans left."
+    DualOrangeSisile = "What do you call two barracuda fish?  A Pairacuda!"
+    SlightIvoryAudi = "Why was it called the dark ages? Because of all the knights. "
+    BareLimeMissy = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  LuckySilverDevonne = 521
+  HighWhiteEllie = true
+  RomanticAmaranthThalia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FoolishAquaGuillemette = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AfraidHarlequinKelsey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CapitalistBlushAnnetta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IncreasingTealSonnnie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CurrentCoffeeMyrtice"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,94 @@
+type dummy.PreviousGrayNedda {
+  annotations {
+    hidden_boolean DeliciousAquamarineCaroljean {
+    }
+    serviceid_number IrrelevantIndigoKaycee {
+    }
+    number SelectHarlequinRegine {
+    }
+  }
+  hidden_boolean PeacefulIvoryRosene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean InadequateFuchsiaPearl {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OrganicYellowJaclin {
+    _hidden_value = true
+  }
+  hidden_boolean PrettySapphireJosefa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FondLimeKalindi {
+    _hidden_value = true
+  }
+  number PleasantAmaranthJorie {
+    _hidden_value = true
+  }
+  dummy.LargeGoldMei ClinicalBronzeAgathe {
+    ImmenseCoffeeAmata = "Why is Peter Pan always flying? Because he Neverlands."
+    PublicBlueYalonda = true
+    BindingSilverAngeline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UnpleasantBlackNoreen = false
+    VictoriousPurpleCarmita = 793
+    SpatialGrayFifine = false
+    _hidden_value = true
+  }
+  serviceid FrozenGreenElli {
+    _hidden_value = true
+  }
+  "List<boolean>" UnnecessaryOrangeGianina {
+    _hidden_value = true
+  }
+  boolean YtterbicBrownJacynth {
+    _hidden_value = true
+  }
+  serviceid EasyMoccasinLetti {
+    _hidden_value = true
+  }
+  string ParliamentaryTanIsadora {
+    _hidden_value = true
+  }
+  serviceid DisciplinaryMagentaGeorgeanne {
+    _hidden_value = true
+  }
+  json FavouriteAquaStephannie {
+    _hidden_value = true
+  }
+  string BasicCrimsonHedvige {
+    _hidden_value = true
+  }
+  IrrelevantIndigoKaycee = 926
+  SelectHarlequinRegine = 680
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InadequateFuchsiaPearl"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FavouriteAquaStephannie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EasyMoccasinLetti"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SelectHarlequinRegine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

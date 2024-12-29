@@ -1,0 +1,106 @@
+type dummy.FeministHarlequinSonny {
+  annotations {
+    string MeltedAmethystTheresita {
+    }
+    json HappyVioletSibylle {
+    }
+    hidden_boolean DivineGrayKerry {
+    }
+    string TallLimeTarra {
+    }
+    serviceid_number BrokenLavenderHestia {
+    }
+  }
+  boolean FoolishHarlequinMab {
+    _hidden_value = true
+  }
+  number ZygoticAzureFlorella {
+    _hidden_value = true
+  }
+  hidden_boolean BusyCrimsonReyna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LeftBrownDarlene {
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedCopperAlix {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TremendousBlackMarjory {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RottenSapphireDamara {
+    _hidden_value = true
+  }
+  json DeliberateCoffeeMeridith {
+    _hidden_value = true
+  }
+  boolean InteriorCyanDesdemona {
+    _hidden_value = true
+  }
+  serviceid DisappointedFuchsiaArdith {
+    _hidden_value = true
+  }
+  string PastBronzeAntonina {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" RelaxedScarletCyndie {
+    _hidden_value = true
+  }
+  number MusicalTanEmelda {
+    _hidden_value = true
+  }
+  serviceid ReadyAmethystEdiva {
+    _hidden_value = true
+  }
+  serviceid MetropolitanWhiteAlexandra {
+    _hidden_value = true
+  }
+  boolean ElaborateApricotAbby {
+    _hidden_value = true
+  }
+  json ProfoundSilverCallida {
+    _hidden_value = true
+  }
+  serviceid_number PerfectWhiteLana {
+    _hidden_value = true
+  }
+  MeltedAmethystTheresita = "Dad Im hungry  Hi hungry Im dad"
+  HappyVioletSibylle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TallLimeTarra = "A steak pun is a rare medium well done."
+  BrokenLavenderHestia = 861
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PerfectWhiteLana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PastBronzeAntonina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisappointedFuchsiaArdith"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RottenSapphireDamara"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LeftBrownDarlene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,30 @@
+type dummy.MistyBronzeDorene {
+  annotations {
+    string MarkedJadeKris {
+    }
+    boolean ExcessTomatoArabela {
+    }
+    json IntactCopperBelle {
+    }
+    boolean BeautifulAmberCatherin {
+    }
+    number SharpPinkJanelle {
+    }
+  }
+  boolean HuskyPeachBeverley {
+    _hidden_value = true
+  }
+  MarkedJadeKris = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExcessTomatoArabela = true
+  IntactCopperBelle = "Dad Im hungry  Hi hungry Im dad"
+  BeautifulAmberCatherin = false
+  SharpPinkJanelle = 857
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MarkedJadeKris"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

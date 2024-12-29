@@ -1,0 +1,40 @@
+type dummy.JustCyanColetta {
+  annotations {
+    dummy.MobileTurquoiseDede ParentalAmaranthFlori {
+    }
+    dummy.DEFAULT TraditionalBeigeLonee {
+    }
+    number CombinedCoffeeAllissa {
+    }
+    string PeacefulAquamarineRonnie {
+    }
+    boolean AdditionalChocolateLonna {
+    }
+    number FilthyPurpleJune {
+    }
+  }
+  number ReadyRedOfella {
+    _hidden_value = true
+  }
+  ParentalAmaranthFlori = "Im only familiar with 25 letters in the English language. I dont know why."
+  TraditionalBeigeLonee = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  CombinedCoffeeAllissa = 4
+  PeacefulAquamarineRonnie = "Why is Peter Pan always flying? Because he Neverlands."
+  AdditionalChocolateLonna = true
+  FilthyPurpleJune = 841
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CombinedCoffeeAllissa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ParentalAmaranthFlori"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

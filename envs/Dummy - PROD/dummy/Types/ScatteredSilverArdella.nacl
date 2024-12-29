@@ -1,0 +1,120 @@
+type dummy.ScatteredSilverArdella {
+  annotations {
+    boolean ViolentRedJobie {
+    }
+    string ConvenientIndigoNonnah {
+    }
+    dummy.DEFAULT FineGreenNance {
+    }
+    json SimpleBeigeOla {
+    }
+  }
+  boolean LoyalBrownLindsay {
+    _hidden_value = true
+  }
+  boolean ScornfulCoffeeRuperta {
+    _hidden_value = true
+  }
+  string StandardIndigoAlverta {
+    _hidden_value = true
+  }
+  boolean LtdYellowKatee {
+    _hidden_value = true
+  }
+  boolean EligibleOrangeLavina {
+    _hidden_value = true
+  }
+  dummy.DualFuchsiaMarget MarvellousTanKarlee {
+    IllScarletMagdaia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BeneficialMaroonRuthy = "Dad Im hungry  Hi hungry Im dad"
+    CapitalistBrownLexis = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    ZygomorphicRedKarry = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GrowingAmaranthTamar = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AshamedApricotAshli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HonGreenUrsa = 94
+    VisitingCoralRochette = "Slept like a log last night  woke up in the fireplace."
+    GothicScarletEvita = "Dad Im hungry  Hi hungry Im dad"
+    UnusualCoffeeBobbie = 316
+    SouthernEmeraldErinn = 259
+    ElectricBlushAmalie = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean PsychologicalMaroonRahel {
+    _hidden_value = true
+  }
+  hidden_boolean HonestPeachKali {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ProspectiveCrimsonAngelita {
+    _hidden_value = true
+  }
+  string AppropriateYellowElectra {
+    _hidden_value = true
+  }
+  boolean JustAquamarineVeronique {
+    _hidden_value = true
+  }
+  serviceid_number ConsciousTealCarmella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UltimateCopperEveleen {
+    _hidden_value = true
+  }
+  serviceid BindingHarlequinBarby {
+    _hidden_value = true
+  }
+  json HomelessPurpleClarey {
+    _hidden_value = true
+  }
+  json SelectiveCyanTammara {
+    _hidden_value = true
+  }
+  serviceid_number YtterbicBeigeNancee {
+    _hidden_value = true
+  }
+  ViolentRedJobie = true
+  ConvenientIndigoNonnah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FineGreenNance = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  SimpleBeigeOla = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ScornfulCoffeeRuperta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HomelessPurpleClarey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConsciousTealCarmella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HonestPeachKali"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PsychologicalMaroonRahel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SimpleBeigeOla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

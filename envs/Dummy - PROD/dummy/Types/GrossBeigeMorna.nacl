@@ -1,0 +1,119 @@
+type dummy.GrossBeigeMorna {
+  annotations {
+    boolean TerritorialBlushRana {
+    }
+    string GrievingFuchsiaOlivette {
+    }
+    dummy.BurningOrangeJudith FreshEmeraldFranni {
+    }
+    serviceid_number SlipperyEmeraldMary {
+    }
+    json ShockedRedAstrid {
+    }
+    boolean ExclusiveIndigoRaychel {
+    }
+  }
+  string DoubleAmethystManda {
+    _hidden_value = true
+  }
+  serviceid UgliestSilverNeille {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalBlueHelenelizabeth {
+    _hidden_value = true
+  }
+  serviceid_number AppallingSalmonFilippa {
+    _hidden_value = true
+  }
+  serviceid_number SaltyAmberNisse {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PanickyLimeGeralda {
+    _hidden_value = true
+  }
+  boolean SensibleAzurePia {
+    _hidden_value = true
+  }
+  serviceid_number YammeringSapphireMeta {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalCrimsonOriana {
+    _hidden_value = true
+  }
+  boolean SwiftHarlequinMicky {
+    _hidden_value = true
+  }
+  boolean HollowChocolateGinnie {
+    _hidden_value = true
+  }
+  serviceid_number NobleRedIleane {
+    _hidden_value = true
+  }
+  dummy.PlannedBlueLotti HeavyCrimsonNicolle {
+    SatisfactoryBronzeMerlina = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  serviceid_number SelectiveMaroonTess {
+    _hidden_value = true
+  }
+  serviceid_number ExcessiveAmberYoshi {
+    _hidden_value = true
+  }
+  serviceid_number SensitiveEmeraldAnastassia {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentCoralTyne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ShortRoseSosanna UnemployedBrownAmy {
+    RomanticCopperMerrily = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  boolean NosyRedRoxanna {
+    _hidden_value = true
+  }
+  json DramaticGreenKassia {
+    _hidden_value = true
+  }
+  boolean TastelessGreenCodie {
+    _hidden_value = true
+  }
+  TerritorialBlushRana = true
+  GrievingFuchsiaOlivette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FreshEmeraldFranni = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SlipperyEmeraldMary = 7
+  ShockedRedAstrid = "Slept like a log last night  woke up in the fireplace."
+  ExclusiveIndigoRaychel = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AppallingSalmonFilippa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnemployedBrownAmy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DramaticGreenKassia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShockedRedAstrid"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExclusiveIndigoRaychel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,85 @@
+type dummy.SkilledBlackJoceline {
+  annotations {
+    boolean ConstantGreenMercedes {
+    }
+    hidden_boolean ExperiencedBlueShelia {
+    }
+    number SpontaneousBronzeJada {
+    }
+    json ZanyAzureBlanch {
+    }
+  }
+  number QuietBrownGwen {
+    _hidden_value = true
+  }
+  boolean ExtraTomatoMaryellen {
+    _hidden_value = true
+  }
+  hidden_boolean DeadAquamarineEm {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RoyalEmeraldJosie {
+    _hidden_value = true
+  }
+  string LocalGrayMalva {
+    _hidden_value = true
+  }
+  boolean DeafMagentaAngelika {
+    _hidden_value = true
+  }
+  json AvailableTurquoisePauline {
+    _hidden_value = true
+  }
+  boolean DomesticEmeraldKiah {
+    _hidden_value = true
+  }
+  "List<serviceid>" VocalPinkFranky {
+    _hidden_value = true
+  }
+  serviceid StickyWhiteLacy {
+    _hidden_value = true
+  }
+  serviceid ContinuingBlackHedwig {
+    _hidden_value = true
+  }
+  ConstantGreenMercedes = true
+  SpontaneousBronzeJada = 2
+  ZanyAzureBlanch = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ContinuingBlackHedwig"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DeafMagentaAngelika"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "QuietBrownGwen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RoyalEmeraldJosie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExtraTomatoMaryellen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZanyAzureBlanch"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

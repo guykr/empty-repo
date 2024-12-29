@@ -1,0 +1,104 @@
+type dummy.RoughTurquoiseSorcha {
+  annotations {
+    boolean ProbablePinkCandis {
+    }
+    serviceid_number FunnyCrimsonElaine {
+    }
+    serviceid JollyEmeraldChelsea {
+    }
+    json StrategicIvoryRanee {
+    }
+  }
+  string BreezyGrayKathrine {
+    _hidden_value = true
+  }
+  string CorrectSapphireMonika {
+    _hidden_value = true
+  }
+  serviceid_number EasyTomatoChris {
+    _hidden_value = true
+  }
+  serviceid_number LuckyTurquoiseNanny {
+    _hidden_value = true
+  }
+  json WittyPeachFlorence {
+    _hidden_value = true
+  }
+  number DisappointedBeigeRubie {
+    _hidden_value = true
+  }
+  json JollyAzureNonna {
+    _hidden_value = true
+  }
+  boolean NearGreenSharline {
+    _hidden_value = true
+  }
+  boolean StrictBlackDianemarie {
+    _hidden_value = true
+  }
+  dummy.AvailableMaroonCarlotta FierceMoccasinLelia {
+    DamagedIvoryKristal = 22
+    IndustrialVioletCosette = 639
+    NovelCoralGae = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WorkingChocolateMarlo = true
+    ElderlyPurpleTraci = 477
+    ZonalRedHilde = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CleverPlumBerenice = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ComparativeOrangeDarda = "Did you know that protons have mass? I didn't even know they were catholic."
+    GrossCrimsonEmili = "Slept like a log last night  woke up in the fireplace."
+    AdvancedCrimsonDorolisa = "Why is Peter Pan always flying? Because he Neverlands."
+    MonetaryPeachEmmeline = "Dad Im hungry  Hi hungry Im dad"
+    SquareCopperMara = 631
+    MeanSalmonShawnee = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  hidden_boolean CapitalistPurpleClair {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SpecifiedCopperSusann {
+    _hidden_value = true
+  }
+  number SignificantIvoryRuthe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HomelessAquamarineAilene {
+    _hidden_value = true
+  }
+  serviceid KnownCoffeeMadlin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CasualMoccasinAnnecorinne {
+    _hidden_value = true
+  }
+  serviceid_number ClearBeigeAriana {
+    _hidden_value = true
+  }
+  json SpottyCoffeeIvy {
+    _hidden_value = true
+  }
+  string ExcitingSapphireTory {
+    _hidden_value = true
+  }
+  json ExtraOrangeArlena {
+    _hidden_value = true
+  }
+  json GreatIvoryRosalie {
+    _hidden_value = true
+  }
+  ProbablePinkCandis = true
+  FunnyCrimsonElaine = 585
+  JollyEmeraldChelsea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StrategicIvoryRanee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "KnownCoffeeMadlin"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

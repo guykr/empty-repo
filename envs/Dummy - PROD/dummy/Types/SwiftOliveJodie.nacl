@@ -1,0 +1,45 @@
+type dummy.SwiftOliveJodie {
+  annotations {
+    serviceid PreferredCyanGunilla {
+    }
+    number ExtraPlumTandie {
+    }
+    boolean RuralCyanJoane {
+    }
+    number CompleteVioletLesli {
+    }
+    serviceid MidCopperCarlita {
+    }
+  }
+  number RecentCopperOralee {
+    _hidden_value = true
+  }
+  dummy.SourBlueDayna HistoricalCyanCassandry {
+    _hidden_value = true
+  }
+  json TropicalAmaranthAlexine {
+    _hidden_value = true
+  }
+  serviceid HomelyJadeDael {
+    _hidden_value = true
+  }
+  boolean FrozenAquaDe {
+    _hidden_value = true
+  }
+  string ObviousBlackEvangelina {
+    _hidden_value = true
+  }
+  PreferredCyanGunilla = "Slept like a log last night  woke up in the fireplace."
+  ExtraPlumTandie = 445
+  RuralCyanJoane = true
+  CompleteVioletLesli = 237
+  MidCopperCarlita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrozenAquaDe"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

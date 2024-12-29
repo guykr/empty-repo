@@ -1,0 +1,70 @@
+type dummy.InevitableWhiteJoellyn {
+  annotations {
+    string RacialChocolateDebby {
+    }
+    serviceid_number MiddleSalmonAntonina {
+    }
+    serviceid StrictTurquoiseWilie {
+    }
+  }
+  number RollingIndigoLil {
+    _hidden_value = true
+  }
+  number OlympicRoseNedi {
+    _hidden_value = true
+  }
+  json ScornfulBlueSusan {
+    _hidden_value = true
+  }
+  string WittySilverNatalya {
+    _hidden_value = true
+  }
+  string EldestAquaJill {
+    _hidden_value = true
+  }
+  hidden_boolean GorgeousCoffeeAmandie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DizzyLimeLissy {
+    _hidden_value = true
+  }
+  serviceid NativeCrimsonNorina {
+    _hidden_value = true
+  }
+  boolean RelaxedBrownMaye {
+    _hidden_value = true
+  }
+  json BoredBlueDulciana {
+    _hidden_value = true
+  }
+  string EmbarrassedIndigoLindsey {
+    _hidden_value = true
+  }
+  number CrowdedHarlequinFilippa {
+    _hidden_value = true
+  }
+  serviceid_number TightAquamarineConstancia {
+    _hidden_value = true
+  }
+  serviceid RipeAquamarineLea {
+    _hidden_value = true
+  }
+  RacialChocolateDebby = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MiddleSalmonAntonina = 587
+  StrictTurquoiseWilie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BoredBlueDulciana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EmbarrassedIndigoLindsey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

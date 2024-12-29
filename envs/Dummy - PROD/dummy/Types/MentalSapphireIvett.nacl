@@ -1,0 +1,93 @@
+type dummy.MentalSapphireIvett {
+  annotations {
+    serviceid_number ConsiderableBronzeSofie {
+    }
+    hidden_boolean CoolTanThalia {
+    }
+    dummy.DEFAULT RespectiveCrimsonKaylil {
+    }
+    json ZippyFuchsiaBeverley {
+    }
+    boolean StraightAmberTobe {
+    }
+    string ChemicalTanCorrina {
+    }
+    serviceid_number CoolMaroonEmmey {
+    }
+    serviceid LegislativeAmberAlicia {
+    }
+  }
+  serviceid RequiredBlushMaren {
+    _hidden_value = true
+  }
+  serviceid_number XenogeneicRoseAnya {
+    _hidden_value = true
+  }
+  serviceid UptightAmethystMabel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DiplomaticAquamarineRafaela {
+    _hidden_value = true
+  }
+  json JoyousAquamarineAlvinia {
+    _hidden_value = true
+  }
+  serviceid ProgressiveSapphireCarita {
+    _hidden_value = true
+  }
+  "List<boolean>" ConvincingRedLorianna {
+    _hidden_value = true
+  }
+  json SmilingIndigoRanda {
+    _hidden_value = true
+  }
+  json WidespreadBlueEvangelin {
+    _hidden_value = true
+  }
+  serviceid_number MoaningGreenMarlee {
+    _hidden_value = true
+  }
+  boolean GleamingOrangeHaley {
+    _hidden_value = true
+  }
+  number ColorfulOliveCeciley {
+    _hidden_value = true
+  }
+  number ContinuedBrownJulia {
+    _hidden_value = true
+  }
+  ConsiderableBronzeSofie = 685
+  RespectiveCrimsonKaylil = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  ZippyFuchsiaBeverley = "Did you know that protons have mass? I didn't even know they were catholic."
+  StraightAmberTobe = true
+  ChemicalTanCorrina = "Whoever invented the knock-knock joke should get a no bell prize."
+  CoolMaroonEmmey = 516
+  LegislativeAmberAlicia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UptightAmethystMabel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RequiredBlushMaren"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "XenogeneicRoseAnya"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LegislativeAmberAlicia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

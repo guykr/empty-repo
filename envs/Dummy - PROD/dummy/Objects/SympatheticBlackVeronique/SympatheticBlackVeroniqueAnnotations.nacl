@@ -1,0 +1,98 @@
+type dummy.SympatheticBlackVeronique {
+  annotations {
+    serviceid EmbarrassedGrayMavis {
+    }
+    boolean ImportantSilverCheslie {
+    }
+    serviceid_number SecondaryCoralKalie {
+    }
+    dummy.GenuineWhiteShaina ArchitecturalCoffeePearle {
+    }
+    string UnnecessaryAmethystKellia {
+    }
+    json ImpressiveMagentaDeonne {
+    }
+    string AccessibleChocolateSherye {
+    }
+    boolean PrettyGoldHattie {
+    }
+    serviceid ForwardPinkGlennis {
+    }
+    serviceid IdenticalPurpleAubrey {
+    }
+    dummy.VicariousYellowGabriel CoolJadeJennilee {
+    }
+    hidden_boolean SweetApricotCaressa {
+    }
+    serviceid_number AwkwardAzureDenice {
+    }
+    string PrettyGrayEbonee {
+    }
+    serviceid_number ViolentCyanKatine {
+    }
+    boolean AcademicTanOlenka {
+    }
+    boolean SensitiveTurquoiseLola {
+    }
+    boolean SecretSilverAileen {
+    }
+    dummy.GiganticMoccasinDagmar IntimateJadeEbony {
+    }
+    hidden_boolean OuterHarlequinZahara {
+    }
+    serviceid_number AdministrativeRedPrissie {
+    }
+    serviceid_number NoisyBeigeBonita {
+    }
+    serviceid InterestingAmethystAlene {
+    }
+  }
+  EmbarrassedGrayMavis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ImportantSilverCheslie = false
+  SecondaryCoralKalie = 993
+  UnnecessaryAmethystKellia = "I'll tell you what often gets over looked... garden fences."
+  ImpressiveMagentaDeonne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AccessibleChocolateSherye = "I'll tell you what often gets over looked... garden fences."
+  PrettyGoldHattie = false
+  ForwardPinkGlennis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  IdenticalPurpleAubrey = "What do you call two barracuda fish?  A Pairacuda!"
+  AwkwardAzureDenice = 18
+  PrettyGrayEbonee = "Why did the kid cross the playground? To get to the other slide."
+  ViolentCyanKatine = 975
+  AcademicTanOlenka = false
+  SensitiveTurquoiseLola = false
+  SecretSilverAileen = false
+  AdministrativeRedPrissie = 224
+  NoisyBeigeBonita = 97
+  InterestingAmethystAlene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _important_values = [
+    {
+      value = "ChronicBlueMelisse"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IntimateJadeEbony"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IdenticalPurpleAubrey"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SecondaryCoralKalie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OuterHarlequinZahara"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "SympatheticBlackVeronique_alias"
+}

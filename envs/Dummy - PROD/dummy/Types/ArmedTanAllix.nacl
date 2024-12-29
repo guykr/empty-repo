@@ -1,0 +1,26 @@
+type dummy.ArmedTanAllix {
+  annotations {
+    string OddPeachJeniffer {
+    }
+    hidden_boolean HugeCrimsonChloris {
+    }
+    hidden_boolean DefeatedAmberEmmalynne {
+    }
+    json FriendlyAmberRhetta {
+    }
+    dummy.DEFAULT VisitingBlushVernice {
+    }
+    serviceid_number ChronicTealLinnell {
+    }
+  }
+  serviceid_number CognitiveAzureGale {
+    _hidden_value = true
+  }
+  OddPeachJeniffer = "Why did the kid cross the playground? To get to the other slide."
+  FriendlyAmberRhetta = "What do you call two barracuda fish?  A Pairacuda!"
+  VisitingBlushVernice = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  ChronicTealLinnell = 97
+  _hidden_value = true
+}

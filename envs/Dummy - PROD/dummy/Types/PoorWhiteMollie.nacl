@@ -1,0 +1,142 @@
+type dummy.PoorWhiteMollie {
+  annotations {
+    serviceid_number FlexibleGraySephira {
+    }
+    number FrailOliveAlana {
+    }
+    dummy.DEFAULT DualCoralLona {
+    }
+    hidden_boolean WanderingTurquoiseAlexa {
+    }
+    boolean CorrectSapphireCodie {
+    }
+    hidden_boolean ObligedVioletKippie {
+    }
+    serviceid GrandCopperCon {
+    }
+  }
+  serviceid FunnyEmeraldKarlene {
+    _hidden_value = true
+  }
+  serviceid ElectoralAquamarineDeana {
+    _hidden_value = true
+  }
+  hidden_boolean CausalPinkKriste {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AcceptableGrayDahlia {
+    _hidden_value = true
+  }
+  string DefensiveJadeJean {
+    _hidden_value = true
+  }
+  hidden_boolean AliveYellowNikkie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string NeutralRoseMarin {
+    _hidden_value = true
+  }
+  serviceid_number EnormousAmberSherilyn {
+    _hidden_value = true
+  }
+  dummy.GayLimeBernete UrbanGrayElisa {
+    InquisitiveAmethystPhilly = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ConsistentCyanDaphene = 921
+    SeniorTanMagda = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StrongChocolateAmity = 830
+    NearbyVioletRasia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ResidentYellowKore = "Whoever invented the knock-knock joke should get a no bell prize."
+    ViciousBlueNariko = 270
+    ColdAzureHannie = 303
+    BroadAquamarineBrenda = 716
+    AutomaticGoldAmber = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  serviceid_number FrozenOliveElset {
+    _hidden_value = true
+  }
+  boolean WildAmberMonique {
+    _hidden_value = true
+  }
+  serviceid_number ActiveBlushKimmi {
+    _hidden_value = true
+  }
+  hidden_boolean OlympicTurquoiseDeeann {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json LonelyGrayBianca {
+    _hidden_value = true
+  }
+  hidden_boolean RisingCopperSalomi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ShockedBronzeLeia {
+    _hidden_value = true
+  }
+  boolean ComplexAmaranthCarlee {
+    _hidden_value = true
+  }
+  string VerbalVioletKyrstin {
+    _hidden_value = true
+  }
+  json FamiliarMaroonBunnie {
+    _hidden_value = true
+  }
+  FlexibleGraySephira = 233
+  FrailOliveAlana = 63
+  DualCoralLona = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  CorrectSapphireCodie = false
+  GrandCopperCon = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrozenOliveElset"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CausalPinkKriste"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LonelyGrayBianca"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EnormousAmberSherilyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElectoralAquamarineDeana"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FamiliarMaroonBunnie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DualCoralLona"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

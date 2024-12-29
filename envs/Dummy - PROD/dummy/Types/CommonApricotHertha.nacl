@@ -1,0 +1,35 @@
+type dummy.CommonApricotHertha {
+  annotations {
+    boolean SorryOliveRonny {
+    }
+    string RudeIvoryZorine {
+    }
+    dummy.RaspyScarletBlair NavalPurpleLaryssa {
+    }
+    hidden_boolean PoliteEmeraldBrina {
+    }
+    serviceid_number ColossalBronzeBenedicta {
+    }
+    boolean QuickestChocolateInesita {
+    }
+  }
+  string EndlessVioletLavina {
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIndigoAddi {
+    _hidden_value = true
+  }
+  SorryOliveRonny = true
+  RudeIvoryZorine = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NavalPurpleLaryssa = 400
+  ColossalBronzeBenedicta = 135
+  QuickestChocolateInesita = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ColossalBronzeBenedicta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

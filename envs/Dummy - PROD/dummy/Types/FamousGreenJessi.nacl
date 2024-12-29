@@ -1,0 +1,139 @@
+type dummy.FamousGreenJessi {
+  annotations {
+    dummy.XenaciousIvoryAnastassia WastefulPurpleHarmony {
+    }
+    number FormidableCyanUrsulina {
+    }
+    serviceid_number TheoreticalRoseSaloma {
+    }
+    dummy.DEFAULT LogicalAquamarineAva {
+    }
+    serviceid_number AfraidIndigoAurelea {
+    }
+  }
+  number IncredibleGrayCinnamon {
+    _hidden_value = true
+  }
+  number SlowTanVinita {
+    _hidden_value = true
+  }
+  hidden_boolean DrabBlackEthelind {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AdvisoryBrownMarinna {
+    _hidden_value = true
+  }
+  boolean ArtificialRoseHaley {
+    _hidden_value = true
+  }
+  number WoodenAquamarineHelge {
+    _hidden_value = true
+  }
+  json PetiteJadeJaquith {
+    _hidden_value = true
+  }
+  serviceid_number VivaciousJadeTootsie {
+    _hidden_value = true
+  }
+  boolean SupremeVioletSileas {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarAmethystHolli {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json VariedSalmonBerry {
+    _hidden_value = true
+  }
+  serviceid SpectacularRedBelita {
+    _hidden_value = true
+  }
+  boolean RelaxedVioletGwendolin {
+    _hidden_value = true
+  }
+  number MentalMaroonQuentin {
+    _hidden_value = true
+  }
+  serviceid DesirableTomatoMaddie {
+    _hidden_value = true
+  }
+  serviceid ScrawnyTanAvrit {
+    _hidden_value = true
+  }
+  string LegislativeBeigeDasha {
+    _hidden_value = true
+  }
+  serviceid DistantLavenderLilian {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuddenLavenderDareen {
+    _hidden_value = true
+  }
+  number HealthyMagentaLorrin {
+    _hidden_value = true
+  }
+  string DrivingTealBarbara {
+    _hidden_value = true
+  }
+  serviceid PrimitiveAmaranthJanis {
+    _hidden_value = true
+  }
+  serviceid_number PatientBrownTiena {
+    _hidden_value = true
+  }
+  hidden_boolean InquisitiveYellowPeggie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WastefulPurpleHarmony = "A steak pun is a rare medium well done."
+  FormidableCyanUrsulina = 770
+  TheoreticalRoseSaloma = 581
+  LogicalAquamarineAva = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  AfraidIndigoAurelea = 234
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HealthyMagentaLorrin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PetiteJadeJaquith"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AdvisoryBrownMarinna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VariedSalmonBerry"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RelaxedVioletGwendolin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SuddenLavenderDareen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AfraidIndigoAurelea"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

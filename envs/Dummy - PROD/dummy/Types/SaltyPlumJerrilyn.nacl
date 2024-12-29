@@ -1,0 +1,46 @@
+type dummy.SaltyPlumJerrilyn {
+  annotations {
+    hidden_boolean CausalScarletAstrix {
+    }
+    serviceid IntelligentIvoryMiquela {
+    }
+  }
+  "List<string>" VaryingMagentaJenny {
+    _hidden_value = true
+  }
+  json SpotlessMoccasinGrazia {
+    _hidden_value = true
+  }
+  serviceid UnderlyingBrownEmalia {
+    _hidden_value = true
+  }
+  boolean AlertAmberDenys {
+    _hidden_value = true
+  }
+  serviceid ChubbyBlackCrystal {
+    _hidden_value = true
+  }
+  json GayOrangeLilas {
+    _hidden_value = true
+  }
+  string NegativeMaroonConsuelo {
+    _hidden_value = true
+  }
+  serviceid WilyRoseLiane {
+    _hidden_value = true
+  }
+  IntelligentIvoryMiquela = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ChubbyBlackCrystal"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AlertAmberDenys"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

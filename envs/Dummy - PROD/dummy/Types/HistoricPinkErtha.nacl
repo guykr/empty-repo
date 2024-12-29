@@ -1,0 +1,30 @@
+type dummy.HistoricPinkErtha {
+  annotations {
+    serviceid_number InevitableGreenKeely {
+    }
+    number LongOrangeAva {
+    }
+    json ChiefAquaMelany {
+    }
+    serviceid_number StrongPinkAlli {
+    }
+    string JustCoffeeMaurizia {
+    }
+  }
+  string ParticularSilverEugenie {
+    _hidden_value = true
+  }
+  InevitableGreenKeely = 722
+  LongOrangeAva = 137
+  ChiefAquaMelany = "Slept like a log last night  woke up in the fireplace."
+  StrongPinkAlli = 462
+  JustCoffeeMaurizia = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JustCoffeeMaurizia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

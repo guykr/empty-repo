@@ -1,0 +1,99 @@
+type dummy.PrintedCoffeeNoelle {
+  annotations {
+    number XenogeneicLavenderJamima {
+    }
+    number TiredTealLynda {
+    }
+    hidden_boolean YappyCoffeeBarb {
+    }
+    hidden_boolean BlindFuchsiaAntonia {
+    }
+    boolean SpiritualPlumMerna {
+    }
+    json NavalLavenderBerri {
+    }
+  }
+  hidden_boolean MuteAquaNancy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AgriculturalBlackJulia {
+    _hidden_value = true
+  }
+  boolean SignificantPinkKessiah {
+    _hidden_value = true
+  }
+  hidden_boolean RulingOrangeTallulah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcceptedChocolateDdene {
+    _hidden_value = true
+  }
+  string CleverIvoryNertie {
+    _hidden_value = true
+  }
+  serviceid_number ZoophagousBrownLelah {
+    _hidden_value = true
+  }
+  number SpontaneousMaroonSharity {
+    _hidden_value = true
+  }
+  number BraveLimeChantalle {
+    _hidden_value = true
+  }
+  number MildAmaranthArlette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EntireMoccasinTrudie {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RegisteredBlackHeddie {
+    _hidden_value = true
+  }
+  boolean TopMoccasinReta {
+    _hidden_value = true
+  }
+  json LegalPinkValerie {
+    _hidden_value = true
+  }
+  serviceid_number ThirstyApricotJessica {
+    _hidden_value = true
+  }
+  XenogeneicLavenderJamima = 927
+  TiredTealLynda = 717
+  SpiritualPlumMerna = false
+  NavalLavenderBerri = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MuteAquaNancy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ZoophagousBrownLelah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RegisteredBlackHeddie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NavalLavenderBerri"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YappyCoffeeBarb"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

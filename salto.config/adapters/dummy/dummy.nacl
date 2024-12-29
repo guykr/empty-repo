@@ -6,7 +6,7 @@ dummy {
   numOfMapChunks = 3
   numOfProfiles = 0
   numOfTypes = 496
-  maxRank = 9
+  maxRank = 8
   primitiveFieldFreq = 0.349
   builtinFieldFreq = 0.56
   listFieldFreq = 0.0272

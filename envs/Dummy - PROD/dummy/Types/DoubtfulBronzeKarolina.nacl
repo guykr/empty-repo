@@ -1,0 +1,87 @@
+type dummy.DoubtfulBronzeKarolina {
+  annotations {
+    string FrozenMagentaWynnie {
+    }
+    number UselessGreenLeyla {
+    }
+    json EagerCopperKara {
+    }
+    serviceid_number FilthyScarletChloette {
+    }
+    serviceid_number AverageLimeAundrea {
+    }
+    hidden_boolean SelfishHarlequinPaolina {
+    }
+  }
+  string SharedWhiteTasha {
+    _hidden_value = true
+  }
+  serviceid_number TastyAmberMarsiella {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardVioletMelodee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DistinctivePinkNada {
+    _hidden_value = true
+  }
+  number EasyPinkWinonah {
+    _hidden_value = true
+  }
+  json ChronicBeigeCarlota {
+    _hidden_value = true
+  }
+  json UrbanMaroonMallissa {
+    _hidden_value = true
+  }
+  string AdjacentPinkTressa {
+    _hidden_value = true
+  }
+  serviceid_number AwareFuchsiaEryn {
+    _hidden_value = true
+  }
+  serviceid ArtisticIndigoAnia {
+    _hidden_value = true
+  }
+  serviceid FascinatingTurquoiseGuendolen {
+    _hidden_value = true
+  }
+  number BreezyLimeClaresta {
+    _hidden_value = true
+  }
+  boolean LowLavenderRubie {
+    _hidden_value = true
+  }
+  serviceid_number MarriedTomatoLil {
+    _hidden_value = true
+  }
+  serviceid_number OrdinaryBeigeRoseann {
+    _hidden_value = true
+  }
+  string BalancedGoldManya {
+    _hidden_value = true
+  }
+  boolean SpiritualBlushLaurette {
+    _hidden_value = true
+  }
+  FrozenMagentaWynnie = "How come the stadium got hot after the game? Because all of the fans left."
+  UselessGreenLeyla = 985
+  EagerCopperKara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FilthyScarletChloette = 533
+  AverageLimeAundrea = 662
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FrozenMagentaWynnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UselessGreenLeyla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

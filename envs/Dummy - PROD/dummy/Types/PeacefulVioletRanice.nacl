@@ -1,0 +1,67 @@
+type dummy.PeacefulVioletRanice {
+  annotations {
+    string PerfectTealAlis {
+    }
+    hidden_boolean NarrowEmeraldKippy {
+    }
+    number MilitaryMaroonKimmy {
+    }
+    json DisturbingIvoryApril {
+    }
+    boolean AnnoyedEmeraldAlyssa {
+    }
+  }
+  boolean SexualMagentaPollyanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrongSalmonPhilis {
+    _hidden_value = true
+  }
+  boolean CorporatePurpleCathyleen {
+    _hidden_value = true
+  }
+  string TechnologicalMagentaFanechka {
+    _hidden_value = true
+  }
+  number AnnoyedMoccasinBetty {
+    _hidden_value = true
+  }
+  "List<serviceid>" StrongBeigeAlberta {
+    _hidden_value = true
+  }
+  hidden_boolean ZestfulGrayVita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PetiteTealShaylynn {
+    _hidden_value = true
+  }
+  serviceid CompetitiveOliveAllene {
+    _hidden_value = true
+  }
+  hidden_boolean RearPlumDe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PerfectTealAlis = "Why did the kid cross the playground? To get to the other slide."
+  MilitaryMaroonKimmy = 295
+  DisturbingIvoryApril = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AnnoyedEmeraldAlyssa = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StrongSalmonPhilis"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AnnoyedEmeraldAlyssa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

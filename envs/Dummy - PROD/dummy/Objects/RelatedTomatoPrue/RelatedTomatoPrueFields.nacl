@@ -1,0 +1,17 @@
+type dummy.RelatedTomatoPrue {
+  "List<serviceid>" BroadPurpleAlena {
+  }
+  boolean StatutoryBronzeAdan {
+  }
+  string UnsightlyWhiteSella {
+  }
+  string XenialCopperLeesa {
+  }
+  hidden_boolean InherentCoralChrystal {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string CrudeCopperTherese {
+  }
+}

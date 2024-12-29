@@ -1,0 +1,117 @@
+type dummy.CompleteVioletAngele {
+  annotations {
+    hidden_boolean LogicalPlumTrula {
+    }
+    serviceid_number OverwhelmingVioletLois {
+    }
+    string SmoothBlushAnnabel {
+    }
+    dummy.HomelessHarlequinValaria YearningApricotBren {
+    }
+    serviceid VerbalCrimsonRandi {
+    }
+    serviceid AngryGoldTisha {
+    }
+    string SpareBlueKamila {
+    }
+  }
+  number WearyScarletBabita {
+    _hidden_value = true
+  }
+  serviceid_number WarmTealGratiana {
+    _hidden_value = true
+  }
+  string IndividualFuchsiaDoralyn {
+    _hidden_value = true
+  }
+  json PleasedAmberHedvig {
+    _hidden_value = true
+  }
+  number ZestfulSilverWaneta {
+    _hidden_value = true
+  }
+  json SurprisingLavenderDana {
+    _hidden_value = true
+  }
+  json ZestfulTanPris {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PhilosophicalBlackAigneis {
+    _hidden_value = true
+  }
+  string InformalAzureDanila {
+    _hidden_value = true
+  }
+  number AttractiveAmberKevina {
+    _hidden_value = true
+  }
+  number VocalBronzeArabella {
+    _hidden_value = true
+  }
+  boolean EmpiricalAmaranthLaureen {
+    _hidden_value = true
+  }
+  hidden_boolean YoungBronzeJenna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SurprisingGoldDorelia {
+    _hidden_value = true
+  }
+  number RelievedPinkLula {
+    _hidden_value = true
+  }
+  number InnovativePurpleTildie {
+    _hidden_value = true
+  }
+  boolean AvailableBronzeGeri {
+    _hidden_value = true
+  }
+  string YabberingFuchsiaLorrie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ContentBlackSella {
+    _hidden_value = true
+  }
+  serviceid OriginalRedKorry {
+    _hidden_value = true
+  }
+  serviceid_number SystematicLavenderLynnelle {
+    _hidden_value = true
+  }
+  OverwhelmingVioletLois = 356
+  SmoothBlushAnnabel = "I'll tell you what often gets over looked... garden fences."
+  YearningApricotBren = "A steak pun is a rare medium well done."
+  VerbalCrimsonRandi = "I'll tell you what often gets over looked... garden fences."
+  AngryGoldTisha = "Why was it called the dark ages? Because of all the knights. "
+  SpareBlueKamila = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WearyScarletBabita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AvailableBronzeGeri"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YoungBronzeJenna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YabberingFuchsiaLorrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InformalAzureDanila"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

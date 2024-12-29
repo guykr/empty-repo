@@ -1,0 +1,41 @@
+type dummy.IncredibleBlueUmeko {
+  annotations {
+    number TenseCrimsonGloriane {
+    }
+    string CostlyYellowCandide {
+    }
+    dummy.SurprisingWhiteHarrietta StandardRedKatrine {
+    }
+    number ColossalSalmonMarje {
+    }
+    number QuickestApricotLorain {
+    }
+    json EqualBlackDomini {
+    }
+    json AppropriateLavenderBeatriz {
+    }
+  }
+  string UnitedCopperPierette {
+    _hidden_value = true
+  }
+  TenseCrimsonGloriane = 566
+  CostlyYellowCandide = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  StandardRedKatrine = true
+  ColossalSalmonMarje = 667
+  QuickestApricotLorain = 789
+  EqualBlackDomini = "Why didnt the skeleton cross the road? Because he had no guts."
+  AppropriateLavenderBeatriz = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AppropriateLavenderBeatriz"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TenseCrimsonGloriane"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

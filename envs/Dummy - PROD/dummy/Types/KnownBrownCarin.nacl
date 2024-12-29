@@ -1,0 +1,118 @@
+type dummy.KnownBrownCarin {
+  annotations {
+    string EvilCoralBride {
+    }
+    dummy.SocialBronzeGerri VividCopperFanny {
+    }
+    boolean ChristianPeachFredrika {
+    }
+    json FlyingOliveJennica {
+    }
+    string ContinuingMagentaGerry {
+    }
+  }
+  dummy.LargeGoldMei XenophobicLimeMiran {
+    ImmenseCoffeeAmata = "Dad Im hungry  Hi hungry Im dad"
+    PublicBlueYalonda = false
+    BindingSilverAngeline = "Why do birds fly south for the winter? Because it's too far to walk."
+    UnpleasantBlackNoreen = false
+    VictoriousPurpleCarmita = 720
+    SpatialGrayFifine = true
+    _hidden_value = true
+  }
+  serviceid_number SecureWhiteMelony {
+    _hidden_value = true
+  }
+  serviceid SuccessiveCoralBerty {
+    _hidden_value = true
+  }
+  json GeneralGreenEbonee {
+    _hidden_value = true
+  }
+  hidden_boolean RattyAzureAstrix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json YoungestAmaranthJaymee {
+    _hidden_value = true
+  }
+  serviceid MoralAquaHatty {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" NearApricotBeatriz {
+    _hidden_value = true
+  }
+  string DecisiveCopperBarb {
+    _hidden_value = true
+  }
+  serviceid YammeringJadePenelope {
+    _hidden_value = true
+  }
+  boolean NaturalLimeCherye {
+    _hidden_value = true
+  }
+  boolean LowWhiteLinell {
+    _hidden_value = true
+  }
+  number EconomicScarletSelinda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InterestingLavenderAnastasie {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialBlushAdelaida {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.HomelessAzureZilvia FantasticAquamarineFarand {
+    PayableRoseTallou = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DullSalmonCynthie = 593
+    UnlikelyTurquoiseSibelle = true
+    CrazyBlackMarthena = "What creature is smarter than a talking parrot? A spelling bee."
+    DetailedBlushAgnes = 408
+    RetiredAzureGoldina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BlankEmeraldMicky = false
+    PremierTomatoAngelique = "I'll tell you what often gets over looked... garden fences."
+    ImmediateAzureKoral = 196
+    _hidden_value = true
+  }
+  number TraditionalIndigoRhoda {
+    _hidden_value = true
+  }
+  serviceid_number DeliberateTealAshlen {
+    _hidden_value = true
+  }
+  boolean RetiredOrangeVanda {
+    _hidden_value = true
+  }
+  EvilCoralBride = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  VividCopperFanny = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ChristianPeachFredrika = false
+  FlyingOliveJennica = "I'll tell you what often gets over looked... garden fences."
+  ContinuingMagentaGerry = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YammeringJadePenelope"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LowWhiteLinell"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GeneralGreenEbonee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DeliberateTealAshlen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

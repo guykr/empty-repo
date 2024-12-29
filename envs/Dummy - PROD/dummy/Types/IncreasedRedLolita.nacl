@@ -1,0 +1,141 @@
+type dummy.IncreasedRedLolita {
+  annotations {
+    json ThoughtfulBlushMerla {
+    }
+    string UnknownSilverArlena {
+    }
+    string CrazyRoseAllix {
+    }
+    number GivenPlumMichell {
+    }
+    json FeministAmaranthNoellyn {
+    }
+  }
+  number FreshGrayLynnea {
+    _hidden_value = true
+  }
+  json SovietLimeAlethea {
+    _hidden_value = true
+  }
+  serviceid_number WanderingSilverRobena {
+    _hidden_value = true
+  }
+  dummy.DramaticTealIsobel MelodicPinkLulita {
+    ExternalChocolateVonny = 338
+    ChemicalPinkAurelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    ArtisticTanAlameda = 579
+    DynamicSilverLatrina = true
+    RemainingSapphireJade = true
+    FlutteringFuchsiaDaisy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SupposedLavenderAstrix = 818
+    InteriorCyanAnjela = false
+    RacialChocolateLise = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FrequentRoseMadelin = true
+    FuturePeachTerza = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    QuintessentialAmethystSusan = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  serviceid DailyVioletLorrin {
+    _hidden_value = true
+  }
+  string AdditionalYellowMarcella {
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualMagentaAloisia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ChiefPinkWinni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SpiritualBlueJaclyn {
+    _hidden_value = true
+  }
+  json DelightfulAquamarineGae {
+    _hidden_value = true
+  }
+  json ConfidentialOrangeNelli {
+    _hidden_value = true
+  }
+  serviceid_number ShinyBlueElmira {
+    _hidden_value = true
+  }
+  string VariousPeachMadella {
+    _hidden_value = true
+  }
+  json BusyBronzeLaverna {
+    _hidden_value = true
+  }
+  dummy.PreferredCoffeePenelope OutsideCyanWinny {
+    ZygomorphicCoffeeEmmaline = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    InstantBronzeGayla = "Why did the tomato blush? Because it saw the salad dressing."
+    CausalPurpleOfilia = true
+    PayableBlackBrandie = true
+    WickedCoffeeDede = true
+    DistinctiveLimeSandra = 506
+    HelplessMagentaLyndel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MaleMaroonDayna = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    _hidden_value = true
+  }
+  dummy.HomelessAzureZilvia UglyCrimsonMerrili {
+    PayableRoseTallou = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DullSalmonCynthie = 434
+    UnlikelyTurquoiseSibelle = false
+    CrazyBlackMarthena = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DetailedBlushAgnes = 25
+    RetiredAzureGoldina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BlankEmeraldMicky = true
+    PremierTomatoAngelique = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ImmediateAzureKoral = 397
+    _hidden_value = true
+  }
+  json PossibleAmberBeulah {
+    _hidden_value = true
+  }
+  serviceid QuintessentialOliveMuire {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LabourAmberEugenia {
+    _hidden_value = true
+  }
+  dummy.DepressedCoralDasya DampTanBrita {
+    _hidden_value = true
+  }
+  ThoughtfulBlushMerla = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnknownSilverArlena = "What do you call two barracuda fish?  A Pairacuda!"
+  CrazyRoseAllix = "Why was it called the dark ages? Because of all the knights. "
+  GivenPlumMichell = 670
+  FeministAmaranthNoellyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShinyBlueElmira"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SovietLimeAlethea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DampTanBrita"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GivenPlumMichell"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

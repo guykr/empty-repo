@@ -1,0 +1,165 @@
+type dummy.WorthyJadeNanice {
+  annotations {
+    boolean QuickestVioletTova {
+    }
+    string ShaggyIndigoTildy {
+    }
+    serviceid_number LinearMoccasinDennie {
+    }
+    serviceid_number StatisticalAmethystEllen {
+    }
+    serviceid_number OkAmethystGoldina {
+    }
+    serviceid OppositeAmberMerna {
+    }
+    boolean AggregateBrownDaniella {
+    }
+  }
+  dummy.DEFAULT BiologicalCoralHelaine {
+    _hidden_value = true
+  }
+  serviceid_number EverydayMoccasinEtheline {
+    _hidden_value = true
+  }
+  serviceid_number DecisiveTanKevina {
+    _hidden_value = true
+  }
+  serviceid RisingTomatoDelinda {
+    _hidden_value = true
+  }
+  serviceid NorthernVioletBeatrice {
+    _hidden_value = true
+  }
+  hidden_boolean DevotedLavenderLesly {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PersistentRoseCrystie {
+    _hidden_value = true
+  }
+  number HandsomeGrayJaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WhisperingPinkAgnola {
+    _hidden_value = true
+  }
+  serviceid QuintessentialMoccasinRoana {
+    _hidden_value = true
+  }
+  serviceid ChemicalCopperLucy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreasyBrownLettie {
+    _hidden_value = true
+  }
+  boolean AbsentOliveMargaretha {
+    _hidden_value = true
+  }
+  hidden_boolean DeafeningOrangeCharlena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AcuteBeigeJaneva {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnnecessaryTanLuz {
+    _hidden_value = true
+  }
+  hidden_boolean RomanticAzureHedy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GrumpyCoffeeElysee {
+    _hidden_value = true
+  }
+  json ZerothTurquoiseTawnya {
+    _hidden_value = true
+  }
+  string ObedientAmberAlethea {
+    _hidden_value = true
+  }
+  json LoyalBlackArden {
+    _hidden_value = true
+  }
+  serviceid_number GrimBeigeQuinta {
+    _hidden_value = true
+  }
+  hidden_boolean GayCyanBeitris {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BadIvoryJudy {
+    _hidden_value = true
+  }
+  hidden_boolean WeeklyAmaranthAnnabelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NutritiousAmaranthPearl {
+    _hidden_value = true
+  }
+  serviceid DefiantBeigeAmabel {
+    _hidden_value = true
+  }
+  serviceid ToughIvoryDonia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdditionalBlackAlexis {
+    _hidden_value = true
+  }
+  dummy.ShortRoseSosanna ToughSilverJamima {
+    RomanticCopperMerrily = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  dummy.DEFAULT CommunistLimeFederica {
+    _hidden_value = true
+  }
+  hidden_boolean LivingGreenErmentrude {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalScarletLyndell {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ShakyCopperCaitrin {
+    _hidden_value = true
+  }
+  serviceid_number WorthwhileBrownLisetta {
+    _hidden_value = true
+  }
+  QuickestVioletTova = false
+  ShaggyIndigoTildy = "Dad Im hungry  Hi hungry Im dad"
+  LinearMoccasinDennie = 699
+  StatisticalAmethystEllen = 706
+  OkAmethystGoldina = 562
+  OppositeAmberMerna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AggregateBrownDaniella = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LivingGreenErmentrude"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BiologicalCoralHelaine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GreasyBrownLettie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

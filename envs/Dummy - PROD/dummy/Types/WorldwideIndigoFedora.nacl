@@ -1,0 +1,93 @@
+type dummy.WorldwideIndigoFedora {
+  annotations {
+    serviceid ConfusedMoccasinNeile {
+    }
+    serviceid_number IntegralBlushMyrtie {
+    }
+    boolean ActiveOliveBetsey {
+    }
+    dummy.ShortRoseSosanna OnlyMagentaSam {
+    }
+    string SmoothSalmonZarla {
+    }
+  }
+  hidden_boolean NursingBlackLeela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AvailableMaroonCarlotta MereTanAlameda {
+    DamagedIvoryKristal = 259
+    IndustrialVioletCosette = 676
+    NovelCoralGae = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WorkingChocolateMarlo = false
+    ElderlyPurpleTraci = 788
+    ZonalRedHilde = "What creature is smarter than a talking parrot? A spelling bee."
+    CleverPlumBerenice = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ComparativeOrangeDarda = "Why did the tomato blush? Because it saw the salad dressing."
+    GrossCrimsonEmili = "What creature is smarter than a talking parrot? A spelling bee."
+    AdvancedCrimsonDorolisa = "I'll tell you what often gets over looked... garden fences."
+    MonetaryPeachEmmeline = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SquareCopperMara = 427
+    MeanSalmonShawnee = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  serviceid CapitalistOrangeJune {
+    _hidden_value = true
+  }
+  serviceid_number QuietRedCarolina {
+    _hidden_value = true
+  }
+  number EstimatedMoccasinEmmy {
+    _hidden_value = true
+  }
+  number CivilianGrayDyane {
+    _hidden_value = true
+  }
+  number BraveSapphireJudye {
+    _hidden_value = true
+  }
+  serviceid_number JitteryIvoryLesley {
+    _hidden_value = true
+  }
+  hidden_boolean ZanyTurquoiseTrudey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<string>" EvilTanMerlina {
+    _hidden_value = true
+  }
+  hidden_boolean DefiniteMagentaSibylle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ConfusedMoccasinNeile = "Why is Peter Pan always flying? Because he Neverlands."
+  IntegralBlushMyrtie = 326
+  ActiveOliveBetsey = false
+  OnlyMagentaSam = false
+  SmoothSalmonZarla = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CapitalistOrangeJune"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ActiveOliveBetsey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConfusedMoccasinNeile"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

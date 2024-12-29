@@ -1,0 +1,102 @@
+type dummy.AmazingBlueVera {
+  annotations {
+    string RudeBlushTonia {
+    }
+    boolean CriminalFuchsiaJean {
+    }
+    hidden_boolean SpotlessAmaranthJamie {
+    }
+    number NormalTealJasmin {
+    }
+    number PetiteBlushJustinn {
+    }
+  }
+  number WickedBlushPandora {
+    _hidden_value = true
+  }
+  dummy.DEFAULT QuickHarlequinMorganne {
+    _hidden_value = true
+  }
+  dummy.BeneficialCoffeeKacey SickCoralRiane {
+    SurprisingBrownVioletta = 856
+    ZygoticBlueGriselda = "Did you know that protons have mass? I didn't even know they were catholic."
+    InnerBlushNataline = 672
+    LongIndigoRebekkah = "To be Frank, I'd have to change my name."
+    AmateurTurquoiseIrita = 817
+    GothicEmeraldNinette = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BewilderedPinkCrystie = false
+    LengthyOliveMillie = "Slept like a log last night  woke up in the fireplace."
+    AshamedLimeKelsi = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    DirtyJadeRhianon = "To be Frank, I'd have to change my name."
+    VividYellowElisabet = false
+    EmptyCyanVallie = "I'll tell you what often gets over looked... garden fences."
+    MissingAmethystSharron = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LiquidBronzeWilly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MilitaryFuchsiaRafaelita = 91
+    StructuralYellowBobbie = false
+    AllegedSapphireShandeigh = "Why didnt the skeleton cross the road? Because he had no guts."
+    CharacteristicBronzeMyrah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DualOrangeSisile = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SlightIvoryAudi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    BareLimeMissy = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean HonestAmethystBirgitta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number YearningTanEda {
+    _hidden_value = true
+  }
+  number AboveWhiteMaryellen {
+    _hidden_value = true
+  }
+  string AgriculturalAmberLynn {
+    _hidden_value = true
+  }
+  serviceid CrudeRosePatrica {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EerieOrangeKayla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  RudeBlushTonia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CriminalFuchsiaJean = false
+  NormalTealJasmin = 942
+  PetiteBlushJustinn = 347
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YearningTanEda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CrudeRosePatrica"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AboveWhiteMaryellen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NormalTealJasmin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpotlessAmaranthJamie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

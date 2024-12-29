@@ -1,0 +1,41 @@
+type dummy.YabberingEmeraldAnthia {
+  annotations {
+    serviceid_number SelectedEmeraldWillie {
+    }
+    boolean CleanPinkLatashia {
+    }
+    dummy.DEFAULT LateGoldBlisse {
+    }
+  }
+  serviceid HonChocolateNadya {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" MightyGoldEloisa {
+    _hidden_value = true
+  }
+  hidden_boolean RichPurpleGae {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SelectedEmeraldWillie = 416
+  CleanPinkLatashia = true
+  LateGoldBlisse = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MightyGoldEloisa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SelectedEmeraldWillie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

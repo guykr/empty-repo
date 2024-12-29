@@ -1,0 +1,19 @@
+dummy.LazyMoccasinLoren FancyCopperJewel {
+  EqualAmethystCharyl = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UptightAmethystKatinka = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OptimisticMagentaErin = file("LivelyEmeraldShannon.txt")
+  SocialistMaroonLorinda = 688
+  ConsistentChocolateJosepha = false
+  OrthodoxPeachRamona = "Did you know that protons have mass? I didn't even know they were catholic."
+  BitterTomatoMagdalen = 275
+  CommercialIndigoElla = [
+    235,
+    504,
+    492,
+    848,
+    641,
+    843,
+  ]
+  _parent = dummy.ShiveringGrayJoannes
+  _alias = "FancyCopperJewel_alias"
+}

@@ -1,0 +1,76 @@
+type dummy.GoverningTurquoiseHannis {
+  annotations {
+    serviceid ProfoundApricotRozalie {
+    }
+    serviceid_number RelatedBlushAndrea {
+    }
+    number DryAzureShane {
+    }
+    serviceid_number DistantFuchsiaTess {
+    }
+    serviceid_number UnpleasantGreenDoretta {
+    }
+    serviceid_number IsolatedCyanShaylah {
+    }
+    json InterestingRedLucinda {
+    }
+    serviceid_number SpecifiedAmethystConsuela {
+    }
+    serviceid BindingAquaAurie {
+    }
+    string EmptyAquaKarina {
+    }
+    serviceid PregnantFuchsiaRickie {
+    }
+    serviceid_number RoyalGrayBeulah {
+    }
+    serviceid AnnoyedAquamarineRaphaela {
+    }
+    boolean PriorSalmonLora {
+    }
+    serviceid SeparateAmberEleonore {
+    }
+    serviceid_number EncouragingPurpleLauri {
+    }
+    number AccusedBrownEzmeralda {
+    }
+    string PanickyYellowEartha {
+    }
+    hidden_boolean SpottyBrownQuinta {
+    }
+    dummy.StaleWhiteMarcella ArrogantApricotAmie {
+    }
+    string StraightforwardAmethystSissy {
+    }
+    number TropicalTurquoiseKamila {
+    }
+  }
+  ProfoundApricotRozalie = "Whoever invented the knock-knock joke should get a no bell prize."
+  RelatedBlushAndrea = 412
+  DryAzureShane = 76
+  DistantFuchsiaTess = 867
+  UnpleasantGreenDoretta = 926
+  IsolatedCyanShaylah = 126
+  InterestingRedLucinda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SpecifiedAmethystConsuela = 148
+  BindingAquaAurie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EmptyAquaKarina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PregnantFuchsiaRickie = "Slept like a log last night  woke up in the fireplace."
+  RoyalGrayBeulah = 170
+  AnnoyedAquamarineRaphaela = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PriorSalmonLora = false
+  SeparateAmberEleonore = "What do you call two barracuda fish?  A Pairacuda!"
+  EncouragingPurpleLauri = 254
+  AccusedBrownEzmeralda = 988
+  PanickyYellowEartha = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StraightforwardAmethystSissy = "Why do birds fly south for the winter? Because it's too far to walk."
+  TropicalTurquoiseKamila = 880
+  _self_important_values = [
+    {
+      value = "SpottyBrownQuinta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "GoverningTurquoiseHannis_alias"
+}

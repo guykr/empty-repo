@@ -1,0 +1,40 @@
+type dummy.BlankGreenEnid {
+  annotations {
+    string CautiousJadeZarla {
+    }
+    serviceid_number StrikingPurpleAubree {
+    }
+    serviceid_number PsychologicalSilverCindie {
+    }
+    dummy.DEFAULT UnpleasantYellowZita {
+    }
+    dummy.DEFAULT FancyBlackDynah {
+    }
+    boolean WorthyTurquoiseAngelina {
+    }
+    hidden_boolean StraightCrimsonPepi {
+    }
+    json SurprisingFuchsiaKylila {
+    }
+  }
+  json WrittenWhiteMaurine {
+    _hidden_value = true
+  }
+  hidden_boolean SourScarletMarijo {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CautiousJadeZarla = "Dad Im hungry  Hi hungry Im dad"
+  StrikingPurpleAubree = 811
+  PsychologicalSilverCindie = 75
+  UnpleasantYellowZita = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  FancyBlackDynah = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  WorthyTurquoiseAngelina = true
+  SurprisingFuchsiaKylila = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

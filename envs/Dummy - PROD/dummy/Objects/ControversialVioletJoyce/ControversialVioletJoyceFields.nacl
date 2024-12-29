@@ -1,7 +1,0 @@
-type dummy.ControversialVioletJoyce {
-  hidden_boolean DeliberateBlackSabina {
-    _required = false
-    _hidden = true
-    _hidden_value = true
-  }
-}

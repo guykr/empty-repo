@@ -1,0 +1,59 @@
+type dummy.ProgressiveOrangeFlorinda {
+  dummy.EndlessBrownKaryn BreezyCrimsonMelicent {
+    OuterSilverShayna = 492
+    MightyTealVivyanne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    IndirectAmberAugustina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExternalTealJackelyn = true
+    GlamorousAquaGillian = 187
+  }
+  serviceid_number TenseIndigoAthene {
+  }
+  number ProfitableTomatoRica {
+  }
+  serviceid_number ModestOliveDenys {
+  }
+  json ZerothOrangeIleana {
+  }
+  string WorkingRosePersis {
+  }
+  number HostileBlueKristal {
+  }
+  serviceid FutureAmaranthAurilia {
+  }
+  serviceid ProspectiveMaroonFilia {
+  }
+  dummy.RomanticBrownCatina PhysicalHarlequinKathleen {
+    RecentPinkLaure = "To be Frank, I'd have to change my name."
+    CriticalSapphireViolette = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  json SpottyBrownEbonee {
+  }
+  boolean CloseJadeBobbye {
+  }
+  hidden_boolean AwakeCyanRycca {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean ManyAmethystFerdinande {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string ThoughtfulBlueGina {
+  }
+  hidden_boolean YoungestBlueDebora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string SmallMoccasinDara {
+  }
+  hidden_boolean PlasticBrownJoceline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NutritiousAmethystNicol {
+  }
+}

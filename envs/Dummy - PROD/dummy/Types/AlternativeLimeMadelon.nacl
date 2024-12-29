@@ -1,0 +1,141 @@
+type dummy.AlternativeLimeMadelon {
+  annotations {
+    serviceid ComparativeAmaranthAmandi {
+    }
+    string ExperiencedOliveFrieda {
+    }
+    hidden_boolean ActualWhiteJacki {
+    }
+    number ImaginativeOrangeBobinette {
+    }
+    string LazyBlushMei {
+    }
+    serviceid_number WorthyTomatoJayme {
+    }
+  }
+  serviceid ShakyLavenderAlvera {
+    _hidden_value = true
+  }
+  boolean BroadMagentaJonis {
+    _hidden_value = true
+  }
+  number RivalGoldGenni {
+    _hidden_value = true
+  }
+  serviceid EndlessCopperEuphemia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeterminedGoldEtta {
+    _hidden_value = true
+  }
+  hidden_boolean VariousSilverLanae {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json UltimatePurpleChris {
+    _hidden_value = true
+  }
+  serviceid JoyousRedDella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrimaryBeigeSeline {
+    _hidden_value = true
+  }
+  serviceid StormyVioletRandee {
+    _hidden_value = true
+  }
+  dummy.ExactEmeraldRicca DesperateAmethystDyann {
+    BrightPlumBrett = false
+    QuickEmeraldGilligan = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BoringIvoryMyrna = 3
+    RoughCrimsonHedda = 899
+    DearMaroonArlee = 657
+    EqualTanElsy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FreshChocolatePaloma = "What do you call two barracuda fish?  A Pairacuda!"
+    BraveOliveDiannne = 450
+    SacredTanCristionna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FunnyTanStarla = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    HistoricEmeraldMaura = 329
+    ConfidentialCopperPeg = 927
+    TechnicalPinkYelena = 113
+    LegalCoralConstantina = 603
+    PriorChocolateMagda = 529
+    _hidden_value = true
+  }
+  boolean AssistantOliveNorean {
+    _hidden_value = true
+  }
+  json PleasedCrimsonKyle {
+    _hidden_value = true
+  }
+  string PuzzledBlueSibilla {
+    _hidden_value = true
+  }
+  boolean MarineIvoryQueenie {
+    _hidden_value = true
+  }
+  number ElectoralFuchsiaFaith {
+    _hidden_value = true
+  }
+  "List<boolean>" WhisperingGrayKatrinka {
+    _hidden_value = true
+  }
+  json SwiftJadeLaryssa {
+    _hidden_value = true
+  }
+  string HistoricalTealPam {
+    _hidden_value = true
+  }
+  boolean ParallelGreenRachelle {
+    _hidden_value = true
+  }
+  "List<number>" CircularPlumSisely {
+    _hidden_value = true
+  }
+  ComparativeAmaranthAmandi = "A steak pun is a rare medium well done."
+  ExperiencedOliveFrieda = "What do you call two barracuda fish?  A Pairacuda!"
+  ImaginativeOrangeBobinette = 206
+  LazyBlushMei = "Why is Peter Pan always flying? Because he Neverlands."
+  WorthyTomatoJayme = 17
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RivalGoldGenni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ParallelGreenRachelle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CircularPlumSisely"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WhisperingGrayKatrinka"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PleasedCrimsonKyle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DeterminedGoldEtta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ActualWhiteJacki"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

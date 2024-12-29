@@ -1,0 +1,38 @@
+type dummy.SurprisingWhiteHarrietta is boolean {
+  annotations {
+    number OralLavenderSindee {
+    }
+    json CostlyMagentaBarbee {
+    }
+    serviceid OutrageousLavenderMichell {
+    }
+    number OccupationalPurpleAdela {
+    }
+    string LiberalAmethystPaulina {
+    }
+    hidden_boolean TiredCrimsonCharlean {
+    }
+    string ProposedCyanJandy {
+    }
+    serviceid_number AlternativeCyanTiphany {
+    }
+    serviceid CompulsoryLimeLeone {
+    }
+    boolean ResidentTurquoiseMarlyn {
+    }
+    dummy.DEFAULT FoolishJadePeria {
+    }
+  }
+  OralLavenderSindee = 562
+  CostlyMagentaBarbee = "I'll tell you what often gets over looked... garden fences."
+  OutrageousLavenderMichell = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OccupationalPurpleAdela = 772
+  LiberalAmethystPaulina = "What do you call two barracuda fish?  A Pairacuda!"
+  ProposedCyanJandy = "Whoever invented the knock-knock joke should get a no bell prize."
+  AlternativeCyanTiphany = 512
+  CompulsoryLimeLeone = "What do you call two barracuda fish?  A Pairacuda!"
+  ResidentTurquoiseMarlyn = true
+  FoolishJadePeria = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+}

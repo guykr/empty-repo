@@ -1,0 +1,80 @@
+type dummy.BoringIvoryJosee {
+  annotations {
+    serviceid ShyAmaranthCiel {
+    }
+    serviceid EerieOrangeTimmie {
+    }
+    string NuttyCoffeeGert {
+    }
+    string WeeBlueDodi {
+    }
+    serviceid EerieBlueCarolan {
+    }
+    dummy.YoungestTurquoiseDarcy MinisterialLavenderAnnemarie {
+    }
+    hidden_boolean AestheticAmethystWylma {
+    }
+    boolean EstimatedBluePhillie {
+    }
+    dummy.PureEmeraldBobina RegularOliveKirbee {
+    }
+    boolean EffectiveOliveCaresse {
+    }
+    hidden_boolean DutchEmeraldBlake {
+    }
+    boolean QuietFuchsiaGiulietta {
+    }
+    serviceid_number HuskyLimeDodie {
+    }
+    json VocationalOliveNanette {
+    }
+    serviceid MammothYellowAlison {
+    }
+    dummy.SupremeAzureMaryanne UptightPurpleEmmalee {
+    }
+    number RelativeTurquoiseLou {
+    }
+  }
+  ShyAmaranthCiel = "I'll tell you what often gets over looked... garden fences."
+  EerieOrangeTimmie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NuttyCoffeeGert = "Why did the tomato blush? Because it saw the salad dressing."
+  WeeBlueDodi = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EerieBlueCarolan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EstimatedBluePhillie = true
+  EffectiveOliveCaresse = true
+  QuietFuchsiaGiulietta = true
+  HuskyLimeDodie = 101
+  VocationalOliveNanette = "Why did the tomato blush? Because it saw the salad dressing."
+  MammothYellowAlison = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RelativeTurquoiseLou = 97
+  _important_values = [
+    {
+      value = "BlushingCoralGussie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DirectCoffeeJacklyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "HuskyLimeDodie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EffectiveOliveCaresse"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AestheticAmethystWylma"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "BoringIvoryJosee_alias"
+}

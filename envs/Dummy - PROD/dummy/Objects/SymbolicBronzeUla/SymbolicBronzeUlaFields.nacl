@@ -1,7 +1,0 @@
-type dummy.SymbolicBronzeUla {
-  hidden_boolean FairAquaDixie {
-    _required = true
-    _hidden = true
-    _hidden_value = false
-  }
-}

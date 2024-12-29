@@ -1,0 +1,54 @@
+type dummy.CondemnedApricotHester {
+  annotations {
+    string GrumpyAmberMelitta {
+    }
+    boolean BeneficialScarletPammy {
+    }
+    string PsychiatricAquaKynthia {
+    }
+    serviceid NavalBeigeAshli {
+    }
+  }
+  json QuietIvoryFlss {
+    _hidden_value = true
+  }
+  string ShiveringRoseCandis {
+    _hidden_value = true
+  }
+  boolean SignificantSilverBili {
+    _hidden_value = true
+  }
+  boolean MathematicalPinkNike {
+    _hidden_value = true
+  }
+  number SensitiveOrangeAloisia {
+    _hidden_value = true
+  }
+  string FavouriteRedMillisent {
+    _hidden_value = true
+  }
+  serviceid ExcessHarlequinCaresa {
+    _hidden_value = true
+  }
+  serviceid_number TastelessIvoryChicky {
+    _hidden_value = true
+  }
+  number AwkwardBlackCthrine {
+    _hidden_value = true
+  }
+  json AlliedWhiteSelina {
+    _hidden_value = true
+  }
+  GrumpyAmberMelitta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BeneficialScarletPammy = true
+  PsychiatricAquaKynthia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NavalBeigeAshli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BeneficialScarletPammy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

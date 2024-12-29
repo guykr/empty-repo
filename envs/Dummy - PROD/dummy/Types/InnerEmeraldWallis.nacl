@@ -1,0 +1,20 @@
+type dummy.InnerEmeraldWallis {
+  annotations {
+    serviceid SorryFuchsiaShel {
+    }
+    serviceid_number LovelyPeachMarketa {
+    }
+    serviceid_number PassingCoffeeMame {
+    }
+    string OverwhelmingTurquoiseEsther {
+    }
+  }
+  json EasternGreenEachelle {
+    _hidden_value = true
+  }
+  SorryFuchsiaShel = "I'll tell you what often gets over looked... garden fences."
+  LovelyPeachMarketa = 192
+  PassingCoffeeMame = 265
+  OverwhelmingTurquoiseEsther = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

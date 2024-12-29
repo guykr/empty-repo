@@ -1,0 +1,77 @@
+type dummy.ExperimentalAmethystKris {
+  annotations {
+    hidden_boolean PoliticalAmberNonie {
+    }
+    string EqualEmeraldNanine {
+    }
+    dummy.AlrightTealArdelis NeighbouringBronzeBessy {
+    }
+    boolean InternalAmaranthJacquetta {
+    }
+    json NeatBlushMarjie {
+    }
+    hidden_boolean IndustrialTomatoLiza {
+    }
+    number ExceptionalMaroonBertie {
+    }
+    hidden_boolean MonthlyOliveCherise {
+    }
+    hidden_boolean InherentPlumPearline {
+    }
+    dummy.DepressedCoralDasya ActualIndigoBabs {
+    }
+    serviceid EndlessAquaCynthie {
+    }
+    dummy.SolidAmberNicole ActiveCrimsonAlene {
+    }
+    serviceid_number RoastedTomatoNonnah {
+    }
+    json FlexibleCoffeeAlecia {
+    }
+    dummy.HistoricFuchsiaAmalle UnemployedSapphireEleni {
+    }
+    boolean EnergeticBlueSigrid {
+    }
+    boolean BareTanFaydra {
+    }
+    dummy.ProvincialCoralSabrina UrgentEmeraldAdrea {
+    }
+  }
+  EqualEmeraldNanine = "A steak pun is a rare medium well done."
+  NeighbouringBronzeBessy = true
+  InternalAmaranthJacquetta = true
+  NeatBlushMarjie = "Why was it called the dark ages? Because of all the knights. "
+  ExceptionalMaroonBertie = 607
+  ActualIndigoBabs = false
+  EndlessAquaCynthie = "Why do birds fly south for the winter? Because it's too far to walk."
+  RoastedTomatoNonnah = 677
+  FlexibleCoffeeAlecia = "Why is Peter Pan always flying? Because he Neverlands."
+  EnergeticBlueSigrid = true
+  BareTanFaydra = true
+  UrgentEmeraldAdrea = file("HugeApricotDiahann.txt")
+  _important_values = [
+    {
+      value = "ProvincialGoldMaribel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MonthlyOliveCherise"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ActualIndigoBabs"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EnergeticBlueSigrid"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ExperimentalAmethystKris_alias"
+}

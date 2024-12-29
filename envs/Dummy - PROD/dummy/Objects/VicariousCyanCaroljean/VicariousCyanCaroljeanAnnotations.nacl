@@ -1,0 +1,111 @@
+type dummy.VicariousCyanCaroljean {
+  annotations {
+    serviceid_number ResidentCoralCamile {
+    }
+    dummy.UnwillingOliveCaterina ObnoxiousCopperMargalo {
+    }
+    string PeacefulPinkCorrena {
+    }
+    string FunnySilverMarylee {
+    }
+    serviceid_number ModernGrayMarys {
+    }
+    serviceid_number AcceptableBeigeEleanore {
+    }
+    dummy.DearHarlequinJemmy ProfoundRedNataline {
+    }
+    hidden_boolean LittleCoralJorie {
+    }
+    serviceid EthicalCyanSabine {
+    }
+    dummy.InnovativeCyanSteffane ColonialCopperEricha {
+    }
+    serviceid UnchangedPeachEstrellita {
+    }
+    hidden_boolean BeneficialRedRivy {
+    }
+    dummy.PermanentTanNatividad MusicalSilverKessiah {
+    }
+    hidden_boolean ContinuousGoldKalila {
+    }
+    number MarxistMaroonElita {
+    }
+    string GrowingCyanEmera {
+    }
+    boolean UglyEmeraldKass {
+    }
+    serviceid UnpleasantLavenderGwenore {
+    }
+    number BusyAquaGarnette {
+    }
+    serviceid_number ClassicalBlackFidelity {
+    }
+    string LivingCoralCoraline {
+    }
+  }
+  ResidentCoralCamile = 819
+  PeacefulPinkCorrena = "A steak pun is a rare medium well done."
+  FunnySilverMarylee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ModernGrayMarys = 519
+  AcceptableBeigeEleanore = 389
+  ProfoundRedNataline = file("MarriedLavenderStace.txt")
+  EthicalCyanSabine = "A steak pun is a rare medium well done."
+  UnchangedPeachEstrellita = "Slept like a log last night  woke up in the fireplace."
+  MarxistMaroonElita = 912
+  GrowingCyanEmera = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UglyEmeraldKass = false
+  UnpleasantLavenderGwenore = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BusyAquaGarnette = 654
+  ClassicalBlackFidelity = 324
+  LivingCoralCoraline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _important_values = [
+    {
+      value = "ContinuingCyanDonnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GladIndigoDyann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EasternSapphireDatha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TrickyAquaJan"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PrettyCopperFrancesca"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "QuaintAzurePhilis"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ColonialCopperEricha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PeacefulPinkCorrena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BusyAquaGarnette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "VicariousCyanCaroljean_alias"
+}

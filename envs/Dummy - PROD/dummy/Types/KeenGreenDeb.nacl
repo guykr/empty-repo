@@ -1,0 +1,30 @@
+type dummy.KeenGreenDeb {
+  annotations {
+    string RelievedScarletAridatha {
+    }
+    number EligibleBlueEilis {
+    }
+    json NeutralAzureEtti {
+    }
+    serviceid_number ColouredLavenderClaribel {
+    }
+    json VictoriousWhiteBirdie {
+    }
+  }
+  dummy.DEFAULT WillingSapphireDaloris {
+    _hidden_value = true
+  }
+  RelievedScarletAridatha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EligibleBlueEilis = 136
+  NeutralAzureEtti = "Why is Peter Pan always flying? Because he Neverlands."
+  ColouredLavenderClaribel = 256
+  VictoriousWhiteBirdie = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "NeutralAzureEtti"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

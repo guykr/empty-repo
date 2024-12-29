@@ -1,0 +1,131 @@
+type dummy.UnhappyMoccasinGina {
+  annotations {
+    string ProvincialHarlequinDona {
+    }
+    json IrrelevantBeigeReta {
+    }
+    json XericBlueFredelia {
+    }
+    number SpareOliveKoralle {
+    }
+    string AggregateFuchsiaDorotea {
+    }
+    hidden_boolean TeenageGreenFaunie {
+    }
+    serviceid_number ViolentGrayFaina {
+    }
+  }
+  boolean FashionableCrimsonZsazsa {
+    _hidden_value = true
+  }
+  hidden_boolean VitreousIndigoMartina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AddedCopperCarree {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AnnoyedAmaranthEulalie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MushyEmeraldCarlin {
+    _hidden_value = true
+  }
+  string DefiantOliveCinnamon {
+    _hidden_value = true
+  }
+  json FrailCoffeeFancie {
+    _hidden_value = true
+  }
+  hidden_boolean RuralGreenBarry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TheoreticalTealCelisse {
+    _hidden_value = true
+  }
+  serviceid_number SelectRedHarmonie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmbarrassedFuchsiaMarj {
+    _hidden_value = true
+  }
+  json HomelessAzureMelody {
+    _hidden_value = true
+  }
+  boolean DearTomatoErmina {
+    _hidden_value = true
+  }
+  json RoughAmberMalvina {
+    _hidden_value = true
+  }
+  json ItchyAmethystClarinda {
+    _hidden_value = true
+  }
+  serviceid_number MusicalBeigeAretha {
+    _hidden_value = true
+  }
+  boolean CorrespondingCoralLeanna {
+    _hidden_value = true
+  }
+  serviceid PastAquamarineDyana {
+    _hidden_value = true
+  }
+  json ObnoxiousBlueAnabelle {
+    _hidden_value = true
+  }
+  json PoliteLavenderRhea {
+    _hidden_value = true
+  }
+  dummy.HorizontalCrimsonGypsy ExcessTealLauryn {
+    EvilCoffeeMarilee = 145
+    InclinedCopperNorean = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WorriedFuchsiaRosene = "Dad Im hungry  Hi hungry Im dad"
+    CleverBronzeCoreen = true
+    DrabAquaJazmin = 728
+    SoftPlumBrittni = false
+    UnconsciousBrownIdelle = true
+    _hidden_value = true
+  }
+  string UnusualIndigoJeane {
+    _hidden_value = true
+  }
+  serviceid_number PossibleHarlequinEstrellita {
+    _hidden_value = true
+  }
+  hidden_boolean RoughTomatoHalette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BrightEmeraldRandee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MentalWhiteKellen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProvincialHarlequinDona = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IrrelevantBeigeReta = "I'll tell you what often gets over looked... garden fences."
+  XericBlueFredelia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SpareOliveKoralle = 549
+  AggregateFuchsiaDorotea = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ViolentGrayFaina = 798
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "XericBlueFredelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

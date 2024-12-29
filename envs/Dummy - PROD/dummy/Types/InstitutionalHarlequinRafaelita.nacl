@@ -1,0 +1,99 @@
+type dummy.InstitutionalHarlequinRafaelita {
+  annotations {
+    json FaithfulIndigoMufi {
+    }
+    serviceid SwiftGoldCorella {
+    }
+    string SecretTealLucine {
+    }
+    boolean UnpleasantBrownDevonna {
+    }
+    string JitteryJadeMerridie {
+    }
+  }
+  serviceid_number SpareBlackJanine {
+    _hidden_value = true
+  }
+  number ConfidentialGoldAngelina {
+    _hidden_value = true
+  }
+  boolean HarshAquaIlyse {
+    _hidden_value = true
+  }
+  string SureWhiteSabrina {
+    _hidden_value = true
+  }
+  json RisingOliveCecily {
+    _hidden_value = true
+  }
+  number ConservationMagentaAnastasie {
+    _hidden_value = true
+  }
+  json FewHarlequinIdelle {
+    _hidden_value = true
+  }
+  serviceid FreeBlackMelania {
+    _hidden_value = true
+  }
+  boolean RawRoseMarice {
+    _hidden_value = true
+  }
+  number PersonalAmberSallyanne {
+    _hidden_value = true
+  }
+  json DifferentSalmonMariya {
+    _hidden_value = true
+  }
+  boolean ReasonableCrimsonDory {
+    _hidden_value = true
+  }
+  boolean AcuteBrownEmalee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FeministRoseVinny {
+    _hidden_value = true
+  }
+  number NervousCoralGayla {
+    _hidden_value = true
+  }
+  json CorporateTanTorey {
+    _hidden_value = true
+  }
+  string WildTanBrooke {
+    _hidden_value = true
+  }
+  serviceid StuckCoffeeEmilee {
+    _hidden_value = true
+  }
+  hidden_boolean IndependentMagentaRenae {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PositiveBeigeBrandea {
+    _hidden_value = true
+  }
+  FaithfulIndigoMufi = "Slept like a log last night  woke up in the fireplace."
+  SwiftGoldCorella = "A steak pun is a rare medium well done."
+  SecretTealLucine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UnpleasantBrownDevonna = false
+  JitteryJadeMerridie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FeministRoseVinny"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AcuteBrownEmalee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RawRoseMarice"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

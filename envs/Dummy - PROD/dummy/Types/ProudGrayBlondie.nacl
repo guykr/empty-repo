@@ -1,0 +1,94 @@
+type dummy.ProudGrayBlondie {
+  annotations {
+    number CruelCoralChlo {
+    }
+    serviceid GracefulCrimsonJohnath {
+    }
+    serviceid GorgeousLimeAddie {
+    }
+    serviceid MelodicIndigoKaralee {
+    }
+    number NeatLavenderCecil {
+    }
+    dummy.ExtendedCrimsonKaitlyn LocalJadeAnia {
+    }
+    boolean EldestFuchsiaFanchon {
+    }
+  }
+  boolean PlainRoseElnore {
+    _hidden_value = true
+  }
+  number MelodicAquaJuliana {
+    _hidden_value = true
+  }
+  serviceid_number SweetBeigeCaresa {
+    _hidden_value = true
+  }
+  serviceid_number FancyMaroonRita {
+    _hidden_value = true
+  }
+  serviceid_number OccupationalFuchsiaNeysa {
+    _hidden_value = true
+  }
+  serviceid_number UnchangedEmeraldRenate {
+    _hidden_value = true
+  }
+  serviceid OrganisationalEmeraldTarah {
+    _hidden_value = true
+  }
+  boolean AestheticSalmonKatherine {
+    _hidden_value = true
+  }
+  string SuitableRedLaurene {
+    _hidden_value = true
+  }
+  json GoldenAmaranthKariotta {
+    _hidden_value = true
+  }
+  serviceid OnlyAquamarineAllyce {
+    _hidden_value = true
+  }
+  hidden_boolean CreepyEmeraldJerrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string JoyousGreenJanis {
+    _hidden_value = true
+  }
+  dummy.AboveJadeAlfi ProtestantBlushKizzie {
+    FineCrimsonPeg = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EvilTomatoKatina = 723
+    AsleepTurquoiseTommi = "Why is Peter Pan always flying? Because he Neverlands."
+    CuriousTealReina = "I'll tell you what often gets over looked... garden fences."
+    WorkingSapphireMarty = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  CruelCoralChlo = 674
+  GracefulCrimsonJohnath = "Did you know that protons have mass? I didn't even know they were catholic."
+  GorgeousLimeAddie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MelodicIndigoKaralee = "What creature is smarter than a talking parrot? A spelling bee."
+  NeatLavenderCecil = 463
+  LocalJadeAnia = true
+  EldestFuchsiaFanchon = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuitableRedLaurene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OccupationalFuchsiaNeysa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GracefulCrimsonJohnath"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

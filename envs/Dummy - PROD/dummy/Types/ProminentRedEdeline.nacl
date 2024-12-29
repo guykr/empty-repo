@@ -1,0 +1,131 @@
+type dummy.ProminentRedEdeline {
+  annotations {
+    hidden_boolean SocialBlueEvita {
+    }
+    dummy.DEFAULT AppropriateSapphireSib {
+    }
+    dummy.StraightforwardYellowCaria ExuberantEmeraldBritta {
+    }
+    serviceid_number ConsciousRedWilone {
+    }
+    serviceid_number FuriousPinkJoyan {
+    }
+    number EnvironmentalSalmonHenrieta {
+    }
+  }
+  string PhysicalAquaAdan {
+    _hidden_value = true
+  }
+  string EncouragingAquaMartguerita {
+    _hidden_value = true
+  }
+  serviceid_number StatutoryAzureNeila {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImperialBlackCher {
+    _hidden_value = true
+  }
+  string DualBlueAnnabelle {
+    _hidden_value = true
+  }
+  hidden_boolean GorgeousTomatoFredi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid StaticAmberMalena {
+    _hidden_value = true
+  }
+  json EffectiveCrimsonTerese {
+    _hidden_value = true
+  }
+  serviceid_number CruelScarletCaralie {
+    _hidden_value = true
+  }
+  number VariableBlackEmma {
+    _hidden_value = true
+  }
+  serviceid LeftPurpleMarcellina {
+    _hidden_value = true
+  }
+  string ObligedCopperAngelita {
+    _hidden_value = true
+  }
+  boolean NuttyGoldPaulina {
+    _hidden_value = true
+  }
+  serviceid_number CreativeEmeraldAllie {
+    _hidden_value = true
+  }
+  boolean CivicAquamarineTedi {
+    _hidden_value = true
+  }
+  dummy.LowRedTruda OutdoorOliveEmmie {
+    _hidden_value = true
+  }
+  number RandomTomatoHerminia {
+    _hidden_value = true
+  }
+  "List<boolean>" BottomOrangeMallorie {
+    _hidden_value = true
+  }
+  serviceid_number ZygoticAquamarineCorabella {
+    _hidden_value = true
+  }
+  json ZygoticAmberTish {
+    _hidden_value = true
+  }
+  number LikeIndigoRobena {
+    _hidden_value = true
+  }
+  serviceid MereMagentaHeddie {
+    _hidden_value = true
+  }
+  boolean FrozenTurquoiseElora {
+    _hidden_value = true
+  }
+  serviceid_number DisturbedGrayMicheline {
+    _hidden_value = true
+  }
+  boolean ExplicitMaroonJody {
+    _hidden_value = true
+  }
+  serviceid CommercialOrangeSelle {
+    _hidden_value = true
+  }
+  serviceid_number LoyalCoralHelli {
+    _hidden_value = true
+  }
+  AppropriateSapphireSib = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ExuberantEmeraldBritta = true
+  ConsciousRedWilone = 682
+  FuriousPinkJoyan = 521
+  EnvironmentalSalmonHenrieta = 881
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrozenTurquoiseElora"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LeftPurpleMarcellina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CreativeEmeraldAllie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExuberantEmeraldBritta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

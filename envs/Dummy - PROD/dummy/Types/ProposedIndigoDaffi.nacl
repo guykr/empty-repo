@@ -1,0 +1,31 @@
+type dummy.ProposedIndigoDaffi {
+  annotations {
+    serviceid MightyLimeMiran {
+    }
+    dummy.DEFAULT BeneficialAzureStefania {
+    }
+    serviceid_number SignificantLavenderSusie {
+    }
+    string ToryChocolateTansy {
+    }
+    json BitterMaroonEtheline {
+    }
+    number DullBlushScarlett {
+    }
+    serviceid_number CapableSalmonLillis {
+    }
+  }
+  number ProbableYellowBetteanne {
+    _hidden_value = true
+  }
+  MightyLimeMiran = "What do you call two barracuda fish?  A Pairacuda!"
+  BeneficialAzureStefania = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  SignificantLavenderSusie = 889
+  ToryChocolateTansy = "A steak pun is a rare medium well done."
+  BitterMaroonEtheline = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DullBlushScarlett = 668
+  CapableSalmonLillis = 860
+  _hidden_value = true
+}

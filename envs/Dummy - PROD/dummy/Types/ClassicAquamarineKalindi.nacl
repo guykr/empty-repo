@@ -1,0 +1,39 @@
+type dummy.ClassicAquamarineKalindi {
+  annotations {
+    dummy.HorizontalCrimsonGypsy ObedientFuchsiaLynna {
+    }
+    number UnnecessaryBlushConny {
+    }
+    hidden_boolean CombativeMagentaIvette {
+    }
+    json AdverseMoccasinNicole {
+    }
+    string FiscalCoffeeJessika {
+    }
+    string ExceptionalGrayPhylys {
+    }
+  }
+  hidden_boolean GlobalCoralJermaine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ObedientFuchsiaLynna = 347
+  UnnecessaryBlushConny = 96
+  AdverseMoccasinNicole = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FiscalCoffeeJessika = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExceptionalGrayPhylys = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FiscalCoffeeJessika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ObedientFuchsiaLynna"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

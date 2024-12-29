@@ -1,0 +1,42 @@
+type dummy.DramaticTealIsobel is string {
+  annotations {
+    number ExternalChocolateVonny {
+    }
+    string ChemicalPinkAurelia {
+    }
+    number ArtisticTanAlameda {
+    }
+    boolean DynamicSilverLatrina {
+    }
+    boolean RemainingSapphireJade {
+    }
+    serviceid FlutteringFuchsiaDaisy {
+    }
+    serviceid_number SupposedLavenderAstrix {
+    }
+    boolean InteriorCyanAnjela {
+    }
+    json RacialChocolateLise {
+    }
+    boolean FrequentRoseMadelin {
+    }
+    serviceid FuturePeachTerza {
+    }
+    json QuintessentialAmethystSusan {
+    }
+    hidden_boolean ReasonableWhiteDeanne {
+    }
+  }
+  ExternalChocolateVonny = 20
+  ChemicalPinkAurelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ArtisticTanAlameda = 612
+  DynamicSilverLatrina = true
+  RemainingSapphireJade = false
+  FlutteringFuchsiaDaisy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SupposedLavenderAstrix = 634
+  InteriorCyanAnjela = false
+  RacialChocolateLise = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FrequentRoseMadelin = false
+  FuturePeachTerza = "How come the stadium got hot after the game? Because all of the fans left."
+  QuintessentialAmethystSusan = "What creature is smarter than a talking parrot? A spelling bee."
+}

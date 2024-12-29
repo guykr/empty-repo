@@ -1,0 +1,45 @@
+type dummy.DailyGoldKalie {
+  annotations {
+    json FranticAmaranthCallida {
+    }
+    serviceid AcceptableAmberAnselma {
+    }
+    dummy.DEFAULT MiniatureSapphireJasmine {
+    }
+    serviceid_number SquareBrownCarlen {
+    }
+    hidden_boolean LinguisticAmberSiana {
+    }
+    serviceid_number CondemnedCopperTalyah {
+    }
+    number OrganicScarletBatsheva {
+    }
+  }
+  json AgriculturalCoffeeDora {
+    _hidden_value = true
+  }
+  hidden_boolean ThickLimeMireielle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DamagedSapphireDarcee {
+    _hidden_value = true
+  }
+  FranticAmaranthCallida = "Why did the kid cross the playground? To get to the other slide."
+  AcceptableAmberAnselma = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MiniatureSapphireJasmine = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  SquareBrownCarlen = 585
+  CondemnedCopperTalyah = 488
+  OrganicScarletBatsheva = 278
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ThickLimeMireielle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,68 @@
+type dummy.DistantPurpleNanette {
+  annotations {
+    serviceid HarshLavenderBill {
+    }
+    number ProfitableCrimsonFrankie {
+    }
+    string VerbalBronzeBerget {
+    }
+    serviceid_number UnderlyingGreenNatalya {
+    }
+    boolean LovelyGreenZola {
+    }
+    dummy.DEFAULT FancyTurquoiseLeone {
+    }
+    hidden_boolean WarmOrangeWillabella {
+    }
+  }
+  string UninterestedCoffeeSteffi {
+    _hidden_value = true
+  }
+  dummy.IntimateGreenSusie MushyLavenderGaylene {
+    MoralRedDixie = "What do you call two barracuda fish?  A Pairacuda!"
+    ManualCoralKelila = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    QualifiedPeachDaisey = 879
+    TameTanSherill = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  string MysteriousLimeSaree {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpicyAzureRobbyn {
+    _hidden_value = true
+  }
+  hidden_boolean TastelessGrayDyan {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json QuickestGrayRobinett {
+    _hidden_value = true
+  }
+  number EstablishedBrownAriadne {
+    _hidden_value = true
+  }
+  HarshLavenderBill = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProfitableCrimsonFrankie = 112
+  VerbalBronzeBerget = "Why did the tomato blush? Because it saw the salad dressing."
+  UnderlyingGreenNatalya = 252
+  LovelyGreenZola = true
+  FancyTurquoiseLeone = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MysteriousLimeSaree"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProfitableCrimsonFrankie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

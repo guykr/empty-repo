@@ -1,0 +1,35 @@
+type dummy.RoundCopperTeriann {
+  boolean ExcitedVioletAntonietta {
+  }
+  dummy.MobileTurquoiseDede SmoggyCoffeeIngrid {
+    DisabledAmaranthMarnia = "To be Frank, I'd have to change my name."
+    ColdPinkCheryl = "What do you call two barracuda fish?  A Pairacuda!"
+    LegalHarlequinPollyanna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    YappyAmaranthClaudetta = "Why did the tomato blush? Because it saw the salad dressing."
+    SorryYellowPamella = 684
+    ViolentGreenAddi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SkinnyRedValry = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    WastefulFuchsiaGloria = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  json BalancedRoseElisabet {
+  }
+  hidden_boolean InformalAquaFlorenza {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string VariableTomatoEthelin {
+  }
+  boolean SeparateOliveMartina {
+  }
+  json NumerousBronzeDody {
+  }
+  number CleanOliveShaine {
+  }
+  boolean ToxicLimeBabs {
+  }
+  serviceid ThoughtfulBronzeBili {
+  }
+}

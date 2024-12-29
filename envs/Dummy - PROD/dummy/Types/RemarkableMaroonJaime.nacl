@@ -1,0 +1,105 @@
+type dummy.RemarkableMaroonJaime {
+  annotations {
+    hidden_boolean AutonomousLavenderAlanna {
+    }
+    serviceid ThinAmethystMada {
+    }
+    hidden_boolean AboveCoralMonika {
+    }
+    string BareLavenderSindee {
+    }
+    serviceid WarmCrimsonCate {
+    }
+    string RecentTomatoNerty {
+    }
+  }
+  number IntegratedVioletShawna {
+    _hidden_value = true
+  }
+  hidden_boolean NormalPurpleMarya {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT HuskyIndigoGrace {
+    _hidden_value = true
+  }
+  string ZoophagousLimeIona {
+    _hidden_value = true
+  }
+  number FuriousBeigeNicki {
+    _hidden_value = true
+  }
+  boolean MedicalBlackChiquita {
+    _hidden_value = true
+  }
+  dummy.OccupationalRedPammie QuixoticOrangeJoyce {
+    WoodenBlackBobine = "Dad Im hungry  Hi hungry Im dad"
+    SovietSilverEmmaline = "Did you know that protons have mass? I didn't even know they were catholic."
+    DisastrousVioletAnnetta = false
+    HealthyAmethystMarilyn = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    PlainPlumLissa = "Did you know that protons have mass? I didn't even know they were catholic."
+    AdditionalBlushRebekah = 735
+    SaltyLimeDulcinea = "What do you call two barracuda fish?  A Pairacuda!"
+    MistyCoffeeChelsea = true
+    PriorBronzeBell = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  dummy.DEFAULT HollowPlumPriscilla {
+    _hidden_value = true
+  }
+  serviceid WispyIvoryDoralia {
+    _hidden_value = true
+  }
+  serviceid FuzzyBlackNoel {
+    _hidden_value = true
+  }
+  json CasualPeachOrly {
+    _hidden_value = true
+  }
+  hidden_boolean HappyGoldRickie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number CombinedPinkKarissa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrettyAmaranthLetisha {
+    _hidden_value = true
+  }
+  json RepulsiveEmeraldGretchen {
+    _hidden_value = true
+  }
+  ThinAmethystMada = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BareLavenderSindee = "Why didnt the skeleton cross the road? Because he had no guts."
+  WarmCrimsonCate = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RecentTomatoNerty = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HuskyIndigoGrace"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RepulsiveEmeraldGretchen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AutonomousLavenderAlanna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RecentTomatoNerty"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

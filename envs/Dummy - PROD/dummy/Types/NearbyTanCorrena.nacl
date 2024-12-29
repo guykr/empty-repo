@@ -1,0 +1,59 @@
+type dummy.NearbyTanCorrena {
+  annotations {
+    json AgreedLimeAngelina {
+    }
+    dummy.DepressedCoralDasya ConstantJadeJocelyn {
+    }
+    serviceid_number ComfortableAzurePier {
+    }
+    serviceid NovelRedAlessandra {
+    }
+    hidden_boolean MentalLimeMalinda {
+    }
+    string RealGrayPiper {
+    }
+  }
+  string ReligiousIvoryMalynda {
+    _hidden_value = true
+  }
+  boolean VulnerableMaroonAnnadiana {
+    _hidden_value = true
+  }
+  dummy.ProvincialCoralSabrina ComprehensiveApricotGeorgia {
+    MammothHarlequinElaina = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    DelicateYellowSonja = 212
+    MixedGoldNeille = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    PromisingChocolateDacia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ParentalOliveChelsae = "To be Frank, I'd have to change my name."
+    SocialHarlequinEmmy = false
+    JollyTomatoFlorida = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BadRoseMab = true
+    GrandLavenderJoli = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    _hidden_value = true
+  }
+  number BreakableOliveTrescha {
+    _hidden_value = true
+  }
+  number DisturbedBlushSibeal {
+    _hidden_value = true
+  }
+  AgreedLimeAngelina = "How come the stadium got hot after the game? Because all of the fans left."
+  ConstantJadeJocelyn = true
+  ComfortableAzurePier = 405
+  NovelRedAlessandra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RealGrayPiper = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ComprehensiveApricotGeorgia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

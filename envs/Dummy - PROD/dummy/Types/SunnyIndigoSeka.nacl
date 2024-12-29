@@ -1,0 +1,101 @@
+type dummy.SunnyIndigoSeka {
+  annotations {
+    hidden_boolean RelievedCyanJillene {
+    }
+    dummy.DEFAULT ArchitecturalBeigeCassey {
+    }
+    string DiverseWhiteAdriaens {
+    }
+    serviceid UglyCopperAlix {
+    }
+  }
+  number SubsequentMaroonCallida {
+    _hidden_value = true
+  }
+  serviceid_number CommunistCoralLacy {
+    _hidden_value = true
+  }
+  string WeakTomatoOrelie {
+    _hidden_value = true
+  }
+  hidden_boolean FondSilverRubie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ReadyPeachAugustine {
+    _hidden_value = true
+  }
+  dummy.AvailableMaroonCarlotta TopRoseTarah {
+    DamagedIvoryKristal = 356
+    IndustrialVioletCosette = 596
+    NovelCoralGae = "What do you call two barracuda fish?  A Pairacuda!"
+    WorkingChocolateMarlo = true
+    ElderlyPurpleTraci = 642
+    ZonalRedHilde = "Whoever invented the knock-knock joke should get a no bell prize."
+    CleverPlumBerenice = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ComparativeOrangeDarda = "Why was it called the dark ages? Because of all the knights. "
+    GrossCrimsonEmili = "Why do birds fly south for the winter? Because it's too far to walk."
+    AdvancedCrimsonDorolisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MonetaryPeachEmmeline = "What creature is smarter than a talking parrot? A spelling bee."
+    SquareCopperMara = 371
+    MeanSalmonShawnee = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string PracticalSilverSheelah {
+    _hidden_value = true
+  }
+  string AccusedAmberGerianna {
+    _hidden_value = true
+  }
+  serviceid OkCoffeeLeoine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdorableTomatoMavra {
+    _hidden_value = true
+  }
+  serviceid InterestedMagentaBeverlee {
+    _hidden_value = true
+  }
+  serviceid_number ElderlyCrimsonJoy {
+    _hidden_value = true
+  }
+  json SufficientBeigeAmaleta {
+    _hidden_value = true
+  }
+  number FreeCrimsonAndree {
+    _hidden_value = true
+  }
+  ArchitecturalBeigeCassey = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  DiverseWhiteAdriaens = "Why did the tomato blush? Because it saw the salad dressing."
+  UglyCopperAlix = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CommunistCoralLacy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FondSilverRubie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ArchitecturalBeigeCassey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DiverseWhiteAdriaens"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

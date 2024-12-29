@@ -1,0 +1,91 @@
+type dummy.CloseBlackRaquel {
+  annotations {
+    boolean CorrespondingVioletTonya {
+    }
+    serviceid MereAquaLonee {
+    }
+    json RequiredEmeraldChristen {
+    }
+    serviceid PartialGreenBelle {
+    }
+    serviceid_number SoftSapphireBettine {
+    }
+    dummy.CausalSilverRosanna FranticPlumMildrid {
+    }
+    boolean CrookedAquamarineKrista {
+    }
+    hidden_boolean RedundantIndigoDredi {
+    }
+    boolean DeliberatePlumChristyna {
+    }
+    json VariousTurquoiseBathsheba {
+    }
+    serviceid_number FundamentalAquaCrysta {
+    }
+    boolean ExclusiveBrownGene {
+    }
+    boolean TheoreticalYellowAnissa {
+    }
+    serviceid_number LiveEmeraldKeeley {
+    }
+    boolean SaltyScarletDolores {
+    }
+    json BumpyCrimsonCorissa {
+    }
+    serviceid_number CombinedGoldKarole {
+    }
+  }
+  CorrespondingVioletTonya = true
+  MereAquaLonee = "Why did the kid cross the playground? To get to the other slide."
+  RequiredEmeraldChristen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PartialGreenBelle = "Whoever invented the knock-knock joke should get a no bell prize."
+  SoftSapphireBettine = 582
+  CrookedAquamarineKrista = false
+  DeliberatePlumChristyna = false
+  VariousTurquoiseBathsheba = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FundamentalAquaCrysta = 173
+  ExclusiveBrownGene = false
+  TheoreticalYellowAnissa = false
+  LiveEmeraldKeeley = 296
+  SaltyScarletDolores = true
+  BumpyCrimsonCorissa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CombinedGoldKarole = 134
+  _self_important_values = [
+    {
+      value = "RequiredEmeraldChristen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TheoreticalYellowAnissa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LiveEmeraldKeeley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DeliberatePlumChristyna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExclusiveBrownGene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CombinedGoldKarole"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CrookedAquamarineKrista"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "CloseBlackRaquel_alias"
+}

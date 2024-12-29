@@ -1,0 +1,89 @@
+type dummy.ExcessiveMagentaLark {
+  annotations {
+    serviceid_number BloodyWhiteAlfie {
+    }
+    boolean RaspyFuchsiaCarolina {
+    }
+    boolean LazyBrownSue {
+    }
+    json NuclearChocolateCordelie {
+    }
+    boolean CreativeBlackIdaline {
+    }
+    serviceid_number PrimitivePinkEnriqueta {
+    }
+  }
+  hidden_boolean AvailableTanMalynda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PhysicalTomatoGabie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VicariousTealBeatrisa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number VictoriousMaroonJoyce {
+    _hidden_value = true
+  }
+  serviceid_number VisibleTurquoiseHaleigh {
+    _hidden_value = true
+  }
+  json NearbyCrimsonClarita {
+    _hidden_value = true
+  }
+  hidden_boolean NorthernBronzeCecilla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EverydayRoseDorine {
+    _hidden_value = true
+  }
+  string ProminentCoralBarb {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TremendousLavenderNikkie {
+    _hidden_value = true
+  }
+  boolean InsufficientGreenAngel {
+    _hidden_value = true
+  }
+  string BewilderedAquamarineKimberly {
+    _hidden_value = true
+  }
+  json ExactMaroonNicholle {
+    _hidden_value = true
+  }
+  BloodyWhiteAlfie = 950
+  RaspyFuchsiaCarolina = true
+  LazyBrownSue = true
+  NuclearChocolateCordelie = "A steak pun is a rare medium well done."
+  CreativeBlackIdaline = false
+  PrimitivePinkEnriqueta = 974
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EverydayRoseDorine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VisibleTurquoiseHaleigh"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RaspyFuchsiaCarolina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

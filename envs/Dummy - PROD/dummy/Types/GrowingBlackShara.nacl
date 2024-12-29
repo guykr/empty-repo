@@ -1,0 +1,25 @@
+type dummy.GrowingBlackShara {
+  annotations {
+    serviceid_number ModernGoldElaine {
+    }
+    number NuclearOliveMaurine {
+    }
+    serviceid_number FreshPlumAloise {
+    }
+    serviceid_number ProudBronzeKelly {
+    }
+    hidden_boolean CombativeLimeShaina {
+    }
+    serviceid_number HonHarlequinLillian {
+    }
+  }
+  dummy.DEFAULT CalmAmberAllx {
+    _hidden_value = true
+  }
+  ModernGoldElaine = 231
+  NuclearOliveMaurine = 351
+  FreshPlumAloise = 566
+  ProudBronzeKelly = 595
+  HonHarlequinLillian = 783
+  _hidden_value = true
+}

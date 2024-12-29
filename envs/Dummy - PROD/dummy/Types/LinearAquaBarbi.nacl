@@ -1,0 +1,53 @@
+type dummy.LinearAquaBarbi {
+  annotations {
+    number TestyAquamarineMarlee {
+    }
+    serviceid_number CasualGoldEm {
+    }
+    serviceid GenerousEmeraldJobina {
+    }
+    dummy.DEFAULT LesserEmeraldKristien {
+    }
+    hidden_boolean WitteringOrangePhilippine {
+    }
+  }
+  hidden_boolean ObligedSilverKaril {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number PleasedBeigeCatha {
+    _hidden_value = true
+  }
+  serviceid_number ComparativeBlackEmelda {
+    _hidden_value = true
+  }
+  "List<serviceid>" MuddyYellowSophia {
+    _hidden_value = true
+  }
+  serviceid_number WorriedTomatoFlorette {
+    _hidden_value = true
+  }
+  boolean SacredGoldRosene {
+    _hidden_value = true
+  }
+  TestyAquamarineMarlee = 830
+  CasualGoldEm = 962
+  GenerousEmeraldJobina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LesserEmeraldKristien = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ObligedSilverKaril"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SacredGoldRosene"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,41 @@
+type dummy.AvailableRoseThalia {
+  annotations {
+    json FantasticAquaFarrah {
+    }
+    number TenderWhiteLane {
+    }
+    serviceid_number CircularBrownAurora {
+    }
+    string CulturalYellowMargareta {
+    }
+    serviceid_number ConvincedAmberJulia {
+    }
+  }
+  dummy.SocialBronzeGerri StormyTurquoiseAmii {
+    InnerAzureBettine = false
+    PlainOrangePapagena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NearIvoryLoraine = 444
+    MildPeachKiah = false
+    ImperialGrayFedora = "What creature is smarter than a talking parrot? A spelling bee."
+    DueFuchsiaVanda = 140
+    ScornfulBronzeTonie = 60
+    ConvincedIvoryMuire = true
+    MatureAzureRosalinda = "Why did the tomato blush? Because it saw the salad dressing."
+    GiantGreenMaggee = false
+    ScreechingApricotKrista = false
+    _hidden_value = true
+  }
+  FantasticAquaFarrah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TenderWhiteLane = 492
+  CircularBrownAurora = 179
+  CulturalYellowMargareta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConvincedAmberJulia = 436
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TenderWhiteLane"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,113 @@
+type dummy.WateryBronzeEmalee {
+  annotations {
+    serviceid_number RoughBrownJoice {
+    }
+    serviceid InstantMagentaAubree {
+    }
+    serviceid_number CostlySalmonRosanne {
+    }
+    dummy.DEFAULT TropicalAmethystValli {
+    }
+    serviceid RemarkableTomatoBea {
+    }
+    serviceid ImmenseSalmonTherese {
+    }
+  }
+  serviceid StiffBlushRoch {
+    _hidden_value = true
+  }
+  boolean TypicalTanBrina {
+    _hidden_value = true
+  }
+  serviceid NetFuchsiaCassandre {
+    _hidden_value = true
+  }
+  string GeneticAmethystAnya {
+    _hidden_value = true
+  }
+  json TotalLimeHester {
+    _hidden_value = true
+  }
+  dummy.LargeGoldMei YtterbicBronzeCarleen {
+    ImmenseCoffeeAmata = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    PublicBlueYalonda = false
+    BindingSilverAngeline = "A steak pun is a rare medium well done."
+    UnpleasantBlackNoreen = true
+    VictoriousPurpleCarmita = 483
+    SpatialGrayFifine = false
+    _hidden_value = true
+  }
+  boolean GoodOrangeSherry {
+    _hidden_value = true
+  }
+  serviceid DeepCoffeeRonnica {
+    _hidden_value = true
+  }
+  json FutureOrangeKynthia {
+    _hidden_value = true
+  }
+  json HostileSapphireTheadora {
+    _hidden_value = true
+  }
+  dummy.DepressedCoralDasya LiveIndigoCassandra {
+    _hidden_value = true
+  }
+  json ThirstyBronzeElva {
+    _hidden_value = true
+  }
+  boolean PrintedHarlequinArdeen {
+    _hidden_value = true
+  }
+  serviceid SheerBronzeOthilia {
+    _hidden_value = true
+  }
+  serviceid OutdoorRedEmmalee {
+    _hidden_value = true
+  }
+  json GladCrimsonGilberte {
+    _hidden_value = true
+  }
+  serviceid_number BasicRedMaighdiln {
+    _hidden_value = true
+  }
+  string LikelyBronzeJudy {
+    _hidden_value = true
+  }
+  number WhisperingCrimsonWylma {
+    _hidden_value = true
+  }
+  boolean CarefulCopperVivien {
+    _hidden_value = true
+  }
+  number DarkAzureFawnia {
+    _hidden_value = true
+  }
+  string SplendidRoseMarni {
+    _hidden_value = true
+  }
+  boolean PoliticalAzureRubia {
+    _hidden_value = true
+  }
+  json PreviousTurquoiseCandis {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedFuchsiaAntonie {
+    _hidden_value = true
+  }
+  RoughBrownJoice = 104
+  InstantMagentaAubree = "Why do birds fly south for the winter? Because it's too far to walk."
+  CostlySalmonRosanne = 396
+  TropicalAmethystValli = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  RemarkableTomatoBea = "Why do birds fly south for the winter? Because it's too far to walk."
+  ImmenseSalmonTherese = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GladCrimsonGilberte"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

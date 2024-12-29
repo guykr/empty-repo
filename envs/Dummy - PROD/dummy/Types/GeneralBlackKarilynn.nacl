@@ -1,0 +1,86 @@
+type dummy.GeneralBlackKarilynn {
+  annotations {
+    dummy.DEFAULT SpotlessBrownStephenie {
+    }
+    string AliveScarletBrandea {
+    }
+    serviceid_number ToxicAzureKira {
+    }
+    number ConventionalIndigoJulissa {
+    }
+    serviceid_number EmptyIvoryJillie {
+    }
+    serviceid SkilledCoffeeBernardina {
+    }
+    serviceid IntensiveHarlequinBibbye {
+    }
+  }
+  number EthnicPeachMelva {
+    _hidden_value = true
+  }
+  number DoubleCrimsonSophronia {
+    _hidden_value = true
+  }
+  string IntellectualAmethystOrelee {
+    _hidden_value = true
+  }
+  number LimitedCopperCindy {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" PetiteBlushVan {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ResonantTealDanette {
+    _hidden_value = true
+  }
+  json ColouredAmberWaneta {
+    _hidden_value = true
+  }
+  json UninterestedJadeKacie {
+    _hidden_value = true
+  }
+  serviceid SquarePeachMarijo {
+    _hidden_value = true
+  }
+  boolean VastBlushTammie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HonSapphireSophronia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CorrectPinkDorella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ClosedMagentaGeorgeanna {
+    _hidden_value = true
+  }
+  json ChangingAquaEmeline {
+    _hidden_value = true
+  }
+  SpotlessBrownStephenie = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  AliveScarletBrandea = "Why was it called the dark ages? Because of all the knights. "
+  ToxicAzureKira = 30
+  ConventionalIndigoJulissa = 868
+  EmptyIvoryJillie = 304
+  SkilledCoffeeBernardina = "Whoever invented the knock-knock joke should get a no bell prize."
+  IntensiveHarlequinBibbye = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SpotlessBrownStephenie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AliveScarletBrandea"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

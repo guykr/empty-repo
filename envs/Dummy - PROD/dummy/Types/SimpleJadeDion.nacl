@@ -1,0 +1,45 @@
+type dummy.SimpleJadeDion {
+  annotations {
+    dummy.PublicAquaRosemarie MedievalGrayGabriell {
+    }
+    string UniqueVioletBevvy {
+    }
+    hidden_boolean MarginalJadeNessy {
+    }
+    string NarrowCoralMarice {
+    }
+    json SpecialBlushMarylynne {
+    }
+  }
+  serviceid_number MuddyEmeraldXylia {
+    _hidden_value = true
+  }
+  dummy.SickIndigoWenda HonApricotThomasine {
+    SpecificMagentaAurora = "What creature is smarter than a talking parrot? A spelling bee."
+    MinimumAmberSuzi = false
+    NervousBlueMerissa = "What did one nut say as he chased another nut?  I'm a cashew!"
+    YummyPinkHali = true
+    FollowingEmeraldSena = "What do you call two barracuda fish?  A Pairacuda!"
+    DeterminedIvoryMarian = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MiddleCoralJeanine = "How come the stadium got hot after the game? Because all of the fans left."
+    ObviousLavenderReine = false
+    LocalIndigoGwyn = "What do you call two barracuda fish?  A Pairacuda!"
+    AmateurVioletBrigitte = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  number IncreasingApricotKat {
+    _hidden_value = true
+  }
+  MedievalGrayGabriell = 88
+  UniqueVioletBevvy = "A steak pun is a rare medium well done."
+  NarrowCoralMarice = "Why did the kid cross the playground? To get to the other slide."
+  SpecialBlushMarylynne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "NarrowCoralMarice"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

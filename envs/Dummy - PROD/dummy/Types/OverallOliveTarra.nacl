@@ -1,0 +1,20 @@
+type dummy.OverallOliveTarra {
+  annotations {
+    serviceid SufficientAquaJoanna {
+    }
+    boolean AboveEmeraldBea {
+    }
+    hidden_boolean HomelyCoralAurea {
+    }
+    hidden_boolean OptimisticAquamarineFelicia {
+    }
+  }
+  hidden_boolean CautiousRoseChristie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SufficientAquaJoanna = "How come the stadium got hot after the game? Because all of the fans left."
+  AboveEmeraldBea = false
+  _hidden_value = true
+}

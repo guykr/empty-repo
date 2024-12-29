@@ -1,0 +1,93 @@
+type dummy.CompulsoryWhiteEzmeralda {
+  annotations {
+    serviceid ExceptionalJadeKassia {
+    }
+    serviceid PastPurpleJelene {
+    }
+    dummy.IntermediateTanPamela InformalGrayAubine {
+    }
+    dummy.LargeGoldMei SilkyCrimsonLavina {
+    }
+    dummy.WeeklyPlumGlen OverallAmberModesta {
+    }
+    json ControversialTomatoMorissa {
+    }
+    serviceid_number BigMaroonLizette {
+    }
+    json HappyIndigoCordelie {
+    }
+    hidden_boolean CruelApricotKimmie {
+    }
+    json EnergeticPlumPaulette {
+    }
+    serviceid_number SolidPeachAprilette {
+    }
+    json SocialBlushKitty {
+    }
+    serviceid RearBronzeNina {
+    }
+    string PrintedBeigeGermaine {
+    }
+    dummy.GiganticMoccasinDagmar ImperialRedGerladina {
+    }
+    serviceid AwkwardEmeraldGay {
+    }
+  }
+  ExceptionalJadeKassia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PastPurpleJelene = "Slept like a log last night  woke up in the fireplace."
+  SilkyCrimsonLavina = 142
+  ControversialTomatoMorissa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BigMaroonLizette = 762
+  HappyIndigoCordelie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  EnergeticPlumPaulette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SolidPeachAprilette = 968
+  SocialBlushKitty = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RearBronzeNina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PrintedBeigeGermaine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AwkwardEmeraldGay = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _important_values = [
+    {
+      value = "AestheticMagentaLillis"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HandsomeBronzeGussy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PainfulTomatoDeeanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "QuickRoseLoleta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MarxistBlushAlessandra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AcceptedYellowJennie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SocialBlushKitty"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InformalGrayAubine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "CompulsoryWhiteEzmeralda_alias"
+}

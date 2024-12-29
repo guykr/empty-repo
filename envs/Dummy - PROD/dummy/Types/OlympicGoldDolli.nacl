@@ -1,0 +1,29 @@
+type dummy.OlympicGoldDolli {
+  annotations {
+    json InsufficientAmethystNita {
+    }
+    hidden_boolean ResidentialIndigoVerena {
+    }
+    number ToryMagentaMady {
+    }
+    serviceid_number HandicappedPlumTeresita {
+    }
+    number SpectacularTurquoiseDebor {
+    }
+  }
+  number ImprovedMoccasinTrixy {
+    _hidden_value = true
+  }
+  InsufficientAmethystNita = "Why did the kid cross the playground? To get to the other slide."
+  ToryMagentaMady = 624
+  HandicappedPlumTeresita = 675
+  SpectacularTurquoiseDebor = 384
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ToryMagentaMady"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,41 @@
+type dummy.LikelyChocolateAbbi {
+  annotations {
+    serviceid HomelyCrimsonCarola {
+    }
+    boolean ImprovedJadeKaryl {
+    }
+    string IntermediateCrimsonLilas {
+    }
+    boolean UnevenCrimsonJoeann {
+    }
+    serviceid UsedCopperAngel {
+    }
+  }
+  json DesirableTomatoOpal {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfidentialTanMelantha {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedYellowDevonne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid YabberingAquamarineElene {
+    _hidden_value = true
+  }
+  HomelyCrimsonCarola = "How come the stadium got hot after the game? Because all of the fans left."
+  ImprovedJadeKaryl = true
+  IntermediateCrimsonLilas = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UnevenCrimsonJoeann = false
+  UsedCopperAngel = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UsedCopperAngel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,103 @@
+type dummy.UltimateAzureAppolonia {
+  annotations {
+    number SurvivingVioletWinona {
+    }
+    string HonYellowDanya {
+    }
+    serviceid_number ThenTealMelesa {
+    }
+    number TraditionalAmberIanthe {
+    }
+    serviceid_number NaturalMoccasinGabriell {
+    }
+    string CloseTanCorabelle {
+    }
+    dummy.StraightforwardYellowCaria SafeLavenderSimonne {
+    }
+    number InadequateCopperKeslie {
+    }
+    boolean RetailIvoryAurelie {
+    }
+    json RegularCopperBlakeley {
+    }
+    serviceid_number PanickyOliveCatlaina {
+    }
+    boolean BalancedVioletAlvera {
+    }
+    serviceid GrubbyMagentaKrysta {
+    }
+    number InnerOrangeAurie {
+    }
+    dummy.EndlessPeachAimee ShiveringPlumMaribeth {
+    }
+    serviceid PrimaryYellowBekki {
+    }
+    dummy.LegitimateMaroonFionna ChemicalYellowSuzanne {
+    }
+    dummy.LostScarletVonnie LinearCyanSondra {
+    }
+    hidden_boolean WesternTealMaribeth {
+    }
+    hidden_boolean DustySilverLanni {
+    }
+    string BumpyAmaranthEvelina {
+    }
+    number GoldenMoccasinGavra {
+    }
+  }
+  SurvivingVioletWinona = 25
+  HonYellowDanya = "How come the stadium got hot after the game? Because all of the fans left."
+  ThenTealMelesa = 850
+  TraditionalAmberIanthe = 111
+  NaturalMoccasinGabriell = 341
+  CloseTanCorabelle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SafeLavenderSimonne = true
+  InadequateCopperKeslie = 198
+  RetailIvoryAurelie = false
+  RegularCopperBlakeley = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PanickyOliveCatlaina = 140
+  BalancedVioletAlvera = false
+  GrubbyMagentaKrysta = "What do you call two barracuda fish?  A Pairacuda!"
+  InnerOrangeAurie = 679
+  PrimaryYellowBekki = "How come the stadium got hot after the game? Because all of the fans left."
+  BumpyAmaranthEvelina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GoldenMoccasinGavra = 733
+  _self_important_values = [
+    {
+      value = "SafeLavenderSimonne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SurvivingVioletWinona"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InnerOrangeAurie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InadequateCopperKeslie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ThenTealMelesa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RegularCopperBlakeley"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NaturalMoccasinGabriell"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "UltimateAzureAppolonia_alias"
+}

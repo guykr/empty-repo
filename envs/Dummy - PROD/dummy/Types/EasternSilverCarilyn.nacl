@@ -1,0 +1,53 @@
+type dummy.EasternSilverCarilyn {
+  annotations {
+    string GleamingSilverRosaline {
+    }
+    json ToughEmeraldBrina {
+    }
+    json LittlePinkShannah {
+    }
+    serviceid SouthernMoccasinDacie {
+    }
+    json WeeMagentaMireille {
+    }
+    dummy.DEFAULT GeographicalPeachJenifer {
+    }
+    number CompactJadeFania {
+    }
+  }
+  boolean ThoughtfulTealClarinda {
+    _hidden_value = true
+  }
+  boolean VulnerablePlumJammie {
+    _hidden_value = true
+  }
+  GleamingSilverRosaline = "What do you call two barracuda fish?  A Pairacuda!"
+  ToughEmeraldBrina = "To be Frank, I'd have to change my name."
+  LittlePinkShannah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SouthernMoccasinDacie = "Why did the kid cross the playground? To get to the other slide."
+  WeeMagentaMireille = "I'll tell you what often gets over looked... garden fences."
+  GeographicalPeachJenifer = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  CompactJadeFania = 3
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VulnerablePlumJammie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LittlePinkShannah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SouthernMoccasinDacie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

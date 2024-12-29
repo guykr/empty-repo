@@ -1,0 +1,70 @@
+type dummy.ShiveringGrayJoannes {
+  annotations {
+    serviceid_number WilyBlushAline {
+    }
+    hidden_boolean PowerfulIndigoCortney {
+    }
+    dummy.SuperApricotAndee NearbyEmeraldShelba {
+    }
+    serviceid RobustCrimsonNatala {
+    }
+    number FreeOliveDanika {
+    }
+    hidden_boolean BlankCrimsonBliss {
+    }
+    number PeculiarEmeraldKattie {
+    }
+    json ConservationFuchsiaKim {
+    }
+    string AllegedPlumDot {
+    }
+    hidden_boolean GlamorousSilverOlimpia {
+    }
+    dummy.BeneficialCoffeeKacey KindPeachDarsey {
+    }
+    json CheapOrangeGwenni {
+    }
+    string FlutteringTanNollie {
+    }
+    number RomanticSalmonNetta {
+    }
+    string UnevenIvoryAllsun {
+    }
+    dummy.DesperateFuchsiaLonna SuitableTomatoViolante {
+    }
+    serviceid DeliberateLavenderBenedetta {
+    }
+    number DelightfulBeigeMagdalena {
+    }
+    json ShiveringBrownDasha {
+    }
+  }
+  WilyBlushAline = 351
+  RobustCrimsonNatala = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FreeOliveDanika = 527
+  PeculiarEmeraldKattie = 338
+  ConservationFuchsiaKim = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AllegedPlumDot = "What do you do on a remote island? Try and find the TV island it belongs to."
+  KindPeachDarsey = true
+  CheapOrangeGwenni = "Slept like a log last night  woke up in the fireplace."
+  FlutteringTanNollie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RomanticSalmonNetta = 318
+  UnevenIvoryAllsun = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SuitableTomatoViolante = true
+  DeliberateLavenderBenedetta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DelightfulBeigeMagdalena = 48
+  ShiveringBrownDasha = "Slept like a log last night  woke up in the fireplace."
+  _self_important_values = [
+    {
+      value = "BlankCrimsonBliss"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RobustCrimsonNatala"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ShiveringGrayJoannes_alias"
+}

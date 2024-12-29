@@ -1,0 +1,156 @@
+type dummy.LiberalCyanLauryn {
+  annotations {
+    dummy.HolyChocolateMargery SmilingChocolateHildegarde {
+    }
+    dummy.ImperialAzureNetti SlowBlushCassandra {
+    }
+    boolean DevelopedYellowNancee {
+    }
+    string ReasonableCrimsonFerdinande {
+    }
+    serviceid_number YtterbicScarletFedora {
+    }
+  }
+  number ChosenCopperAnnadiana {
+    _hidden_value = true
+  }
+  number RecentGrayPavla {
+    _hidden_value = true
+  }
+  boolean EmotionalIndigoTabatha {
+    _hidden_value = true
+  }
+  serviceid ArrogantWhiteChantalle {
+    _hidden_value = true
+  }
+  dummy.SocialBronzeGerri MammothJadeFriederike {
+    InnerAzureBettine = false
+    PlainOrangePapagena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NearIvoryLoraine = 950
+    MildPeachKiah = false
+    ImperialGrayFedora = "Did you know that protons have mass? I didn't even know they were catholic."
+    DueFuchsiaVanda = 463
+    ScornfulBronzeTonie = 755
+    ConvincedIvoryMuire = false
+    MatureAzureRosalinda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GiantGreenMaggee = false
+    ScreechingApricotKrista = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteBlackJolynn {
+    _hidden_value = true
+  }
+  hidden_boolean BasicAmethystRochette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RelativeAquamarineDinah {
+    _hidden_value = true
+  }
+  number GracefulSalmonKeelia {
+    _hidden_value = true
+  }
+  serviceid GastricGreenBenedetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FaintSalmonMyrle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColorfulRedNatty {
+    _hidden_value = true
+  }
+  "List<serviceid>" LikeCrimsonMaxi {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExactBlushDasie {
+    _hidden_value = true
+  }
+  json GracefulMoccasinDeva {
+    _hidden_value = true
+  }
+  json ColossalApricotPierette {
+    _hidden_value = true
+  }
+  serviceid SpontaneousSalmonDomeniga {
+    _hidden_value = true
+  }
+  hidden_boolean StickyAmberAnalise {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CommercialPinkSallyann {
+    _hidden_value = true
+  }
+  number ColonialGoldLissy {
+    _hidden_value = true
+  }
+  number WickedAmethystRhona {
+    _hidden_value = true
+  }
+  serviceid UnawareScarletLeilah {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialAmberBrynn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SuccessfulBlushEthelyn {
+    _hidden_value = true
+  }
+  serviceid ThenJadeOpal {
+    _hidden_value = true
+  }
+  SmilingChocolateHildegarde = "Whoever invented the knock-knock joke should get a no bell prize."
+  SlowBlushCassandra = false
+  DevelopedYellowNancee = false
+  ReasonableCrimsonFerdinande = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  YtterbicScarletFedora = 280
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ColorfulRedNatty"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RecentGrayPavla"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExactBlushDasie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SuccessfulBlushEthelyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpontaneousSalmonDomeniga"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ColonialGoldLissy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThenJadeOpal"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DevelopedYellowNancee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

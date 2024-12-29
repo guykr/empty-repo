@@ -1,0 +1,112 @@
+type dummy.IrrelevantChocolateBrooks {
+  annotations {
+    boolean BiologicalMagentaHettie {
+    }
+    hidden_boolean WillowyRoseNorri {
+    }
+    boolean UnemployedCoralGabi {
+    }
+    dummy.ParliamentaryApricotAdena VariousBronzeWinona {
+    }
+    number FascinatingFuchsiaKarissa {
+    }
+    json EasternPinkRobinetta {
+    }
+    json SympatheticTanPauli {
+    }
+    json RationalFuchsiaDamara {
+    }
+    hidden_boolean RottenBlackAmargo {
+    }
+    serviceid IncreasingGoldQuintana {
+    }
+    number FellowApricotGilligan {
+    }
+    serviceid CompetentSapphirePavia {
+    }
+    number ReducedCyanAnastasie {
+    }
+    json VastLimeMaxie {
+    }
+    serviceid RealisticRedVivi {
+    }
+    json WideOrangeLeora {
+    }
+    number DefensiveWhiteNoella {
+    }
+    json DevelopingCoffeeMoria {
+    }
+    serviceid SupposedAquamarineJuana {
+    }
+    serviceid VoicelessGreenMinnie {
+    }
+    dummy.AwakeBronzeKayle FormalChocolateKacey {
+    }
+    json LevelGrayTana {
+    }
+    hidden_boolean UltimateIndigoPeri {
+    }
+    json RationalTanMartynne {
+    }
+  }
+  BiologicalMagentaHettie = true
+  UnemployedCoralGabi = false
+  FascinatingFuchsiaKarissa = 198
+  EasternPinkRobinetta = "Why was it called the dark ages? Because of all the knights. "
+  SympatheticTanPauli = "Whoever invented the knock-knock joke should get a no bell prize."
+  RationalFuchsiaDamara = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IncreasingGoldQuintana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FellowApricotGilligan = 963
+  CompetentSapphirePavia = "Whoever invented the knock-knock joke should get a no bell prize."
+  ReducedCyanAnastasie = 793
+  VastLimeMaxie = "Why did the kid cross the playground? To get to the other slide."
+  RealisticRedVivi = "Slept like a log last night  woke up in the fireplace."
+  WideOrangeLeora = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DefensiveWhiteNoella = 202
+  DevelopingCoffeeMoria = "A steak pun is a rare medium well done."
+  SupposedAquamarineJuana = "What creature is smarter than a talking parrot? A spelling bee."
+  VoicelessGreenMinnie = "What creature is smarter than a talking parrot? A spelling bee."
+  FormalChocolateKacey = file("NaturalChocolateCeciley.txt")
+  LevelGrayTana = "Why was it called the dark ages? Because of all the knights. "
+  RationalTanMartynne = "Dad Im hungry  Hi hungry Im dad"
+  _important_values = [
+    {
+      value = "XenophobicHarlequinCorilla"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HollowAmaranthStacey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LiableTomatoSteffane"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FormalChocolateKacey"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WillowyRoseNorri"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VoicelessGreenMinnie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FascinatingFuchsiaKarissa"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "IrrelevantChocolateBrooks_alias"
+}

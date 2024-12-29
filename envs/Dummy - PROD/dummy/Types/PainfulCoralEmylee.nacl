@@ -1,0 +1,32 @@
+type dummy.PainfulCoralEmylee {
+  annotations {
+    json ComingCoralBeryl {
+    }
+    hidden_boolean InclinedGreenDianemarie {
+    }
+    boolean WrongTomatoSally {
+    }
+    hidden_boolean ScreechingWhiteKrystal {
+    }
+  }
+  hidden_boolean BindingBrownErma {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ComingCoralBeryl = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WrongTomatoSally = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ScreechingWhiteKrystal"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InclinedGreenDianemarie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

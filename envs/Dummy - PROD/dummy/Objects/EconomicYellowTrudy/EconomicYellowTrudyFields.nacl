@@ -1,0 +1,17 @@
+type dummy.EconomicYellowTrudy {
+  serviceid DisgustedBeigeCarmelia {
+  }
+  hidden_boolean RoyalSilverMariejeanne {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number HealthyIvoryPammie {
+  }
+  boolean TroubledAquamarinePerl {
+  }
+  serviceid_number VulnerableMagentaTessie {
+  }
+  string ArtisticTomatoDonny {
+  }
+}

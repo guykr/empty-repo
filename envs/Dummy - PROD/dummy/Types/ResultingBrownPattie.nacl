@@ -1,0 +1,137 @@
+type dummy.ResultingBrownPattie {
+  annotations {
+    boolean CondemnedAmberMaribelle {
+    }
+    string EnchantingEmeraldCharmaine {
+    }
+    number SuccessfulMoccasinYolanthe {
+    }
+    boolean GeneralJadeFederica {
+    }
+  }
+  boolean ChronicLimeGlynda {
+    _hidden_value = true
+  }
+  hidden_boolean AlliedBlackAudrie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LuckyBronzeFredrika {
+    _hidden_value = true
+  }
+  serviceid_number ImportantPlumAmil {
+    _hidden_value = true
+  }
+  serviceid_number UpperRedHali {
+    _hidden_value = true
+  }
+  string AverageBlushEydie {
+    _hidden_value = true
+  }
+  number TremendousCrimsonTobe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NarrowSalmonSelestina {
+    _hidden_value = true
+  }
+  number PrincipalSilverAra {
+    _hidden_value = true
+  }
+  boolean PeculiarBeigeFancie {
+    _hidden_value = true
+  }
+  serviceid RespectableBlackKiah {
+    _hidden_value = true
+  }
+  string ZippyCopperNeysa {
+    _hidden_value = true
+  }
+  number FascinatingTurquoiseGenia {
+    _hidden_value = true
+  }
+  number HelpfulBronzeElise {
+    _hidden_value = true
+  }
+  json CostlyBlackAgnese {
+    _hidden_value = true
+  }
+  boolean InquisitiveTanCherry {
+    _hidden_value = true
+  }
+  json ClumsyPurpleEstrellita {
+    _hidden_value = true
+  }
+  json StrangeAmethystAndrei {
+    _hidden_value = true
+  }
+  serviceid_number NutritiousIvoryLexine {
+    _hidden_value = true
+  }
+  serviceid_number XericPinkOlly {
+    _hidden_value = true
+  }
+  json ExcessBrownKaroly {
+    _hidden_value = true
+  }
+  boolean ZestyCopperVilma {
+    _hidden_value = true
+  }
+  serviceid_number EvolutionaryEmeraldNonnah {
+    _hidden_value = true
+  }
+  CondemnedAmberMaribelle = false
+  EnchantingEmeraldCharmaine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SuccessfulMoccasinYolanthe = 640
+  GeneralJadeFederica = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TremendousCrimsonTobe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ImportantPlumAmil"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NarrowSalmonSelestina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PeculiarBeigeFancie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ClumsyPurpleEstrellita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExcessBrownKaroly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EvolutionaryEmeraldNonnah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ChronicLimeGlynda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SuccessfulMoccasinYolanthe"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

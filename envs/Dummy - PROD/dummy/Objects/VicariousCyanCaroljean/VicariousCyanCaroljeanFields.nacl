@@ -1,0 +1,77 @@
+type dummy.VicariousCyanCaroljean {
+  hidden_boolean QuaintAzurePhilis {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImpressedCoffeeDeeyn {
+  }
+  "List<serviceid>" ContemporaryPeachRozina {
+  }
+  hidden_boolean TrickyAquaJan {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PrettyCopperFrancesca {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean GenuineYellowHali {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ContinuingCyanDonnie {
+  }
+  json ControversialIndigoUlrike {
+  }
+  json TenderCrimsonSteffane {
+  }
+  boolean ShrillSilverDru {
+  }
+  dummy.JustAmaranthKaril EasternSapphireDatha {
+    ExplicitApricotDina = "I'll tell you what often gets over looked... garden fences."
+    TotalMoccasinMarjie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BraveWhiteKittie = "A steak pun is a rare medium well done."
+    CoastalAzurePansy = 446
+    DesirableTomatoTana = 24
+    AdequatePinkEmelina = true
+    ContinentalEmeraldTommy = 467
+    MinisterialBlackJacquenetta = 725
+    UnpleasantRoseGigi = 55
+    FrontBeigeAmalea = 669
+    YammeringAmethystRaye = 979
+    OutstandingRoseFlorry = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  hidden_boolean BindingOrangeDorris {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ContinuousBlueTilly {
+  }
+  hidden_boolean AwareEmeraldUna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FixedIvoryDelores {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PetiteRedChristie QuickFuchsiaEada {
+    SevereCrimsonElvera = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RoundCyanFaythe = file("ProperFuchsiaBritta.txt")
+    CrowdedChocolateSal = 698
+    PricklyScarletKaitlynn = false
+  }
+  boolean UndergroundMagentaLaetitia {
+  }
+  json GladIndigoDyann {
+  }
+  number ParentalAquaRenata {
+  }
+}

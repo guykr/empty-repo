@@ -1,0 +1,72 @@
+type dummy.PetiteRedChristie {
+  annotations {
+    string SevereCrimsonElvera {
+    }
+    hidden_boolean SystematicPeachPam {
+    }
+    dummy.AssociatedHarlequinShandeigh RoundCyanFaythe {
+    }
+    dummy.SourBlueDayna CrowdedChocolateSal {
+    }
+    boolean PricklyScarletKaitlynn {
+    }
+  }
+  serviceid HarshOliveHilliary {
+    _hidden_value = true
+  }
+  boolean ColonialGrayKessiah {
+    _hidden_value = true
+  }
+  serviceid CalmSapphireDonia {
+    _hidden_value = true
+  }
+  string BewilderedOrangeCostanza {
+    _hidden_value = true
+  }
+  json SickSilverJustina {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantBeigeOthella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GiganticBrownCarmela {
+    _hidden_value = true
+  }
+  dummy.DearHarlequinJemmy StructuralBeigeOralle {
+    AutomaticBlueValina = 618
+    ExcellentCoffeeJessy = "Why do birds fly south for the winter? Because it's too far to walk."
+    WholeYellowCindra = true
+    UglyAquamarineGladi = "My first time using an elevator was an uplifting experience. The second time let me down."
+    LiquidBlackDorree = true
+    LivingIvoryGussi = 460
+    DigitalPinkJemie = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    MaximumCoffeeOthilie = true
+    SorryBlackRoby = false
+    IntactOliveEveline = false
+    JollyAmaranthLaurena = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string OriginalYellowJacquelynn {
+    _hidden_value = true
+  }
+  number MiniatureOrangeSue {
+    _hidden_value = true
+  }
+  serviceid_number ShrillPurpleCthrine {
+    _hidden_value = true
+  }
+  hidden_boolean FairRedViv {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SevereCrimsonElvera = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RoundCyanFaythe = "To be Frank, I'd have to change my name."
+  CrowdedChocolateSal = 591
+  PricklyScarletKaitlynn = true
+  _hidden_value = true
+}

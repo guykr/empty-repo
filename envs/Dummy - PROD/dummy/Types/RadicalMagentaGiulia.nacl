@@ -1,0 +1,42 @@
+type dummy.RadicalMagentaGiulia {
+  annotations {
+    string UltimateBronzeAnabella {
+    }
+    boolean PassingGoldBetteann {
+    }
+    boolean UnconsciousMagentaSarina {
+    }
+    string NearBronzeGwenore {
+    }
+    serviceid ExcessPlumMarj {
+    }
+    serviceid_number StillIvoryBetty {
+    }
+  }
+  serviceid SophisticatedTomatoPetra {
+    _hidden_value = true
+  }
+  number ConvincingSapphireLinet {
+    _hidden_value = true
+  }
+  number WiseSapphireJenilee {
+    _hidden_value = true
+  }
+  boolean ZonalAmaranthBab {
+    _hidden_value = true
+  }
+  UltimateBronzeAnabella = "Why didnt the skeleton cross the road? Because he had no guts."
+  PassingGoldBetteann = true
+  UnconsciousMagentaSarina = false
+  NearBronzeGwenore = "Why is Peter Pan always flying? Because he Neverlands."
+  ExcessPlumMarj = "To be Frank, I'd have to change my name."
+  StillIvoryBetty = 472
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StillIvoryBetty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

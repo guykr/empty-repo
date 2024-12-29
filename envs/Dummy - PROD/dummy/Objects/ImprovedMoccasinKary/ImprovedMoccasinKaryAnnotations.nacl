@@ -1,0 +1,97 @@
+type dummy.ImprovedMoccasinKary {
+  annotations {
+    json DefiniteHarlequinTabby {
+    }
+    json RivalOrangeIormina {
+    }
+    string ExcitedScarletGabbie {
+    }
+    number SpontaneousBeigeFrancine {
+    }
+    boolean MarriedCyanGray {
+    }
+    json MolecularAquamarineBetta {
+    }
+    serviceid_number ShaggyJadeMeredith {
+    }
+    string HeavyChocolateJulee {
+    }
+    serviceid_number StraightPlumKristy {
+    }
+    serviceid_number AnnoyedRoseValerye {
+    }
+    json TallJadeLanie {
+    }
+    boolean MistyCyanDanni {
+    }
+    number WesternBrownViviana {
+    }
+    hidden_boolean YoungestMoccasinMarti {
+    }
+    boolean RudeOrangeBarbie {
+    }
+    boolean DivineOliveMaria {
+    }
+    serviceid ImpossibleBlushPauli {
+    }
+    serviceid_number NearPlumFayette {
+    }
+    hidden_boolean ThoughtlessPeachStephine {
+    }
+    serviceid_number IncreasedGreenVanessa {
+    }
+  }
+  DefiniteHarlequinTabby = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RivalOrangeIormina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcitedScarletGabbie = "Why did the kid cross the playground? To get to the other slide."
+  SpontaneousBeigeFrancine = 242
+  MarriedCyanGray = false
+  MolecularAquamarineBetta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ShaggyJadeMeredith = 703
+  HeavyChocolateJulee = "Whoever invented the knock-knock joke should get a no bell prize."
+  StraightPlumKristy = 93
+  AnnoyedRoseValerye = 258
+  TallJadeLanie = "Why did the kid cross the playground? To get to the other slide."
+  MistyCyanDanni = true
+  WesternBrownViviana = 640
+  RudeOrangeBarbie = true
+  DivineOliveMaria = false
+  ImpossibleBlushPauli = "How come the stadium got hot after the game? Because all of the fans left."
+  NearPlumFayette = 293
+  IncreasedGreenVanessa = 83
+  _important_values = [
+    {
+      value = "WitteringWhiteRemy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MarriedCyanGray"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TallJadeLanie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AnnoyedRoseValerye"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShaggyJadeMeredith"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YoungestMoccasinMarti"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ImprovedMoccasinKary_alias"
+}

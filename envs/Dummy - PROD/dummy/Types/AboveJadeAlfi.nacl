@@ -1,0 +1,23 @@
+type dummy.AboveJadeAlfi is boolean {
+  annotations {
+    string FineCrimsonPeg {
+    }
+    hidden_boolean AutomaticCoralBrita {
+    }
+    serviceid_number EvilTomatoKatina {
+    }
+    json AsleepTurquoiseTommi {
+    }
+    hidden_boolean GayOrangeBlair {
+    }
+    string CuriousTealReina {
+    }
+    serviceid WorkingSapphireMarty {
+    }
+  }
+  FineCrimsonPeg = "Why did the kid cross the playground? To get to the other slide."
+  EvilTomatoKatina = 716
+  AsleepTurquoiseTommi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CuriousTealReina = "Did you know that protons have mass? I didn't even know they were catholic."
+  WorkingSapphireMarty = "Did you know that protons have mass? I didn't even know they were catholic."
+}

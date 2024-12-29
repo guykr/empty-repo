@@ -1,0 +1,43 @@
+type dummy.DearHarlequinJemmy is string {
+  annotations {
+    serviceid_number AutomaticBlueValina {
+    }
+    serviceid ExcellentCoffeeJessy {
+    }
+    hidden_boolean SolePeachJorey {
+    }
+    boolean WholeYellowCindra {
+    }
+    serviceid UglyAquamarineGladi {
+    }
+    hidden_boolean SpecificHarlequinFayre {
+    }
+    boolean LiquidBlackDorree {
+    }
+    number LivingIvoryGussi {
+    }
+    dummy.DEFAULT DigitalPinkJemie {
+    }
+    boolean MaximumCoffeeOthilie {
+    }
+    boolean SorryBlackRoby {
+    }
+    boolean IntactOliveEveline {
+    }
+    serviceid JollyAmaranthLaurena {
+    }
+  }
+  AutomaticBlueValina = 821
+  ExcellentCoffeeJessy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WholeYellowCindra = true
+  UglyAquamarineGladi = "What do you call two barracuda fish?  A Pairacuda!"
+  LiquidBlackDorree = true
+  LivingIvoryGussi = 266
+  DigitalPinkJemie = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  MaximumCoffeeOthilie = false
+  SorryBlackRoby = false
+  IntactOliveEveline = false
+  JollyAmaranthLaurena = "A steak pun is a rare medium well done."
+}

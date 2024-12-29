@@ -1,0 +1,34 @@
+type dummy.PreferredCoffeePenelope is number {
+  annotations {
+    dummy.DEFAULT ZygomorphicCoffeeEmmaline {
+    }
+    serviceid InstantBronzeGayla {
+    }
+    hidden_boolean ElderlyTealAtlanta {
+    }
+    boolean CausalPurpleOfilia {
+    }
+    boolean PayableBlackBrandie {
+    }
+    boolean WickedCoffeeDede {
+    }
+    number DistinctiveLimeSandra {
+    }
+    string HelplessMagentaLyndel {
+    }
+    dummy.DEFAULT MaleMaroonDayna {
+    }
+  }
+  ZygomorphicCoffeeEmmaline = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  InstantBronzeGayla = "Whoever invented the knock-knock joke should get a no bell prize."
+  CausalPurpleOfilia = false
+  PayableBlackBrandie = true
+  WickedCoffeeDede = true
+  DistinctiveLimeSandra = 974
+  HelplessMagentaLyndel = "Why didnt the skeleton cross the road? Because he had no guts."
+  MaleMaroonDayna = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+}

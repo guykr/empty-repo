@@ -1,0 +1,87 @@
+type dummy.ZonalJadeFernande {
+  annotations {
+    hidden_boolean BreezyWhiteBenny {
+    }
+    hidden_boolean OverseasCoralBetteann {
+    }
+    serviceid_number CheerfulFuchsiaRebecka {
+    }
+    number EnthusiasticAmberLillis {
+    }
+    hidden_boolean BottomVioletLinet {
+    }
+  }
+  number LinearMaroonThia {
+    _hidden_value = true
+  }
+  json ModernMagentaSuzi {
+    _hidden_value = true
+  }
+  string FamiliarMagentaNora {
+    _hidden_value = true
+  }
+  json OriginalPurpleMadelene {
+    _hidden_value = true
+  }
+  boolean ScornfulCoralFulvia {
+    _hidden_value = true
+  }
+  serviceid FavourableGrayAnthea {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ResultingScarletMoria {
+    _hidden_value = true
+  }
+  hidden_boolean FlexiblePurpleEdna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ZealousGoldArdis {
+    _hidden_value = true
+  }
+  serviceid FragileIndigoRosalyn {
+    _hidden_value = true
+  }
+  dummy.AvailableMaroonCarlotta AcceptedFuchsiaLexie {
+    DamagedIvoryKristal = 626
+    IndustrialVioletCosette = 151
+    NovelCoralGae = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WorkingChocolateMarlo = false
+    ElderlyPurpleTraci = 60
+    ZonalRedHilde = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CleverPlumBerenice = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ComparativeOrangeDarda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GrossCrimsonEmili = "Im only familiar with 25 letters in the English language. I dont know why."
+    AdvancedCrimsonDorolisa = "Dad Im hungry  Hi hungry Im dad"
+    MonetaryPeachEmmeline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SquareCopperMara = 191
+    MeanSalmonShawnee = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  serviceid_number LiquidFuchsiaLeelah {
+    _hidden_value = true
+  }
+  serviceid RecentGrayHanni {
+    _hidden_value = true
+  }
+  CheerfulFuchsiaRebecka = 254
+  EnthusiasticAmberLillis = 30
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FavourableGrayAnthea"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OverseasCoralBetteann"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

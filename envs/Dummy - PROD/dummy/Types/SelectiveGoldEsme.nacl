@@ -1,0 +1,55 @@
+type dummy.SelectiveGoldEsme {
+  annotations {
+    json TeenageTanDolores {
+    }
+    boolean XenaciousRedMorganica {
+    }
+    string FuriousApricotRoanne {
+    }
+    json GrandCopperKarine {
+    }
+    json AvailableOliveJacquette {
+    }
+    dummy.DEFAULT NearBeigeEricka {
+    }
+    json FinalBlueFlor {
+    }
+  }
+  serviceid_number FederalVioletKellen {
+    _hidden_value = true
+  }
+  json LoudAmaranthFerne {
+    _hidden_value = true
+  }
+  string CivilianChocolatePhaidra {
+    _hidden_value = true
+  }
+  "List<number>" SpecialPlumDaile {
+    _hidden_value = true
+  }
+  hidden_boolean SignificantAmethystWinnifred {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UninterestedHarlequinCora {
+    _hidden_value = true
+  }
+  TeenageTanDolores = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  XenaciousRedMorganica = false
+  FuriousApricotRoanne = "Why was it called the dark ages? Because of all the knights. "
+  GrandCopperKarine = "Did you know that protons have mass? I didn't even know they were catholic."
+  AvailableOliveJacquette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NearBeigeEricka = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  FinalBlueFlor = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AvailableOliveJacquette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

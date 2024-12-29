@@ -1,0 +1,40 @@
+type dummy.YoungestTurquoiseTeresina {
+  annotations {
+    hidden_boolean WeeTomatoTeddy {
+    }
+    hidden_boolean SystematicCopperZelda {
+    }
+    number LegitimateOrangeCarleen {
+    }
+    string EnvironmentalAzureGayleen {
+    }
+    dummy.DEFAULT FragileBlackSandra {
+    }
+    hidden_boolean ExcessWhiteXenia {
+    }
+    serviceid_number BigApricotGracie {
+    }
+  }
+  serviceid_number IntensiveSalmonClaudia {
+    _hidden_value = true
+  }
+  LegitimateOrangeCarleen = 592
+  EnvironmentalAzureGayleen = "Why didnt the skeleton cross the road? Because he had no guts."
+  FragileBlackSandra = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  BigApricotGracie = 516
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FragileBlackSandra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EnvironmentalAzureGayleen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

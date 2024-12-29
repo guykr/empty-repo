@@ -1,0 +1,71 @@
+type dummy.EldestCopperEthelin {
+  annotations {
+    serviceid ZestyLavenderJorrie {
+    }
+    string GreasyPeachHenriette {
+    }
+    number SureSalmonToinette {
+    }
+    number VocalIndigoConstantia {
+    }
+    string ExcitedEmeraldChantalle {
+    }
+    hidden_boolean ImportantGoldSonja {
+    }
+  }
+  serviceid MeanOrangeMillicent {
+    _hidden_value = true
+  }
+  number AddedBlackCassy {
+    _hidden_value = true
+  }
+  number FlakyPeachBeatrisa {
+    _hidden_value = true
+  }
+  dummy.StraightforwardJadeDarcy RemarkableSapphireOra {
+    LegitimateOliveRanna = 587
+    VictoriousTealAleda = 554
+    UrgentWhiteDell = 384
+    PhysicalAzureEdeline = "Why did the tomato blush? Because it saw the salad dressing."
+    CompatibleSapphireDoralynn = 272
+    ExternalMaroonFleur = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ClassicalGrayKarola = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ConvenientBlushDorie = 615
+    _hidden_value = true
+  }
+  hidden_boolean PanickyBrownHermione {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ZestyLavenderJorrie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GreasyPeachHenriette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SureSalmonToinette = 452
+  VocalIndigoConstantia = 826
+  ExcitedEmeraldChantalle = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RemarkableSapphireOra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MeanOrangeMillicent"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GreasyPeachHenriette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcitedEmeraldChantalle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

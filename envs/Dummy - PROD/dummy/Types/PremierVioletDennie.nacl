@@ -1,0 +1,60 @@
+type dummy.PremierVioletDennie {
+  annotations {
+    hidden_boolean QuietTomatoNinette {
+    }
+    serviceid_number UnfortunateAquamarineRachel {
+    }
+    string InvisibleAmethystPhil {
+    }
+    boolean GrandIvoryJohnath {
+    }
+    serviceid_number ShrillGrayNydia {
+    }
+    serviceid CondemnedVioletAddie {
+    }
+  }
+  serviceid_number GrubbyCyanPen {
+    _hidden_value = true
+  }
+  number QuerulousBlueNerita {
+    _hidden_value = true
+  }
+  serviceid_number TeenageBeigeSelle {
+    _hidden_value = true
+  }
+  string SorryCopperSalaidh {
+    _hidden_value = true
+  }
+  boolean DyingTurquoiseSharla {
+    _hidden_value = true
+  }
+  json HungryBlushMerilee {
+    _hidden_value = true
+  }
+  json UnknownWhiteConstantia {
+    _hidden_value = true
+  }
+  serviceid_number CivicEmeraldWilli {
+    _hidden_value = true
+  }
+  UnfortunateAquamarineRachel = 278
+  InvisibleAmethystPhil = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GrandIvoryJohnath = true
+  ShrillGrayNydia = 764
+  CondemnedVioletAddie = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnknownWhiteConstantia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShrillGrayNydia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

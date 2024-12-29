@@ -1,0 +1,84 @@
+type dummy.LiberalChocolateJoannes {
+  annotations {
+    number WittyAquamarineKamila {
+    }
+    json RegionalEmeraldDayna {
+    }
+    dummy.AwakeBronzeKayle FierceAquamarineValene {
+    }
+    hidden_boolean SensitivePeachSisely {
+    }
+    number AllegedCoffeeCristabel {
+    }
+  }
+  dummy.LowRedTruda SoreAmberMaisey {
+    _hidden_value = true
+  }
+  serviceid_number SinglePeachJeannette {
+    _hidden_value = true
+  }
+  number SecureTanJacklin {
+    _hidden_value = true
+  }
+  number UnconsciousPurpleLita {
+    _hidden_value = true
+  }
+  serviceid MassWhiteDorian {
+    _hidden_value = true
+  }
+  boolean ControversialEmeraldTommie {
+    _hidden_value = true
+  }
+  serviceid ConfidentialAmethystAlene {
+    _hidden_value = true
+  }
+  string YtterbicAmethystChicky {
+    _hidden_value = true
+  }
+  string MeltedTealAlejandra {
+    _hidden_value = true
+  }
+  serviceid FutureOrangeRevkah {
+    _hidden_value = true
+  }
+  json PanickyAquaLilyan {
+    _hidden_value = true
+  }
+  hidden_boolean WidespreadTealAudi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SpontaneousBronzeAlfi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  WittyAquamarineKamila = 707
+  RegionalEmeraldDayna = "Why do birds fly south for the winter? Because it's too far to walk."
+  FierceAquamarineValene = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AllegedCoffeeCristabel = 46
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MeltedTealAlejandra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SinglePeachJeannette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SoreAmberMaisey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ControversialEmeraldTommie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

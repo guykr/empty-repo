@@ -1,0 +1,61 @@
+type dummy.PerfectCopperPauly {
+  annotations {
+    hidden_boolean VitreousAquamarineTimothea {
+    }
+    json WiseBlushKath {
+    }
+    serviceid_number RudeOliveJeniece {
+    }
+    serviceid_number StiffMaroonOttilie {
+    }
+  }
+  dummy.LargeGoldMei ValuableLavenderFederica {
+    ImmenseCoffeeAmata = "What creature is smarter than a talking parrot? A spelling bee."
+    PublicBlueYalonda = false
+    BindingSilverAngeline = "Dad Im hungry  Hi hungry Im dad"
+    UnpleasantBlackNoreen = false
+    VictoriousPurpleCarmita = 893
+    SpatialGrayFifine = false
+    _hidden_value = true
+  }
+  serviceid_number MajorWhiteNanete {
+    _hidden_value = true
+  }
+  json RelievedSalmonMarley {
+    _hidden_value = true
+  }
+  number SatisfactoryCoffeeLucila {
+    _hidden_value = true
+  }
+  hidden_boolean SurprisedOliveCharisse {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CooingOrangeCarmelle {
+    _hidden_value = true
+  }
+  hidden_boolean MarineAzureMaighdiln {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  WiseBlushKath = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RudeOliveJeniece = 834
+  StiffMaroonOttilie = 326
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RelievedSalmonMarley"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RudeOliveJeniece"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,167 @@
+type dummy.NotableOrangeAlfi {
+  annotations {
+    string HollowCyanJoni {
+    }
+    boolean AggregateVioletAlys {
+    }
+    number ExclusiveFuchsiaKorry {
+    }
+    dummy.DEFAULT RelaxedTealBrina {
+    }
+    serviceid WilfulCyanFelice {
+    }
+    number ObviousLavenderCristabel {
+    }
+    boolean ImaginativeRoseDoralynne {
+    }
+  }
+  hidden_boolean ThoughtfulLavenderRoch {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StandardCrimsonZelma {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number LogicalFuchsiaMollie {
+    _hidden_value = true
+  }
+  serviceid UnexpectedMoccasinNanci {
+    _hidden_value = true
+  }
+  json SpotlessAmaranthTarra {
+    _hidden_value = true
+  }
+  serviceid_number EasternTomatoAdaline {
+    _hidden_value = true
+  }
+  serviceid_number ThinAmethystFulvia {
+    _hidden_value = true
+  }
+  boolean JudicialTomatoMilissent {
+    _hidden_value = true
+  }
+  boolean VisualBronzeAlicea {
+    _hidden_value = true
+  }
+  number SuperbCrimsonShanda {
+    _hidden_value = true
+  }
+  hidden_boolean ZerothChocolateNance {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number FuzzyCoralZea {
+    _hidden_value = true
+  }
+  serviceid_number ProbableTealAg {
+    _hidden_value = true
+  }
+  boolean QuixoticPlumTrula {
+    _hidden_value = true
+  }
+  string RoyalBlushFleur {
+    _hidden_value = true
+  }
+  boolean ForwardYellowHolli {
+    _hidden_value = true
+  }
+  serviceid_number FederalScarletBlondie {
+    _hidden_value = true
+  }
+  string StableIvoryMatti {
+    _hidden_value = true
+  }
+  number FastMoccasinBetsey {
+    _hidden_value = true
+  }
+  json MilitaryOliveAuberta {
+    _hidden_value = true
+  }
+  serviceid_number NaughtyGrayMarga {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedAmethystRozele {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SpotlessHarlequinNathalie {
+    _hidden_value = true
+  }
+  json PhilosophicalCrimsonSonnie {
+    _hidden_value = true
+  }
+  boolean ImprovedAmberAaren {
+    _hidden_value = true
+  }
+  serviceid HistoricLimeKarylin {
+    _hidden_value = true
+  }
+  json LinguisticLavenderJoann {
+    _hidden_value = true
+  }
+  hidden_boolean ExperiencedBeigeMiguelita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantFuchsiaTierney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DisciplinaryAquamarinePrisca {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MeanPlumSibby {
+    _hidden_value = true
+  }
+  HollowCyanJoni = "Whoever invented the knock-knock joke should get a no bell prize."
+  AggregateVioletAlys = false
+  ExclusiveFuchsiaKorry = 946
+  RelaxedTealBrina = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  WilfulCyanFelice = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ObviousLavenderCristabel = 550
+  ImaginativeRoseDoralynne = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoyalBlushFleur"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProbableTealAg"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LogicalFuchsiaMollie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BalancedAmethystRozele"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DisciplinaryAquamarinePrisca"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AggregateVioletAlys"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}
