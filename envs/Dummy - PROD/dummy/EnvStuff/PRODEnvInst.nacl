@@ -1,5 +1,0 @@
-dummy.PRODEnvObj PRODEnvInst {
-  Field = "FieldValue"
-  active = true
-  _alias = "PRODEnvInst_alias"
-}
