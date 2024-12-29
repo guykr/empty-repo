@@ -1,7 +1,0 @@
-type dummy.IndependentCoralDdene {
-  hidden_boolean EnthusiasticRedAugustine {
-    _required = true
-    _hidden = true
-    _hidden_value = true
-  }
-}

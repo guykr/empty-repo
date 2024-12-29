@@ -1,7 +1,0 @@
-type dummy.PlannedBlueLotti is boolean {
-  annotations {
-    json SatisfactoryBronzeMerlina {
-    }
-  }
-  SatisfactoryBronzeMerlina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
-}

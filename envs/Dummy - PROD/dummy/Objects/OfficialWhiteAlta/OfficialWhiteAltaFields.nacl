@@ -1,7 +1,0 @@
-type dummy.OfficialWhiteAlta {
-  hidden_boolean UniversalAmethystFernande {
-    _required = true
-    _hidden = true
-    _hidden_value = false
-  }
-}
