@@ -1,5 +1,0 @@
-dummy.UATEnvObj UATEnvInst {
-  Field = "FieldValue"
-  active = true
-  _alias = "UATEnvInst_alias"
-}

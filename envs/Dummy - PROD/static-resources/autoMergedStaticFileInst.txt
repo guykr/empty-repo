@@ -1,3 +1,0 @@
-First line not change
-Second line not changed
-Third line changed in version c

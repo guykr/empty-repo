@@ -1,5 +1,0 @@
-First line is the same
-Second line changed ccc
-Third line is the same
-Fourth line changed ccc
-Fifth line is the same
