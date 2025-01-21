@@ -1,0 +1,19 @@
+type dummy.UATEnvObj {
+  string Field {
+  }
+  boolean active {
+  }
+  _alias = "UATEnvObj_alias"
+  _important_values = [
+    {
+      value = "Field"
+      indexed = false
+      highlighted = true
+    },
+    {
+      value = "active"
+      indexed = true
+      highlighted = false
+    },
+  ]
+}

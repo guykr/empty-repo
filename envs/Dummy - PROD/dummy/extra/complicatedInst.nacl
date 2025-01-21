@@ -1,0 +1,30 @@
+dummy.ComplicatedObject complicatedInst {
+  fieldWithNoChange = "has not been changed"
+  fieldWithOnlyChange = "before"
+  strField = "prefix_ccc_suffix"
+  numField = 3
+  listField = [
+    "c",
+    "c",
+    "c",
+  ]
+  staticFileField = file("staticFileField.txt")
+  autoMergedStaticFileInst = file("autoMergedStaticFileInst.txt")
+  mapField = {
+    firstValue = "firstValue"
+    versionValue = "c"
+  }
+  objectsListField = [
+    {
+      strField = "always the same"
+      numField = 1
+    },
+    {
+      strField = "ccc"
+      numField = 1
+    },
+  ]
+  strFieldToBeDeletedInA = "ccc"
+  strFieldToBeDeletedInB = "ccc"
+  _alias = "complicatedInst_alias"
+}
